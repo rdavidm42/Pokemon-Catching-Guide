@@ -1,0 +1,252 @@
+Pokemon,No.,Caught?,Gold,Silver,Crystal
+Bulbasaur,#0001,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Ivysaur,#0002,False,Time Capsule,Time Capsule,Time Capsule
+Venusaur,#0003,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Charmander,#0004,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Charmeleon,#0005,False,"Time Capsule, Evolve Event Charmander","Time Capsule, Evolve Event Charmander","Time Capsule, Evolve Event Charmander"
+Charizard,#0006,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Squirtle,#0007,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Wartortle,#0008,False,"Time Capsule, Evolve Event Squirtle","Time Capsule, Evolve Event Squirtle","Time Capsule, Evolve Event Squirtle"
+Blastoise,#0009,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Caterpie,#0010,False,"Routes 2, 30, and 31, Ilex Forest and National Park Morning Day National Park (Bug- Catching Contest) Tu Th Sa Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees)",National Park (Bug- Catching Contest) Tu Th Sa,"Routes 2, 24, 25, 30, and 31, Ilex Forest and National Park Morning Day National Park (Bug- Catching Contest) Tu Th Sa Ilex Forest (Headbutt trees)"
+Metapod,#0011,False,"Routes 2, 30, and 31, Ilex Forest, National Park Morning Day National Park (Bug- Catching Contest) Tu Th Sa Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees)",National Park (Bug- Catching Contest) Tu Th Sa,"Routes 24 and 25, Ilex Forest Morning Day National Park (Bug- Catching Contest) Tu Th Sa Ilex Forest (Headbutt trees)"
+Butterfree,#0012,False,"Route 2 Morning National Park (Bug- Catching Contest) Tu Th Sa Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees)",National Park (Bug- Catching Contest) Tu Th Sa,"Routes 2, 24, and 25 Morning Day National Park (Bug- Catching Contest) Tu Th Sa Ilex Forest (Headbutt trees)"
+Weedle,#0013,False,National Park (Bug- Catching Contest) Tu Th Sa,"Routes 2, 30, and 31, Ilex Forest, National Park Morning Day National Park (Bug- Catching Contest) Tu Th Sa Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees)","Routes 30 and 31, Ilex Forest, National Park Morning Day National Park (Bug- Catching Contest) Tu Th Sa Ilex Forest (Headbutt trees)"
+Kakuna,#0014,False,National Park (Bug- Catching Contest) Tu Th Sa,"Routes 2, 30, and 31, National Park and Ilex Forest Morning Day National Park (Bug- Catching Contest) Tu Th Sa Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees)",Ilex Forest Morning Day National Park (Bug- Catching Contest) Tu Th Sa Ilex Forest (Headbutt trees)
+Beedrill,#0015,False,National Park (Bug- Catching Contest) Tu Th Sa,"Route 2 Morning National Park (Bug- Catching Contest) Tu Th Sa Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees)",National Park (Bug- Catching Contest) Tu Th Sa Ilex Forest (Headbutt trees)
+Pidgey,#0016,False,"Routes 1, 2, 5, 6, 25, 29, 30, 31, 35, 36, and 37, National Park Morning Day","Routes 1, 2, 5, 6, 25, 29, 30, 31, 35, 36, and 37, National Park Morning Day","Routes 1, 2, 5, 25, 29, 30, 31, 32, 34, 35, 36, and 37, National Park, Ilex Forest Morning Day"
+Pidgeotto,#0017,False,"Routes 2, 8, 13, 14, 15, 25, 37, and 43 Morning Day","Routes 2, 8, 13, 14, 15, 25, 37, and 43 Morning Day","Route 2 Day Routes 5, 8, 11, 13, 14, 15, 25, 37, 38, 39, and 43 Morning Day"
+Pidgeot,#0018,False,Evolve Pidgeotto,Evolve Pidgeotto,Evolve Pidgeotto
+Rattata,#0019,False,"Routes 1, 3, 4, 7, 9, 11, 22, 29, 30, 31, 32, 33, 34, 38, 39, and 46, Tin Tower, Mt. Mortar, Union Cave, Tohjo Falls, Sprout Tower and Burned Tower","Routes 1, 3, 4, 7, 9, 11, 22, 29, 30, 31, 32, 33, 34, and 46, Tin Tower, Mt. Mortar, Union Cave, Tohjo Falls, Sprout Tower and Burned Tower","Routes 1, 3, 4, 9, 21, 22, 29, 32, 33, 34, 42, and 46, Tin Tower, Mt. Mortar, Union Cave, Tohjo Falls, Sprout Tower and Burned Tower Routes 6, 7, 11, 38, 39 Morning Day"
+Raticate,#0020,False,"Routes 9, 10, 26, 27, 38, and 39, Mt. Mortar, Union Cave, Tohjo Falls, Burned Tower","Routes 9, 10, 26, 27, 38, and 39, Mt. Mortar, Union Cave, Tohjo Falls, Burned Tower","Routes 3, 4, 6, 7, 9, 10, 11, 21, 26, 27, 38, 39, 42, and 43, Mt. Mortar, Union Cave, Tohjo Falls, Burned Tower Route 1 Night Route 7 Morning Day"
+Spearow,#0021,False,"Routes 3, 4, 7, 9, 10, 22, 33, 42, and 46 Routes 29, 30, 31, 32, 33, 42, 43, and 44 (Headbutt trees) Received from Randy on Route 35","Routes 3, 4, 7, 9, 10, 22, 33, 42, and 46 Routes 29, 30, 31, 32, 33, 42, 43, and 44 (Headbutt trees) Received from Randy on Route 35","Routes 3, 4, 7, 9, 10, 22, 33, 42, and 46 Morning Day Azalea Town, Routes 33, 42, and 44 (Headbutt trees) Received from Randy on Route 35"
+Fearow,#0022,False,"Routes 9, 10, 16, 17, 18, and 22 Morning Day","Routes 9, 10, 16, 17, 18, and 22 Morning Day","Routes 9, 10, 16, 17, 18, 22, and 42 Morning Day"
+Ekans,#0023,False,Goldenrod Game Corner,"Routes 3, 4, 32, and 33","Routes 3, 4, 32, 33, and 42 Morning Day Routes 26, 27, 32, 33, and 42, Azalea Town (Headbutt trees)"
+Arbok,#0024,False,Evolve Ekans,"Routes 3, 4, 26, and 27","Routes 3, 4, 26, 27, 28, 42 and Mt. Silver Morning Day"
+Pikachu,#0025,False,Route 2,Route 2,"Route 2 Morning Day, Celadon Game Corner"
+Raichu,#0026,False,Evolve Pikachu,Evolve Pikachu,Evolve Pikachu
+Sandshrew,#0027,False,"Union Cave, Mt. Moon",Goldenrod Game Corner,"Routes 3 and 4, Union Cave, Mt. Moon Morning Day"
+Sandslash,#0028,False,"Routes 26 and 27, Mt. Moon",Evolve Sandshrew,Route 26 and Victory Road Morning Day
+Nidoran♀,#0029,False,Routes 35 and 36,Routes 35 and 36,National Park Morning Day Route 35 (Swarm)
+Nidorina,#0030,False,"Routes 13, 14, and 15","Routes 13, 14, and 15","Routes 13, 14, and 15 Morning Day"
+Nidoqueen,#0031,False,Evolve Nidorina,Evolve Nidorina,Evolve Nidorina
+Nidoran♂,#0032,False,Routes 35 and 36,Routes 35 and 36,National Park Morning Day Route 35 (Swarm)
+Nidorino,#0033,False,"Routes 13, 14, and 15","Routes 13, 14, and 15","Routes 13, 14, and 15 Morning Day"
+Nidoking,#0034,False,Evolve Nidorino,Evolve Nidorino,Evolve Nidorino
+Clefairy,#0035,False,Mt. Moon,Mt. Moon,Mt. Moon Routes 3 and 4 Night
+Clefable,#0036,False,Evolve Clefairy,Evolve Clefairy,Evolve Clefairy
+Vulpix,#0037,False,Trade,"Routes 7, 8, 36, and 37",Trade
+Ninetales,#0038,False,Trade,Evolve Vulpix,Trade
+Jigglypuff,#0039,False,"Routes 3, 4, and 46","Routes 3, 4, and 46","Routes 5, 6, 7, 8, 34, and 35"
+Wigglytuff,#0040,False,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff
+Zubat,#0041,False,"Rock Tunnel, Whirl Islands, Ilex Forest, Mt. Moon, Dark Cave, Ice Path, Mt. Mortar, Union Cave, Tohjo Falls, Burned Tower, Slowpoke Well (all times) Routes 3, 4, 32, 33, and 42 Night","Rock Tunnel, Whirl Islands, Ilex Forest, Mt. Moon, Dark Cave, Ice Path, Mt. Mortar, Union Cave, Tohjo Falls, Burned Tower, Slowpoke Well (all times) Routes 3, 4, 32, 33, and 42 Night","Rock Tunnel, Whirl Islands, Mt. Moon, Dark Cave, Ice Path, Mt. Mortar, Union Cave, Tohjo Falls, Burned Tower, Slowpoke Well (all times) Routes 3, 4, 9, 10, 30, 31, 32, 33, and 42 Night"
+Golbat,#0042,False,"Dark Cave (Blackthorn City side), Union Cave, Slowpoke Well, Mt. Mortar, Whirl Islands, Ice Path, Mt. Silver Cave, Victory Road, Tohjo Falls","Dark Cave (Blackthorn City side), Union Cave, Slowpoke Well, Mt. Mortar, Whirl Islands, Ice Path, Mt. Silver Cave, Victory Road, Tohjo Falls","Dark Cave (Blackthorn City side), Union Cave, Slowpoke Well, Mt. Mortar, Whirl Islands, Ice Path, Mt. Silver Cave, Victory Road, Tohjo Falls (all times) Routes 28 and 42, Rock Tunnel, Mt. Silver Night"
+Oddish,#0043,False,"Routes 5, 6, 24, and 25, Ilex Forest Night","Routes 5, 6, 24, and 25, Ilex Forest Night","Routes 24 and 25, Ilex Forest Night"
+Gloom,#0044,False,Route 5 Night,Route 5 Night,Route 24 Night
+Vileplume,#0045,False,Evolve Gloom,Evolve Gloom,Evolve Gloom
+Paras,#0046,False,"National Park (Bug- Catching Contest) Tu Th Sa Ilex Forest, Mt. Moon","National Park (Bug- Catching Contest) Tu Th Sa Ilex Forest, Mt. Moon","National Park (Bug- Catching Contest) Tu Th Sa Ilex Forest, Mt. Moon"
+Parasect,#0047,False,Evolve Paras,Evolve Paras,Mt. Silver Cave
+Venonat,#0048,False,"Routes 24, 25, and 43 National Park (Bug- Catching Contest) Tu Th Sa","Routes 24, 25, and 43 National Park (Bug- Catching Contest) Tu Th Sa","Routes 9, 10, 13, 14, 15, 24, 25, and 43, Ilex Forest, National Park Night National Park (Bug- Catching Contest) Tu Th Sa Route 43, Lake of Rage (Headbutt trees)"
+Venomoth,#0049,False,Routes 24 and 25 Night,Routes 24 and 25 Night,"Routes 9, 10, 13, 14, 15, and 43 Night"
+Diglett,#0050,False,Diglett's Cave,Diglett's Cave,Diglett's Cave
+Dugtrio,#0051,False,Diglett's Cave,Diglett's Cave,Diglett's Cave
+Meowth,#0052,False,Trade,"Routes 5, 6, 7, 8, 38, and 39","Routes 5, 6, 7, 8, 11, 38, and 39 Night"
+Persian,#0053,False,Trade,Route 7,Route 7 Night
+Psyduck,#0054,False,"Routes 6 and 35, Ilex Forest (Surfing)","Routes 6 and 35, Ilex Forest (Surfing)","Routes 6 and 35, Ilex Forest (Surfing) Routes 6 and 35, Ilex Forest, National Park Night"
+Golduck,#0055,False,"Routes 6 and 35, Ilex Forest (Surfing) Mt. Silver Cave*","Routes 6 and 35, Ilex Forest (Surfing) Mt. Silver Cave*","Routes 6 and 35, Ilex Forest, Mt. Silver Cave* (Surfing) Mt. Silver Cave* Night"
+Mankey,#0056,False,Routes 9 and 42,Trade,Trade
+Primeape,#0057,False,Route 9,Trade,Trade
+Growlithe,#0058,False,"Routes 7, 8, 36, and 37",Trade,"Routes 8, 35, 36, and 37 Morning Day"
+Arcanine,#0059,False,Evolve Growlithe,Trade,Evolve Growlithe
+Poliwag,#0060,False,"Routes 22, 28, 30, 31, and 44, Violet City, Ecruteak City, Viridian City, Mt. Silver (Surfing and fishing) Routes 6, 35, and 43, Ruins of Alph, Ilex Forest, Blackthorn City (fishing)","Routes 22, 28, 30, 31, and 44, Violet City, Ecruteak City, Viridian City, Mt. Silver (Surfing and fishing) Routes 6, 35, and 43, Ruins of Alph, Ilex Forest, Blackthorn City (fishing)","Routes 22, 28, 30, 31, and 44, Violet City, Ecruteak City, Viridian City, Mt. Silver (Surfing and fishing) Routes 6, 35, and 43, Ruins of Alph, Ilex Forest, Blackthorn City (fishing) Routes 22, 30, 31, and 44 Night"
+Poliwhirl,#0061,False,"Routes 22, 28, 30, 31, and 44, Violet City, Ecruteak City, Viridian City, Mt. Silver (Surfing)","Routes 22, 28, 30, 31, and 44, Violet City, Ecruteak City, Viridian City, Mt. Silver (Surfing)","Routes 22, 28, 30, 31, and 44, Violet City, Ecruteak City, Viridian City, Mt. Silver (Surfing) Routes 28 and 44, Mt. Silver (tall grass) Night"
+Poliwrath,#0062,False,Evolve Poliwhirl,Evolve Poliwhirl,Evolve Poliwhirl
+Abra,#0063,False,"Routes 5, 6, 8, 24, 25, 34, and 35, Goldenrod Game Corner","Routes 5, 6, 8, 24, 25, 34, and 35, Goldenrod Game Corner","Routes 5, 7, 8, 24, 34, and 35, Goldenrod Game Corner"
+Kadabra,#0064,False,Route 8,Route 8,Route 8
+Alakazam,#0065,False,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra
+Machop,#0066,False,"Rock Tunnel, Mt. Mortar Trade Drowzee in Goldenrod Department Store","Rock Tunnel, Mt. Mortar Trade Drowzee in Goldenrod Department Store","Rock Tunnel, Mt. Mortar Morning Day Trade Abra in Goldenrod Department Store"
+Machoke,#0067,False,"Rock Tunnel, Mt. Mortar","Rock Tunnel, Mt. Mortar","Mt. Mortar, Mt. Silver Cave, Rock Tunnel Morning Day"
+Machamp,#0068,False,Evolve Machoke,Evolve Machoke,Evolve Machoke
+Bellsprout,#0069,False,"Routes 5, 6, 24, and 25, 31, 32, 44","Routes 5, 6, 24, and 25, 31, 32, 44","Routes 24, 25, 31, 32, 36, and 44"
+Weepinbell,#0070,False,"Routes 24, 25, and 44","Routes 24, 25, and 44",Route 44
+Victreebel,#0071,False,Evolve Weepinbell,Evolve Weepinbell,Evolve Weepinbell
+Tentacool,#0072,False,"Routes 20, 21, 26, 27 and 41, New Bark Town, Pallet Town, Vermilion City, Olivine City*, Cinnabar Island (Surfing, Old/ Good Rod) Routes 19, 34 and 40, Olivine City*, Cherrygrove City, Cianwood City, Whirl Islands*, Union Cave* (Surfing) Routes 12, 13 and 32 (Surfing or Fishing)","Routes 20, 21, 26, 27 and 41, New Bark Town, Pallet Town, Vermilion City, Olivine City*, Cinnabar Island (Surfing, Old/ Good Rod) Routes 19, 34 and 40, Olivine City*, Cherrygrove City, Cianwood City, Whirl Islands*, Union Cave* (Surfing) Routes 12, 13 and 32 (Surfing or Fishing)","Routes 20, 21, 26, 27 and 41, New Bark Town, Pallet Town, Vermilion City, Olivine City*, Cinnabar Island (Surfing, Old/ Good Rod) Routes 19, 34 and 40, Olivine City*, Cherrygrove City, Cianwood City, Whirl Islands*, Union Cave* (Surfing) Routes 12, 13 and 32 (Surfing or Fishing)"
+Tentacruel,#0073,False,"Routes 20, 21, 26, 27 and 41, New Bark Town, Olivine City*, Pallet Town, Vermilion City, Cinnabar Island (Surfing and Super Rod) Routes 12, 13, 19, 32, 34 and 40, Cherrygrove City, Cianwood City, Whirl Islands, Union Cave* (Surfing)","Routes 20, 21, 26, 27 and 41, New Bark Town, Olivine City*, Pallet Town, Vermilion City, Cinnabar Island (Surfing and Super Rod) Routes 12, 13, 19, 32, 34 and 40, Cherrygrove City, Cianwood City, Whirl Islands, Union Cave* (Surfing)","Routes 20, 21, 26, 27 and 41, New Bark Town, Olivine City*, Pallet Town, Vermilion City, Cinnabar Island (Surfing and Super Rod) Routes 12, 13, 19, 32, 34 and 40, Cherrygrove City, Cianwood City, Whirl Islands, Union Cave* (Surfing)"
+Geodude,#0074,False,"Routes 45 and 46, Mt. Mortar, Dark Cave, Union Cave, Mt. Moon, Rock Tunnel Team Rocket H Q (Seven; trap floor)","Routes 45 and 46, Mt. Mortar, Dark Cave, Union Cave, Mt. Moon, Rock Tunnel Team Rocket H Q (Seven; trap floor)","Routes 33, 45, and 46, Mt. Mortar, Dark Cave, Union Cave, Mt. Moon, Rock Tunnel Team Rocket H Q (Seven; trap floor)"
+Graveler,#0075,False,"Route 45, Victory Road, Dark Cave, Mt. Mortar, Mt. Silver Cave","Route 45, Victory Road, Dark Cave, Mt. Mortar, Mt. Silver Cave","Route 45, Victory Road, Dark Cave, Mt. Mortar, Mt. Silver Cave"
+Golem,#0076,False,Evolve Graveler,Evolve Graveler,Evolve Graveler
+Ponyta,#0077,False,"Routes 22, 26, 27, and 28, Mt. Silver","Routes 22, 26, 27, and 28, Mt. Silver","Routes 22, 26, 27, and 28, Mt. Silver Morning Day"
+Rapidash,#0078,False,"Route 28, Mt. Silver Trade Gloom in Pewter City","Route 28, Mt. Silver Trade Gloom in Pewter City","Route 28, Mt. Silver Morning Day"
+Slowpoke,#0079,False,Slowpoke Well and Tohjo Falls (walking and surfing),Slowpoke Well and Tohjo Falls (walking and surfing),Slowpoke Well and Tohjo Falls (walking and surfing)
+Slowbro,#0080,False,Slowpoke Well* (surfing),Slowpoke Well* (surfing),Slowpoke Well* (surfing)
+Magnemite,#0081,False,"Routes 6, 11, 38, and 39","Routes 6, 11, 38, and 39","Routes 6, 11, 38, and 39"
+Magneton,#0082,False,Evolve Magnemite,Evolve Magnemite,Trade Dugtrio in Power Plant
+Farfetch'd,#0083,False,Routes 38 and 39 Morning Day,Routes 38 and 39 Morning Day,Route 43 Morning Day
+Doduo,#0084,False,"Routes 22, 26, 27, and 28, Mt. Silver Morning Day","Routes 22, 26, 27, and 28, Mt. Silver Morning Day","Routes 22, 26, 27, and 28, Mt. Silver Morning Day"
+Dodrio,#0085,False,"Routes 26 and 28, Mt. Silver Morning Day","Routes 27 and 28, Mt. Silver Morning Day","Routes 27 and 28, Mt. Silver Morning Day Trade Dragonair♀ in Blackthorn City"
+Seel,#0086,False,Whirl Islands,Whirl Islands,Whirl Islands Morning Day
+Dewgong,#0087,False,Evolve Seel,Evolve Seel,Evolve Seel
+Grimer,#0088,False,"Routes 16, 17, and 18 Celadon City (Surfing)","Routes 16, 17, and 18 Celadon City (Surfing)","Routes 16, 17, and 18 Celadon City (Surfing)"
+Muk,#0089,False,"Routes 16, 17, and 18 Celadon City (Surfing)","Routes 16, 17, and 18 Celadon City (Surfing)","Routes 16, 17, and 18 Celadon City (Surfing)"
+Shellder,#0090,False,"Routes 20, 21, 26, 27, 41, Olivine City harbor, Vermilion City, Pallet Town, New Bark Town, Cinnabar Island (Good Rod and Super Rod)","Routes 20, 21, 26, 27, 41, Olivine City harbor, Vermilion City, Pallet Town, New Bark Town, Cinnabar Island (Good Rod and Super Rod)","Routes 20, 21, 26, 27, 41, Olivine City harbor, Vermilion City, Pallet Town, New Bark Town, Cinnabar Island (Good Rod and Super Rod)"
+Cloyster,#0091,False,Evolve Shellder,Evolve Shellder,Evolve Shellder
+Gastly,#0092,False,"Tin Tower, Sprout Tower Night","Tin Tower, Sprout Tower Night","Routes 31, 32, and 36, Tin Tower, Sprout Tower Night"
+Haunter,#0093,False,Route 8 Night,Route 8 Night,"Route 8, Rock Tunnel Night"
+Gengar,#0094,False,Evolve Haunter,Evolve Haunter,Evolve Haunter
+Onix,#0095,False,"Rock Tunnel, Mt. Silver Cave, Victory Road, Union Cave Trade Bellsprout in Violet City","Rock Tunnel, Mt. Silver Cave, Victory Road, Union Cave Trade Bellsprout in Violet City","Rock Tunnel, Mt. Silver Cave, Victory Road, Union Cave Trade Bellsprout in Violet City"
+Drowzee,#0096,False,"Routes 11, 34, and 35","Routes 11, 34, and 35","Routes 6, 11, 34, and 35 Night"
+Hypno,#0097,False,Route 11,Route 11,Route 11 Night
+Krabby,#0098,False,"Whirl Islands (walking and fishing) Route 40, Cianwood City (Rock Smash and fishing) Routes 19, 34, Cherrygrove City, Olivine City, Cerulean Gym, Cerulean City, Union Cave (fishing) Dark Cave (Rock Smash)","Whirl Islands (walking and fishing) Route 40, Cianwood City (Rock Smash and fishing) Routes 19, 34, Cherrygrove City, Olivine City, Cerulean Gym, Cerulean City, Union Cave (fishing) Dark Cave (Rock Smash)","Whirl Islands (walking and fishing) Routes 19, 34, Cherrygrove City, Olivine City, Cerulean City, Union Cave (fishing) Route 40 and Cianwood City (Rock Smash and fishing) Dark Cave (Rock Smash)"
+Kingler,#0099,False,"Routes 19, 34, and 40, Olivine City, Whirl Islands, Cianwood City, Cerulean City and Gym, Cherrygrove City, Union Cave (Super Rod)","Routes 19, 34, and 40, Olivine City, Whirl Islands, Cianwood City, Cerulean City and Gym, Cherrygrove City, Union Cave (Super Rod)","Routes 19, 34, and 40, Olivine City, Whirl Islands, Cianwood City, Cerulean City, Cherrygrove City, Union Cave (Super Rod)"
+Voltorb,#0100,False,Route 10Trade Krabby in Olivine City Team Rocket H Q (Eight),Route 10Trade Krabby in Olivine City Team Rocket H Q (Eight),Route 10Trade Krabby in Olivine City Team Rocket H Q (Eight)
+Electrode,#0101,False,Team Rocket H Q (Three),Team Rocket H Q (Three),Team Rocket H Q (Three)
+Exeggcute,#0102,False,"Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees)","Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees)","Routes 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, and 43, Lake of Rage (Headbutt trees)"
+Exeggutor,#0103,False,Evolve Exeggcute,Evolve Exeggcute,Evolve Exeggcute
+Cubone,#0104,False,Rock Tunnel,Rock Tunnel,Rock Tunnel Morning Day Goldenrod Game Corner
+Marowak,#0105,False,Rock Tunnel,Rock Tunnel,"Routes 9 and 10, Rock Tunnel Morning Day"
+Hitmonlee,#0106,False,Evolve Tyrogue,Evolve Tyrogue,Evolve Tyrogue
+Hitmonchan,#0107,False,Evolve Tyrogue,Evolve Tyrogue,Evolve Tyrogue
+Lickitung,#0108,False,Route 44,Route 44,Route 44 Morning Day
+Koffing,#0109,False,Burned Tower Team Rocket H Q (Seven),Burned Tower Team Rocket H Q (Seven),Burned Tower Team Rocket H Q (Seven)
+Weezing,#0110,False,Evolve Koffing,Evolve Koffing,Burned Tower
+Rhyhorn,#0111,False,Victory Road,Victory Road,Victory Road Morning Day
+Rhydon,#0112,False,Trade Dragonair♀ in Blackthorn City,Trade Dragonair♀ in Blackthorn City,Victory Road Morning Day
+Chansey,#0113,False,"Routes 13, 14, and 15","Routes 13, 14, and 15","Routes 13, 14, and 15"
+Tangela,#0114,False,"Routes 21, 28, and 44, Mt. Silver","Routes 21, 28, and 44, Mt. Silver","Routes 21, 28, and 44, Mt. Silver"
+Kangaskhan,#0115,False,Rock Tunnel,Rock Tunnel,Rock Tunnel Morning Day
+Horsea,#0116,False,"Whirl Islands (Surfing, Good Rod or Super Rod)","Whirl Islands (Surfing, Good Rod or Super Rod)","Whirl Islands (Surfing, Good Rod or Super Rod)"
+Seadra,#0117,False,Whirl Islands (Surfing),Whirl Islands (Surfing),Whirl Islands (Surfing or Super Rod)
+Goldeen,#0118,False,"Dark Cave, Union Cave 1 F/ B1 F, Slowpoke Well (fishing) Routes 4, 9, 10, 24, 25, and 42, Mt. Mortar, Tohjo Falls, Mt. Silver Cave, Cerulean City (Surfing and fishing)","Dark Cave, Union Cave 1 F/ B1 F, Slowpoke Well (fishing) Routes 4, 9, 10, 24, 25, and 42, Mt. Mortar, Tohjo Falls, Mt. Silver Cave, Cerulean City (Surfing and fishing)","Route 4 (Surfing) Dark Cave, Union Cave 1 F/ B1 F, Slowpoke Well (fishing) Routes 9, 10, 24, 25, and 42, Mt. Mortar, Tohjo Falls, Mt. Silver Cave, Cerulean City (Surfing and fishing)"
+Seaking,#0119,False,"Dark Cave, Union Cave 1 F/ B1 F, Slowpoke Well (Super Rod) Routes 4, 9, 10, 24, 25, and 42, Cerulean City, Mt. Mortar, Tohjo Falls, Mt. Silver Cave 2 F (Surfing and Super Rod)","Dark Cave, Union Cave 1 F/ B1 F, Slowpoke Well (Super Rod) Routes 4, 9, 10, 24, 25, and 42, Cerulean City, Mt. Mortar, Tohjo Falls, Mt. Silver Cave 2 F (Surfing and Super Rod)","Route 4, Cerulean City (Surfing) Dark Cave, Union Cave 1 F/ B1 F, Slowpoke Well (Super Rod) Routes 9, 10, 24, 25, and 42, Mt. Mortar, Tohjo Falls, Mt. Silver Cave 2 F (Surfing and Super Rod)"
+Staryu,#0120,False,"Routes 19, 34, 40, Olivine City, Cianwood City, Cerulean City and Gym, Cherrygrove City, Union Cave (Good Rod and Super Rod) Night","Routes 19, 34, 40, Olivine City, Cianwood City, Cerulean City and Gym, Cherrygrove City, Union Cave (Good Rod and Super Rod) Night","Routes 19, 34, 40, Olivine City, Cianwood City, Cherrygrove City, Union Cave (Good Rod and Super Rod) Night"
+Starmie,#0121,False,Evolve Staryu,Evolve Staryu,Evolve Staryu
+Mr. Mime,#0122,False,"Route 21, Celadon Game Corner","Route 21, Celadon Game Corner",Route 21 Morning Day
+Scyther,#0123,False,National Park (Bug- Catching Contest) Tu Th Sa,National Park (Bug- Catching Contest) Tu Th Sa,National Park (Bug- Catching Contest) Tu Th Sa
+Jynx,#0124,False,Ice Path,Ice Path,Ice Path Morning Day
+Electabuzz,#0125,False,Route 10,Route 10,Route 10
+Magmar,#0126,False,Burned Tower,Burned Tower,Mt. Silver Cave Morning Day
+Pinsir,#0127,False,National Park (Bug- Catching Contest) Tu Th Sa,National Park (Bug- Catching Contest) Tu Th Sa,National Park (Bug- Catching Contest) Tu Th Sa
+Tauros,#0128,False,Routes 38 and 39,Routes 38 and 39,Routes 38 and 39 Morning Day
+Magikarp,#0129,False,"Routes 19, 20, 21, 26, 27, New Bark Town, Pallet Town, Cherrygrove City, Cerulean City and Gym, Cianwood City, Vermilion City, Cinnabar Island, Whirl Islands (Old Rod or Good Rod) Routes 6, 9, 10, 12, 13, 22, 24, 25, 28, 30, 31, 32, 34, 35, 40, 41, 42, and 44, Violet City, Ecruteak City, Olivine City, Cianwood City, Viridian City, Ruins of Alph, Union Cave, Ilex Forest, Slowpoke Well, Mt. Mortar, Tohjo Falls, Mt. Silver, Mt. Silver Cave (fishing) Routes 43, 45, Dark Cave, Lake of Rage, Blackthorn City, Dragon's Den, Fuchsia City (Surfing and fishing)","Routes 19, 20, 21, 26, 27, New Bark Town, Pallet Town, Cherrygrove City, Cerulean City and Gym, Cianwood City, Vermilion City, Cinnabar Island, Whirl Islands (Old Rod or Good Rod) Routes 6, 9, 10, 12, 13, 22, 24, 25, 28, 30, 31, 32, 34, 35, 40, 41, 42, and 44, Violet City, Ecruteak City, Olivine City, Cianwood City, Viridian City, Ruins of Alph, Union Cave, Ilex Forest, Slowpoke Well, Mt. Mortar, Tohjo Falls, Mt. Silver, Mt. Silver Cave (fishing) Routes 43, 45, Dark Cave, Lake of Rage, Blackthorn City, Dragon's Den, Fuchsia City (Surfing and fishing)","Routes 19, 20, 21, 26, 27, New Bark Town, Pallet Town, Cherrygrove City, Cianwood City, Vermilion City, Cinnabar Island, Whirl Islands (Old Rod or Good Rod) Routes 6, 9, 10, 12, 13, 22, 24, 25, 28, 30, 31, 32, 34, 35, 40, 41, 42, and 44, Violet City, Ecruteak City, Olivine City, Cerulean City, Viridian City, Ruins of Alph, Union Cave, Ilex Forest, Slowpoke Well, Mt. Mortar, Tohjo Falls, Mt. Silver, Mt. Silver Cave (fishing) Routes 43, 45, Dark Cave, Lake of Rage, Blackthorn City, Dragon's Den, Fuchsia City (Surfing and fishing)"
+Gyarados,#0130,False,"Lake of Rage (Surfing, Good Rod, Super Rod, Red Gyarados) Fuchsia City (Good Rod or Super Rod)","Lake of Rage (Surfing, Good Rod, Super Rod, Red Gyarados) Fuchsia City (Good Rod or Super Rod)","Lake of Rage (Surfing, Good Rod, Super Rod, Red Gyarados) Fuchsia City (Good Rod or Super Rod)"
+Lapras,#0131,False,Union Cave (Weekly) Fr,Union Cave (Weekly) Fr,Union Cave (Weekly) Fr
+Ditto,#0132,False,Routes 34 and 35,Routes 34 and 35,Routes 34 and 35
+Eevee,#0133,False,Received from Bill in Goldenrod City Celadon Game Corner,Received from Bill in Goldenrod City Celadon Game Corner,Received from Bill in Goldenrod City
+Vaporeon,#0134,False,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Jolteon,#0135,False,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Flareon,#0136,False,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Porygon,#0137,False,Celadon Game Corner,Celadon Game Corner,Celadon Game Corner
+Omanyte,#0138,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Omastar,#0139,False,Time Capsule,Time Capsule,Time Capsule
+Kabuto,#0140,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Kabutops,#0141,False,Time Capsule,Time Capsule,Time Capsule
+Aerodactyl,#0142,False,Trade Chansey on Route 14,Trade Chansey on Route 14,Trade Chansey on Route 14
+Snorlax,#0143,False,Vermilion City (Only one),Vermilion City (Only one),Vermilion City (Only one)
+Articuno,#0144,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Zapdos,#0145,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Moltres,#0146,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Dratini,#0147,False,"Dragon's Den (Surfing, Good Rod, and Super Rod) Route 45 (Good Rod and Super Rod) Goldenrod Game Corner","Dragon's Den (Surfing, Good Rod, and Super Rod) Route 45 (Good Rod and Super Rod) Goldenrod Game Corner","Dragon's Den (Surfing, Good Rod, and Super Rod) Route 45 (Good Rod and Super Rod) Received from Master in Dragon's Den after completing Master's quiz*"
+Dragonair,#0148,False,Route 45 and Dragon's Den (Super Rod),Route 45 and Dragon's Den (Super Rod),Route 45 and Dragon's Den (Super Rod)
+Dragonite,#0149,False,Evolve Dragonair,Evolve Dragonair,Evolve Dragonair
+Mewtwo,#0150,False,"Time Capsule, Event","Time Capsule, Event","Time Capsule, Event"
+Mew,#0151,False,Event,Event,Event
+Chikorita,#0152,False,First partner Pokémon from Professor Elm in New Bark Town,First partner Pokémon from Professor Elm in New Bark Town,First partner Pokémon from Professor Elm in New Bark Town
+Bayleef,#0153,False,Evolve Chikorita,Evolve Chikorita,Evolve Chikorita
+Meganium,#0154,False,Evolve Bayleef,Evolve Bayleef,Evolve Bayleef
+Cyndaquil,#0155,False,First partner Pokémon from Professor Elm in New Bark Town,First partner Pokémon from Professor Elm in New Bark Town,First partner Pokémon from Professor Elm in New Bark Town
+Quilava,#0156,False,Evolve Cyndaquil,Evolve Cyndaquil,Evolve Cyndaquil
+Typhlosion,#0157,False,Evolve Quilava,Evolve Quilava,Evolve Quilava
+Totodile,#0158,False,First partner Pokémon from Professor Elm in New Bark Town,First partner Pokémon from Professor Elm in New Bark Town,First partner Pokémon from Professor Elm in New Bark Town
+Croconaw,#0159,False,Evolve Totodile,Evolve Totodile,Evolve Totodile
+Feraligatr,#0160,False,Evolve Croconaw,Evolve Croconaw,Evolve Croconaw
+Sentret,#0161,False,Routes 1 and 29 Morning Day,Routes 1 and 29 Morning Day,"Routes 1, 29, and 43 Morning Day"
+Furret,#0162,False,Route 1 Morning Day,Route 1 Morning Day,Routes 1 and 43 Morning Day
+Hoothoot,#0163,False,"Routes 1, 2, 29, 30, 31, 35, 36, and 37, National Park Night","Routes 1, 2, 29, 30, 31, 35, 36, and 37, National Park Night","Routes 1, 2, 5, 25, 29, 30, 31, 32, 34, 35, 36, and 37, Ilex Forest, National Park Night Routes 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 43, Ilex Forest, National Park, Lake of Rage (Headbutt trees)"
+Noctowl,#0164,False,"Routes 2, 8, 13, 14, 15, and 43 Night","Routes 2, 8, 13, 14, 15, and 43 Night","Routes 2, 5, 8, 11, 13, 14, 15, 25, 26, 27, 37, 38, 39, 43 Night Ilex Forest (Headbutt trees)"
+Ledyba,#0165,False,Trade,"Routes 2, 30, 31, and 37 Morning","Routes 2, 30, 31, 36, and 37, National Park Morning Routes 29, 30, 31, 34, 35, 36, 37, 38, and 39 (Headbutt trees)"
+Ledian,#0166,False,Trade,Route 2 Morning,Routes 2 and 37 Morning
+Spinarak,#0167,False,"Routes 2, 30, 31, and 37 Night",Trade,"Routes 2, 30, 31, 36, and 37, National Park Night Routes 29, 30, 31, 34, 35, 36, 37, 38, and 39 (Headbutt trees)"
+Ariados,#0168,False,Route 2,Trade,Routes 2 and 37 Night
+Crobat,#0169,False,Evolve Golbat,Evolve Golbat,Evolve Golbat
+Chinchou,#0170,False,"Routes 20, 21, 26, 27, 41, Olivine City*, Vermilion City*, Cinnabar Island, Pallet Town, New Bark Town (Good Rod or Super Rod)","Routes 20, 21, 26, 27, 41, Olivine City*, Vermilion City*, Cinnabar Island, Pallet Town, New Bark Town (Good Rod or Super Rod)","Routes 20, 21, 26, 27, 41, Olivine City*, Vermilion City*, Cinnabar Island, Pallet Town, New Bark Town (Good Rod or Super Rod)"
+Lanturn,#0171,False,"Routes 20, 21, 26, 27, 41, Olivine City*, Vermilion City*, Pallet Town, New Bark Town, Cinnabar Island (Super Rod)","Routes 20, 21, 26, 27, 41, Olivine City*, Vermilion City*, Pallet Town, New Bark Town, Cinnabar Island (Super Rod)","Routes 20, 21, 26, 27, 41, Olivine City*, Vermilion City*, Pallet Town, New Bark Town, Cinnabar Island (Super Rod)"
+Pichu,#0172,False,Breed Pikachu or Raichu,Breed Pikachu or Raichu,Breed Pikachu or Raichu Route 34 (Odd Egg*)
+Cleffa,#0173,False,Breed Clefairy or Clefable,Breed Clefairy or Clefable,Breed Clefairy or Clefable Route 34 (Odd Egg*)
+Igglybuff,#0174,False,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff Route 34 (Odd Egg*)
+Togepi,#0175,False,Hatch Egg received from Professor Elm's assistant in the Pokémon Center in Violet City,Hatch Egg received from Professor Elm's assistant in the Pokémon Center in Violet City,Hatch Egg received from Professor Elm's assistant in the Pokémon Center in Violet City
+Togetic,#0176,False,Evolve Togepi,Evolve Togepi,Evolve Togepi
+Natu,#0177,False,Ruins of Alph,Ruins of Alph,Ruins of Alph
+Xatu,#0178,False,Evolve Natu,Evolve Natu,Trade Haunter in Pewter City
+Mareep,#0179,False,"Routes 32, 42, and 43","Routes 32, 42, and 43",Trade
+Flaaffy,#0180,False,Routes 42 and 43,Routes 42 and 43,Trade
+Ampharos,#0181,False,Evolve Flaaffy,Evolve Flaaffy,Trade
+Bellossom,#0182,False,Evolve Gloom,Evolve Gloom,Evolve Gloom
+Marill,#0183,False,Mt. Mortar (walking),Mt. Mortar (walking),"Mt. Mortar (Surfing) Route 42, Mt. Mortar Night"
+Azumarill,#0184,False,Evolve Marill,Evolve Marill,Evolve Marill
+Sudowoodo,#0185,False,Route 36 (Only one),Route 36 (Only one),Route 36 (Only one)
+Politoed,#0186,False,Evolve Poliwhirl,Evolve Poliwhirl,Evolve Poliwhirl
+Hoppip,#0187,False,"Routes 13, 14, 15, 32, and 33 Morning Day","Routes 13, 14, 15, 32, and 33 Morning Day","Routes 11, 13, 14, 15, 29, 30, 31, 32, and 33 Morning Day"
+Skiploom,#0188,False,Route 14 Morning Day,Route 14 Morning Day,Route 14 Morning Day
+Jumpluff,#0189,False,Evolve Skiploom,Evolve Skiploom,Evolve Skiploom
+Aipom,#0190,False,"Routes 29, 30, 31, 32, 33, 42, 43, and 44 (Headbutt trees)","Routes 29, 30, 31, 32, 33, 42, 43, and 44 (Headbutt trees)","Routes 33, 42, and 44, Azalea Town (Headbutt trees)"
+Sunkern,#0191,False,"Route 24, National Park Day","Route 24, National Park Day","Route 24, National Park Day"
+Sunflora,#0192,False,Evolve Sunkern,Evolve Sunkern,Evolve Sunkern
+Yanma,#0193,False,Route 35,Route 35,Route 35
+Wooper,#0194,False,"Route 32 Night Ruins of Alph, Union Cave (Surfing)","Route 32 Night Ruins of Alph, Union Cave (Surfing)","Route 32, Ruins of Alph, Union Cave Night Ruins of Alph, Union Cave (Surfing)"
+Quagsire,#0195,False,"Routes 10, 13, 14, 15, 26, and 27 (tall grass) Day Night Mt. Silver Cave (2 F and chambers) Routes 12, 13, and 32, Ruins of Alph, Union Cave (Surfing)","Routes 10, 13, 14, and 15 (tall grass) Day Night Routes 26 and 27 (tall grass) Day Mt. Silver Cave (2 F and chambers) Routes 12, 13, and 32, Ruins of Alph, Union Cave (Surfing)","Routes 13, 14, 15, 26, and 27, Ruins of Alph, Union Cave Night Routes 12, 13, and 32, Ruins of Alph, Union Cave (Surfing)"
+Espeon,#0196,False,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Umbreon,#0197,False,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Murkrow,#0198,False,"Routes 7, 16 Night","Routes 7, 16 Night","Routes 7, 16 Night"
+Slowking,#0199,False,Evolve Slowpoke,Evolve Slowpoke,Evolve Slowpoke
+Misdreavus,#0200,False,Mt. Silver Cave Night,Mt. Silver Cave Night,Mt. Silver Cave Night
+Unown,#0201,False,Inside Ruins of Alph (different forms appear when puzzles are solved),Inside Ruins of Alph (different forms appear when puzzles are solved),Inside Ruins of Alph (different forms appear when puzzles are solved)
+Wobbuffet,#0202,False,Dark Cave*,Dark Cave*,"Dark Cave* Night, Goldenrod Game Corner"
+Girafarig,#0203,False,Route 43,Route 43,Trade
+Pineco,#0204,False,"Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees) (only high-encounter trees)","Routes 26, 27, 34, 35, 36, 37, 38, and 39, Azalea Town, Ilex Forest, Lake of Rage (Headbutt trees) (only high-encounter trees)","Routes 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, and 43, Lake of Rage, Ilex Forest (Headbutt trees)"
+Forretress,#0205,False,Evolve Pineco,Evolve Pineco,Evolve Pineco
+Dunsparce,#0206,False,Dark Cave*,Dark Cave*,Dark Cave*
+Gligar,#0207,False,Route 45,Trade,Route 45
+Steelix,#0208,False,Evolve Onix,Evolve Onix,Evolve Onix
+Snubbull,#0209,False,Route 38,Route 38,"Routes 5, 6, 7, 8, 34, and 35 Morning Day"
+Granbull,#0210,False,Evolve Snubbull,Evolve Snubbull,Route 6 Morning Day
+Qwilfish,#0211,False,"Routes 12, 13, and 32 (Super Rod*)","Routes 12, 13, and 32 (Super Rod*)","Routes 12, 13, and 32 (Super Rod*)"
+Scizor,#0212,False,Evolve Scyther,Evolve Scyther,Evolve Scyther
+Shuckle,#0213,False,"Received from a Poké Maniac in Cianwood City Route 40, Cianwood City, Dark Cave (Rock Smash)","Received from a Poké Maniac in Cianwood City Route 40, Cianwood City, Dark Cave (Rock Smash)","Received from a Poké Maniac in Cianwood City Route 40, Cianwood City, Dark Cave (Rock Smash)"
+Heracross,#0214,False,"Routes 29, 30, 31, 32, 33, 42, 43, and 44 (Headbutt trees)  (only high-encounter trees)","Routes 29, 30, 31, 32, 33, 42, 43, and 44 (Headbutt trees)  (only high-encounter trees)","Azalea Town, Routes 33, 42, and 44 (Headbutt trees)"
+Sneasel,#0215,False,"Route 28, Mt. Silver Night","Route 28, Mt. Silver Night",Ice Path Night
+Teddiursa,#0216,False,Route 45*,"Trade, Event",Dark Cave Morning
+Ursaring,#0217,False,"Route 28, Victory Road, Mt. Silver, Mt. Silver Cave*",Trade,"Dark Cave*, Mt. Silver Cave Morning Day"
+Slugma,#0218,False,"Routes 16, 17, and 18","Routes 16, 17, and 18","Routes 16, 17, and 18 Day"
+Magcargo,#0219,False,Evolve Slugma,Evolve Slugma,Evolve Slugma
+Swinub,#0220,False,Ice Path,Ice Path,Ice Path Morning Day
+Piloswine,#0221,False,Evolve Swinub,Evolve Swinub,Evolve Swinub
+Corsola,#0222,False,"Routes 19, 34, 40, Olivine City, Cianwood City, Cerulean City and Gym, Cherrygrove City, Union Cave (Good Rod or Super Rod) Morning Day","Routes 19, 34, 40, Olivine City, Cianwood City, Cerulean City and Gym, Cherrygrove City, Union Cave (Good Rod or Super Rod) Morning Day","Routes 19, 34, 40, Olivine City, Cianwood City, Cerulean City, Cherrygrove City, Union Cave (Good Rod or Super Rod) Morning Day"
+Remoraid,#0223,False,Route 44 (Super Rod*),Route 44 (Super Rod*),"Trade, Event"
+Octillery,#0224,False,Evolve Remoraid,Evolve Remoraid,Trade
+Delibird,#0225,False,"Trade, Event",Ice Path,Ice Path Night
+Mantine,#0226,False,Route 41,"Trade, Event",Route 41
+Skarmory,#0227,False,"Trade, Event",Route 45,Route 45 Morning Day
+Houndour,#0228,False,Route 7 Night,Route 7 Night,Route 7 Night
+Houndoom,#0229,False,Evolve Houndour,Evolve Houndour,Evolve Houndour
+Kingdra,#0230,False,Evolve Seadra,Evolve Seadra,Evolve Seadra
+Phanpy,#0231,False,"Trade, Event",Route 45*,Routes 45 and 46 Morning
+Donphan,#0232,False,"Trade, Evolve Event Phanpy","Route 28, Mt. Silver, Mt. Silver Cave, Victory Road*",Route 45 Morning Day
+Porygon2,#0233,False,Evolve Porygon,Evolve Porygon,Evolve Porygon
+Stantler,#0234,False,Routes 36 and 37,Routes 36 and 37,Route 37 Night
+Smeargle,#0235,False,Ruins of Alph,Ruins of Alph,Ruins of Alph Morning Day
+Tyrogue,#0236,False,Received from Kiyo in Mt. Mortar,Received from Kiyo in Mt. Mortar,Received from Kiyo in Mt. Mortar Route 34 (Odd Egg*)
+Hitmontop,#0237,False,Evolve Tyrogue,Evolve Tyrogue,Evolve Tyrogue
+Smoochum,#0238,False,Breed Jynx,Breed Jynx,Breed Jynx Route 34 (Odd Egg*)
+Elekid,#0239,False,Breed Electabuzz,Breed Electabuzz,Breed Electabuzz Route 34 (Odd Egg*)
+Magby,#0240,False,Breed Magmar,Breed Magmar,Breed Magmar Route 34 (Odd Egg*)
+Miltank,#0241,False,Routes 38 and 39,Routes 38 and 39,Routes 38 and 39 Morning Day
+Blissey,#0242,False,Evolve Chansey,Evolve Chansey,Evolve Chansey
+Raikou,#0243,False,Roaming Johto (Only one),Roaming Johto (Only one),Roaming Johto (Only one)
+Entei,#0244,False,Roaming Johto (Only one),Roaming Johto (Only one),Roaming Johto (Only one)
+Suicune,#0245,False,Roaming Johto (Only one),Roaming Johto (Only one),Tin Tower (Only one)
+Larvitar,#0246,False,Mt. Silver Cave,Mt. Silver Cave,Mt. Silver Cave Morning Day Celadon Game Corner
+Pupitar,#0247,False,Evolve Larvitar,Evolve Larvitar,Mt. Silver Cave Morning Day
+Tyranitar,#0248,False,Evolve Pupitar,Evolve Pupitar,Evolve Pupitar
+Lugia,#0249,False,Whirl Islands (requires Silver Wing) (Only one),Whirl Islands (requires Silver Wing) (Only one),Whirl Islands (requires Silver Wing) (Only one)
+Ho-Oh,#0250,False,Tin Tower (requires Rainbow Wing) (Only one),Tin Tower (requires Rainbow Wing) (Only one),Tin Tower (requires Rainbow Wing) (Only one)
+Celebi,#0251,False,"Trade, Event","Trade, Event",Ilex Forest (requires G S Ball)*

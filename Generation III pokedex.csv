@@ -1,0 +1,387 @@
+Pokemon,No.,Caught?,Ruby,Sapphire,Emerald,FireRed,LeafGreen,Colosseum,XD
+Bulbasaur,#0001,False,"Trade, Event","Trade, Event","Trade, Event",First partner Pokémon from Professor Oak in Pallet Town,First partner Pokémon from Professor Oak in Pallet Town,Trade,Trade
+Ivysaur,#0002,False,Trade,Trade,Trade,Evolve Bulbasaur,Evolve Bulbasaur,Trade,Trade
+Venusaur,#0003,False,Trade,Trade,Trade,Evolve Ivysaur,Evolve Ivysaur,Trade,Trade
+Charmander,#0004,False,"Trade, Event","Trade, Event","Trade, Event",First partner Pokémon from Professor Oak in Pallet Town,First partner Pokémon from Professor Oak in Pallet Town,Trade,Trade
+Charmeleon,#0005,False,"Trade, Evolve Event Charmander","Trade, Evolve Event Charmander","Trade, Evolve Event Charmander",Evolve Charmander,Evolve Charmander,Trade,Trade
+Charizard,#0006,False,"Trade, Event","Trade, Event","Trade, Event",Evolve Charmeleon,Evolve Charmeleon,Trade,Trade
+Squirtle,#0007,False,"Trade, Event","Trade, Event","Trade, Event",First partner Pokémon from Professor Oak in Pallet Town,First partner Pokémon from Professor Oak in Pallet Town,Trade,Trade
+Wartortle,#0008,False,"Trade, Evolve Event Squirtle","Trade, Evolve Event Squirtle","Trade, Evolve Event Squirtle",Evolve Squirtle,Evolve Squirtle,Trade,Trade
+Blastoise,#0009,False,"Trade, Event","Trade, Event","Trade, Event",Evolve Wartortle,Evolve Wartortle,Trade,Trade
+Caterpie,#0010,False,Trade,Trade,Trade,"Routes 2, 24, and 25, Viridian Forest, Pattern Bush","Routes 2, 24, and 25, Viridian Forest, Pattern Bush",Trade,Trade
+Metapod,#0011,False,Trade,Trade,Trade,"Routes 24 and 25, Viridian Forest, Pattern Bush","Routes 24 and 25, Viridian Forest, Pattern Bush",Trade,Trade
+Butterfree,#0012,False,Trade,Trade,Trade,Evolve Metapod,Evolve Metapod,Trade,Cipher Key Lair (Shadow)
+Weedle,#0013,False,Trade,Trade,Trade,"Routes 2, 24, and 25, Viridian Forest, Pattern Bush","Routes 2, 24, and 25, Viridian Forest, Pattern Bush",Trade,Trade
+Kakuna,#0014,False,Trade,Trade,Trade,"Routes 24 and 25, Viridian Forest, Pattern Bush","Routes 24 and 25, Viridian Forest, Pattern Bush",Trade,Trade
+Beedrill,#0015,False,Trade,Trade,Trade,Evolve Kakuna,Evolve Kakuna,Trade,Cipher Key Lair (Shadow)
+Pidgey,#0016,False,Trade,Trade,Trade,"Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 24, and 25, Bond Bridge, Berry Forest, Five Isle Meadow","Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 24, and 25, Bond Bridge, Berry Forest, Five Isle Meadow",Trade,Trade
+Pidgeotto,#0017,False,Trade,Trade,Trade,"Routes 13, 14, and 15, Bond Bridge, Berry Forest, Five Isle Meadow","Routes 13, 14, and 15, Bond Bridge, Berry Forest, Five Isle Meadow",Trade,Cipher Key Lair (Shadow)
+Pidgeot,#0018,False,Trade,Trade,Trade,Evolve Pidgeotto,Evolve Pidgeotto,Trade,Evolve Pidgeotto
+Rattata,#0019,False,Trade,Trade,Trade,"Routes 1, 2, 4, 9, 16, 17, 18, and 22, Pokémon Mansion","Routes 1, 2, 4, 9, 16, 17, 18, and 22, Pokémon Mansion",Trade,Trade
+Raticate,#0020,False,Trade,Trade,Trade,"Routes 16, 17, and 18, Pokémon Mansion","Routes 16, 17, and 18, Pokémon Mansion",Trade,Citadark Isle (Shadow)
+Spearow,#0021,False,Trade,Trade,Trade,"Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23, Treasure Beach, Mt. Ember, Cape Brink, Ruin Valley, Water Path, Canyon Entrance, Kindle Road","Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23, Treasure Beach, Mt. Ember, Cape Brink, Ruin Valley, Water Path, Canyon Entrance, Kindle Road",Trade,Phenac Stadium (Shadow)
+Fearow,#0022,False,Trade,Trade,Trade,"Routes 17, 18, and 23, Treasure Beach, Kindle Road, Mt. Ember, Cape Brink, Ruin Valley, Water Path, Canyon Entrance, Sevault Canyon","Routes 17, 18, and 23, Treasure Beach, Kindle Road, Mt. Ember, Cape Brink, Ruin Valley, Water Path, Canyon Entrance, Sevault Canyon",Trade,Evolve Spearow
+Ekans,#0023,False,"Trade, Event","Trade, Event","Trade, Event","Routes 4, 8, 9, 10, 11, and 23","Trade, Event",Trade,Trade
+Arbok,#0024,False,Trade,Trade,Trade,Route 23 and Victory Road,Trade,Trade,Cipher Key Lair (Shadow)
+Pikachu,#0025,False,Safari Zone,Safari Zone,Safari Zone,"Viridian Forest, Power Plant","Viridian Forest, Power Plant",Pokémon Colosseum Bonus Disc (J P),Trade
+Raichu,#0026,False,Evolve Pikachu,Evolve Pikachu,Evolve Pikachu,Evolve Pikachu,Evolve Pikachu,Trade,Trade
+Sandshrew,#0027,False,Routes 111 and 113,Routes 111 and 113,"Route 111, Mirage Tower","Trade, Event","Routes 4, 8, 9, 10, 11, and 23",Trade,Rock Poké Spot
+Sandslash,#0028,False,Evolve Sandshrew,Evolve Sandshrew,Evolve Sandshrew,Trade,Route 23 and Victory Road,Trade,Evolve Sandshrew
+Nidoran♀,#0029,False,Trade,Trade,Trade,"Route 3, Safari Zone Trade Nidoran♂ in Underground Path (Kanto Routes 5–6)","Route 3, Safari Zone",Trade,Trade
+Nidorina,#0030,False,Trade,Trade,Trade,Safari Zone Trade Nidorino on Route 11,Safari Zone,Trade,Trade
+Nidoqueen,#0031,False,Trade,Trade,Trade,Evolve Nidorina,Evolve Nidorina,Trade,Trade
+Nidoran♂,#0032,False,Trade,Trade,Trade,"Route 3, Safari Zone","Route 3, Safari Zone Trade Nidoran♀ in Underground Path (Kanto Routes 5–6)",Trade,Trade
+Nidorino,#0033,False,Trade,Trade,Trade,Safari Zone,Safari Zone Trade Nidorina on Route 11,Trade,Trade
+Nidoking,#0034,False,Trade,Trade,Trade,Evolve Nidorino,Evolve Nidorino,Trade,Trade
+Clefairy,#0035,False,Trade,Trade,Trade,"Mt. Moon, Celadon City (Rocket Game Corner)","Mt. Moon, Celadon City (Rocket Game Corner)",Trade,Trade
+Clefable,#0036,False,Trade,Trade,Trade,Evolve Clefairy,Evolve Clefairy,Trade,Trade
+Vulpix,#0037,False,Mt. Pyre exterior,Mt. Pyre exterior,Mt. Pyre exterior,"Trade, Event","Routes 7 and 8, Pokémon Mansion",Trade,ON B S (Shadow)
+Ninetales,#0038,False,Evolve Vulpix,Evolve Vulpix,Evolve Vulpix,Trade,Evolve Vulpix,Trade,Evolve Vulpix
+Jigglypuff,#0039,False,Route 115,Route 115,Route 115,Route 3,Route 3,Trade,Trade
+Wigglytuff,#0040,False,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff,Trade,Trade
+Zubat,#0041,False,"Cave of Origin, Granite Cave, Victory Road (walking) Meteor Falls, Seafloor Cavern, Shoal Cave (Surfing and walking)","Cave of Origin, Granite Cave, Victory Road (walking) Meteor Falls, Seafloor Cavern, Shoal Cave (Surfing and walking)","Altering Cave, Cave of Origin, Granite Cave, Victory Road (walking) Meteor Falls, Seafloor Cavern, Shoal Cave (Surfing and walking)","Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road, Icefall Cave, Lost Cave, Altering Cave","Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road, Icefall Cave, Lost Cave, Altering Cave",Trade,Cave Poké Spot
+Golbat,#0042,False,"Cave of Origin, Shoal Cave, Sky Pillar Meteor Falls, Seafloor Cavern, Victory Road (Surfing and walking)","Cave of Origin, Shoal Cave, Sky Pillar Meteor Falls, Seafloor Cavern, Victory Road (Surfing and walking)","Cave of Origin, Shoal Cave, Sky Pillar Meteor Falls, Seafloor Cavern, Victory Road (Surfing and walking)","Cerulean Cave, Icefall Cave, Lost Cave, Seafoam Islands, Victory Road","Cerulean Cave, Icefall Cave, Lost Cave, Seafoam Islands, Victory Road",Trade,Evolve Zubat
+Oddish,#0043,False,"Routes 110, 117, 119, 120, 121, and 123, Safari Zone","Routes 110, 117, 119, 120, 121, and 123, Safari Zone","Routes 110, 117, 119, 120, 121, and 123, Safari Zone","Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25, Berry Forest, Bond Bridge, Cape Brink, Water Path","Trade, Event",Trade,Trade
+Gloom,#0044,False,"Routes 121 and 123, Safari Zone","Routes 121 and 123, Safari Zone","Routes 121 and 123, Safari Zone","Routes 12, 13, 14, and 15, Berry Forest, Bond Bridge, Cape Brink, Water Path",Trade,Trade,Trade
+Vileplume,#0045,False,Evolve Gloom,Evolve Gloom,Evolve Gloom,Evolve Gloom,Trade,Trade,Trade
+Paras,#0046,False,Trade,Trade,Trade,"Mt. Moon, Safari Zone","Mt. Moon, Safari Zone",Trade,Cipher Key Lair (Shadow)
+Parasect,#0047,False,Trade,Trade,Trade,"Safari Zone, Cerulean Cave","Safari Zone, Cerulean Cave",Trade,Evolve Paras
+Venonat,#0048,False,Trade,Trade,Trade,"Routes 12, 13, 14, and 15, Berry Forest, Bond Bridge, Safari Zone","Routes 12, 13, 14, and 15, Berry Forest, Bond Bridge, Safari Zone",Trade,Trade
+Venomoth,#0049,False,Trade,Trade,Trade,"Safari Zone, Berry Forest","Safari Zone, Berry Forest",Trade,Cipher Key Lair (Shadow)
+Diglett,#0050,False,Trade,Trade,Trade,Diglett's Cave,Diglett's Cave,Trade,Trade
+Dugtrio,#0051,False,Trade,Trade,Trade,Diglett's Cave,Diglett's Cave,Trade,Citadark Isle (Shadow)
+Meowth,#0052,False,"Trade, Event","Trade, Event",Trade Skitty at the Battle Frontier,"Routes 5, 6, 7, and 8, Bond Bridge, Canyon Entrance, Cape Brink, Five Isle Meadow, Kindle Road, Ruin Valley, Sevault Canyon, Treasure Beach, Water Path","Routes 5, 6, 7, and 8, Bond Bridge, Canyon Entrance, Cape Brink, Five Isle Meadow, Kindle Road, Ruin Valley, Sevault Canyon, Treasure Beach, Water Path",Trade,Prestige Precept Center (Shadow)
+Persian,#0053,False,Trade,Trade,Evolve Meowth,"Bond Bridge, Canyon Entrance, Cape Brink, Five Isle Meadow, Kindle Road, Ruin Valley, Sevault Canyon, Treasure Beach, Water Path","Bond Bridge, Canyon Entrance, Cape Brink, Five Isle Meadow, Kindle Road, Ruin Valley, Sevault Canyon, Treasure Beach, Water Path",Trade,Evolve Meowth
+Psyduck,#0054,False,Safari Zone,Safari Zone,Safari Zone,"Celadon City (Surfing) Routes 4, 10, 11, 12, 13, 19, 20, 21, 24, Water Labyrinth, Resort Gorgeous, Memorial Pillar, Green Path, Outcast Island, Tanoby Ruins, Pallet Town, Cerulean City, Vermilion City, Cinnabar Island, One Island, Five Island, Trainer Tower (Super Rod) Routes 6, 22, 23, 25, Viridian City, Fuchsia City, Four Island, Cerulean Cave, Safari Zone (Surfing and Super Rod) Treasure Beach, Kindle Road, Bond Bridge, Five Isle Meadow, Ruin Valley, Water Path (walking and Super Rod) Cape Brink, Berry Forest , Seafoam Islands, Icefall Cave (walking, Surfing, and Super Rod) Canyon Entrance","Trade, Event",Trade,Trade
+Golduck,#0055,False,Safari Zone (Surfing),Safari Zone (Surfing),Safari Zone (Surfing),"Cerulean Cave, Seafoam Islands, Berry Forest, Cape Brink (Surfing) Seafoam Islands, Cape Brink",Trade,Trade,Citadark Isle (Shadow)
+Mankey,#0056,False,Trade,Trade,Trade,"Routes 3, 4, 22, and 23, Rock Tunnel","Routes 3, 4, 22, and 23, Rock Tunnel",Trade,Trade
+Primeape,#0057,False,Trade,Trade,Trade,"Route 23, Cerulean Cave, Victory Road","Route 23, Cerulean Cave, Victory Road",Trade,Cipher Key Lair (Shadow)
+Growlithe,#0058,False,"Trade, Event","Trade, Event","Trade, Event","Routes 7 and 8, Pokémon Mansion",Trade,Trade,Cipher Key Lair (Shadow)
+Arcanine,#0059,False,Trade,Trade,Trade,Evolve Growlithe,Trade,Trade,Evolve Growlithe
+Poliwag,#0060,False,Trade,Trade,Trade,"Fuchsia City, Berry Forest, Safari Zone (Good Rod) Routes 6, 22, 23, and 25, Four Island, Viridian City, Cape Brink, Cerulean Cave, Icefall Cave, Ruin Valley (Good Rod and Super Rod)","Fuchsia City, Berry Forest, Safari Zone (Good Rod) Routes 6, 22, 23, and 25, Four Island, Viridian City, Cape Brink, Cerulean Cave, Icefall Cave, Ruin Valley (Good Rod and Super Rod)",Trade,Trade
+Poliwhirl,#0061,False,Trade,Trade,Trade,"Routes 6, 22, 23, and 25, Four Island, Viridian City, Cape Brink, Cerulean Cave, Icefall Cave, Ruin Valley (Super Rod)","Routes 6, 22, 23, and 25, Four Island, Viridian City, Cape Brink, Cerulean Cave, Icefall Cave, Ruin Valley (Super Rod)",Trade,Trade
+Poliwrath,#0062,False,Trade,Trade,Trade,Evolve Poliwhirl,Evolve Poliwhirl,Trade,Citadark Isle (Shadow)
+Abra,#0063,False,Granite Cave,Granite Cave,"Route 116, Granite Cave","Routes 24 and 25, Celadon City (Rocket Game Corner)","Routes 24 and 25, Celadon City (Rocket Game Corner)",Trade,Trade
+Kadabra,#0064,False,Evolve Abra,Evolve Abra,Evolve Abra,Cerulean Cave,Cerulean Cave,Trade,Trade
+Alakazam,#0065,False,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra,Trade,Trade
+Machop,#0066,False,"Route 112, Fiery Path, Jagged Pass","Route 112, Fiery Path, Jagged Pass","Fiery Path, Jagged Pass","Mt. Ember, Rock Tunnel, Victory Road","Mt. Ember, Rock Tunnel, Victory Road",Trade,Trade
+Machoke,#0067,False,Evolve Machop,Evolve Machop,Evolve Machop,"Cerulean Cave, Mt. Ember, Victory Road","Cerulean Cave, Mt. Ember, Victory Road",Trade,Trade
+Machamp,#0068,False,Evolve Machoke,Evolve Machoke,Evolve Machoke,Evolve Machoke,Evolve Machoke,Trade,Trade
+Bellsprout,#0069,False,"Trade, Event","Trade, Event","Trade, Event","Trade, Event","Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25, Berry Forest, Bond Bridge, Cape Brink, Water Path",Trade,Trade
+Weepinbell,#0070,False,Trade,Trade,Trade,Trade,"Routes 12, 13, 14, and 15, Berry Forest, Bond Bridge, Cape Brink, Water Path",Trade,Cipher Key Lair (Shadow)
+Victreebel,#0071,False,Trade,Trade,Trade,Trade,Evolve Weepinbell,Trade,Evolve Weepinbell
+Tentacool,#0072,False,"Route 128, Ever Grande City (Surfing, Old Rod) Sootopolis City (Old Rod) Abandoned Ship (Surfing or Fishing) Routes 103, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 129, 130, 131, 132, 133, and 134, Slateport City, Pacifidlog Town, Mossdeep City, Lilycove City, Dewford Town, Shoal Cave, Seafloor Cavern (Surfing, Old/ Good Rod)","Route 128, Ever Grande City (Surfing, Old Rod) Sootopolis City (Old Rod) Abandoned Ship (Surfing or Fishing) Routes 103, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 129, 130, 131, 132, 133, and 134, Slateport City, Pacifidlog Town, Mossdeep City, Lilycove City, Dewford Town, Shoal Cave, Seafloor Cavern (Surfing, Old/ Good Rod)","Route 128, Ever Grande City (Surfing, Old Rod) Sootopolis City (Old Rod) Abandoned Ship (Surfing or Fishing) Routes 103, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 129, 130, 131, 132, 133, and 134, Slateport City, Pacifidlog Town, Mossdeep City, Lilycove City, Dewford Town, Shoal Cave, Seafloor Cavern (Surfing, Old/ Good Rod)","Routes 4, 10, 11, 12, 13, 19, 20, 21, and 24, Treasure Beach, Kindle Road, Bond Bridge, Five Isle Meadow, Memorial Pillar, Water Labyrinth, Resort Gorgeous, Water Path, Green Path, Outcast Island, Tanoby Ruins, Pallet Town, Cerulean City, Vermilion City, One Island, Five Island, Icefall Cave, Trainer Tower, Cinnabar Island (Surfing)","Routes 4, 10, 11, 12, 13, 19, 20, 21, and 24, Treasure Beach, Kindle Road, Bond Bridge, Five Isle Meadow, Memorial Pillar, Water Labyrinth, Resort Gorgeous, Water Path, Green Path, Outcast Island, Tanoby Ruins, Pallet Town, Cerulean City, Vermilion City, One Island, Five Island, Icefall Cave, Trainer Tower, Cinnabar Island (Surfing)",Trade,Trade
+Tentacruel,#0073,False,Abandoned Ship (surfing and Super Rod),Abandoned Ship (surfing and Super Rod),Abandoned Ship (Surfing and Super Rod),"Treasure Beach, Kindle Road, Bond Bridge, Five Isle Meadow, Memorial Pillar, Water Labyrinth, Resort Gorgeous, Water Path, Green Path, Outcast Island, Tanoby Ruins, One Island, Five Island, Icefall Cave, Trainer Tower (Surfing)","Treasure Beach, Kindle Road, Bond Bridge, Five Isle Meadow, Memorial Pillar, Water Labyrinth, Resort Gorgeous, Water Path, Green Path, Outcast Island, Tanoby Ruins, One Island, Five Island, Icefall Cave, Trainer Tower (Surfing)",Trade,Trade
+Geodude,#0074,False,"Routes 111 and 114, Victory Road, Safari Zone (Rock Smash) Granite Cave (walking and Rock Smash)","Routes 111 and 114, Victory Road, Safari Zone (Rock Smash) Granite Cave (walking and Rock Smash)","Routes 111 and 114, Victory Road, Safari Zone (Rock Smash) Granite Cave (walking and Rock Smash) Magma Hideout (walking)","Victory Road, Mt. Moon (walking) Kindle Road, Sevault Canyon, Rock Tunnel, Cerulean Cave, Mt. Ember (Tall grass and Rock Smash)","Victory Road, Mt. Moon (walking) Kindle Road, Sevault Canyon, Rock Tunnel, Cerulean Cave, Mt. Ember (Tall grass and Rock Smash)",Trade,Trade
+Graveler,#0075,False,Victory Road (Rock Smash),Victory Road (Rock Smash),Magma Hideout (walking) Victory Road (Rock Smash),"Kindle Road, Sevault Canyon, Rock Tunnel, Mt. Ember, Cerulean Cave (Rock Smash)","Kindle Road, Sevault Canyon, Rock Tunnel, Mt. Ember, Cerulean Cave (Rock Smash)",Trade,Trade
+Golem,#0076,False,Evolve Graveler,Evolve Graveler,Evolve Graveler,Evolve Graveler,Evolve Graveler,Trade,Trade
+Ponyta,#0077,False,Trade,Trade,Trade,Kindle Road and Mt. Ember,Kindle Road and Mt. Ember,Trade,Trade
+Rapidash,#0078,False,Trade,Trade,Trade,"Kindle Road, Mt. Ember","Kindle Road, Mt. Ember",Trade,Citadark Isle (Shadow)
+Slowpoke,#0079,False,Trade,Trade,Trade,Trade,"Celadon City (surfing) Routes 4, 10, 11, 12, 13, 19, 20, 21, 24, Water Labyrinth, Resort Gorgeous, Memorial Pillar, Green Path, Outcast Island, Tanoby Ruins, Pallet Town, Cerulean City, Vermilion City, Cinnabar Island, One Island, Five Island, Trainer Tower (Super Rod) Routes 6, 22, 23, 25, Viridian City, Fuchsia City, Four Island, Cerulean Cave, Safari Zone (surfing and Super Rod) Treasure Beach, Kindle Road, Bond Bridge, Five Isle Meadow, Ruin Valley, Water Path (tall grass and Super Rod) Cape Brink, Berry Forest (tall grass, surfing, and Super Rod) Seafoam Islands, Icefall Cave (walking, surfing, and Super Rod) Canyon Entrance (tall grass)",Trade,Trade
+Slowbro,#0080,False,Trade,Trade,Trade,Trade,Cerulean Cave and Berry Forest (surfing) Seafoam Islands and Cape Brink (tall grass/walking and surfing) Cinnabar Island (Super Rod),Trade,Trade
+Magnemite,#0081,False,New Mauville,New Mauville,New Mauville,Power Plant,Power Plant,Trade,Trade
+Magneton,#0082,False,New Mauville,New Mauville,New Mauville,"Power Plant, Cerulean Cave","Power Plant, Cerulean Cave",Trade,Cipher Key Lair (Shadow)
+Farfetch'd,#0083,False,Trade,Trade,Trade,Trade Spearow in Vermilion City,Trade Spearow in Vermilion City,Trade,Citadark Isle (Shadow)
+Doduo,#0084,False,Safari Zone,Safari Zone,Safari Zone,"Routes 16, 17, and 18, Safari Zone","Routes 16, 17, and 18, Safari Zone",Trade,Trade
+Dodrio,#0085,False,Safari Zone,Safari Zone,Safari Zone,Evolve Doduo,Evolve Doduo,Trade,Citadark Isle (Shadow)
+Seel,#0086,False,Trade,Trade,Trade,"Seafoam Islands, Icefall Cave Trade Ponyta at the Pokémon Lab on Cinnabar Island","Seafoam Islands, Icefall Cave Trade Ponyta at the Pokémon Lab on Cinnabar Island",Trade,Phenac Stadium (Shadow)
+Dewgong,#0087,False,Trade,Trade,Trade,Seafoam Islands and Icefall Cave,Seafoam Islands and Icefall Cave,Trade,Evolve Seel
+Grimer,#0088,False,Fiery Path,Fiery Path,Fiery Path,Pokémon Mansion Celadon City (Super Rod),Pokémon Mansion Celadon City (Super Rod),Trade,Phenac Stadium (Shadow)
+Muk,#0089,False,Evolve Grimer,Evolve Grimer,Evolve Grimer,Evolve Grimer,Pokémon Mansion,Trade,Evolve Grimer
+Shellder,#0090,False,Trade,Trade,Trade,"Pallet Town, Cinnabar Island, Vermilion City, One Island, Five Island, Icefall Cave (Super Rod)",Trade,Trade,Cipher Key Lair (Shadow)
+Cloyster,#0091,False,Trade,Trade,Trade,Evolve Shellder,Trade,Trade,Evolve Shellder
+Gastly,#0092,False,Trade,Trade,Trade,"Pokémon Tower, Lost Cave","Pokémon Tower, Lost Cave",Trade,Trade
+Haunter,#0093,False,Trade,Trade,Trade,"Pokémon Tower, Lost Cave","Pokémon Tower, Lost Cave",Trade,Trade
+Gengar,#0094,False,Trade,Trade,Trade,Evolve Haunter,Evolve Haunter,Trade,Trade
+Onix,#0095,False,Trade,Trade,Trade,"Rock Tunnel, Victory Road, Sevault Canyon","Rock Tunnel, Victory Road, Sevault Canyon",Trade,Trade
+Drowzee,#0096,False,Trade,Trade,Trade,"Route 11, Berry Forest","Route 11, Berry Forest",Trade,Trade
+Hypno,#0097,False,Trade,Trade,Trade,"Berry Forest (tall grass, event)","Berry Forest (tall grass, event)",Trade,Cipher Key Lair (Shadow)
+Krabby,#0098,False,Trade,Trade,Trade,"Routes 4, 10, 11, 12, 13, 19, 20, 21, and 24, Cerulean City, Vermilion City, Seafoam Islands, Cinnabar Island, Pallet Town (Good Rod)","Routes 4, 10, 11, 12, 13, 19, 20, 21, and 24, Cerulean City, Vermilion City, Seafoam Islands, Treasure Beach, Kindle Road, Bond Bridge, Resort Gorgeous, Water Labyrinth, Water Path, Green Path, Outcast Island, Tanoby Ruins, Five Isle Meadow, Memorial Pillar, One Island, Five Island, Icefall Cave, Trainer Tower, Cinnabar Island, Pallet Town (Good Rod and Super Rod) Seafoam Islands (Surfing)",Trade,Trade
+Kingler,#0099,False,Trade,Trade,Trade,Evolve Krabby,"Routes 19, 20, and 21, Kindle Road, Treasure Beach, Bond Bridge, Resort Gorgeous, Water Labyrinth, Five Isle Meadow, Memorial Pillar, Green Path, Water Path, Outcast Island, Trainer Tower, Tanoby Ruins, One Island, Five Island, Icefall Cave, Pallet Town (Super Rod)",Trade,Trade
+Voltorb,#0100,False,New Mauville,New Mauville,New Mauville,"Route 10, Power Plant","Route 10, Power Plant",Trade,Cave Poké Spot (Shadow)
+Electrode,#0101,False,New Mauville Team Magma Hideout (Two),New Mauville Team Aqua Hideout (Two),New Mauville Team Aqua Hideout (Two),Power Plant (Two) Cerulean Cave Trade Raichu at the Pokémon Lab on Cinnabar Island,Power Plant (Two) Cerulean Cave Trade Raichu at the Pokémon Lab on Cinnabar Island,Trade,Evolve Voltorb
+Exeggcute,#0102,False,Trade,Trade,Trade,"Safari Zone, Berry Forest","Safari Zone, Berry Forest",Trade,Trade
+Exeggutor,#0103,False,Trade,Trade,Trade,Evolve Exeggcute,Evolve Exeggcute,Trade,Citadark Isle (Shadow)
+Cubone,#0104,False,Trade,Trade,Trade,Pokémon Tower and Sevault Canyon,Pokémon Tower and Sevault Canyon,Trade,Trade
+Marowak,#0105,False,Trade,Trade,Trade,Victory Road and Sevault Canyon,Victory Road and Sevault Canyon,Trade,Citadark Isle (Shadow)
+Hitmonlee,#0106,False,Trade,Trade,Trade,Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan),Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan),Trade,Citadark Isle (Shadow)
+Hitmonchan,#0107,False,Trade,Trade,Trade,Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee),Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee),Trade,Citadark Isle (Shadow)
+Lickitung,#0108,False,Trade,Trade,Trade,Trade Golduck on Route 18,Trade Slowbro on Route 18,Trade,Citadark Isle (Shadow)
+Koffing,#0109,False,Fiery Path,Fiery Path,Fiery Path,Pokémon Mansion Celadon City (surfing),Pokémon Mansion Celadon City (surfing),Trade,Trade
+Weezing,#0110,False,Evolve Koffing,Evolve Koffing,Evolve Koffing,Pokémon Mansion,Evolve Koffing,Trade,Trade
+Rhyhorn,#0111,False,Safari Zone,Safari Zone,Safari Zone,Safari Zone,Safari Zone,Trade,Trade
+Rhydon,#0112,False,Evolve Rhyhorn,Evolve Rhyhorn,Evolve Rhyhorn,Evolve Rhyhorn,Evolve Rhyhorn,Trade,Citadark Isle (Shadow)
+Chansey,#0113,False,Trade,Trade,Trade,Safari Zone,Safari Zone,Trade,Citadark Isle (Shadow)
+Tangela,#0114,False,Trade,Trade,Trade,"Route 21, Treasure Beach Trade Venonat at the Pokémon Lab on Cinnabar Island","Route 21, Treasure Beach Trade Venonat at the Pokémon Lab on Cinnabar Island",Trade,Cipher Key Lair (Shadow)
+Kangaskhan,#0115,False,"Trade, Event","Trade, Event","Trade, Event",Safari Zone,Safari Zone,Trade,Citadark Isle (Shadow)
+Horsea,#0116,False,"Routes 132, 133, and 134 (Super Rod)","Routes 132, 133, and 134 (Super Rod)","Routes 132, 133, and 134 (Super Rod) Trade Bagon in Pacifidlog Town","Vermilion City, Treasure Beach, Kindle Road, Bond Bridge, Resort Gorgeous, Water Labyrinth, Water Path, Green Path, Outcast Island, Tanoby Ruins, Five Isle Meadow, Memorial Pillar, One Island, Five Island, Icefall Cave, Trainer Tower, Pallet Town, Cinnabar Island (Good Rod or Super Rod) Routes 4, 10, 11, 12, 13, 19, 20, 21, and 24, Cerulean City, Seafoam Islands (Super Rod)","Routes 4, 10, 11, 12, 13, 19, 20, 21, and 24, Cerulean City, Seafoam Islands, Pallet Town, Cinnabar Island (Good Rod) Vermilion City (Good Rod or Super Rod)",Trade,Trade
+Seadra,#0117,False,Evolve Horsea,Evolve Horsea,Evolve Horsea,"Routes 19, 20, and 21, Kindle Road, Treasure Beach, Bond Bridge, Resort Gorgeous, Water Labyrinth, Five Isle Meadow, Memorial Pillar, Green Path, Water Path, Outcast Island, Trainer Tower, Tanoby Ruins, Cinnabar Island, One Island, Five Island, Icefall Cave, Pallet Town (Super Rod)",Evolve Horsea,Trade,Trade
+Goldeen,#0118,False,"Routes 102, 111, 114, 117, and 120, Petalburg City, Meteor Falls, Victory Road (Old Rod and Good Rod) Safari Zone (fishing)","Routes 102, 111, 114, 117, and 120, Petalburg City, Meteor Falls, Victory Road (Old Rod and Good Rod) Safari Zone (fishing)","Routes 102, 111, 114, 117, and 120 (Surfing, Old Rod and Good Rod) Petalburg City, Meteor Falls, Victory Road (Old Rod and Good Rod) Safari Zone (fishing)","Routes 6, 22, 23, 25, Ruin Valley, Cape Brink, Viridian City, Four Island, Cerulean Cave, Icefall Cave (Good Rod) Fuchsia City, Berry Forest, Safari Zone (Good Rod and Super Rod)","Routes 6, 22, 23, 25, Ruin Valley, Cape Brink, Viridian City, Four Island, Cerulean Cave, Icefall Cave (Good Rod) Fuchsia City, Berry Forest, Safari Zone (Good Rod and Super Rod)",Trade,Trade
+Seaking,#0119,False,Safari Zone (Super Rod),Safari Zone (Super Rod),Safari Zone (Super Rod),"Berry Forest, Safari Zone, Fuchsia City (Super Rod)","Berry Forest, Safari Zone, Fuchsia City (Super Rod)",Trade,Trade
+Staryu,#0120,False,Lilycove City (Super Rod),Lilycove City (Super Rod),Lilycove City (Super Rod),"Trade, Event","Pallet Town, Vermilion City, Cinnabar Island, One Island, Five Island, Icefall Cave (Super Rod)",Trade,Trade
+Starmie,#0121,False,Evolve Staryu,Evolve Staryu,Evolve Staryu,Trade,Evolve Staryu,Trade,Citadark Isle (Shadow)
+Mr. Mime,#0122,False,Trade,Trade,Trade,Trade Abra on Route 2,Trade Abra on Route 2,Trade,Citadark Isle (Shadow)
+Scyther,#0123,False,"Trade, Event","Trade, Event","Trade, Event",Safari Zone Celadon City (Rocket Game Corner),"Trade, Event",Trade,Citadark Isle (Shadow)
+Jynx,#0124,False,Trade,Trade,Trade,Trade Poliwhirl in Cerulean City,Trade Poliwhirl in Cerulean City,Trade,Trade
+Electabuzz,#0125,False,"Trade, Event","Trade, Event","Trade, Event",Power Plant,"Trade, Event",Trade,"Citadark Isle (Shadow), Evolve Elekid"
+Magmar,#0126,False,"Trade, Event","Trade, Event","Trade, Event","Trade, Event",Mt. Ember,Trade,Citadark Isle (Shadow)
+Pinsir,#0127,False,Safari Zone,Safari Zone,Safari Zone,Trade,"Safari Zone, Celadon City (Rocket Game Corner)",Trade,Citadark Isle (Shadow)
+Tauros,#0128,False,"Trade, Event","Trade, Event","Trade, Event",Safari Zone,Safari Zone,Trade,Citadark Isle (Shadow)
+Magikarp,#0129,False,"Routes 102, 103, 105, 106, 107, 108, 109, 110, 111, 114, 115, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Petalburg City, Dewford Town, Slateport City, Lilycove City, Pacifidlog Town, Ever Grande City, Abandoned Ship, Safari Zone, Shoal Cave, Meteor Falls, Seafloor Cavern, Victory Road, Mossdeep City (Old Rod or Good Rod) Route 104 (fishing) Sootopolis City (Surfing and fishing)","Routes 102, 103, 105, 106, 107, 108, 109, 110, 111, 114, 115, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Petalburg City, Dewford Town, Slateport City, Lilycove City, Pacifidlog Town, Ever Grande City, Abandoned Ship, Safari Zone, Shoal Cave, Meteor Falls, Seafloor Cavern, Victory Road, Mossdeep City (Old Rod or Good Rod) Route 104 (fishing) Sootopolis City (Surfing and fishing)","Routes 102, 103, 105, 106, 107, 108, 109, 110, 111, 114, 115, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Petalburg City, Dewford Town, Slateport City, Lilycove City, Pacifidlog Town, Ever Grande City, Abandoned Ship, Safari Zone, Shoal Cave, Meteor Falls, Seafloor Cavern, Victory Road, Mossdeep City (Old Rod or Good Rod) Route 104 (fishing) Sootopolis City (Surfing and fishing)","Routes 4, 6, 10, 11, 12, 13, 19, 20, 21, 22, 23, 24, and 25, Treasure Beach, Kindle Road, Cape Brink, Bond Bridge, Five Isle Meadow, Ruin Valley, Water Path, Water Labyrinth, Resort Gorgeous, Memorial Pillar, Green Path, Outcast Island, Tanoby Ruins, Pallet Town, Cerulean City, Viridian City, Fuchsia City, Vermilion City, Celadon City, Cinnabar Island, One Island, Four Island, Five Island, Trainer Tower, Cerulean Cave, Safari Zone, Berry Forest, Icefall Cave, Seafoam Islands (Old Rod or Good Rod) Buy from Magikarp salesman for $500 on Route 4","Routes 4, 6, 10, 11, 12, 13, 19, 20, 21, 22, 23, 24, and 25, Treasure Beach, Kindle Road, Cape Brink, Bond Bridge, Five Isle Meadow, Ruin Valley, Water Path, Water Labyrinth, Resort Gorgeous, Memorial Pillar, Green Path, Outcast Island, Tanoby Ruins, Pallet Town, Cerulean City, Viridian City, Fuchsia City, Vermilion City, Celadon City, Cinnabar Island, One Island, Four Island, Five Island, Trainer Tower, Cerulean Cave, Safari Zone, Berry Forest, Icefall Cave, Seafoam Islands (Old Rod or Good Rod) Buy from Magikarp salesman for $500 on Route 4",Trade,Trade
+Gyarados,#0130,False,Sootopolis City (Super Rod),Sootopolis City (Super Rod),Sootopolis City (Super Rod),"Routes 4, 6, 10, 11, 12, 13, 19, 20, 21, 22, 23, 24, and 25, Treasure Beach, Kindle Road, Cape Brink, Bond Bridge, Five Isle Meadow, Ruin Valley, Water Path, Water Labyrinth, Resort Gorgeous, Memorial Pillar, Green Path, Outcast Island, Tanoby Ruins, Pallet Town, Cerulean City, Viridian City, Fuchsia City, Vermilion City, Cinnabar Island, One Island, Four Island, Five Island, Seafoam Islands, Trainer Tower, Cerulean Cave, Berry Forest, Icefall Cave (Super Rod)","Routes 4, 6, 10, 11, 12, 13, 19, 20, 21, 22, 23, 24, and 25, Treasure Beach, Kindle Road, Cape Brink, Bond Bridge, Five Isle Meadow, Ruin Valley, Water Path, Water Labyrinth, Resort Gorgeous, Memorial Pillar, Green Path, Outcast Island, Tanoby Ruins, Pallet Town, Cerulean City, Viridian City, Fuchsia City, Vermilion City, Cinnabar Island, One Island, Four Island, Five Island, Seafoam Islands, Trainer Tower, Cerulean Cave, Berry Forest, Icefall Cave (Super Rod)",Trade,Trade
+Lapras,#0131,False,Trade,Trade,Trade,Received from a person in Silph Co. (Saffron City) Icefall Cave (Surfing),Received from a person in Silph Co. (Saffron City) Icefall Cave (Surfing),Trade,Citadark Isle (Shadow)
+Ditto,#0132,False,Trade,Trade,Desert Underpass,"Routes 13, 14, and 15, Pokémon Mansion, Cerulean Cave","Routes 13, 14, and 15, Pokémon Mansion, Cerulean Cave",Trade,Trade
+Eevee,#0133,False,Trade,Trade,Trade,Received from a person in Celadon Mansion,Received from a person in Celadon Mansion,Trade,First Pokémon
+Vaporeon,#0134,False,Trade,Trade,Trade,Evolve Eevee,Evolve Eevee,Trade,Evolve Eevee
+Jolteon,#0135,False,Trade,Trade,Trade,Evolve Eevee,Evolve Eevee,Trade,Evolve Eevee
+Flareon,#0136,False,Trade,Trade,Trade,Evolve Eevee,Evolve Eevee,Trade,Evolve Eevee
+Porygon,#0137,False,Trade,Trade,Trade,Rocket Game Corner,Rocket Game Corner,Trade,Trade
+Omanyte,#0138,False,Trade,Trade,Trade,Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island,Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island,Trade,Trade
+Omastar,#0139,False,Trade,Trade,Trade,Evolve Omanyte,Evolve Omanyte,Trade,Trade
+Kabuto,#0140,False,Trade,Trade,Trade,Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island,Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island,Trade,Trade
+Kabutops,#0141,False,Trade,Trade,Trade,Evolve Kabuto,Evolve Kabuto,Trade,Trade
+Aerodactyl,#0142,False,Trade,Trade,Trade,Revive from Old Amber at the Pokémon Lab on Cinnabar Island,Revive from Old Amber at the Pokémon Lab on Cinnabar Island,Trade,Trade
+Snorlax,#0143,False,Trade,Trade,Trade,Routes 12 and 16 (Only two),Routes 12 and 16 (Only two),Trade,Citadark Isle (Shadow)
+Articuno,#0144,False,Trade,Trade,Trade,Seafoam Islands (Only one),Seafoam Islands (Only one),Trade,Citadark Isle (Shadow)
+Zapdos,#0145,False,Trade,Trade,Trade,Power Plant (Only one),Power Plant (Only one),Trade,Citadark Isle (Shadow)
+Moltres,#0146,False,Trade,Trade,Trade,Mt. Ember (Only one),Mt. Ember (Only one),Trade,Citadark Isle (Shadow)
+Dratini,#0147,False,Trade,Trade,Trade,Safari Zone (Super Rod) Buy for 2800C in the Rocket Game Corner in Celadon City,Safari Zone (Super Rod) Buy for 4600C in the Rocket Game Corner in Celadon City,Trade,Trade
+Dragonair,#0148,False,Trade,Trade,Trade,Safari Zone (Super Rod),Safari Zone (Super Rod),Trade,Trade
+Dragonite,#0149,False,Trade,Trade,Trade,Evolve Dragonair,Evolve Dragonair,Trade,Gateon Port (Shadow)
+Mewtwo,#0150,False,Trade,Trade,Trade,Cerulean Cave (Only one),Cerulean Cave (Only one),Trade,Trade
+Mew,#0151,False,Event,Event,Faraway Island (requires Old Sea Map)* (Only one) Event,Event,Event,Trade,Trade
+Chikorita,#0152,False,"Trade, Event","Trade, Event",Received from Professor Birch at Littleroot Town after completing the Hoenn Pokédex,"Trade, Event","Trade, Event",Trade,Reward for defeating 100 Trainers in Mt. Battle
+Bayleef,#0153,False,Trade,Trade,Evolve Chikorita,Trade,Trade,Phenac City (Shadow) Realgam Tower (if not snagged in Phenac City) Snagem Hideout (if Bluno was battled in Phenac City) Shadow P K M N Lab (if Rosso was battled in Phenac City),Evolve Chikorita
+Meganium,#0154,False,Trade,Trade,Evolve Bayleef,Trade,Trade,Evolve Bayleef,Evolve Bayleef
+Cyndaquil,#0155,False,"Trade, Event","Trade, Event",Received from Professor Birch at Littleroot Town after completing the Hoenn Pokédex,"Trade, Event","Trade, Event",Trade,Reward for defeating 100 Trainers in Mt. Battle
+Quilava,#0156,False,Trade,Trade,Evolve Cyndaquil,Trade,Trade,Phenac City (Shadow) Realgam Tower (if not snagged in Phenac City) Snagem Hideout (if Verde was battled in Phenac City) Shadow P K M N Lab (if Bluno was battled in Phenac City),Evolve Cyndaquil
+Typhlosion,#0157,False,"Trade, Event","Trade, Event",Evolve Quilava,"Trade, Event","Trade, Event",Evolve Quilava,Evolve Quilava
+Totodile,#0158,False,"Trade, Event","Trade, Event",Received from Professor Birch at Littleroot Town after completing the Hoenn Pokédex,"Trade, Event","Trade, Event",Trade,Reward for defeating 100 Trainers in Mt. Battle
+Croconaw,#0159,False,Trade,Trade,Evolve Totodile,Trade,Trade,Phenac City (Shadow) Realgam Tower (if not snagged in Phenac City) Snagem Hideout (if Rosso was battled in Phenac City) Shadow P K M N Lab (if Verde was battled in Phenac City),Evolve Totodile
+Feraligatr,#0160,False,Trade,Trade,Evolve Croconaw,Trade,Trade,Evolve Croconaw,Evolve Croconaw
+Sentret,#0161,False,Trade,Trade,Trade,"Canyon Entrance, Five Isle Meadow, Water Path","Canyon Entrance, Five Isle Meadow, Water Path",Trade,Trade
+Furret,#0162,False,Trade,Trade,Trade,Evolve Sentret,Evolve Sentret,Pyrite Town (Shadow),Trade
+Hoothoot,#0163,False,Trade,Trade,Safari Zone extension,Trade,Trade,Trade,Trade
+Noctowl,#0164,False,Trade,Trade,Evolve Hoothoot,Trade,Trade,Pyrite Town (Shadow),Trade
+Ledyba,#0165,False,Trade,Trade,Safari Zone extension,Pattern Bush,Pattern Bush,Trade,Gateon Port (Shadow)
+Ledian,#0166,False,Trade,Trade,Evolve Ledyba,Evolve Ledyba,Evolve Ledyba,The Under (Shadow),Evolve Ledyba
+Spinarak,#0167,False,Trade,Trade,Safari Zone extension,Pattern Bush,Pattern Bush,Trade,Cipher Lab (Shadow)
+Ariados,#0168,False,Trade,Trade,Evolve Spinarak,Evolve Spinarak,Evolve Spinarak,Shadow P K M N Lab (Shadow),Evolve Spinarak
+Crobat,#0169,False,Evolve Golbat,Evolve Golbat,Evolve Golbat,Evolve Golbat after acquiring the National Pokédex,Evolve Golbat after acquiring the National Pokédex,Trade,Evolve Golbat
+Chinchou,#0170,False,Underwater (Routes 124 and 126),Underwater (Routes 124 and 126),Underwater (Routes 124 and 126),Trade,Trade,Trade,Trade
+Lanturn,#0171,False,Evolve Chinchou,Evolve Chinchou,Evolve Chinchou,Trade,Trade,Trade,Trade
+Pichu,#0172,False,Breed Pikachu or Raichu,Breed Pikachu or Raichu,Breed Pikachu or Raichu,Breed Pikachu or Raichu,Breed Pikachu or Raichu,Trade,Trade
+Cleffa,#0173,False,Trade,Trade,Trade,Breed Clefairy or Clefable,Breed Clefairy or Clefable,Trade,Trade
+Igglybuff,#0174,False,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff,Trade,Trade
+Togepi,#0175,False,Trade,Trade,Trade,Hatch Egg received from a Gentleman in the Water Labyrinth,Hatch Egg received from a Gentleman in the Water Labyrinth,"Card e Room (Shadow)*, Trade",Received from Hordel (Shadow)
+Togetic,#0176,False,Trade,Trade,Trade,Evolve Togepi,Evolve Togepi,Outskirt Stand (Shadow),Evolve Togepi
+Natu,#0177,False,Safari Zone,Safari Zone,Safari Zone,Ruin Valley,Ruin Valley,Trade,Prestige Precept Center (Shadow)
+Xatu,#0178,False,Safari Zone,Safari Zone,Safari Zone,Evolve Natu,Evolve Natu,Trade,Evolve Natu
+Mareep,#0179,False,"Trade, Event","Trade, Event",Safari Zone extension,"Trade, Event","Trade, Event","Card e Room (Shadow)*, Trade",Cipher Lab (Shadow)
+Flaaffy,#0180,False,Trade,Trade,Evolve Mareep,Trade,Trade,Pyrite Town (Shadow),Evolve Mareep
+Ampharos,#0181,False,Trade,Trade,Evolve Flaaffy,Trade,Trade,Evolve Flaaffy,Evolve Flaaffy
+Bellossom,#0182,False,Evolve Gloom,Evolve Gloom,Evolve Gloom,Evolve Gloom,Trade,Trade,Trade
+Marill,#0183,False,"Routes 102, 111, 114, and 117, Petalburg City (Surfing) Routes 117 and 120 (tall grass)","Routes 102, 111, 114, and 117, Petalburg City (Surfing) Routes 117 and 120 (tall grass)","Routes 102, 111, 114, 117, and 120, Petalburg City, Safari Zone (Surfing) Routes 104, 112, 117, and 120 (tall grass)",Trade,"Four Island, Icefall Cave, Ruin Valley",Trade,Trade
+Azumarill,#0184,False,Evolve Marill,Evolve Marill,Evolve Marill,Trade,Evolve Marill,Trade,Trade
+Sudowoodo,#0185,False,Trade,Trade,Battle Frontier (Only one),Trade,Trade,Miror's Hideout (Shadow),Trade
+Politoed,#0186,False,Trade,Trade,Trade,Evolve Poliwhirl,Evolve Poliwhirl,Trade,Trade
+Hoppip,#0187,False,Trade,Trade,Trade,"Five Island, Resort Gorgeous, Water Labyrinth (Surfing) Five Isle Meadow, Memorial Pillar (Tall grass and surfing)","Five Island, Resort Gorgeous, Water Labyrinth (Surfing) Five Isle Meadow, Memorial Pillar (Tall grass and surfing)",Trade,Oasis Poké Spot
+Skiploom,#0188,False,Trade,Trade,Trade,Evolve Hoppip,Evolve Hoppip,Pyrite Town (Shadow),Evolve Hoppip
+Jumpluff,#0189,False,Trade,Trade,Trade,Evolve Skiploom,Evolve Skiploom,Evolve Skiploom,Evolve Skiploom
+Aipom,#0190,False,"Trade, Event","Trade, Event",Safari Zone extension,"Trade, Event","Trade, Event",Shadow P K M N Lab (Shadow),Trade
+Sunkern,#0191,False,"Trade, Event","Trade, Event",Safari Zone extension,"Trade, Event","Trade, Event",Trade,Trade
+Sunflora,#0192,False,Trade,Trade,Evolve Sunkern,Trade,Trade,Realgamtwr Dome (Shadow),Trade
+Yanma,#0193,False,Trade,Trade,Trade,Ruin Valley,Ruin Valley,Pyrite Bldg (Shadow),Trade
+Wooper,#0194,False,Trade,Trade,Safari Zone extension,"Four Island, Icefall Cave, Ruin Valley",Trade,Trade,Cave Poké Spot
+Quagsire,#0195,False,Trade,Trade,Safari Zone extension (Surfing),Evolve Wooper,Trade,Pyrite Town (Shadow),Evolve Wooper
+Espeon,#0196,False,"Evolve an Eevee traded from F R L G or X D, Event","Evolve an Eevee traded from F R L G or X D, Event","Evolve an Eevee traded from F R L G or X D, Event","Trade, Event","Trade, Event",First Pokémon,Evolve Eevee
+Umbreon,#0197,False,"Evolve an Eevee traded from F R L G or X D, Event","Evolve an Eevee traded from F R L G or X D, Event","Evolve an Eevee traded from F R L G or X D, Event","Trade, Event","Trade, Event",First Pokémon,Evolve Eevee
+Murkrow,#0198,False,"Trade, Event","Trade, Event","Trade, Event",Lost Cave,"Trade, Event",Shadow P K M N Lab (Shadow),Trade
+Slowking,#0199,False,Trade,Trade,Trade,Trade,Evolve Slowpoke,Trade,Trade
+Misdreavus,#0200,False,"Trade, Event","Trade, Event","Trade, Event","Trade, Event",Lost Cave,Pyrite Town (Shadow),Trade
+Unown,#0201,False,Trade,Trade,Trade,Inside Tanoby Chambers (different forms appear in different chambers),Inside Tanoby Chambers (different forms appear in different chambers),Trade,Trade
+Wobbuffet,#0202,False,Safari Zone,Safari Zone,Safari Zone,"Cerulean Cave, Ruin Valley","Cerulean Cave, Ruin Valley",Trade,Trade
+Girafarig,#0203,False,Safari Zone,Safari Zone,Safari Zone,Trade,Trade,Trade,Trade
+Pineco,#0204,False,"Trade, Event","Trade, Event",Safari Zone extension,"Trade, Event","Trade, Event",Trade,Phenac City (Shadow)
+Forretress,#0205,False,Trade,Trade,Evolve Pineco,Trade,Trade,Shadow P K M N Lab (Shadow),Evolve Pineco
+Dunsparce,#0206,False,Trade,Trade,Trade,Three Isle Port,Three Isle Port,Pyrite Cave (Shadow),Trade
+Gligar,#0207,False,"Trade, Event","Trade, Event",Safari Zone extension,"Trade, Event","Trade, Event",The Under Subway (Shadow),Rock Poké Spot
+Steelix,#0208,False,Trade,Trade,Trade,Evolve Onix,Evolve Onix,Trade,Trade
+Snubbull,#0209,False,Trade,Trade,Safari Zone extension,Trade,Trade,Trade,Trade
+Granbull,#0210,False,Trade,Trade,Evolve Snubbull,Trade,Trade,Shadow P K M N Lab (Shadow),Trade
+Qwilfish,#0211,False,"Trade, Event","Trade, Event","Trade, Event","Five Isle Meadow, Green Path, Memorial Pillar, Outcast Island, Resort Gorgeous, Tanoby Ruins, Trainer Tower, Water Labyrinth, Water Path (Super Rod)","Trade, Event",Pyrite Bldg (Shadow),Trade
+Scizor,#0212,False,Trade,Trade,Trade,Evolve Scyther,Trade,"Card e Room (Shadow)*, Trade",Evolve Scyther
+Shuckle,#0213,False,"Trade, Event","Trade, Event",Safari Zone extension (Rock Smash),"Trade, Event","Trade, Event",Deep Colosseum (Shadow),Trade Surskit to Duking in Pyrite Town
+Heracross,#0214,False,Safari Zone,Safari Zone,Safari Zone,Pattern Bush,Pattern Bush,Realgamtwr Dome (Shadow),Trade
+Sneasel,#0215,False,"Trade, Event","Trade, Event","Trade, Event","Trade, Event",Icefall Cave,The Under Subway (Shadow),Trade
+Teddiursa,#0216,False,"Trade, Event","Trade, Event",Safari Zone extension,"Trade, Event","Trade, Event",Trade,Pokémon H Q Lab (Shadow)
+Ursaring,#0217,False,Trade,Trade,Evolve Teddiursa,Trade,Trade,Snagem Hideout (Shadow),Evolve Teddiursa
+Slugma,#0218,False,Fiery Path,Fiery Path,"Route 113, Fiery Path",Mt. Ember,Mt. Ember,Pyrite Town (Shadow),Trade
+Magcargo,#0219,False,Evolve Slugma,Evolve Slugma,Evolve Slugma,Mt. Ember,Mt. Ember,Evolve Slugma,Citadark Isle (Shadow)
+Swinub,#0220,False,Trade,Trade,Trade,Icefall Cave,Icefall Cave,Trade,Phenac City (Shadow)
+Piloswine,#0221,False,Trade,Trade,Trade,Evolve Swinub,Evolve Swinub,The Under Subway (Shadow),Evolve Swinub
+Corsola,#0222,False,"Route 128, Ever Grande City (Super Rod) Trade Bellossom in Pacifidlog Town","Route 128, Ever Grande City (Super Rod) Trade Bellossom in Pacifidlog Town","Route 128, Ever Grande City (Super Rod)","Trade, Event","Trade, Event",Trade,Trade
+Remoraid,#0223,False,Trade,Trade,Safari Zone extension (Good Rod or Super Rod),Trade,"Five Isle Meadow, Green Path, Memorial Pillar, Outcast Island, Resort Gorgeous, Tanoby Ruins, Trainer Tower, Water Labyrinth, Water Path (Super Rod)",Pyrite Bldg (Shadow) Pyrite Cave (if not snagged in Pyrite Bldg),Trade
+Octillery,#0224,False,Trade,Trade,Safari Zone extension (Super Rod),Trade,Evolve Remoraid,Evolve Remoraid,Trade
+Delibird,#0225,False,"Trade, Event","Trade, Event","Trade, Event",Icefall Cave,"Trade, Event",Realgamtwr Dome (Shadow),Trade
+Mantine,#0226,False,"Trade, Event","Trade, Event","Trade, Event","Trade, Event","Tanoby Ruins, Trainer Tower",Pyrite Bldg (Shadow) Pyrite Cave (if not snagged in Pyrite Bldg),Trade
+Skarmory,#0227,False,Route 113,Route 113,Route 113,Sevault Canyon,Trade,Realgam Tower (Shadow),Trade
+Houndour,#0228,False,"Trade, Event","Trade, Event",Safari Zone extension,"Trade, Event","Trade, Event",Trade,Cipher Lab (Shadow)
+Houndoom,#0229,False,Trade,Trade,Evolve Houndour,Trade,Trade,Tower Colosseum (Shadow),Evolve Houndour
+Kingdra,#0230,False,Evolve Seadra,Evolve Seadra,Evolve Seadra,Evolve Seadra,Evolve Seadra,Trade,Trade
+Phanpy,#0231,False,Safari Zone,Safari Zone,Safari Zone,"Sevault Canyon, Canyon Entrance","Sevault Canyon, Canyon Entrance",Trade,Oasis Poké Spot
+Donphan,#0232,False,Evolve Phanpy,Evolve Phanpy,Evolve Phanpy,Evolve Phanpy,Evolve Phanpy,Trade,Evolve Phanpy
+Porygon2,#0233,False,Trade,Trade,Trade,Evolve Porygon,Evolve Porygon,Trade,Trade
+Stantler,#0234,False,Trade,Trade,Safari Zone extension,Trade,Trade,The Under Subway (Shadow),Trade
+Smeargle,#0235,False,"Trade, Event","Trade, Event",Artisan Cave,"Trade, Event","Trade, Event",Snagem Hideout (Shadow),Trade
+Tyrogue,#0236,False,Trade,Trade,Trade,Breed Hitmonchan or Hitmonlee,Breed Hitmonchan or Hitmonlee,Trade,Trade
+Hitmontop,#0237,False,Trade,Trade,Trade,Breed Hitmonlee or Hitmonchan and evolve Tyrogue,Breed Hitmonlee or Hitmonchan and evolve Tyrogue,Relic Stone (Shadow),Trade
+Smoochum,#0238,False,Trade,Trade,Trade,Breed Jynx,Breed Jynx,Trade,Trade
+Elekid,#0239,False,Trade,Trade,Trade,Breed Electabuzz,Trade,Trade,In-game trade for purified Togepi or Togetic
+Magby,#0240,False,Trade,Trade,Trade,Trade,Breed Magmar,Trade,Trade
+Miltank,#0241,False,Trade,Trade,Safari Zone extension,Trade,Trade,Tower Colosseum (Shadow),Trade
+Blissey,#0242,False,Trade,Trade,Trade,Evolve Chansey after obtaining National Pokédex,Evolve Chansey after obtaining National Pokédex,Trade,Evolve Chansey
+Raikou,#0243,False,"Trade, Event","Trade, Event","Trade, Event",Roaming Kanto (if the player chose Squirtle) (Only one),Roaming Kanto (if the player chose Squirtle) (Only one),Shadow P K M N Lab (Shadow),Trade
+Entei,#0244,False,"Trade, Event","Trade, Event","Trade, Event",Roaming Kanto (if the player chose Bulbasaur) (Only one),Roaming Kanto (if the player chose Bulbasaur) (Only one),Mt. Battle (Shadow),Trade
+Suicune,#0245,False,"Trade, Event","Trade, Event","Trade, Event",Roaming Kanto (if the player chose Charmander) (Only one),Roaming Kanto (if the player chose Charmander) (Only one),The Under (Shadow),Trade
+Larvitar,#0246,False,Trade,Trade,Trade,Sevault Canyon,Sevault Canyon,Trade,Trade Wooper to Duking in Pyrite Town
+Pupitar,#0247,False,Trade,Trade,Trade,Evolve Larvitar,Evolve Larvitar,Trade,Evolve Larvitar
+Tyranitar,#0248,False,"Trade, Event","Trade, Event","Trade, Event",Evolve Pupitar,Evolve Pupitar,Tower Colosseum (Shadow),Evolve Pupitar
+Lugia,#0249,False,"Trade, Event","Trade, Event",Navel Rock (requires Mystic Ticket),Navel Rock (requires Mystic Ticket),Navel Rock (requires Mystic Ticket),Trade,Citadark Isle (Shadow)
+Ho-Oh,#0250,False,"Trade, Event","Trade, Event",Navel Rock (requires Mystic Ticket),Navel Rock (requires Mystic Ticket),Navel Rock (requires Mystic Ticket),Mt. Battle,Trade
+Celebi,#0251,False,"Trade, Event","Trade, Event","Trade, Event","Trade, Event","Trade, Event",Pokémon Colosseum Bonus Disc (J P),Trade
+Treecko,#0252,False,First partner Pokémon from Professor Birch on Route 101,First partner Pokémon from Professor Birch on Route 101,First partner Pokémon from Professor Birch on Route 101,"Trade, Event","Trade, Event",Trade,Trade
+Grovyle,#0253,False,Evolve Treecko,Evolve Treecko,Evolve Treecko,Trade,Trade,Trade,Trade
+Sceptile,#0254,False,Evolve Grovyle,Evolve Grovyle,Evolve Grovyle,Trade,Trade,Trade,Trade
+Torchic,#0255,False,First partner Pokémon from Professor Birch on Route 101,First partner Pokémon from Professor Birch on Route 101,First partner Pokémon from Professor Birch on Route 101,"Trade, Event","Trade, Event",Trade,Trade
+Combusken,#0256,False,Evolve Torchic,Evolve Torchic,Evolve Torchic,Trade,Trade,Trade,Trade
+Blaziken,#0257,False,Evolve Combusken,Evolve Combusken,Evolve Combusken,"Trade, Event","Trade, Event",Trade,Trade
+Mudkip,#0258,False,First partner Pokémon from Professor Birch on Route 101,First partner Pokémon from Professor Birch on Route 101,First partner Pokémon from Professor Birch on Route 101,"Trade, Event","Trade, Event",Trade,Trade
+Marshtomp,#0259,False,Evolve Mudkip,Evolve Mudkip,Evolve Mudkip,Trade,Trade,Trade,Trade
+Swampert,#0260,False,Evolve Marshtomp,Evolve Marshtomp,Evolve Marshtomp,Trade,Trade,Trade,Trade
+Poochyena,#0261,False,"Routes 101, 102, and 103","Routes 101, 102, and 103","Routes 101, 102, 103, 104, 110, 116, 117, 120, 121, and 123, Petalburg Woods",Trade,Trade,Trade,Gateon Port (Shadow)
+Mightyena,#0262,False,Evolve Poochyena,Evolve Poochyena,"Routes 120, 121, and 123",Trade,Trade,Trade,Evolve Poochyena
+Zigzagoon,#0263,False,"Routes 101, 102, 103, 104, 110, 116, 117, 118, 119, 120, 121, and 123, Petalburg Woods","Routes 101, 102, 103, 104, 110, 116, 117, 118, 119, 120, 121, and 123, Petalburg Woods","Routes 101, 102, 103, 118, and 119",Trade,Trade,Trade,Trade
+Linoone,#0264,False,"Routes 118, 119, 120, 121, and 123","Routes 118, 119, 120, 121, and 123",Routes 118 and 119,Trade,Trade,Trade,Trade
+Wurmple,#0265,False,"Routes 101, 102, and 104, Petalburg Woods","Routes 101, 102, and 104, Petalburg Woods","Routes 101, 102, and 104, Petalburg Woods",Trade,Trade,Trade,Trade
+Silcoon,#0266,False,Petalburg Woods,Petalburg Woods,Petalburg Woods,Trade,Trade,Trade,Trade
+Beautifly,#0267,False,Evolve Silcoon,Evolve Silcoon,Evolve Silcoon,Trade,Trade,Trade,Trade
+Cascoon,#0268,False,Petalburg Woods,Petalburg Woods,Petalburg Woods,Trade,Trade,Trade,Trade
+Dustox,#0269,False,Evolve Cascoon,Evolve Cascoon,Evolve Cascoon,Trade,Trade,Trade,Trade
+Lotad,#0270,False,"Trade, Event",Routes 102 and 114,Routes 102 and 114,"Trade, Event","Trade, Event",Trade,Trade
+Lombre,#0271,False,Trade,Route 114,Route 114,Trade,Trade,Trade,Trade
+Ludicolo,#0272,False,Trade,Evolve Lombre,Evolve Lombre,Trade,Trade,Trade,Trade
+Seedot,#0273,False,Routes 102 and 114,"Routes 102, 117, and 120 (Swarm; after mixing records with Emerald)","Routes 102, 117, and 120Trade Ralts in Rustboro City","Trade, Event","Trade, Event",Trade,Cipher Lab (Shadow)
+Nuzleaf,#0274,False,Route 114,Route 114 (Swarm; after mixing records with Emerald),Route 114,Trade,Trade,Trade,Evolve Seedot
+Shiftry,#0275,False,Evolve Nuzleaf,"Trade, Event",Evolve Nuzleaf,Trade,Trade,Trade,Evolve Nuzleaf
+Taillow,#0276,False,"Routes 104, 115, and 116, Petalburg Woods","Routes 104, 115, and 116, Petalburg Woods","Routes 104, 115, and 116, Petalburg Woods","Trade, Event","Trade, Event",Trade,Trade
+Swellow,#0277,False,Route 115,Route 115,Route 115,Trade,Trade,Trade,Citadark Isle (Shadow)
+Wingull,#0278,False,"Routes 103, 104, 110, 115, 118, 121, and 123, outside Mt. Pyre (Grass) Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Slateport City (Surfing)","Routes 103, 104, 110, 115, 118, 121, and 123, outside Mt. Pyre (Grass) Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Slateport City (Surfing)","Routes 103, 104, 110, 115, 118, 121, and 123, outside Mt. Pyre (Grass) Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Slateport City (Surfing)",Trade,Trade,Trade,Trade
+Pelipper,#0279,False,"Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Slateport City (Surfing)","Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Slateport City (Surfing)","Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Slateport City (Surfing)",Trade,Trade,Trade,Trade
+Ralts,#0280,False,Route 102,Route 102,Route 102,Trade,Trade,Trade,ON B S (Shadow)
+Kirlia,#0281,False,Evolve Ralts,Evolve Ralts,Evolve Ralts,Trade,Trade,Trade,Evolve Ralts
+Gardevoir,#0282,False,Evolve Kirlia,Evolve Kirlia,Evolve Kirlia,Trade,Trade,Trade,Evolve Kirlia
+Surskit,#0283,False,"Routes 102, 111, 114, 117, and 120","Routes 102, 111, 114, 117, and 120","Routes 102, 114, 117, and 120 (Swarm; after mixing records with Ruby or Sapphire)","Trade, Event","Trade, Event",Trade,Oasis Poké Spot
+Masquerain,#0284,False,Evolve Surskit,Evolve Surskit,Evolve swarm Surskit*,Trade,Trade,Trade,Evolve Surskit
+Shroomish,#0285,False,Petalburg Woods,Petalburg Woods,Petalburg Woods,Trade,Trade,Trade,Cipher Lab (Shadow)
+Breloom,#0286,False,Evolve Shroomish,Evolve Shroomish,Evolve Shroomish,Trade,Trade,Trade,Evolve Shroomish
+Slakoth,#0287,False,Petalburg Woods,Petalburg Woods,Petalburg Woods,Trade,Trade,Trade,Trade
+Vigoroth,#0288,False,Evolve Slakoth,Evolve Slakoth,Evolve Slakoth,Trade,Trade,Trade,Trade
+Slaking,#0289,False,Evolve Vigoroth,Evolve Vigoroth,Evolve Vigoroth,Trade,Trade,Trade,Trade
+Nincada,#0290,False,Route 116,Route 116,Route 116,Trade,Trade,Trade,Trade
+Ninjask,#0291,False,Evolve Nincada,Evolve Nincada,Evolve Nincada,Trade,Trade,Trade,Trade
+Shedinja,#0292,False,Evolve Nincada with extra slot in party,Evolve Nincada with extra slot in party,Evolve Nincada with extra slot in party,Trade,Trade,Trade,Trade
+Whismur,#0293,False,"Route 116, Rusturf Tunnel, Victory Road","Route 116, Rusturf Tunnel, Victory Road","Route 116, Desert Underpass, Rusturf Tunnel, Victory Road","Trade, Event","Trade, Event",Trade,Trade
+Loudred,#0294,False,Victory Road,Victory Road,"Victory Road, Desert Underpass",Trade,Trade,Trade,Trade
+Exploud,#0295,False,Evolve Loudred,Evolve Loudred,Evolve Loudred,Trade,Trade,Trade,Trade
+Makuhita,#0296,False,"Granite Cave, Victory Road Trade Slakoth in Rustboro City","Granite Cave, Victory Road Trade Slakoth in Rustboro City","Granite Cave, Victory Road",Trade,Trade,Mayor's House (Shadow),ON B S (Shadow)
+Hariyama,#0297,False,Victory Road,Victory Road,Victory Road,Trade,Trade,Evolve Makuhita,Evolve Makuhita
+Azurill,#0298,False,Breed Marill or Azumarill holding a Sea Incense,Breed Marill or Azumarill holding a Sea Incense,Breed Marill or Azumarill holding a Sea Incense,Trade,Breed Marill or Azumarill holding a Sea Incense,Trade,Trade
+Nosepass,#0299,False,Granite Cave (Rock Smash),Granite Cave (Rock Smash),Granite Cave (Rock Smash),Trade,Trade,Trade,"Pyrite Colosseum, Realgam Colosseum, Poké Spots (Shadow)"
+Skitty,#0300,False,Route 116 Trade Pikachu in Fortree City,Route 116 Trade Pikachu in Fortree City,Route 116,Trade,Trade,Trade,Trade
+Delcatty,#0301,False,Evolve Skitty,Evolve Skitty,Evolve Skitty,Trade,Trade,Trade,Cipher Lab (Shadow)
+Sableye,#0302,False,"Trade, Event","Granite Cave, Cave of Origin, Sky Pillar, Victory Road","Granite Cave, Cave of Origin, Sky Pillar, Victory Road","Trade, Event","Trade, Event",Trade,Citadark Isle (Shadow)
+Mawile,#0303,False,"Granite Cave, Cave of Origin, Victory Road, Sky Pillar","Trade, Event",Victory Road,"Trade, Event","Trade, Event",Trade,ON B S (Shadow)
+Aron,#0304,False,"Granite Cave, Victory Road","Granite Cave, Victory Road","Granite Cave, Victory Road",Trade,Trade,Trade,Cave Poké Spot
+Lairon,#0305,False,Victory Road,Victory Road,Victory Road,Trade,Trade,Trade,Evolve Aron
+Aggron,#0306,False,Evolve Lairon,Evolve Lairon,Evolve Lairon,Trade,Trade,Trade,Evolve Lairon
+Meditite,#0307,False,"Mt. Pyre, Victory Road","Mt. Pyre, Victory Road","Trade, Event","Trade, Event","Trade, Event",Pyrite Cave (Shadow),Trade Trapinch to Duking in Pyrite Town
+Medicham,#0308,False,Victory Road,Victory Road,Trade,Trade,Trade,Evolve Meditite,Evolve Meditite
+Electrike,#0309,False,Routes 110 and 118,Routes 110 and 118,Routes 110 and 118,Trade,Trade,Trade,Trade
+Manectric,#0310,False,Route 118,Route 118,Route 118,Trade,Trade,Trade,Citadark Isle (Shadow)
+Plusle,#0311,False,Route 110,Route 110,Route 110Trade Volbeat in Fortree City,"Trade, Event","Trade, Event",Gift from Duking in Pyrite Town,Trade
+Minun,#0312,False,Route 110,Route 110,Route 110,"Trade, Event","Trade, Event",Trade,Trade
+Volbeat,#0313,False,Route 117,Route 117,Route 117,Trade,Trade,Trade,Trade
+Illumise,#0314,False,Route 117,Route 117,Route 117,Trade,Trade,Trade,Trade
+Roselia,#0315,False,Route 117,Route 117,"Trade, Event","Trade, Event","Trade, Event",Trade,Prestige Precept Center (Shadow)
+Gulpin,#0316,False,Route 110,Route 110,Route 110,Trade,Trade,Trade,Cipher Lab (Shadow)
+Swalot,#0317,False,Evolve Gulpin,Evolve Gulpin,Evolve Gulpin,Trade,Trade,Trade,Evolve Gulpin
+Carvanha,#0318,False,Routes 118 and 119 (Good Rod or Super Rod),Routes 118 and 119 (Good Rod or Super Rod),Routes 118 and 119 (Good Rod or Super Rod),Trade,Trade,Trade,Cipher Lab (Shadow)
+Sharpedo,#0319,False,"Routes 103, 118, 122, 124, 125, 126, 127, 129, 130, 131, 132, 133, and 134, Mossdeep City, Pacifidlog Town (Super Rod)","Routes 103, 118, 122, 124, 125, 126, 127, 129, 130, 131, 132, 133, and 134, Mossdeep City, Pacifidlog Town (Super Rod)","Routes 103, 118, 122, 124, 125, 126, 127, 129, 130, 131, 132, 133, and 134, Mossdeep City, Pacifidlog Town (Super Rod)",Trade,Trade,Trade,Evolve Carvanha
+Wailmer,#0320,False,"Routes 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Seafloor Cavern, Shoal Cave, Slateport City (Fishing)","Routes 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Seafloor Cavern, Shoal Cave, Slateport City (Fishing)","Routes 103, 105, 106, 107, 108, 109, 110, 115, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Seafloor Cavern, Shoal Cave, Slateport City (Fishing)",Trade,Trade,Trade,Trade
+Wailord,#0321,False,Route 129 (Surfing),Route 129 (Surfing),Route 129 (Surfing),Trade,Trade,Trade,Trade
+Numel,#0322,False,"Route 112, Fiery Path, Jagged Pass","Route 112, Fiery Path, Jagged Pass","Route 112, Fiery Path, Jagged Pass",Trade,Trade,Trade,Cipher Lab (Shadow)
+Camerupt,#0323,False,Evolve Numel,Evolve Numel,Evolve Numel,Trade,Trade,Trade,Evolve Numel
+Torkoal,#0324,False,Fiery Path,Fiery Path,"Fiery Path, Magma Hideout",Trade,Trade,Trade,Trade
+Spoink,#0325,False,Jagged Pass,Jagged Pass,Jagged Pass,"Trade, Event","Trade, Event",Trade,Trade
+Grumpig,#0326,False,Evolve Spoink,Evolve Spoink,Evolve Spoink,Trade,Trade,Trade,Trade
+Spinda,#0327,False,Route 113,Route 113,Route 113,"Trade, Event","Trade, Event",Trade,Trade
+Trapinch,#0328,False,Route 111,Route 111,"Route 111, Mirage Tower",Trade,Trade,Trade,Rock Poké Spot
+Vibrava,#0329,False,Evolve Trapinch,Evolve Trapinch,Evolve Trapinch,Trade,Trade,Shadow P K M N Lab (Shadow),Evolve Trapinch
+Flygon,#0330,False,Evolve Vibrava,Evolve Vibrava,Evolve Vibrava,Trade,Trade,Evolve Vibrava,Evolve Vibrava
+Cacnea,#0331,False,Route 111,Route 111,Route 111,Trade,Trade,Trade,Trade
+Cacturne,#0332,False,Evolve Cacnea,Evolve Cacnea,Evolve Cacnea,Trade,Trade,Trade,Trade
+Swablu,#0333,False,Routes 114 and 115,Routes 114 and 115,Routes 114 and 115,Trade,Trade,Pyrite Cave (Shadow),Trade
+Altaria,#0334,False,Sky Pillar,Sky Pillar,Sky Pillar,Trade,Trade,Evolve Swablu,Citadark Isle (Shadow)
+Zangoose,#0335,False,Route 114,"Trade, Event","Trade, Event","Trade, Event","Trade, Event",Trade,Cipher Key Lair (Shadow)
+Seviper,#0336,False,Trade,Route 114,Route 114,Trade,Trade,Trade,Trade
+Lunatone,#0337,False,"Trade, Event",Meteor Falls,"Trade, Event","Trade, Event","Trade, Event",Trade,Phenac Stadium (Shadow)
+Solrock,#0338,False,Meteor Falls,"Trade, Event",Meteor Falls,"Trade, Event","Trade, Event",Trade,Citadark Isle (Shadow)
+Barboach,#0339,False,"Routes 111, 114, 120, Meteor Falls, Victory Road (Fishing)","Routes 111, 114, 120, Meteor Falls, Victory Road (Fishing)","Routes 111, 114, 120, Meteor Falls, Victory Road (Fishing)",Trade,Trade,Trade,Trade
+Whiscash,#0340,False,"Meteor Falls, Victory Road (Super Rod)","Meteor Falls, Victory Road (Super Rod)","Meteor Falls, Victory Road (Super Rod)",Trade,Trade,Trade,Trade
+Corphish,#0341,False,"Routes 102 and 117, Petalburg City (Good Rod or Super Rod)","Routes 102 and 117, Petalburg City (Good Rod or Super Rod)","Routes 102 and 117, Petalburg City (Good Rod or Super Rod)","Trade, Event","Trade, Event",Trade,Trade
+Crawdaunt,#0342,False,Evolve Corphish,Evolve Corphish,Evolve Corphish,Trade,Trade,Trade,Trade
+Baltoy,#0343,False,Route 111,Route 111,Route 111,Trade,Trade,Trade,Cipher Lab (Shadow)
+Claydol,#0344,False,Sky Pillar,Sky Pillar,Sky Pillar,Trade,Trade,Trade,Evolve Baltoy
+Lileep,#0345,False,Revive from Root Fossil at the Devon Corporation in Rustboro City,Revive from Root Fossil at the Devon Corporation in Rustboro City,Revive from Root Fossil at the Devon Corporation in Rustboro City,Trade,Trade,Trade,Trade
+Cradily,#0346,False,Evolve Lileep,Evolve Lileep,Evolve Lileep,Trade,Trade,Trade,Trade
+Anorith,#0347,False,Revive from Claw Fossil at the Devon Corporation in Rustboro City,Revive from Claw Fossil at the Devon Corporation in Rustboro City,Revive from Claw Fossil at the Devon Corporation in Rustboro City,Trade,Trade,Trade,Trade
+Armaldo,#0348,False,Evolve Anorith,Evolve Anorith,Evolve Anorith,Trade,Trade,Trade,Trade
+Feebas,#0349,False,Route 119 (six fishing spots),Route 119 (six fishing spots),Route 119 (six fishing spots),Trade,Trade,Trade,Trade
+Milotic,#0350,False,Evolve Feebas,Evolve Feebas,Evolve Feebas,Trade,Trade,Trade,Trade
+Castform,#0351,False,Weather Institute (Only one),Weather Institute (Only one),Weather Institute (Only one),Trade,Trade,Trade,Trade
+Kecleon,#0352,False,"Routes 118, 119, 120, 121, and 123","Routes 118, 119, 120, 121, and 123","Routes 118, 119, 120, 121, and 123",Trade,Trade,Trade,Trade
+Shuppet,#0353,False,Mt. Pyre,"Routes 121 and 123, Mt. Pyre","Routes 121 and 123, Mt. Pyre",Trade,Trade,Trade,Trade
+Banette,#0354,False,Evolve Shuppet,Sky Pillar,Sky Pillar,Trade,Trade,Trade,Citadark Isle (Shadow)
+Duskull,#0355,False,"Routes 121 and 123, Mt. Pyre",Mt. Pyre,Mt. Pyre,Trade,Trade,Trade,ON B S (Shadow)
+Dusclops,#0356,False,Sky Pillar,Evolve Duskull,Evolve Duskull,Trade,Trade,Trade,Evolve Duskull
+Tropius,#0357,False,Route 119,Route 119,Route 119,Trade,Trade,Tower Colosseum (Shadow),Trade
+Chimecho,#0358,False,Top of Mt. Pyre,Top of Mt. Pyre,Top of Mt. Pyre,Trade,Trade,Trade,Trade
+Absol,#0359,False,Route 120,Route 120,Route 120,"Trade, Event","Trade, Event",Tower Colosseum (Shadow),Trade
+Wynaut,#0360,False,Hatch Egg received from an old couple in Lavaridge Town Route 130 (Mirage Island),Hatch Egg received from an old couple in Lavaridge Town Route 130 (Mirage Island),Hatch Egg received from an old couple in Lavaridge Town Route 130 (Mirage Island),Breed Wobbuffet holding a Lax Incense,Breed Wobbuffet holding a Lax Incense,Trade,Trade
+Snorunt,#0361,False,Shoal Cave (low tide),Shoal Cave (low tide),Shoal Cave (low tide),Trade,Trade,Trade,Phenac City (Shadow)
+Glalie,#0362,False,Evolve Snorunt,Evolve Snorunt,Evolve Snorunt,Trade,Trade,Trade,Evolve Snorunt
+Spheal,#0363,False,Shoal Cave,Shoal Cave,Shoal Cave,Trade,Trade,Trade,Cipher Lab (Shadow)
+Sealeo,#0364,False,Evolve Spheal,Evolve Spheal,Evolve Spheal,Trade,Trade,Trade,Evolve Spheal
+Walrein,#0365,False,Evolve Sealeo,Evolve Sealeo,Evolve Sealeo,Trade,Trade,Trade,Evolve Sealeo
+Clamperl,#0366,False,Underwater (Routes 124 and 126),Underwater (Routes 124 and 126),Underwater (Routes 124 and 126),Trade,Trade,Trade,Trade
+Huntail,#0367,False,Evolve Clamperl,Evolve Clamperl,Evolve Clamperl,Trade,Trade,Trade,Trade
+Gorebyss,#0368,False,Evolve Clamperl,Evolve Clamperl,Evolve Clamperl,Trade,Trade,Trade,Trade
+Relicanth,#0369,False,Underwater (Routes 124 and 126),Underwater (Routes 124 and 126),Underwater (Routes 124 and 126),Trade,Trade,Trade,Trade
+Luvdisc,#0370,False,"Route 128, Ever Grande City (Good Rod or Super Rod)","Route 128, Ever Grande City (Good Rod or Super Rod)","Route 128, Ever Grande City (Good Rod or Super Rod)",Trade,Trade,Trade,Trade
+Bagon,#0371,False,Meteor Falls,Meteor Falls,Meteor Falls,Trade,Trade,Trade,Trade
+Shelgon,#0372,False,Evolve Bagon,Evolve Bagon,Evolve Bagon,Trade,Trade,Trade,Trade
+Salamence,#0373,False,Evolve Shelgon,Evolve Shelgon,Evolve Shelgon,Trade,Trade,Trade,Citadark Isle (Shadow)
+Beldum,#0374,False,Received from Steven at his house in Mossdeep City (after entering the Hall of Fame),Received from Steven at his house in Mossdeep City (after entering the Hall of Fame),Received from Steven at his house in Mossdeep City (after entering the Hall of Fame),Trade,Trade,Trade,Trade
+Metang,#0375,False,Evolve Beldum,Evolve Beldum,Evolve Beldum,Trade,Trade,Trade,Trade
+Metagross,#0376,False,Evolve Metang,Evolve Metang,Evolve Metang,Trade,Trade,Tower Colosseum (Shadow),Trade
+Regirock,#0377,False,Desert Ruins (Only one),Desert Ruins (Only one),Desert Ruins (Only one),Trade,Trade,Trade,Trade
+Regice,#0378,False,Island Cave (Only one),Island Cave (Only one),Island Cave (Only one),Trade,Trade,Trade,Trade
+Registeel,#0379,False,Ancient Tomb (Only one),Ancient Tomb (Only one),Ancient Tomb (Only one),Trade,Trade,Trade,Trade
+Latias,#0380,False,Southern Island (requires Eon Ticket) (Only one),Roaming Hoenn (Only one),Roaming Hoenn or Southern Island (requires Eon Ticket) (Only one),Trade,Trade,Trade,Trade
+Latios,#0381,False,Roaming Hoenn (Only one),Southern Island (requires Eon Ticket) (Only one),Roaming Hoenn or Southern Island (requires Eon Ticket) (Only one),"Trade, Event","Trade, Event",Trade,Trade
+Kyogre,#0382,False,Trade,Cave of Origin (Only one),Marine Cave (Only one),Trade,Trade,Trade,Trade
+Groudon,#0383,False,Cave of Origin (Only one),Trade,Terra Cave (Only one),Trade,Trade,Trade,Trade
+Rayquaza,#0384,False,Sky Pillar (Only one),Sky Pillar (Only one),Sky Pillar (Only one),Trade,Trade,Trade,Trade
+Jirachi,#0385,False,Pokémon Colosseum Bonus Disc (U S) Pokémon Channel (E U),Pokémon Colosseum Bonus Disc (U S) Pokémon Channel (E U),"Trade, Event","Trade, Event","Trade, Event",Trade,Trade
+Deoxys,#0386,False,"Trade, Event","Trade, Event",Birth Island (requires Aurora Ticket) (Only one),Birth Island (requires Aurora Ticket) (Only one),Birth Island (requires Aurora Ticket) (Only one),Trade,Trade

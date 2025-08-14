@@ -1,0 +1,152 @@
+Pokemon,No.,Caught?,Red,Blue,Blue (Japan),Yellow
+Bulbasaur,#0001,False,First partner Pokémon from Professor Oak in Pallet Town,First partner Pokémon from Professor Oak in Pallet Town,First partner Pokémon from Professor Oak in Pallet Town,Received from a girl in Cerulean City if the partner Pikachu's friendship is 147 or higher
+Ivysaur,#0002,False,Evolve Bulbasaur,Evolve Bulbasaur,Evolve Bulbasaur,Evolve Bulbasaur
+Venusaur,#0003,False,Evolve Ivysaur,Evolve Ivysaur,Evolve Ivysaur,Evolve Ivysaur
+Charmander,#0004,False,First partner Pokémon from Professor Oak in Pallet Town,First partner Pokémon from Professor Oak in Pallet Town,First partner Pokémon from Professor Oak in Pallet Town,Received from a boy on Route 24
+Charmeleon,#0005,False,Evolve Charmander,Evolve Charmander,Evolve Charmander,Evolve Charmander
+Charizard,#0006,False,Evolve Charmeleon,Evolve Charmeleon,Evolve Charmeleon,Evolve Charmeleon
+Squirtle,#0007,False,First partner Pokémon from Professor Oak in Pallet Town,First partner Pokémon from Professor Oak in Pallet Town,First partner Pokémon from Professor Oak in Pallet Town,Received from Officer Jenny in Vermilion City after receiving the Thunder Badge
+Wartortle,#0008,False,Evolve Squirtle,Evolve Squirtle,Evolve Squirtle,Evolve Squirtle
+Blastoise,#0009,False,Evolve Wartortle,Evolve Wartortle,Evolve Wartortle,Evolve Wartortle
+Caterpie,#0010,False,"Route 25, Viridian Forest","Routes 2, 24, and 25, Viridian Forest","Routes 2, 24, and 25, Viridian Forest",Viridian Forest
+Metapod,#0011,False,"Route 25, Viridian Forest","Routes 24 and 25, Viridian Forest","Routes 24 and 25, Viridian Forest",Viridian Forest
+Butterfree,#0012,False,Evolve Metapod,Evolve Metapod,Evolve Metapod,Evolve Metapod
+Weedle,#0013,False,"Routes 2, 24, and 25, Viridian Forest","Route 25, Viridian Forest","Route 25, Viridian Forest",Trade
+Kakuna,#0014,False,"Routes 24 and 25, Viridian Forest","Route 25, Viridian Forest","Route 25, Viridian Forest",Trade
+Beedrill,#0015,False,Evolve Kakuna,Evolve Kakuna,Evolve Kakuna,Trade
+Pidgey,#0016,False,"Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 21, 24, and 25","Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 21, 24, and 25","Routes 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 21, 24, and 25","Routes 1, 2, 5, 6, 7, 8, 11, 12, 13, 21, 24, and 25, Viridian Forest"
+Pidgeotto,#0017,False,"Routes 14, 15, and 21","Routes 14, 15, and 21","Routes 14, 15, and 21","Routes 5, 6, 7, 8, 11, 12, 13, 14, 15, 21, 24, and 25, Viridian Forest"
+Pidgeot,#0018,False,Evolve Pidgeotto,Evolve Pidgeotto,Evolve Pidgeotto,Evolve Pidgeotto
+Rattata,#0019,False,"Routes 1, 2, 4, 9, 16, 21, and 22","Routes 1, 2, 4, 9, 16, 21, and 22","Routes 1, 2, 4, 9, 16, 21, and 22","Routes 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16, 18, 21, and 22, Pokémon Mansion"
+Raticate,#0020,False,"Routes 16, 17, 18, and 21","Routes 16, 17, 18, and 21","Routes 16, 17, 18, and 21, Cerulean Cave","Routes 9, 10, 11, 16, 18, and 21, Pokémon Mansion"
+Spearow,#0021,False,"Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23","Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23","Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, and 23","Routes 3, 4, 9, 16, 18, and 22"
+Fearow,#0022,False,"Routes 17, 18, and 23","Routes 17, 18, and 23","Routes 17, 18, and 23","Routes 9, 16, 17, 18, and 23"
+Ekans,#0023,False,"Routes 4, 8, 9, 10, 11, and 23",Trade,Trade,Trade
+Arbok,#0024,False,Route 23 and Cerulean Cave,Trade,Trade,Trade
+Pikachu,#0025,False,"Viridian Forest, Power Plant","Viridian Forest, Power Plant","Viridian Forest, Power Plant, Rocket Game Corner",First Pokémon from Professor Oak in Pallet Town
+Raichu,#0026,False,Cerulean Cave,"Power Plant, Cerulean Cave","Power Plant, Cerulean Cave",Trade
+Sandshrew,#0027,False,Trade,"Routes 4, 8, 9, 10, 11, and 23","Routes 4, 8, 9, 10, 11, and 23","Routes 3 and 4, Mt. Moon"
+Sandslash,#0028,False,Trade,"Route 23, Cerulean Cave","Route 23, Cerulean Cave",Cerulean Cave
+Nidoran♀,#0029,False,"Route 22, Safari Zone Trade Nidoran♂ in Underground Path (Kanto Routes 5–6) (Western languages only)","Route 22, Safari Zone Trade Nidoran♂ in Underground Path (Kanto Routes 5–6) (Western languages only)","Route 22, Safari Zone","Routes 2, 9, 10, and 22, Safari Zone"
+Nidorina,#0030,False,"Safari Zone, Celadon City (Rocket Game Corner) Trade Nidorino on Route 11",Safari Zone Trade Nidorino on Route 11,Safari Zone,"Routes 9 and 23, Safari Zone"
+Nidoqueen,#0031,False,Evolve Nidorina,Evolve Nidorina,Evolve Nidorina,Evolve Nidorina
+Nidoran♂,#0032,False,"Route 22, Safari Zone Trade Nidoran♀ in Underground Path (Kanto Routes 5–6) (Japanese Pokémon Red and Green only)","Route 22, Safari Zone Trade Nidoran♀ in Underground Path (Kanto Routes 5–6) (Japanese Pokémon Red and Green only)","Route 22, Safari Zone","Routes 2, 9, 10, and 22, Safari Zone"
+Nidorino,#0033,False,Safari Zone,"Safari Zone, Celadon Game Corner",Safari Zone,"Routes 9 and 23, Safari Zone"
+Nidoking,#0034,False,Evolve Nidorino,Evolve Nidorino,Evolve Nidorino,Evolve Nidorino
+Clefairy,#0035,False,"Mt. Moon, Celadon City (Rocket Game Corner)","Mt. Moon, Celadon City (Rocket Game Corner)","Mt. Moon, Cerulean Cave",Mt. Moon
+Clefable,#0036,False,Evolve Clefairy,Evolve Clefairy,Rocket Game Corner,Evolve Clefairy
+Vulpix,#0037,False,Trade,"Routes 7 and 8, Pokémon Mansion",Trade,Celadon City (Rocket Game Corner)
+Ninetales,#0038,False,Trade,Evolve Vulpix,Trade,Evolve Vulpix
+Jigglypuff,#0039,False,Route 3,Route 3,Route 3,"Routes 5, 6, 7, and 8"
+Wigglytuff,#0040,False,Cerulean Cave,Cerulean Cave,Cerulean Cave,Celadon City (Rocket Game Corner)
+Zubat,#0041,False,"Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road","Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road","Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road","Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road"
+Golbat,#0042,False,"Seafoam Islands, Victory Road, Cerulean Cave","Seafoam Islands, Victory Road, Cerulean Cave","Seafoam Islands, Victory Road, Cerulean Cave","Seafoam Islands, Victory Road, Cerulean Cave"
+Oddish,#0043,False,"Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25",Trade,"Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25","Routes 12, 13, 14, 15, 24, and 25"
+Gloom,#0044,False,"Routes 12, 13, 14, and 15",Trade,"Routes 12, 13, 14, and 15","Routes 12, 13, 14, and 15, Cerulean Cave"
+Vileplume,#0045,False,Evolve Gloom,Trade,Evolve Gloom,Evolve Gloom
+Paras,#0046,False,"Mt. Moon, Safari Zone","Mt. Moon, Safari Zone","Mt. Moon, Safari Zone","Mt. Moon, Safari Zone"
+Parasect,#0047,False,"Safari Zone, Cerulean Cave","Safari Zone, Cerulean Cave","Safari Zone, Cerulean Cave","Safari Zone, Cerulean Cave Trade for Tangela on Route 18"
+Venonat,#0048,False,"Routes 12, 13, 14, and 15, Safari Zone","Routes 12, 13, 14, and 15, Safari Zone","Routes 12, 13, 14, and 15, Safari Zone","Routes 14, 15, 24, and 25"
+Venomoth,#0049,False,"Safari Zone, Victory Road, Cerulean Cave","Safari Zone, Victory Road, Cerulean Cave","Safari Zone, Victory Road, Cerulean Cave","Routes 14 and 15, Cerulean Cave"
+Diglett,#0050,False,Diglett's Cave,Diglett's Cave,Diglett's Cave,Diglett's Cave
+Dugtrio,#0051,False,Diglett's Cave,Diglett's Cave,Diglett's Cave,Diglett's Cave Trade Lickitung on Route 11
+Meowth,#0052,False,Trade,"Routes 5, 6, 7, and 8","Routes 5, 6, 7, and 8",Trade
+Persian,#0053,False,Trade,Evolve Meowth,Evolve Meowth,Trade
+Psyduck,#0054,False,"Seafoam Islands Routes 24 and 25, Cerulean City, Cerulean Gym, Safari Zone (Super Rod)","Seafoam Islands Routes 24 and 25, Cerulean City, Cerulean Gym, Safari Zone (Super Rod)","Routes 24 and 25, Cerulean City, Cerulean Gym, Safari Zone (Super Rod)",Route 6 (Surfing)
+Golduck,#0055,False,Seafoam Islands,Seafoam Islands,Evolve Psyduck,Route 6 (Surfing)
+Mankey,#0056,False,"Routes 5, 6, 7, and 8",Trade,Trade,"Routes 3, 4, 22, and 23"
+Primeape,#0057,False,Evolve Mankey,Trade,Trade,Route 23
+Growlithe,#0058,False,"Routes 7 and 8, Pokémon Mansion",Trade,"Routes 7 and 8, Pokémon Mansion",Pokémon Mansion
+Arcanine,#0059,False,Evolve Growlithe,Trade,Evolve Growlithe,Evolve Growlithe
+Poliwag,#0060,False,"Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod) Pallet Town, Viridian City, Route 22 (Super Rod)","Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod) Pallet Town, Viridian City, Route 22 (Super Rod)","Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod) Route 22, Pallet Town, Viridian City (Super Rod) Trade for Rattata on Route 5","Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Cerulean Gym, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod) Routes 22 and 23, Viridian City (Super Rod)"
+Poliwhirl,#0061,False,Route 10 and Celadon City (Super Rod),Route 10 and Celadon City (Super Rod),Route 10 and Celadon City (Super Rod),Routes 22 and 23 (Super Rod)
+Poliwrath,#0062,False,Evolve Poliwhirl,Evolve Poliwhirl,Evolve Poliwhirl,Evolve Poliwhirl
+Abra,#0063,False,"Routes 24 and 25, Celadon City (Rocket Game Corner)","Routes 24 and 25, Celadon City (Rocket Game Corner)","Routes 24 and 25, Celadon City (Rocket Game Corner)","Routes 5, 6, 7, and 8, Celadon City (Rocket Game Corner)"
+Kadabra,#0064,False,Cerulean Cave,Cerulean Cave,Cerulean Cave,Route 8
+Alakazam,#0065,False,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra
+Machop,#0066,False,"Rock Tunnel, Victory Road","Rock Tunnel, Victory Road","Rock Tunnel, Victory Road","Route 10, Rock Tunnel"
+Machoke,#0067,False,Victory Road,Victory Road,Victory Road,Victory Road Trade Cubone in Underground Path (Kanto Routes 5–6)*
+Machamp,#0068,False,Evolve Machoke,Evolve Machoke,Evolve Machoke,Trade Cubone for Machoke in Underground Path (Kanto Routes 5–6) (evolves immediately)
+Bellsprout,#0069,False,Trade,"Routes 5, 6, 7, 12, 13, 14, 15, 24, and 25",Trade,"Routes 12, 13, 14, 15, 24, and 25"
+Weepinbell,#0070,False,Trade,"Routes 12, 13, 14, and 15",Trade,"Routes 12, 13, 14, and 15, Cerulean Cave"
+Victreebel,#0071,False,Trade,Evolve Weepinbell,Trade,Evolve Weepinbell
+Tentacool,#0072,False,"Routes 19, 20, and 21 (Surfing) Routes 12, 13, 17, and 18, Pallet Town, Viridian City (Super Rod)","Routes 19, 20, and 21 (Surfing) Routes 12, 13, 17, and 18, Pallet Town, Viridian City (Super Rod)","Routes 19, 20, and 21 (Surfing) Routes 12, 13, 17, and 18, Pallet Town, Viridian City (Super Rod)","Routes 19, 20, and 21, Seafoam Islands (Surfing) Routes 11, 13, 17, 18, 19, 20, and 21, Pallet Town, Vermilion City, Cinnabar Island (Super Rod)"
+Tentacruel,#0073,False,Evolve Tentacool,Evolve Tentacool,Evolve Tentacool,"Routes 19, 20, and 21 (Super Rod)"
+Geodude,#0074,False,"Mt. Moon, Rock Tunnel, Victory Road","Mt. Moon, Rock Tunnel, Victory Road","Mt. Moon, Rock Tunnel, Victory Road","Mt. Moon, Rock Tunnel, Victory Road"
+Graveler,#0075,False,Victory Road,Victory Road,Victory Road Trade Kadabra at the Pokémon Lab on Cinnabar Island*,"Victory Road, Cerulean Cave"
+Golem,#0076,False,Evolve Graveler,Evolve Graveler,Trade Kadabra for Graveler at the Pokémon Lab on Cinnabar Island*,Evolve Graveler
+Ponyta,#0077,False,Pokémon Mansion,Pokémon Mansion,Pokémon Mansion,Route 17
+Rapidash,#0078,False,Evolve Ponyta,Evolve Ponyta,Cerulean Cave,Evolve Ponyta
+Slowpoke,#0079,False,"Seafoam Islands Route 10, Celadon City, and Safari Zone (Super Rod)","Seafoam Islands Route 10, Celadon City, and Safari Zone (Super Rod)","Seafoam Islands Route 10, Celadon City, and Safari Zone (Super Rod) Trade for Seel at the Pokémon Lab",Seafoam Islands Routes 12 and 13 (surfing)
+Slowbro,#0080,False,Route 23 and Cerulean Cave (Super Rod) Seafoam Islands (walking),Route 23 and Cerulean Cave (Super Rod) Seafoam Islands (walking),Route 23 and Cerulean Cave (Super Rod) Seafoam Islands (walking),Routes 12 and 13 (surfing) Seafoam Islands (walking)
+Magnemite,#0081,False,Power Plant,Power Plant,Power Plant,"Route 10, Power Plant"
+Magneton,#0082,False,"Power Plant, Cerulean Cave","Power Plant, Cerulean Cave","Power Plant, Cerulean Cave",Power Plant
+Farfetch'd,#0083,False,Trade Spearow in Vermilion City,Trade Spearow in Vermilion City,Trade Pidgey in Vermilion City,Routes 12 and 13
+Doduo,#0084,False,"Routes 16, 17, and 18, Safari Zone","Routes 16, 17, and 18, Safari Zone","Routes 16, 17, and 18, Safari Zone","Routes 16, 17, and 18"
+Dodrio,#0085,False,Cerulean Cave,Cerulean Cave,Cerulean Cave,Route 17
+Seel,#0086,False,Seafoam Islands Trade Ponyta at the Pokémon Lab on Cinnabar Island,Seafoam Islands Trade Ponyta at the Pokémon Lab on Cinnabar Island,Seafoam Islands,Seafoam Islands
+Dewgong,#0087,False,Seafoam Islands,Seafoam Islands,Seafoam Islands,Seafoam Islands Trade Growlithe at the Pokémon Lab on Cinnabar Island
+Grimer,#0088,False,Pokémon Mansion,Pokémon Mansion,Pokémon Mansion,"Pokémon Mansion, Power Plant"
+Muk,#0089,False,Pokémon Mansion,Pokémon Mansion,Pokémon Mansion,"Pokémon Mansion, Power Plant Trade Kangaskhan at the Pokémon Lab on Cinnabar Island"
+Shellder,#0090,False,"Seafoam Islands Routes 6, 11, 19, 20, 21, Vermilion City, Seafoam Islands, Cinnabar Island (Super Rod)","Seafoam Islands Routes 6, 11, 19, 20, 21, Vermilion City, Seafoam Islands, Cinnabar Island (Super Rod)","Seafoam Islands Routes 6, 11, 19, 20, 21, Vermilion City,  Seafoam Islands, Cinnabar Island (Super Rod)","Routes 17, 18, Vermilion Harbor (Super Rod)"
+Cloyster,#0091,False,Evolve Shellder,Evolve Shellder,Evolve Shellder,Evolve Shellder
+Gastly,#0092,False,Pokémon Tower,Pokémon Tower,Pokémon Tower,Pokémon Tower
+Haunter,#0093,False,Pokémon Tower,Pokémon Tower,Pokémon Tower Trade Machoke in Cerulean City*,Pokémon Tower
+Gengar,#0094,False,Evolve Haunter,Evolve Haunter,Trade Machoke for Haunter in Cerulean City (evolves immediately),Evolve Haunter
+Onix,#0095,False,"Rock Tunnel, Victory Road","Rock Tunnel, Victory Road","Rock Tunnel, Victory Road","Rock Tunnel, Victory Road"
+Drowzee,#0096,False,Route 11,Route 11,Route 11,Route 11
+Hypno,#0097,False,Cerulean Cave,Cerulean Cave,Cerulean Cave,Evolve Drowzee
+Krabby,#0098,False,"Routes 6, 11, 12, 13, 17, 18, 24, and 25, Cerulean City, Vermilion City, Fuchsia City, Safari Zone (Super Rod)","Routes 6, 11, 12, 13, 17, 18, 24, and 25, Cerulean City, Vermilion City, Fuchsia City, Safari Zone (Super Rod) Seafoam Islands","Routes 6, 11, 12, 13, 17, 18, 24, and 25, Cerulean City, Vermilion City, Fuchsia City, Safari Zone (Super Rod) Seafoam Islands Trade Growlithe at the Pokémon Lab on Cinnabar Island","Routes 10 and 25, Seafoam Islands (Super Rod) Seafoam Islands"
+Kingler,#0099,False,"Route 23, Cerulean Cave (Super Rod)","Route 23, Cerulean Cave (Super Rod) Seafoam Islands","Route 23, Cerulean Cave (Super Rod) Seafoam Islands","Routes 10 and 25, Seafoam Islands (Super Rod) Seafoam Islands"
+Voltorb,#0100,False,"Route 10, Power Plant","Route 10, Power Plant","Route 10, Power Plant",Power Plant
+Electrode,#0101,False,Power Plant (Two) Cerulean Cave Trade Raichu at the Pokémon Lab on Cinnabar Island,Power Plant (Two) Cerulean Cave Trade Raichu at the Pokémon Lab on Cinnabar Island,Power Plant (Two) Cerulean Cave,Power Plant (Two)
+Exeggcute,#0102,False,Safari Zone,Safari Zone,Safari Zone,Safari Zone
+Exeggutor,#0103,False,Evolve Exeggcute,Evolve Exeggcute,Evolve Exeggcute,Evolve Exeggcute
+Cubone,#0104,False,Pokémon Tower,Pokémon Tower,Pokémon Tower,Pokémon Tower and Safari Zone
+Marowak,#0105,False,Victory Road and Cerulean Cave,Victory Road and Cerulean Cave,Victory Road and Cerulean Cave,Safari Zone
+Hitmonlee,#0106,False,Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan),Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan),Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan),Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan)
+Hitmonchan,#0107,False,Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee),Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee),Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee),Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee)
+Lickitung,#0108,False,Trade Slowbro on Route 18,Trade Slowbro on Route 18,Safari Zone,Cerulean Cave
+Koffing,#0109,False,Pokémon Mansion,Pokémon Mansion,Pokémon Mansion,Trade
+Weezing,#0110,False,Pokémon Mansion,Pokémon Mansion,Pokémon Mansion,Trade
+Rhyhorn,#0111,False,Safari Zone,Safari Zone,Safari Zone,"Safari Zone, Cerulean Cave"
+Rhydon,#0112,False,Cerulean Cave,Cerulean Cave,Cerulean Cave,Cerulean Cave Trade Golduck at the Pokémon Lab on Cinnabar Island
+Chansey,#0113,False,"Safari Zone, Cerulean Cave","Safari Zone, Cerulean Cave","Safari Zone, Cerulean Cave","Safari Zone, Cerulean Cave"
+Tangela,#0114,False,Route 21 Trade Venonat at the Pokémon Lab on Cinnabar Island,Route 21 Trade Venonat at the Pokémon Lab on Cinnabar Island,Route 21,Safari Zone
+Kangaskhan,#0115,False,Safari Zone,Safari Zone,Trade Rhydon on Route 11,Safari Zone
+Horsea,#0116,False,"Seafoam Islands Routes 19, 20, and 21, Seafoam Islands, Cinnabar Island (Super Rod)","Routes 19, 20, and 21, Seafoam Islands, Cinnabar Island (Super Rod)","Rocket Game Corner, Seafoam Islands Routes 19, 20, and 21, Seafoam Islands, Cinnabar Island (Super Rod)","Routes 10, 11, 12, and 13, Vermilion City (Super Rod)"
+Seadra,#0117,False,Seafoam Islands Route 23 and Cerulean Cave (Super Rod),Route 23 and Cerulean Cave (Super Rod),Route 23 and Cerulean Cave (Super Rod),Routes 12 and 13 (Super Rod)
+Goldeen,#0118,False,"Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Good Rod) Routes 12, 13, 17, 18, 19, 20, 21, 22, 24, and 25, Cerulean City, Fuchsia City, Seafoam Islands, Cinnabar Island (Super Rod)","Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Good Rod) Routes 12, 13, 17, 18, 19, 20, 21, 22, 24, and 25, Cerulean City, Fuchsia City, Seafoam Islands, Cinnabar Island (Super Rod)","Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Good Rod) Routes 12, 13, 17, 18, 19, 20, 21, 22, 24, and 25, Cerulean City, Fuchsia City, Seafoam Islands, Cinnabar Island (Super Rod)","Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Good Rod) Routes 6 and 24, Cerulean City, Celadon City, Cerulean Cave (Super Rod)"
+Seaking,#0119,False,"Route 23, Fuchsia City, Cerulean Cave (Super Rod)","Route 23, Fuchsia City, Cerulean Cave (Super Rod)","Route 23, Fuchsia City, Cerulean Cave (Super Rod)","Route 24, Cerulean City, Cerulean Cave (Super Rod)"
+Staryu,#0120,False,"Seafoam Islands Routes 19, 20, 21, Cinnabar Island, Seafoam Islands (Super Rod)","Seafoam Islands Routes 19, 20, 21, Cinnabar Island, Seafoam Islands (Super Rod)","Seafoam Islands Routes 19, 20, 21, Cinnabar Island, Seafoam Islands (Super Rod)","Seafoam Islands (Surfing) Routes 19, 20, 21, Pallet Town, Vermilion Harbor, Cinnabar Island, Seafoam Islands (Super Rod)"
+Starmie,#0121,False,Evolve Staryu,Evolve Staryu,Evolve Staryu,Evolve Staryu
+Mr. Mime,#0122,False,Trade Abra on Route 2,Trade Abra on Route 2,Trade Jigglypuff on Route 2,Trade Clefairy on Route 2
+Scyther,#0123,False,Safari Zone Celadon City (Rocket Game Corner),Trade,Safari Zone,Safari Zone Celadon City (Rocket Game Corner)
+Jynx,#0124,False,Trade Poliwhirl in Cerulean City,Trade Poliwhirl in Cerulean City,Seafoam Islands,Trade
+Electabuzz,#0125,False,Power Plant,Trade,Trade,Trade
+Magmar,#0126,False,Trade,Pokémon Mansion,Trade,Trade
+Pinsir,#0127,False,Trade,"Safari Zone, Celadon City (Rocket Game Corner)",Safari Zone,"Safari Zone, Celadon City (Rocket Game Corner)"
+Tauros,#0128,False,Safari Zone,Safari Zone,Trade Persian on Route 18,Safari Zone
+Magikarp,#0129,False,"Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Old Rod) Routes 12, 13, 17, and 18, Fuchsia City (Super Rod) Buy from Magikarp salesman for $500 on Route 4","Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Old Rod) Routes 12, 13, 17, and 18, Fuchsia City (Super Rod) Buy from Magikarp salesman for $500 on Route 4","Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau (Old Rod) Routes 12, 13, 17, and 18, Fuchsia City (Super Rod) Buy from Magikarp salesman for $500 on Route 4","Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, and 25, Pallet Town, Viridian City, Cerulean City, Vermilion City, Celadon City, Fuchsia City, Safari Zone, Seafoam Islands, Cinnabar Island, Indigo Plateau, Cerulean Cave (Old Rod) Fuchsia City, Safari Zone (Super Rod) Buy from Magikarp salesman for $500 on Route 4"
+Gyarados,#0130,False,Evolve Magikarp,Evolve Magikarp,Evolve Magikarp,Fuchsia City (Super Rod)
+Lapras,#0131,False,Received from a person in Silph Co. (Saffron City),Received from a person in Silph Co. (Saffron City),Received from a person in Silph Co. (Saffron City),Received from a person in Silph Co. (Saffron City)
+Ditto,#0132,False,"Routes 13, 14, 15, and 23, Cerulean Cave","Routes 13, 14, 15, and 23, Cerulean Cave","Routes 13, 14, 15, and 23, Rock Tunnel, Cerulean Cave",Pokémon Mansion and Cerulean Cave
+Eevee,#0133,False,Received from a person in Celadon Mansion,Received from a person in Celadon Mansion,Received from a person in Celadon Mansion,Received from a person in Celadon Mansion
+Vaporeon,#0134,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Jolteon,#0135,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Flareon,#0136,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Porygon,#0137,False,Rocket Game Corner,Rocket Game Corner,Rocket Game Corner,Rocket Game Corner
+Omanyte,#0138,False,Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island,Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island,Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island,Revive from Helix Fossil at the Pokémon Lab on Cinnabar Island
+Omastar,#0139,False,Evolve Omanyte,Evolve Omanyte,Evolve Omanyte,Evolve Omanyte
+Kabuto,#0140,False,Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island,Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island,Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island,Revive from Dome Fossil at the Pokémon Lab on Cinnabar Island
+Kabutops,#0141,False,Evolve Kabuto,Evolve Kabuto,Evolve Kabuto,Evolve Kabuto
+Aerodactyl,#0142,False,Revive from Old Amber at the Pokémon Lab on Cinnabar Island,Revive from Old Amber at the Pokémon Lab on Cinnabar Island,Revive from Old Amber at the Pokémon Lab on Cinnabar Island,Revive from Old Amber at the Pokémon Lab on Cinnabar Island
+Snorlax,#0143,False,Routes 12 and 16 (Only two),Routes 12 and 16 (Only two),Routes 12 and 16 (Only two),Routes 12 and 16 (Only two)
+Articuno,#0144,False,Seafoam Islands (Only one),Seafoam Islands (Only one),Seafoam Islands (Only one),Seafoam Islands (Only one)
+Zapdos,#0145,False,Power Plant (Only one),Power Plant (Only one),Power Plant (Only one),Power Plant (Only one)
+Moltres,#0146,False,Victory Road (Only one),Victory Road (Only one),Victory Road (Only one),Victory Road (Only one)
+Dratini,#0147,False,Safari Zone (Super Rod) Buy for 2800C in the Rocket Game Corner in Celadon City,Safari Zone (Super Rod) Buy for 4600C in the Rocket Game Corner in Celadon City,Safari Zone (Super Rod),Safari Zone (Super Rod)
+Dragonair,#0148,False,Evolve Dratini,Evolve Dratini,Rocket Game Corner,Safari Zone (Super Rod)
+Dragonite,#0149,False,Evolve Dragonair,Evolve Dragonair,Evolve Dragonair,Evolve Dragonair
+Mewtwo,#0150,False,Cerulean Cave (Only one),Cerulean Cave (Only one),Cerulean Cave (Only one),Cerulean Cave (Only one)
+Mew,#0151,False,Event,Event,Event,Event

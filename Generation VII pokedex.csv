@@ -1,0 +1,810 @@
+Pokemon,No.,Caught?,Sun,Moon,Ultra Sun,Ultra Moon,Let's Go Pikachu,Let's Go Eevee
+Bulbasaur,#0001,False,Trade,Trade,Route 2 (Island Scan) Fr,Route 2 (Island Scan) Fr,Viridian Forest Cerulean City (Only one),Viridian Forest Cerulean City (Only one)
+Ivysaur,#0002,False,Trade,Trade,Evolve Bulbasaur,Evolve Bulbasaur,Evolve Bulbasaur,Evolve Bulbasaur
+Venusaur,#0003,False,Trade,Trade,Evolve Ivysaur,Evolve Ivysaur,Evolve Ivysaur,Evolve Ivysaur
+Charmander,#0004,False,Trade,Trade,Route 3 (Island Scan) Su,Route 3 (Island Scan) Su,"Route 3, Route 4, Rock Tunnel Route 24 (Only one)","Route 3, Route 4, Rock Tunnel Route 24 (Only one)"
+Charmeleon,#0005,False,Trade,Trade,Evolve Charmander,Evolve Charmander,Evolve Charmander,Evolve Charmander
+Charizard,#0006,False,"Trade, Event","Trade, Event",Evolve Charmeleon,Evolve Charmeleon,"Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25","Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25"
+Squirtle,#0007,False,Trade,Trade,Seaward Cave (Island Scan) Mo,Seaward Cave (Island Scan) Mo,"Route 24, Route 25, Seafoam Islands Vermilion City (Only one)","Route 24, Route 25, Seafoam Islands Vermilion City (Only one)"
+Wartortle,#0008,False,Trade,Trade,Evolve Squirtle,Evolve Squirtle,Evolve Squirtle,Evolve Squirtle
+Blastoise,#0009,False,Trade,Trade,Evolve Wartortle,Evolve Wartortle,Evolve Wartortle,Evolve Wartortle
+Caterpie,#0010,False,"Routes 1 and 5, Lush Jungle, Melemele Meadow","Routes 1 and 5, Lush Jungle, Melemele Meadow","Routes 1 and 5, Melemele Meadow Lush Jungle (SOS Battle)","Routes 1 and 5, Melemele Meadow Lush Jungle (SOS Battle)","Route 2, Viridian Forest","Route 2, Viridian Forest"
+Metapod,#0011,False,"Routes 1 and 5, Lush Jungle, Melemele Meadow","Routes 1 and 5, Lush Jungle, Melemele Meadow","Route 5, Lush Jungle, Melemele Meadow","Route 5, Lush Jungle, Melemele Meadow",Viridian Forest,Viridian Forest
+Butterfree,#0012,False,"Route 5, Melemele Meadow Route 5, Lush Jungle, Melemele Meadow (SOS Battle)","Route 5, Melemele Meadow Route 5, Lush Jungle, Melemele Meadow (SOS Battle)","Route 5, Melemele Meadow Route 5, Lush Jungle, Melemele Meadow (SOS Battle)","Route 5, Melemele Meadow Route 5, Lush Jungle, Melemele Meadow (SOS Battle)",Viridian Forest,Evolve Metapod
+Weedle,#0013,False,Trade,Trade,Breed Beedrill,Breed Beedrill,"Route 2, Viridian Forest","Route 2, Viridian Forest"
+Kakuna,#0014,False,Trade,Trade,Evolve Weedle,Evolve Weedle,Viridian Forest,Viridian Forest
+Beedrill,#0015,False,Trade,Trade,Route 4 (Island Scan) Th,Route 4 (Island Scan) Th,Evolve Kakuna,Viridian Forest
+Pidgey,#0016,False,Trade,Trade,Breed Pidgeot,Breed Pidgeot,"Routes 1, 2, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16,  17, 18, 19, 20, 21, 24, and 25, Viridian Forest","Routes 1, 2, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16,  17, 18, 19, 20, 21, 24, and 25, Viridian Forest"
+Pidgeotto,#0017,False,Trade,Trade,Evolve Pidgey,Evolve Pidgey,"Routes 1, 2, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, and 25","Routes 1, 2, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, and 25"
+Pidgeot,#0018,False,Trade,Trade,Route 10 (Island Scan) Th,Route 10 (Island Scan) Th,"Routes 1, 2, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, and 25","Routes 1, 2, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, and 25"
+Rattata,#0019,False,"Routes 1, 2, 3, 4, 6, 8, Hau'oli City, Kala'e Bay Night (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 1, 2, 3, 4, 6, 8, Hau'oli City, Kala'e Bay Night (Alolan Form) Verdant Cavern (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 1, 2, 4, 6, 8, Kala'e Bay Night (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 1, 2, 4, 6, 8, Kala'e Bay Night (Alolan Form) Verdant Cavern (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 21, and 22, Pokémon Mansion (Kantonian Form) Trade Kantonian Rattata in Cerulean City (Alolan Form)","Routes 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 21, and 22, Pokémon Mansion (Kantonian Form) Trade Kantonian Rattata in Cerulean City (Alolan Form)"
+Raticate,#0020,False,"Routes 10, 11, 15, 16, 17, Akala Outskirts, Ancient Poni Path, Malie City, Poni Gauntlet, Poni Grove, Poni Plains, Poni Wilds, Tapu Village Night (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 10, 11, 15, 16, 17, Akala Outskirts, Ancient Poni Path, Malie City, Poni Gauntlet, Poni Grove, Poni Plains, Poni Wilds, Tapu Village Night (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 10, 15, 16, 17, Akala Outskirts, Tapu Village, Mount Lanakila, Poni Plains Night (Alolan Form) Route 8 Night (SOS Battle) (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 10, 15, 16, 17, Akala Outskirts, Tapu Village, Mount Lanakila, Poni Plains Night (Alolan Form) Route 8 Night (SOS Battle) (Alolan Form) Received from Samson Oak at Heahea Beach* (Totem-sized; Alolan Form) Pokémon Bank (Kantonian Form)","Routes 7, 8, 9, 10, 11, 16,  17, 18 and  21, Pokémon Mansion (Kantonian Form) Evolve Rattata (Alolan Form)","Routes 7, 8, 9, 10, 11, 16,  17, 18 and  21, Pokémon Mansion (Kantonian Form) Evolve Rattata (Alolan Form)"
+Spearow,#0021,False,"Routes 2 and 3, Poké Pelago","Routes 2 and 3, Poké Pelago",Routes 2 and 3,Routes 2 and 3,"Routes 3, 4, 9, 10, 22, and 23","Routes 3, 4, 9, 10, 22, and 23"
+Fearow,#0022,False,"Routes 10 and 17, Mount Hokulani, Poni Plains","Routes 10 and 17, Mount Hokulani, Poni Plains","Routes 10 and 17, Mount Hokulani, Poni Plains","Routes 10 and 17, Mount Hokulani, Poni Plains","Routes 3, 4, 9, 10, 22, and 23","Routes 3, 4, 9, 10, 22, and 23"
+Ekans,#0023,False,Trade,Trade,Route 2,Route 2,Trade,Routes 3 and 4
+Arbok,#0024,False,Trade,Trade,Evolve Ekans Trade Trumbeak on Route 8,Evolve Ekans Trade Trumbeak on Route 8,Trade,Evolve Ekans
+Pikachu,#0025,False,"Route 1, Hau'oli City (SOS Battle)","Route 1, Hau'oli City (SOS Battle)","Route 1 (SOS Battle) Heahea City (Surf Association, Only one) Pikachu Valley (Q R Scanner) (Partner Cap Pikachu)","Route 1 (SOS Battle) Heahea City (Surf Association, Only one) Pikachu Valley (Q R Scanner) (Partner Cap Pikachu)",Viridian Forest (Pikachu) First Pokémon from Professor Oak in Pallet Town (Partner Pikachu),Viridian Forest
+Raichu,#0026,False,Trade (Kantonian Form) Evolve Pikachu (Alolan Form),Trade (Kantonian Form) Evolve Pikachu (Alolan Form),Evolve Pikachu in Ultra Space (Kantonian Form) Evolve Pikachu (Alolan Form),Evolve Pikachu in Ultra Space (Kantonian Form) Evolve Pikachu (Alolan Form),Evolve Pikachu (Kantonian Form) Trade Kantonian Raichu in Saffron City (Alolan Form),Evolve Pikachu (Kantonian Form) Trade Kantonian Raichu in Saffron City (Alolan Form)
+Sandshrew,#0027,False,"Trade, Pokémon Bank","Mount Lanakila, Tapu Village (Alolan Form) Pokémon Bank (Kantonian Form)","Trade, Pokémon Bank","Mount Lanakila, Tapu Village (Alolan Form) Pokémon Bank (Kantonian Form)",Routes 3 and 4 (Kantonian Form) Trade Kantonian Sandshrew in Celadon City (Alolan Form),Trade
+Sandslash,#0028,False,"Trade, Pokémon Bank",Evolve Sandshrew (Alolan Form) Pokémon Bank (Kantonian Form),"Trade, Pokémon Bank",Evolve Sandshrew (Alolan Form) Pokémon Bank (Kantonian Form),Evolve Sandshrew (Kantonian/ Alolan Forms),Trade
+Nidoran♀,#0029,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 9, 10, 22 and 23","Routes 9, 10, 22 and 23"
+Nidorina,#0030,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 9, 10, and 23","Routes 9, 10, and 23"
+Nidoqueen,#0031,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Route 23,Route 23
+Nidoran♂,#0032,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 9, 10, 22 and 23","Routes 9, 10, 22 and 23"
+Nidorino,#0033,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 9, 10 and 23","Routes 9, 10 and 23"
+Nidoking,#0034,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Route 23,Route 23
+Clefairy,#0035,False,Mount Hokulani Night (SOS Battle),Mount Hokulani Night (SOS Battle),Mount Hokulani Night (SOS Battle),Mount Hokulani Night (SOS Battle),Mt. Moon,Mt. Moon
+Clefable,#0036,False,Evolve Clefairy,Evolve Clefairy,Evolve Clefairy,Evolve Clefairy,Mt. Moon,Mt. Moon
+Vulpix,#0037,False,"Tapu Village, Mount Lanakila (Alolan Form) Pokémon Bank (Kantonian Form)","Trade, Pokémon Bank","Tapu Village, Mount Lanakila (Alolan Form) Pokémon Bank (Kantonian Form)","Trade, Pokémon Bank",Trade,"Routes 5, 6, 7 and 8 (Kantonian Form) Trade Kantonian Vulpix in Celadon City (Alolan Form)"
+Ninetales,#0038,False,Evolve Vulpix (Alolan Form) Pokémon Bank (Kantonian Form),"Trade, Pokémon Bank",Evolve Vulpix (Alolan Form) Pokémon Bank (Kantonian Form),"Trade, Pokémon Bank",Trade,Routes 7 and 8 (Kantonian Form) Evolve Vulpix (Alolan Form)
+Jigglypuff,#0039,False,Routes 4 and 6 Day (SOS Battle),Routes 4 and 6 Day (SOS Battle),Routes 4 and 6 Day (SOS Battle),Routes 4 and 6 Day (SOS Battle),"Routes 5, 6, 7 and 8","Routes 5, 6, 7 and 8"
+Wigglytuff,#0040,False,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff
+Zubat,#0041,False,"Diglett's Tunnel, Hau'oli Cemetery, Lush Jungle (Cave), Memorial Hill, Verdant Cavern, Poké Pelago Ten Carat Hill, Seaward Cave (Surfing and walking)","Diglett's Tunnel, Hau'oli Cemetery, Lush Jungle (Cave), Memorial Hill, Verdant Cavern, Poké Pelago Ten Carat Hill, Seaward Cave (Surfing and walking)","Diglett's Tunnel, Hau'oli Cemetery, Memorial Hill, Verdant Cavern, Poké Pelago Ten Carat Hill, Seaward Cave, Sandy Cave (Surfing and walking)","Diglett's Tunnel, Hau'oli Cemetery, Memorial Hill, Verdant Cavern, Poké Pelago Ten Carat Hill, Seaward Cave, Sandy Cave (Surfing and walking)","Mt. Moon, Diglett's Cave, Rock Tunnel, Pokémon Tower, Seafoam Islands, Victory Road, Cerulean Cave","Mt. Moon, Diglett's Cave, Rock Tunnel, Pokémon Tower, Seafoam Islands, Victory Road, Cerulean Cave"
+Golbat,#0042,False,"Thrifty Megamart (Abandoned Site), Mount Lanakila, Vast Poni Canyon, Resolution Cave","Thrifty Megamart (Abandoned Site), Mount Lanakila, Vast Poni Canyon, Resolution Cave","Thrifty Megamart (Abandoned Site), Mount Lanakila, Vast Poni Canyon, Resolution Cave Lush Jungle (Cave), Diglett's Tunnel, Memorial Hill (SOS Battle)","Thrifty Megamart (Abandoned Site), Mount Lanakila, Vast Poni Canyon, Resolution Cave Lush Jungle (Cave), Diglett's Tunnel, Memorial Hill (SOS Battle)","Rock Tunnel, Pokémon Tower, Seafoam Islands, Victory Road, Cerulean Cave","Rock Tunnel, Pokémon Tower, Seafoam Islands, Victory Road, Cerulean Cave"
+Oddish,#0043,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 1, 2, 12, 13, 14, 15, 21, 24, and 25, Viridian Forest",Trade
+Gloom,#0044,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 12, 13, 14, 15 and 21",Trade
+Vileplume,#0045,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Route 21,Trade
+Paras,#0046,False,"Route 11, Brooklet Hill, Lush Jungle Day","Route 11, Brooklet Hill, Lush Jungle Day","Brooklet Hill, Lush Jungle Day","Brooklet Hill, Lush Jungle Day",Mt. Moon,Mt. Moon
+Parasect,#0047,False,Evolve Paras,Evolve Paras,Route 11 Day,Route 11 Day,Evolve Paras,Evolve Paras
+Venonat,#0048,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 14, 15, 24 and 25","Routes 14, 15, 24 and 25"
+Venomoth,#0049,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Routes 14 and 15,Routes 14 and 15
+Diglett,#0050,False,"Routes 5 and 7, Diglett's Tunnel, Lush Jungle (Cave), Seaward Cave, Ten Carat Hill, Verdant Cavern (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 5 and 7, Diglett's Tunnel, Lush Jungle (Cave), Seaward Cave, Ten Carat Hill, Verdant Cavern (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 5 and 7, Diglett's Tunnel, Verdant Cavern (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 5 and 7, Diglett's Tunnel, Verdant Cavern (Alolan Form) Pokémon Bank (Kantonian Form)",Diglett's Cave (Kantonian Form) Trade Kantonian Diglett in Lavender Town (Alolan Form),Diglett's Cave (Kantonian Form) Trade Kantonian Diglett in Lavender Town (Alolan Form)
+Dugtrio,#0051,False,"Haina Desert, Poni Coast, Resolution Cave, Vast Poni Canyon (Alolan Form) Pokémon Bank (Kantonian Form)","Haina Desert, Poni Coast, Resolution Cave, Vast Poni Canyon (Alolan Form) Pokémon Bank (Kantonian Form)","Haina Desert, Poni Coast, Resolution Cave, Vast Poni Canyon, Lush Jungle (Cave) (Alolan Form) Pokémon Bank (Kantonian Form)","Haina Desert, Poni Coast, Resolution Cave, Vast Poni Canyon, Lush Jungle (Cave) (Alolan Form) Pokémon Bank (Kantonian Form)",Diglett's Cave (Kantonian Form) Evolve Diglett (Alolan Form),Diglett's Cave (Kantonian Form) Evolve Diglett (Alolan Form)
+Meowth,#0052,False,"Route 2, Trainers' School, Hau'oli City, Malie Garden (Alolan Form) Pokémon Bank (Kantonian Form)","Route 2, Trainers' School, Hau'oli City, Malie Garden (Alolan Form) Pokémon Bank (Kantonian Form)","Route 2, Trainers' School, Hau'oli City, Malie Garden (Alolan Form) Pokémon Bank (Kantonian Form)","Route 2, Trainers' School, Hau'oli City, Malie Garden (Alolan Form) Pokémon Bank (Kantonian Form)",Trade,Routes 24 and 25 (Kantonian Form) Trade Kantonian Meowth on Cinnabar Island (Alolan Form)
+Persian,#0053,False,Evolve Meowth (Alolan Form) Pokémon Bank (Kantonian Form),Evolve Meowth (Alolan Form) Pokémon Bank (Kantonian Form),Malie Garden (SOS Battle) (Alolan Form) Pokémon Bank (Kantonian Form),Malie Garden (SOS Battle) (Alolan Form) Pokémon Bank (Kantonian Form),Vermilion City (Only one) (Kantonian Form) Trade (Alolan Form),Evolve Meowth (Kantonian/ Alolan Forms)
+Psyduck,#0054,False,"Malie Garden Brooklet Hill, Seaward Cave, Ten Carat Hill (walking and Surfing)","Malie Garden Brooklet Hill, Seaward Cave, Ten Carat Hill (walking and Surfing)","Malie Garden Brooklet Hill, Seaward Cave, Ten Carat Hill, Sandy Cave (walking and Surfing)","Malie Garden Brooklet Hill, Seaward Cave, Ten Carat Hill, Sandy Cave (walking and Surfing)","Routes 4, 6, 17, 24, 25 and Cerulean Cave","Routes 4, 6, 17, 24, 25 and Cerulean Cave"
+Golduck,#0055,False,Poni Gauntlet Vast Poni Canyon (Surfing),Poni Gauntlet Vast Poni Canyon (Surfing),Poni Gauntlet Vast Poni Canyon (Surfing),Poni Gauntlet Vast Poni Canyon (Surfing),Cerulean Cave,Cerulean Cave
+Mankey,#0056,False,Route 3,Route 3,Route 3,Route 3,Routes 3 and 4,Trade
+Primeape,#0057,False,Poni Plains,Poni Plains,Poni Plains,Poni Plains,Evolve Mankey,Trade
+Growlithe,#0058,False,Route 2,Route 2,Route 2,Route 2,"Routes 5, 6, 7 and 8",Trade
+Arcanine,#0059,False,Evolve Growlithe,Evolve Growlithe,Evolve Growlithe,Evolve Growlithe,Routes 7 and 8,Vermilion City (Only one)
+Poliwag,#0060,False,"Brooklet Hill (walking and Surfing) Malie Garden, Poké Pelago*","Brooklet Hill (walking and Surfing) Malie Garden, Poké Pelago*",Brooklet Hill (walking and Surfing),Brooklet Hill (walking and Surfing),"Routes 22, 23 and 25, Cerulean Cave (Sea Skim)","Routes 22, 23 and 25, Cerulean Cave (Sea Skim)"
+Poliwhirl,#0061,False,Trade Zubat in Konikoni City Malie Garden (SOS Battle in rain),Trade Zubat in Konikoni City Malie Garden (SOS Battle in rain),Malie Garden,Malie Garden,"Routes 22, 23 and 25, Cerulean Cave (Sea Skim)","Routes 22, 23 and 25, Cerulean Cave (Sea Skim)"
+Poliwrath,#0062,False,Malie Garden (SOS Battle in rain) Day,Malie Garden (SOS Battle in rain) Day,Malie Garden (SOS Battle in rain) Day,Malie Garden (SOS Battle in rain) Day,Cerulean Cave (Sea Skim),Cerulean Cave (Sea Skim)
+Abra,#0063,False,"Route 2, Hau'oli City","Route 2, Hau'oli City","Route 2, Hau'oli City","Route 2, Hau'oli City","Routes 5, 6, 7 and 8","Routes 5, 6, 7 and 8"
+Kadabra,#0064,False,Poké Pelago,Poké Pelago,Evolve Abra,Evolve Abra,Routes 7 and 8,Routes 7 and 8
+Alakazam,#0065,False,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra
+Machop,#0066,False,Ten Carat Hill Trade Spearow at Route 2,Ten Carat Hill Trade Spearow at Route 2,Ten Carat Hill,Ten Carat Hill,"Rock Tunnel, Victory Road","Rock Tunnel, Victory Road"
+Machoke,#0067,False,Vast Poni Canyon,Vast Poni Canyon,Vast Poni Canyon,Vast Poni Canyon,Victory Road,Victory Road
+Machamp,#0068,False,Evolve Machoke,Evolve Machoke,Evolve Machoke,Evolve Machoke,Evolve Machoke,Evolve Machoke
+Bellsprout,#0069,False,Route 5 (Island Scan) Fr,Route 5 (Island Scan) Fr,Trade,Trade,Trade,"Routes 1, 2, 12, 13, 14, 15, 21, 24 and 25, Viridian Forest"
+Weepinbell,#0070,False,Evolve Bellsprout,Evolve Bellsprout,Trade,Trade,Trade,"Routes 12, 13, 14, 15 and 21"
+Victreebel,#0071,False,Evolve Weepinbell,Evolve Weepinbell,Trade,Trade,Trade,Route 21
+Tentacool,#0072,False,"Routes 1, 7, 8, 14, 15, Hau'oli City, Melemele Sea, Kala'e Bay, Brooklet Hill, Hano Beach, Secluded Shore (Surfing)","Routes 1, 7, 8, 14, 15, Hau'oli City, Melemele Sea, Kala'e Bay, Brooklet Hill, Hano Beach, Secluded Shore (Surfing)","Routes 1, 7, 8, Hau'oli City, Melemele Sea, Kala'e Bay, Brooklet Hill, Hano Beach (Surfing)","Routes 1, 7, 8, Hau'oli City, Melemele Sea, Kala'e Bay, Brooklet Hill, Hano Beach (Surfing)","Routes 4, 10, 12, 13, 18, 19, 20, 21 and 24, Seafoam Islands (Sea Skim)","Routes 4, 10, 12, 13, 18, 19, 20, 21 and 24, Seafoam Islands (Sea Skim)"
+Tentacruel,#0073,False,Poni Wilds (Surfing),Poni Wilds (Surfing),"Routes 14 and 15, Poni Breaker Coast (Surfing)","Routes 14 and 15, Poni Breaker Coast (Surfing)","Routes 4, 10, 12, 13, 18, 19, 20, 21 and 24, Seafoam Islands (Sea Skim)","Routes 4, 10, 12, 13, 18, 19, 20, 21 and 24, Seafoam Islands (Sea Skim)"
+Geodude,#0074,False,"Route 12, Blush Mountain (Alolan Form) Pokémon Bank (Kantonian Form)","Route 12, Blush Mountain (Alolan Form) Pokémon Bank (Kantonian Form)",Breed Graveler or Golem (Alolan Form) Pokémon Bank (Kantonian Form),Breed Graveler or Golem (Alolan Form) Pokémon Bank (Kantonian Form),"Mt. Moon, Rock Tunnel, Victory Road, Cerulean Cave (Kantonian Form) Trade Kantonian Geodude in Vermilion City (Alolan Form)","Mt. Moon, Rock Tunnel, Victory Road, Cerulean Cave (Kantonian Form) Trade Kantonian Geodude in Vermilion City (Alolan Form)"
+Graveler,#0075,False,Route 17 (Alolan Form) Trade Haunter in Tapu Village* (Alolan Form) Pokémon Bank (Kantonian Form),Route 17 (Alolan Form) Trade Haunter in Tapu Village* (Alolan Form) Pokémon Bank (Kantonian Form),"Routes 12 and 17, Blush Mountain (Alolan Form) Pokémon Bank (Kantonian Form)","Routes 12 and 17, Blush Mountain (Alolan Form) Pokémon Bank (Kantonian Form)","Rock Tunnel, Victory Road, Cerulean Cave (Kantonian Form) Evolve Geodude (Alolan Form)","Rock Tunnel, Victory Road, Cerulean Cave (Kantonian Form) Evolve Geodude (Alolan Form)"
+Golem,#0076,False,Trade Haunter for Graveler in Tapu Village* (Alolan Form) Pokémon Bank (Kantonian Form),Trade Haunter for Graveler in Tapu Village* (Alolan Form) Pokémon Bank (Kantonian Form),Evolve Graveler (Alolan Form) Pokémon Bank (Kantonian Form),Evolve Graveler (Alolan Form) Pokémon Bank (Kantonian Form),Evolve Graveler,Evolve Graveler
+Ponyta,#0077,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Route 17,Route 17
+Rapidash,#0078,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Route 17,Route 17
+Slowpoke,#0079,False,"Routes 1, 15, 16, Kala'e Bay","Routes 1, 15, 16, Kala'e Bay","Routes 1, 15, 16, Kala'e Bay, Poké Pelago","Routes 1, 15, 16, Kala'e Bay, Poké Pelago",Seafoam Islands,Seafoam Islands
+Slowbro,#0080,False,Kala'e Bay (SOS Battle),Kala'e Bay (SOS Battle),Kala'e Bay (SOS Battle),Kala'e Bay (SOS Battle),Seafoam Islands,Seafoam Islands
+Magnemite,#0081,False,"Trainers' School, Hau'oli City, Malie City, Poké Pelago","Trainers' School, Hau'oli City, Malie City, Poké Pelago","Trainers' School, Hau'oli City, Malie City","Trainers' School, Hau'oli City, Malie City",Power Plant,Power Plant
+Magneton,#0082,False,Evolve Magnemite,Evolve Magnemite,Evolve Magnemite,Evolve Magnemite,Power Plant,Power Plant
+Farfetch'd,#0083,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Routes 12 and 13,Routes 12 and 13
+Doduo,#0084,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 16, 17, and 18","Routes 16, 17, and 18"
+Dodrio,#0085,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 16, 17 and 18","Routes 16, 17 and 18"
+Seel,#0086,False,Trade,Trade,Seaward Cave (Surfing) Poké Pelago,Seaward Cave (Surfing) Poké Pelago,Seafoam Islands,Seafoam Islands
+Dewgong,#0087,False,Trade,Trade,Evolve Seel,Evolve Seel,Seafoam Islands,Seafoam Islands
+Grimer,#0088,False,"Trainers' School, Hau'oli City, Malie City (Alolan Form) Pokémon Bank (Kantonian Form)","Trainers' School, Hau'oli City, Malie City (Alolan Form) Pokémon Bank (Kantonian Form)","Trainers' School, Hau'oli City, Malie City (Alolan Form) Pokémon Bank (Kantonian Form)","Trainers' School, Hau'oli City, Malie City (Alolan Form) Pokémon Bank (Kantonian Form)","Pokémon Mansion, Power Plant (Kantonian Form) Trade Kantonian Grimer in Cinnabar Island (Alolan Form)",Trade
+Muk,#0089,False,Evolve Grimer (Alolan Form) Pokémon Bank (Kantonian Form),Evolve Grimer (Alolan Form) Pokémon Bank (Kantonian Form),Evolve Grimer (Alolan Form) Pokémon Bank (Kantonian Form),Evolve Grimer (Alolan Form) Pokémon Bank (Kantonian Form),"Pokémon Mansion, Power Plant (Kantonian Form) Evolve Grimer (Alolan Form)",Trade
+Shellder,#0090,False,"Kala'e Bay (fishing), Poké Pelago","Kala'e Bay (fishing), Poké Pelago",Kala'e Bay (fishing),Kala'e Bay (fishing),Seafoam Islands (Sea Skim),Seafoam Islands (Sea Skim)
+Cloyster,#0091,False,Evolve Shellder,Evolve Shellder,Evolve Shellder,Evolve Shellder,Seafoam Islands (Sea Skim),Seafoam Islands (Sea Skim)
+Gastly,#0092,False,"Hau'oli Cemetery, Memorial Hill, Poké Pelago","Hau'oli Cemetery, Memorial Hill, Poké Pelago","Hau'oli Cemetery, Memorial Hill Trainers' School Night (One)","Hau'oli Cemetery, Memorial Hill Trainers' School Night (One)",Pokémon Tower,Pokémon Tower
+Haunter,#0093,False,Thrifty Megamart (Abandoned Site),Thrifty Megamart (Abandoned Site),Thrifty Megamart (Abandoned Site),Thrifty Megamart (Abandoned Site),Pokémon Tower,Pokémon Tower
+Gengar,#0094,False,Thrifty Megamart (Abandoned Site) (SOS Battle),Thrifty Megamart (Abandoned Site) (SOS Battle),Thrifty Megamart (Abandoned Site) (SOS Battle),Thrifty Megamart (Abandoned Site) (SOS Battle),Evolve Haunter,Evolve Haunter
+Onix,#0095,False,Trade,Trade,Ten Carat Hill (Island Scan) Tu,Ten Carat Hill (Island Scan) Tu,"Mt. Moon, Rock Tunnel, Victory Road","Mt. Moon, Rock Tunnel, Victory Road"
+Drowzee,#0096,False,Route 2,Route 2,Route 2,Route 2,Route 11,Route 11
+Hypno,#0097,False,Poni Plains,Poni Plains,Poni Plains Hau'oli City (One),Poni Plains Hau'oli City (One),Evolve Drowzee,Evolve Drowzee
+Krabby,#0098,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,"Routes 10, 12 and 13","Routes 10, 12 and 13"
+Kingler,#0099,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Routes 12 and 13,Routes 12 and 13
+Voltorb,#0100,False,Trade,Trade,Breed Electrode,Breed Electrode,Power Plant,Power Plant
+Electrode,#0101,False,Trade,Trade,Team Rocket's Castle (Three),Team Rocket's Castle (Three),Power Plant (Four),Power Plant (Four)
+Exeggcute,#0102,False,"Ancient Poni Path, Exeggutor Island, Poni Wilds","Ancient Poni Path, Exeggutor Island, Poni Wilds",Exeggutor Island,Exeggutor Island,Route 23,Route 23
+Exeggutor,#0103,False,Trade (Kantonian Form) Exeggutor Island (Alolan Form),Trade (Kantonian Form) Exeggutor Island (Alolan Form),Evolve Exeggcute in Ultra Space (Kantonian Form) Exeggutor Island (Alolan Form),Evolve Exeggcute in Ultra Space (Kantonian Form) Exeggutor Island (Alolan Form),Route 23 (Kantonian Form) Trade Kantonian Exeggutor at the Pokémon League (Alolan Form),Route 23 (Kantonian Form) Trade Kantonian Exeggutor at the Pokémon League (Alolan Form)
+Cubone,#0104,False,Wela Volcano Park,Wela Volcano Park,Wela Volcano Park,Wela Volcano Park,"Rock Tunnel, Pokémon Tower","Rock Tunnel, Pokémon Tower"
+Marowak,#0105,False,Trade (Kantonian Form) Evolve Cubone (Alolan Form),Trade (Kantonian Form) Evolve Cubone (Alolan Form),Evolve Cubone in Ultra Space (Kantonian Form) Evolve Cubone (Alolan Form) Received from Samson Oak at Heahea Beach* (Totem-sized; Alolan Form),Evolve Cubone in Ultra Space (Kantonian Form) Evolve Cubone (Alolan Form),Evolve Cubone (Kantonian Form) Trade Kantonian Marowak in Fuchsia City (Alolan Form),Evolve Cubone (Kantonian Form) Trade Kantonian Marowak in Fuchsia City (Alolan Form)
+Hitmonlee,#0106,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan) Victory Road,Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonchan) Victory Road
+Hitmonchan,#0107,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee) Victory Road,Received from the master of the Fighting Dojo in Saffron City (choice between it and Hitmonlee) Victory Road
+Lickitung,#0108,False,Trade,Trade,Poni Gauntlet,Poni Gauntlet,Cerulean Cave,Cerulean Cave
+Koffing,#0109,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Trade,"Power Plant, Pokémon Mansion"
+Weezing,#0110,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Trade,"Power Plant, Pokémon Mansion"
+Rhyhorn,#0111,False,Blush Mountain (Island Scan) Su,Blush Mountain (Island Scan) Su,Blush Mountain (Island Scan) Su,Blush Mountain (Island Scan) Su,"Rock Tunnel, Victory Road, Cerulean Cave","Rock Tunnel, Victory Road, Cerulean Cave"
+Rhydon,#0112,False,Evolve Rhyhorn,Evolve Rhyhorn,Evolve Rhyhorn,Evolve Rhyhorn,"Victory Road, Cerulean Cave","Victory Road, Cerulean Cave"
+Chansey,#0113,False,"Route 12, Mount Hokulani, Blush Mountain, Poni Grove (SOS Battle)","Route 12, Mount Hokulani, Blush Mountain, Poni Grove (SOS Battle)",Poni Plains,Poni Plains,"Routes 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21 and 23, Diglett's Cave, Mt. Moon, Pokémon Tower, Power Plant, Pokémon Mansion, Cerulean Cave","Routes 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21 and 23, Diglett's Cave, Mt. Moon, Pokémon Tower, Power Plant, Pokémon Mansion, Cerulean Cave"
+Tangela,#0114,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Route 21,Route 21
+Kangaskhan,#0115,False,Wela Volcano Park,Wela Volcano Park,Wela Volcano Park,Wela Volcano Park,Rock Tunnel,Rock Tunnel
+Horsea,#0116,False,Kala'e Bay (Island Scan) We,Kala'e Bay (Island Scan) We,Kala'e Bay (Island Scan) We,Kala'e Bay (Island Scan) We,"Routes 11, 12, and 13 (Sea Skim)","Routes 11, 12, and 13 (Sea Skim)"
+Seadra,#0117,False,Evolve Horsea,Evolve Horsea,Evolve Horsea,Evolve Horsea,"Routes 11, 12, and 13 (Sea Skim)","Routes 11, 12, and 13 (Sea Skim)"
+Goldeen,#0118,False,"Brooklet Hill, Malie Garden (fishing)","Brooklet Hill, Malie Garden (fishing)","Brooklet Hill, Malie Garden (fishing)","Brooklet Hill, Malie Garden (fishing)",Route 6 (Sea Skim),Route 6 (Sea Skim)
+Seaking,#0119,False,"Brooklet Hill, Malie Garden (SOS Battle)","Brooklet Hill, Malie Garden (SOS Battle)","Brooklet Hill, Malie Garden (SOS Battle)","Brooklet Hill, Malie Garden (SOS Battle)",Route 6 (Sea Skim),Route 6 (Sea Skim)
+Staryu,#0120,False,"Hano Beach, Poké Pelago* Route 7 (fishing)","Hano Beach, Poké Pelago* Route 7 (fishing)","Hano Beach, Poké Pelago Route 7 (fishing)","Hano Beach, Poké Pelago Route 7 (fishing)","Routes 18, 19, and 21 (Sea Skim)","Routes 18, 19, and 21 (Sea Skim)"
+Starmie,#0121,False,Route 7 (SOS Battle),Route 7 (SOS Battle),"Route 7, Hano Beach (SOS Battle)","Route 7, Hano Beach (SOS Battle)","Routes 18, 19, and 21 (Sea Skim)","Routes 18, 19, and 21 (Sea Skim)"
+Mr. Mime,#0122,False,Trade,Trade,Hau'oli City (SOS Battle) Poké Pelago,Hau'oli City (SOS Battle) Poké Pelago,Route 11,Route 11
+Scyther,#0123,False,"Poni Plains, Poké Pelago*","Poni Plains, Poké Pelago*",Poni Plains,Poni Plains,Routes 14 and 15,Trade
+Jynx,#0124,False,Trade,Trade,Seaward Cave (SOS Battle) Poké Pelago,Seaward Cave (SOS Battle) Poké Pelago,Seafoam Islands,Seafoam Islands
+Electabuzz,#0125,False,"Route 12, Blush Mountain (SOS Battle)","Route 12, Blush Mountain (SOS Battle)","Blush Mountain, Mount Hokulani (SOS Battle)","Blush Mountain, Mount Hokulani (SOS Battle)",Power Plant,Power Plant
+Magmar,#0126,False,Wela Volcano Park (SOS Battle),Wela Volcano Park (SOS Battle),Wela Volcano Park (SOS Battle),Wela Volcano Park (SOS Battle),Pokémon Mansion,Pokémon Mansion
+Pinsir,#0127,False,"Lush Jungle, Poni Grove, Poké Pelago*","Lush Jungle, Poni Grove, Poké Pelago*","Lush Jungle, Poni Grove, Exeggutor Island, Poké Pelago* Exeggutor Island (Three)","Lush Jungle, Poni Grove, Exeggutor Island, Poké Pelago* Exeggutor Island (Three)",Trade,Routes 14 and 15
+Tauros,#0128,False,"Paniola Ranch, Poni Plains","Paniola Ranch, Poni Plains","Paniola Ranch, Poni Plains Trade Bewear in Poni Gauntlet","Paniola Ranch, Poni Plains Trade Bewear in Poni Gauntlet",Routes 14 and 15,Routes 14 and 15
+Magikarp,#0129,False,"Routes 7, 8, 9, 13, 14, 15, Melemele Sea, Seaward Cave, Kala'e Bay, Paniola Town, Akala Outskirts, Brooklet Hill, Malie Garden, Seafolk Village, Poni Wilds, Poni Breaker Coast, Poni Meadow, Poni Gauntlet, Vast Poni Canyon, Secluded Shore (fishing)","Routes 7, 8, 9, 13, 14, 15, Melemele Sea, Seaward Cave, Kala'e Bay, Paniola Town, Akala Outskirts, Brooklet Hill, Malie Garden, Seafolk Village, Poni Wilds, Poni Breaker Coast, Poni Meadow, Poni Gauntlet, Vast Poni Canyon, Secluded Shore (fishing)","Routes 7, 8, 9, 13, 14, 15, Melemele Sea, Seaward Cave, Kala'e Bay, Paniola Town, Akala Outskirts, Brooklet Hill, Malie Garden, Seafolk Village, Poni Breaker Coast, Poni Meadow, Poni Gauntlet, Vast Poni Canyon (fishing)","Routes 7, 8, 9, 13, 14, 15, Melemele Sea, Seaward Cave, Kala'e Bay, Paniola Town, Akala Outskirts, Brooklet Hill, Malie Garden, Seafolk Village, Poni Breaker Coast, Poni Meadow, Poni Gauntlet, Vast Poni Canyon (fishing)","Routes 4, 6, 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 24, and 25, Seafoam Islands, Cerulean Cave (Sea Skim) Buy from Magikarp salesman for $500 on Route 4","Routes 4, 6, 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 24, and 25, Seafoam Islands, Cerulean Cave (Sea Skim) Buy from Magikarp salesman for $500 on Route 4"
+Gyarados,#0130,False,"Routes 7, 8, 9, 13, 14, and 15, Melemele Sea, Seaward Cave, Kala'e Bay, Paniola Town, Akala Outskirts, Brooklet Hill, Malie Garden, Seafolk Village, Poni Wilds, Poni Breaker Coast, Poni Meadow, Poni Gauntlet, Vast Poni Canyon, Secluded Shore (SOS Battle, fishing)","Routes 7, 8, 9, 13, 14, and 15, Melemele Sea, Seaward Cave, Kala'e Bay, Paniola Town, Akala Outskirts, Brooklet Hill, Malie Garden, Seafolk Village, Poni Wilds, Poni Breaker Coast, Poni Meadow, Poni Gauntlet, Vast Poni Canyon, Secluded Shore (SOS Battle, fishing)","Routes 7, 8, 9, 13, 14, and 15, Melemele Sea, Seaward Cave, Kala'e Bay, Paniola Town, Akala Outskirts, Brooklet Hill, Malie Garden, Seafolk Village, Poni Breaker Coast, Poni Meadow, Poni Gauntlet, Vast Poni Canyon (SOS Battle, fishing)","Routes 7, 8, 9, 13, 14, and 15, Melemele Sea, Seaward Cave, Kala'e Bay, Paniola Town, Akala Outskirts, Brooklet Hill, Malie Garden, Seafolk Village, Poni Breaker Coast, Poni Meadow, Poni Gauntlet, Vast Poni Canyon (SOS Battle, fishing)",Route 20 (Sea Skim),Route 20 (Sea Skim)
+Lapras,#0131,False,Poni Wilds (Surfing) Poké Pelago*,Poni Wilds (Surfing) Poké Pelago*,Poni Breaker Coast (Surfing) Poké Pelago*,Poni Breaker Coast (Surfing) Poké Pelago*,Received from a person in Silph Co. (Saffron City) Routes 19 and 20,Received from a person in Silph Co. (Saffron City) Routes 19 and 20
+Ditto,#0132,False,Mount Hokulani,Mount Hokulani,Mount Hokulani Route 9 (One) Konikoni City (Four),Mount Hokulani Route 9 (One) Konikoni City (Four),Pokémon Mansion and Cerulean Cave,Pokémon Mansion and Cerulean Cave
+Eevee,#0133,False,Hatch Egg received at the Pokémon Nursery in Paniola Ranch Routes 4 and 6,Hatch Egg received at the Pokémon Nursery in Paniola Ranch Routes 4 and 6,Hatch Egg received at the Pokémon Nursery in Paniola Ranch Routes 4 and 6,Hatch Egg received at the Pokémon Nursery in Paniola Ranch Routes 4 and 6,Route 17,Route 17 (Eevee) First Pokémon from Professor Oak in Pallet Town (Partner Eevee)
+Vaporeon,#0134,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Jolteon,#0135,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Flareon,#0136,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Porygon,#0137,False,Received in Aether House in Route 15 (after becoming the Champion),Received in Aether House in Route 15 (after becoming the Champion),Received in Aether House in Route 15 (after completing Episode R R),Received in Aether House in Route 15 (after completing Episode R R),Route 7 Received from a person in Saffron City,Route 7 Received from a person in Saffron City
+Omanyte,#0138,False,Trade Receive Helix Fossil held by a traded Pokémon and revive it,Trade Receive Helix Fossil held by a traded Pokémon and revive it,Revive from Helix Fossil at the Fossil Restoration Center on Route 8,Revive from Helix Fossil at the Fossil Restoration Center on Route 8,Revive from Helix Fossil at the Cinnabar Lab on Cinnabar Island,Revive from Helix Fossil at the Cinnabar Lab on Cinnabar Island
+Omastar,#0139,False,Trade,Trade,Evolve Omanyte,Evolve Omanyte,Evolve Omanyte,Evolve Omanyte
+Kabuto,#0140,False,Trade Receive Dome Fossil held by a traded Pokémon and revive it,Trade Receive Dome Fossil held by a traded Pokémon and revive it,Revive from Dome Fossil at the Fossil Restoration Center on Route 8,Revive from Dome Fossil at the Fossil Restoration Center on Route 8,Revive from Dome Fossil at the Cinnabar Lab on Cinnabar Island,Revive from Dome Fossil at the Cinnabar Lab on Cinnabar Island
+Kabutops,#0141,False,Trade,Trade,Evolve Kabuto,Evolve Kabuto,Evolve Kabuto,Evolve Kabuto
+Aerodactyl,#0142,False,Seafolk Village (Gift),Seafolk Village (Gift),Seafolk Village (Gift),Seafolk Village (Gift),Revive from Old Amber at the Cinnabar Lab on Cinnabar Island,Revive from Old Amber at the Cinnabar Lab on Cinnabar Island
+Snorlax,#0143,False,Route 1 (SOS Battle),Route 1 (SOS Battle),Route 1 (SOS Battle),Route 1 (SOS Battle),Routes 12 and 16 (Only two) Cerulean Cave,Routes 12 and 16 (Only two) Cerulean Cave
+Articuno,#0144,False,Trade,Trade,Ultra Space Wilds (Cliff World) (Only one),Ultra Space Wilds (Cliff World) (Only one),"Seafoam Islands (Only one) Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25","Seafoam Islands (Only one) Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25"
+Zapdos,#0145,False,Trade,Trade,Ultra Space Wilds (Cliff World) (Only one),Ultra Space Wilds (Cliff World) (Only one),"Power Plant (Only one) Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25","Power Plant (Only one) Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25"
+Moltres,#0146,False,Trade,Trade,Ultra Space Wilds (Cliff World) (Only one),Ultra Space Wilds (Cliff World) (Only one),"Victory Road (Only one) Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25","Victory Road (Only one) Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25"
+Dratini,#0147,False,"Poni Gauntlet, Poni Meadow, Vast Poni Canyon (fishing)","Poni Gauntlet, Poni Meadow, Vast Poni Canyon (fishing)","Poni Gauntlet, Poni Meadow (fishing)","Poni Gauntlet, Poni Meadow (fishing)",Route 10 (Sea Skim),Route 10 (Sea Skim)
+Dragonair,#0148,False,"Poni Gauntlet, Poni Meadow, Vast Poni Canyon (SOS Battle)","Poni Gauntlet, Poni Meadow, Vast Poni Canyon (SOS Battle)","Poni Gauntlet, Poni Meadow (SOS Battle)","Poni Gauntlet, Poni Meadow (SOS Battle)",Route 10 (Sea Skim),Route 10 (Sea Skim)
+Dragonite,#0149,False,Poni Gauntlet (SOS Battle),Poni Gauntlet (SOS Battle),Poni Gauntlet (SOS Battle),Poni Gauntlet (SOS Battle),"Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25","Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25"
+Mewtwo,#0150,False,Trade,Trade,Ultra Space Wilds (Rocky World) (Only one),Ultra Space Wilds (Rocky World) (Only one),Cerulean Cave (Only one),Cerulean Cave (Only one)
+Mew,#0151,False,Event,Event,Trade,Trade,Redeem from Poké Ball Plus,Redeem from Poké Ball Plus
+Chikorita,#0152,False,Route 2 (Island Scan) Fr,Route 2 (Island Scan) Fr,Trade,Trade,Unobtainable,Unobtainable
+Bayleef,#0153,False,Evolve Chikorita,Evolve Chikorita,Trade,Trade,Unobtainable,Unobtainable
+Meganium,#0154,False,Evolve Bayleef,Evolve Bayleef,Trade,Trade,Unobtainable,Unobtainable
+Cyndaquil,#0155,False,Route 3 (Island Scan) Su,Route 3 (Island Scan) Su,Trade,Trade,Unobtainable,Unobtainable
+Quilava,#0156,False,Evolve Cyndaquil,Evolve Cyndaquil,Trade,Trade,Unobtainable,Unobtainable
+Typhlosion,#0157,False,Evolve Quilava,Evolve Quilava,Trade,Trade,Unobtainable,Unobtainable
+Totodile,#0158,False,Seaward Cave (Island Scan) Mo,Seaward Cave (Island Scan) Mo,Trade,Trade,Unobtainable,Unobtainable
+Croconaw,#0159,False,Evolve Totodile,Evolve Totodile,Trade,Trade,Unobtainable,Unobtainable
+Feraligatr,#0160,False,Evolve Croconaw,Evolve Croconaw,Trade,Trade,Unobtainable,Unobtainable
+Sentret,#0161,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Furret,#0162,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Hoothoot,#0163,False,Trade,Trade,Lush Jungle Night Poké Pelago*,Lush Jungle Night Poké Pelago*,Unobtainable,Unobtainable
+Noctowl,#0164,False,Trade,Trade,Lush Jungle Night (SOS Battle),Lush Jungle Night (SOS Battle),Unobtainable,Unobtainable
+Ledyba,#0165,False,Route 1 Day,Route 1 Day,Route 1 Day,Route 1 Day,Unobtainable,Unobtainable
+Ledian,#0166,False,"Routes 10, 11, and 17, Malie Garden, Ula'ula Meadow Day","Routes 10, 11, and 17, Malie Garden, Ula'ula Meadow Day","Routes 10, 11, and 17, Malie Garden, Ula'ula Meadow Day","Routes 10, 11, and 17, Malie Garden, Ula'ula Meadow Day",Unobtainable,Unobtainable
+Spinarak,#0167,False,Route 1 Night,Route 1 Night,Route 1 Night,Route 1 Night,Unobtainable,Unobtainable
+Ariados,#0168,False,"Routes 10, 11, and 17, Malie Garden, Ula'ula Meadow Night","Routes 10, 11, and 17, Malie Garden, Ula'ula Meadow Night","Routes 10, 11, and 17, Malie Garden, Ula'ula Meadow Night","Routes 10, 11, and 17, Malie Garden, Ula'ula Meadow Night",Unobtainable,Unobtainable
+Crobat,#0169,False,Resolution Cave (SOS Battle),Resolution Cave (SOS Battle),"Resolution Cave, Lush Jungle (Cave) (SOS Battle)","Resolution Cave, Lush Jungle (Cave) (SOS Battle)",Unobtainable,Unobtainable
+Chinchou,#0170,False,"Route 8, Akala Outskirts (Fishing)","Route 8, Akala Outskirts (Fishing)","Route 8, Akala Outskirts (Fishing)","Route 8, Akala Outskirts (Fishing)",Unobtainable,Unobtainable
+Lanturn,#0171,False,Evolve Chinchou,Evolve Chinchou,"Route 8, Akala Outskirts (SOS Battle)","Route 8, Akala Outskirts (SOS Battle)",Unobtainable,Unobtainable
+Pichu,#0172,False,"Route 1, Hau'oli City","Route 1, Hau'oli City",Route 1,Route 1,Unobtainable,Unobtainable
+Cleffa,#0173,False,Mount Hokulani Night,Mount Hokulani Night,Mount Hokulani Night,Mount Hokulani Night,Unobtainable,Unobtainable
+Igglybuff,#0174,False,Routes 4 and 6 Day,Routes 4 and 6 Day,Routes 4 and 6 Day,Routes 4 and 6 Day,Unobtainable,Unobtainable
+Togepi,#0175,False,Breed Togekiss,Breed Togekiss,Trade,Trade,Unobtainable,Unobtainable
+Togetic,#0176,False,Evolve Togepi,Evolve Togepi,Trade,Trade,Unobtainable,Unobtainable
+Natu,#0177,False,Trade,Trade,Akala Outskirts Day Poké Pelago*,Akala Outskirts Day Poké Pelago*,Unobtainable,Unobtainable
+Xatu,#0178,False,Trade,Trade,Akala Outskirts Day (SOS Battle),Akala Outskirts Day (SOS Battle),Unobtainable,Unobtainable
+Mareep,#0179,False,Trade,Trade,Paniola Ranch,Paniola Ranch,Unobtainable,Unobtainable
+Flaaffy,#0180,False,Trade,Trade,"Evolve Mareep, Poké Pelago","Evolve Mareep, Poké Pelago",Unobtainable,Unobtainable
+Ampharos,#0181,False,Trade,Trade,Evolve Flaaffy,Evolve Flaaffy,Unobtainable,Unobtainable
+Bellossom,#0182,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Marill,#0183,False,Brooklet Hill (Island Scan) Sa,Brooklet Hill (Island Scan) Sa,Trade,Trade,Unobtainable,Unobtainable
+Azumarill,#0184,False,Evolve Marill,Evolve Marill,Trade,Trade,Unobtainable,Unobtainable
+Sudowoodo,#0185,False,"Routes 1 and 5, Lush Jungle (SOS Battle)","Routes 1 and 5, Lush Jungle (SOS Battle)","Routes 1 and 5, Lush Jungle (SOS Battle)","Routes 1 and 5, Lush Jungle (SOS Battle)",Unobtainable,Unobtainable
+Politoed,#0186,False,Malie Garden (SOS Battle in rain) Night,Malie Garden (SOS Battle in rain) Night,Malie Garden (SOS Battle in rain) Night,Malie Garden (SOS Battle in rain) Night,Unobtainable,Unobtainable
+Hoppip,#0187,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Skiploom,#0188,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Jumpluff,#0189,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Aipom,#0190,False,Trade,Trade,Poni Plains,Poni Plains,Unobtainable,Unobtainable
+Sunkern,#0191,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Sunflora,#0192,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Yanma,#0193,False,Trade,Trade,Breed Yanmega,Breed Yanmega,Unobtainable,Unobtainable
+Wooper,#0194,False,Trade,Trade,Breed Quagsire,Breed Quagsire,Unobtainable,Unobtainable
+Quagsire,#0195,False,Trade,Trade,Ultra Space Wilds (Water World),Ultra Space Wilds (Water World),Unobtainable,Unobtainable
+Espeon,#0196,False,Routes 4 and 6 Day (SOS Battle),Routes 4 and 6 Day (SOS Battle),Routes 4 and 6 Day (SOS Battle),Routes 4 and 6 Day (SOS Battle),Unobtainable,Unobtainable
+Umbreon,#0197,False,Routes 4 and 6 Night (SOS Battle),Routes 4 and 6 Night (SOS Battle),Routes 4 and 6 Night (SOS Battle),Routes 4 and 6 Night (SOS Battle),Unobtainable,Unobtainable
+Murkrow,#0198,False,"Vast Poni Canyon, Poké Pelago","Vast Poni Canyon, Poké Pelago",Hau'oli Cemetery Night,Hau'oli Cemetery Night,Unobtainable,Unobtainable
+Slowking,#0199,False,Evolve Slowpoke,Evolve Slowpoke,Kala'e Bay (SOS Battle),Kala'e Bay (SOS Battle),Unobtainable,Unobtainable
+Misdreavus,#0200,False,Hau'oli Cemetery Night,Hau'oli Cemetery Night,Poni Meadow Night Poké Pelago*,Poni Meadow Night Poké Pelago*,Unobtainable,Unobtainable
+Unown,#0201,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Wobbuffet,#0202,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Girafarig,#0203,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Pineco,#0204,False,Trade,Trade,Route 10,Route 10,Unobtainable,Unobtainable
+Forretress,#0205,False,Trade,Trade,Evolve Pineco,Evolve Pineco,Unobtainable,Unobtainable
+Dunsparce,#0206,False,Trade,Trade,Route 2,Route 2,Unobtainable,Unobtainable
+Gligar,#0207,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Steelix,#0208,False,Trade,Trade,Evolve Onix,Evolve Onix,Unobtainable,Unobtainable
+Snubbull,#0209,False,Breed Granbull,Breed Granbull,"Breed Granbull, Poké Pelago*","Breed Granbull, Poké Pelago*",Unobtainable,Unobtainable
+Granbull,#0210,False,"Ancient Poni Path, Poni Gauntlet, Poni Grove, Poni Wilds","Ancient Poni Path, Poni Gauntlet, Poni Grove, Poni Wilds","Ancient Poni Path, Poni Gauntlet, Poni Wilds","Ancient Poni Path, Poni Gauntlet, Poni Wilds",Unobtainable,Unobtainable
+Qwilfish,#0211,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Scizor,#0212,False,Evolve Scyther,Evolve Scyther,Evolve Scyther,Evolve Scyther,Unobtainable,Unobtainable
+Shuckle,#0213,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Heracross,#0214,False,Trade,Trade,Poni Grove,Poni Grove,Unobtainable,Unobtainable
+Sneasel,#0215,False,Mount Lanakila,Mount Lanakila,Mount Lanakila,Mount Lanakila,Unobtainable,Unobtainable
+Teddiursa,#0216,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Ursaring,#0217,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Slugma,#0218,False,Trade,Trade,Breed Magcargo,Breed Magcargo,Unobtainable,Unobtainable
+Magcargo,#0219,False,Trade,Trade,Ultra Space Wilds (Cave World),Ultra Space Wilds (Cave World),Unobtainable,Unobtainable
+Swinub,#0220,False,Tapu Village (Island Scan) Mo,Tapu Village (Island Scan) Mo,Tapu Village (Island Scan) Mo,Tapu Village (Island Scan) Mo,Unobtainable,Unobtainable
+Piloswine,#0221,False,Evolve Swinub,Evolve Swinub,Evolve Swinub,Evolve Swinub,Unobtainable,Unobtainable
+Corsola,#0222,False,"Route 9, Melemele Sea (fishing)","Route 9, Melemele Sea (fishing)","Route 9, Melemele Sea (fishing) Poké Pelago","Route 9, Melemele Sea (fishing) Poké Pelago",Unobtainable,Unobtainable
+Remoraid,#0223,False,Trade,Trade,"Routes 1 and 8, Hau'oli City, Kala'e Bay, Melemele Sea (Fishing or Surfing, SOS Battle)","Routes 1 and 8, Hau'oli City, Kala'e Bay, Melemele Sea (Fishing or Surfing, SOS Battle)",Unobtainable,Unobtainable
+Octillery,#0224,False,Trade,Trade,"Route 8, Kala'e Bay, Melemele Sea (SOS Battle, fishing)","Route 8, Kala'e Bay, Melemele Sea (SOS Battle, fishing)",Unobtainable,Unobtainable
+Delibird,#0225,False,Route 3,Route 3,Seaward Cave,Seaward Cave,Unobtainable,Unobtainable
+Mantine,#0226,False,Trade,Trade,Evolve Mantyke,Evolve Mantyke,Unobtainable,Unobtainable
+Skarmory,#0227,False,"Routes 10 and 17, Mount Hokulani, Vast Poni Canyon, Poké Pelago*","Routes 10 and 17, Mount Hokulani, Vast Poni Canyon, Poké Pelago*","Routes 10 and 17, Mount Hokulani, Vast Poni Canyon","Routes 10 and 17, Mount Hokulani, Vast Poni Canyon",Unobtainable,Unobtainable
+Houndour,#0228,False,Trade,Trade,Poké Pelago*,Trade,Unobtainable,Unobtainable
+Houndoom,#0229,False,Trade,Trade,Route 12,Trade,Unobtainable,Unobtainable
+Kingdra,#0230,False,Evolve Seadra,Evolve Seadra,Evolve Seadra,Evolve Seadra,Unobtainable,Unobtainable
+Phanpy,#0231,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Donphan,#0232,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Porygon2,#0233,False,Evolve Porygon,Evolve Porygon,Evolve Porygon,Evolve Porygon,Unobtainable,Unobtainable
+Stantler,#0234,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Smeargle,#0235,False,Route 2,Route 2,Route 2,Route 2,Unobtainable,Unobtainable
+Tyrogue,#0236,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Hitmontop,#0237,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Smoochum,#0238,False,Trade,Trade,Seaward Cave,Seaward Cave,Unobtainable,Unobtainable
+Elekid,#0239,False,"Route 12, Blush Mountain","Route 12, Blush Mountain","Blush Mountain, Mount Hokulani","Blush Mountain, Mount Hokulani",Unobtainable,Unobtainable
+Magby,#0240,False,Wela Volcano Park,Wela Volcano Park,Wela Volcano Park,Wela Volcano Park,Unobtainable,Unobtainable
+Miltank,#0241,False,"Paniola Ranch, Poni Plains","Paniola Ranch, Poni Plains","Paniola Ranch, Poni Plains","Paniola Ranch, Poni Plains",Unobtainable,Unobtainable
+Blissey,#0242,False,Evolve Chansey,Evolve Chansey,Poni Plains (SOS Battle),Poni Plains (SOS Battle),Unobtainable,Unobtainable
+Raikou,#0243,False,Trade,"Trade, Event",Ultra Space Wilds (Rocky World) (Only one),"Trade, Event",Unobtainable,Unobtainable
+Entei,#0244,False,"Trade, Event",Trade,"Trade, Event",Ultra Space Wilds (Rocky World) (Only one),Unobtainable,Unobtainable
+Suicune,#0245,False,Trade,Trade,Ultra Space Wilds (Water World) (requires Raikou and Entei in party) (Only one),Ultra Space Wilds (Water World) (requires Raikou and Entei in party) (Only one),Unobtainable,Unobtainable
+Larvitar,#0246,False,Trade,Trade,Diglett's Tunnel,Diglett's Tunnel,Unobtainable,Unobtainable
+Pupitar,#0247,False,Trade,Trade,Evolve Larvitar,Evolve Larvitar,Unobtainable,Unobtainable
+Tyranitar,#0248,False,Trade,Trade,Evolve Pupitar,Evolve Pupitar,Unobtainable,Unobtainable
+Lugia,#0249,False,"Trade, Event","Trade, Event","Trade, Event",Ultra Space Wilds (Water World) (Only one),Unobtainable,Unobtainable
+Ho-Oh,#0250,False,"Trade, Event","Trade, Event",Ultra Space Wilds (Cliff World) (Only one),"Trade, Event",Unobtainable,Unobtainable
+Celebi,#0251,False,Event,Event,Event,Event,Unobtainable,Unobtainable
+Treecko,#0252,False,Trade,Trade,Breed Grovyle or Sceptile,Breed Grovyle or Sceptile,Unobtainable,Unobtainable
+Grovyle,#0253,False,Trade,Trade,Route 5 (Island Scan) Fr,Route 5 (Island Scan) Fr,Unobtainable,Unobtainable
+Sceptile,#0254,False,Trade,Trade,Evolve Grovyle,Evolve Grovyle,Unobtainable,Unobtainable
+Torchic,#0255,False,Trade,Trade,Breed Combusken or Blaziken,Breed Combusken or Blaziken,Unobtainable,Unobtainable
+Combusken,#0256,False,Trade,Trade,Route 8 (Island Scan) Tu,Route 8 (Island Scan) Tu,Unobtainable,Unobtainable
+Blaziken,#0257,False,Trade,Trade,Evolve Combusken,Evolve Combusken,Unobtainable,Unobtainable
+Mudkip,#0258,False,Trade,Trade,Breed Marshtomp or Swampert,Breed Marshtomp or Swampert,Unobtainable,Unobtainable
+Marshtomp,#0259,False,Trade,Trade,Brooklet Hill (Island Scan) Sa,Brooklet Hill (Island Scan) Sa,Unobtainable,Unobtainable
+Swampert,#0260,False,Trade,Trade,Evolve Marshtomp,Evolve Marshtomp,Unobtainable,Unobtainable
+Poochyena,#0261,False,Pokémon Bank,Pokémon Bank,"Pokémon Bank, Breed event Mightyena","Pokémon Bank, Breed event Mightyena",Unobtainable,Unobtainable
+Mightyena,#0262,False,Pokémon Bank,Pokémon Bank,"Pokémon Bank, Event","Pokémon Bank, Event",Unobtainable,Unobtainable
+Zigzagoon,#0263,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Linoone,#0264,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Wurmple,#0265,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Silcoon,#0266,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Beautifly,#0267,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Cascoon,#0268,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Dustox,#0269,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Lotad,#0270,False,Trade,Trade,Breed Lombre or Ludicolo,Breed Lombre or Ludicolo,Unobtainable,Unobtainable
+Lombre,#0271,False,Trade,Trade,Ultra Space Wilds (Water World),Ultra Space Wilds (Water World),Unobtainable,Unobtainable
+Ludicolo,#0272,False,Trade,Trade,Evolve Lombre,Evolve Lombre,Unobtainable,Unobtainable
+Seedot,#0273,False,Trade,Trade,Breed Nuzleaf or Shiftry,Breed Nuzleaf or Shiftry,Unobtainable,Unobtainable
+Nuzleaf,#0274,False,Trade,Trade,Ultra Space Wilds (Rocky World),Ultra Space Wilds (Rocky World),Unobtainable,Unobtainable
+Shiftry,#0275,False,Trade,Trade,Evolve Nuzleaf,Evolve Nuzleaf,Unobtainable,Unobtainable
+Taillow,#0276,False,Trade,Trade,Breed Swellow,Breed Swellow,Unobtainable,Unobtainable
+Swellow,#0277,False,Trade,Trade,Ultra Space Wilds (Cliff World),Ultra Space Wilds (Cliff World),Unobtainable,Unobtainable
+Wingull,#0278,False,"Route 1, Akala Outskirts, Poké Pelago Routes 7 and 8, Melemele Sea, Hano Beach (Surfing) Hau'oli City, Kala'e Bay, Brooklet Hill (Surfing and walking)","Route 1, Akala Outskirts, Poké Pelago Routes 7 and 8, Melemele Sea, Hano Beach (Surfing) Hau'oli City, Kala'e Bay, Brooklet Hill (Surfing and walking)","Route 1, Akala Outskirts, Poké Pelago Routes 7 and 8, Melemele Sea, Hano Beach (Surfing) Hau'oli City, Kala'e Bay, Brooklet Hill (Surfing and walking)","Route 1, Akala Outskirts, Poké Pelago Routes 7 and 8, Melemele Sea, Hano Beach (Surfing) Hau'oli City, Kala'e Bay, Brooklet Hill (Surfing and walking)",Unobtainable,Unobtainable
+Pelipper,#0279,False,"Route 16, Ancient Poni Path, Exeggutor Island, Poni Gauntlet, Poni Plains, Poni Wilds, Tapu Village Route 14, Secluded Shore (Surfing) Route 15 (Surfing and walking)","Route 16, Ancient Poni Path, Exeggutor Island, Poni Gauntlet, Poni Plains, Poni Wilds, Tapu Village Route 14, Secluded Shore (Surfing) Route 15 (Surfing and walking)","Route 16, Ancient Poni Path, Exeggutor Island, Poni Gauntlet, Poni Plains, Poni Wilds, Tapu Village Route 14, Poni Breaker Coast (Surfing) Route 15 (Surfing and walking)","Route 16, Ancient Poni Path, Exeggutor Island, Poni Gauntlet, Poni Plains, Poni Wilds, Tapu Village Route 14, Poni Breaker Coast (Surfing) Route 15 (Surfing and walking)",Unobtainable,Unobtainable
+Ralts,#0280,False,Trade,Trade,Route 6 (Island Scan) Su,Route 6 (Island Scan) Su,Unobtainable,Unobtainable
+Kirlia,#0281,False,Trade,Trade,Evolve Ralts,Evolve Ralts,Unobtainable,Unobtainable
+Gardevoir,#0282,False,Trade,Trade,Evolve Kirlia,Evolve Kirlia,Unobtainable,Unobtainable
+Surskit,#0283,False,Brooklet Hill Night (Surfing and walking),Brooklet Hill Night (Surfing and walking),Brooklet Hill Night (Surfing and walking),Brooklet Hill Night (Surfing and walking),Unobtainable,Unobtainable
+Masquerain,#0284,False,Malie Garden Night,Malie Garden Night,Malie Garden Night,Malie Garden Night,Unobtainable,Unobtainable
+Shroomish,#0285,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Breloom,#0286,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Slakoth,#0287,False,Breed Vigoroth or Slaking,Breed Vigoroth or Slaking,Trade,Trade,Unobtainable,Unobtainable
+Vigoroth,#0288,False,Route 11 (Island Scan) Fr,Route 11 (Island Scan) Fr,Trade,Trade,Unobtainable,Unobtainable
+Slaking,#0289,False,Evolve Vigoroth,Evolve Vigoroth,Trade,Trade,Unobtainable,Unobtainable
+Nincada,#0290,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Ninjask,#0291,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Shedinja,#0292,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Whismur,#0293,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Loudred,#0294,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Exploud,#0295,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Makuhita,#0296,False,Route 2,Route 2,Route 2,Route 2,Unobtainable,Unobtainable
+Hariyama,#0297,False,Poni Plains,Poni Plains,Poni Plains,Poni Plains,Unobtainable,Unobtainable
+Azurill,#0298,False,Breed Marill or Azumarill holding a Sea Incense,Breed Marill or Azumarill holding a Sea Incense,Trade,Trade,Unobtainable,Unobtainable
+Nosepass,#0299,False,Akala Outskirts,Akala Outskirts,Akala Outskirts,Akala Outskirts,Unobtainable,Unobtainable
+Skitty,#0300,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Delcatty,#0301,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Sableye,#0302,False,"Ten Carat Hill, Vast Poni Canyon (SOS Battle)","Ten Carat Hill, Vast Poni Canyon (SOS Battle)","Ten Carat Hill, Vast Poni Canyon (SOS Battle)","Ten Carat Hill, Vast Poni Canyon (SOS Battle)",Unobtainable,Unobtainable
+Mawile,#0303,False,Trade,Trade,Ten Carat Hill,Ten Carat Hill,Unobtainable,Unobtainable
+Aron,#0304,False,Trade,Trade,Breed Aggron,Breed Aggron,Unobtainable,Unobtainable
+Lairon,#0305,False,Trade,Trade,Evolve Aron,Evolve Aron,Unobtainable,Unobtainable
+Aggron,#0306,False,Trade,Trade,Poni Plains (Island Scan) Mo,Poni Plains (Island Scan) Mo,Unobtainable,Unobtainable
+Meditite,#0307,False,Trade,Trade,Breed Medicham,Breed Medicham,Unobtainable,Unobtainable
+Medicham,#0308,False,Trade,Trade,Ultra Space Wilds (Cave World),Ultra Space Wilds (Cave World),Unobtainable,Unobtainable
+Electrike,#0309,False,Trade,Trade,Trade,"Poké Pelago*, Breed Manectric",Unobtainable,Unobtainable
+Manectric,#0310,False,Trade,Trade,Trade,Route 12,Unobtainable,Unobtainable
+Plusle,#0311,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Minun,#0312,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Volbeat,#0313,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Illumise,#0314,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Roselia,#0315,False,Ula'ula Meadow (Island Scan) We,Ula'ula Meadow (Island Scan) We,Trade,Trade,Unobtainable,Unobtainable
+Gulpin,#0316,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Swalot,#0317,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Carvanha,#0318,False,Breed Sharpedo,Breed Sharpedo,Poni Breaker Coast (Fishing),Poni Breaker Coast (Fishing),Unobtainable,Unobtainable
+Sharpedo,#0319,False,Poni Breaker Coast,Poni Breaker Coast,Poni Breaker Coast (SOS Battle),Poni Breaker Coast (SOS Battle),Unobtainable,Unobtainable
+Wailmer,#0320,False,"Poni Breaker Coast, Seafolk Village (Fishing) Poni Wilds (Fishing and Ambush encounter)","Poni Breaker Coast, Seafolk Village (Fishing) Poni Wilds (Fishing and Ambush encounter)",Seafolk Village (Fishing) Poni Breaker Coast (Fishing and Ambush encounter),Seafolk Village (Fishing) Poni Breaker Coast (Fishing and Ambush encounter),Unobtainable,Unobtainable
+Wailord,#0321,False,"Poni Breaker Coast, Seafolk Village (SOS Battle) Poni Wilds (SOS Battle and Ambush encounter)","Poni Breaker Coast, Seafolk Village (SOS Battle) Poni Wilds (SOS Battle and Ambush encounter)",Seafolk Village (SOS Battle) Poni Breaker Coast (SOS Battle and Ambush encounter),Seafolk Village (SOS Battle) Poni Breaker Coast (SOS Battle and Ambush encounter),Unobtainable,Unobtainable
+Numel,#0322,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Camerupt,#0323,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Torkoal,#0324,False,"Route 12, Blush Mountain","Route 12, Blush Mountain","Route 12, Blush Mountain","Route 12, Blush Mountain",Unobtainable,Unobtainable
+Spoink,#0325,False,Trade,Trade,Breed Grumpig,Breed Grumpig,Unobtainable,Unobtainable
+Grumpig,#0326,False,Trade,Trade,Ultra Space Wilds (Rocky World),Ultra Space Wilds (Rocky World),Unobtainable,Unobtainable
+Spinda,#0327,False,Ten Carat Hill,Ten Carat Hill,Ten Carat Hill,Ten Carat Hill,Unobtainable,Unobtainable
+Trapinch,#0328,False,Haina Desert,Haina Desert,Haina Desert,Haina Desert,Unobtainable,Unobtainable
+Vibrava,#0329,False,Evolve Trapinch,Evolve Trapinch,Evolve Trapinch,Evolve Trapinch,Unobtainable,Unobtainable
+Flygon,#0330,False,Evolve Vibrava,Evolve Vibrava,Evolve Vibrava,Evolve Vibrava,Unobtainable,Unobtainable
+Cacnea,#0331,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Cacturne,#0332,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Swablu,#0333,False,Trade,Trade,Breed Altaria,Breed Altaria,Unobtainable,Unobtainable
+Altaria,#0334,False,Trade,Trade,Ultra Space Wilds (Cliff World),Ultra Space Wilds (Cliff World),Unobtainable,Unobtainable
+Zangoose,#0335,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Seviper,#0336,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Lunatone,#0337,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Solrock,#0338,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Barboach,#0339,False,"Paniola Town, Poni Gauntlet, Poni Meadow, Seaward Cave, Vast Poni Canyon (Fishing)","Paniola Town, Poni Gauntlet, Poni Meadow, Seaward Cave, Vast Poni Canyon (Fishing)","Paniola Town, Poni Gauntlet, Poni Meadow, Seaward Cave, Vast Poni Canyon (Fishing) Trade Tentacool at Royal Avenue","Paniola Town, Poni Gauntlet, Poni Meadow, Seaward Cave, Vast Poni Canyon (Fishing) Trade Tentacool at Royal Avenue",Unobtainable,Unobtainable
+Whiscash,#0340,False,"Paniola Town, Poni Gauntlet, Poni Meadow, Seaward Cave, Vast Poni Canyon (SOS Battle)","Paniola Town, Poni Gauntlet, Poni Meadow, Seaward Cave, Vast Poni Canyon (SOS Battle)","Paniola Town, Poni Gauntlet, Poni Meadow, Seaward Cave, Vast Poni Canyon (SOS Battle)","Paniola Town, Poni Gauntlet, Poni Meadow, Seaward Cave, Vast Poni Canyon (SOS Battle)",Unobtainable,Unobtainable
+Corphish,#0341,False,Trade,Trade,Vast Poni Canyon (Fishing),Vast Poni Canyon (Fishing),Unobtainable,Unobtainable
+Crawdaunt,#0342,False,Trade,Trade,Vast Poni Canyon (SOS Battle),Vast Poni Canyon (SOS Battle),Unobtainable,Unobtainable
+Baltoy,#0343,False,Trade,Trade,Trade,Haina Desert (SOS Battle),Unobtainable,Unobtainable
+Claydol,#0344,False,Trade,Trade,Trade,Evolve Baltoy,Unobtainable,Unobtainable
+Lileep,#0345,False,Trade Receive Root Fossil held by a traded Pokémon and revive it,Trade Receive Root Fossil held by a traded Pokémon and revive it,Revive from Root Fossil at the Fossil Restoration Center on Route 8,Revive from Root Fossil at the Fossil Restoration Center on Route 8,Unobtainable,Unobtainable
+Cradily,#0346,False,Trade,Trade,Evolve Lileep,Evolve Lileep,Unobtainable,Unobtainable
+Anorith,#0347,False,Trade Receive Claw Fossil held by a traded Pokémon and revive it,Trade Receive Claw Fossil held by a traded Pokémon and revive it,Revive from Claw Fossil at the Fossil Restoration Center on Route 8,Revive from Claw Fossil at the Fossil Restoration Center on Route 8,Unobtainable,Unobtainable
+Armaldo,#0348,False,Trade,Trade,Evolve Anorith,Evolve Anorith,Unobtainable,Unobtainable
+Feebas,#0349,False,Brooklet Hill (Fishing),Brooklet Hill (Fishing),Brooklet Hill (Fishing),Brooklet Hill (Fishing),Unobtainable,Unobtainable
+Milotic,#0350,False,Evolve Feebas,Evolve Feebas,Evolve Feebas,Evolve Feebas,Unobtainable,Unobtainable
+Castform,#0351,False,"Lush Jungle, Malie Garden, Tapu Village, Route 17, Haina Desert, Exeggutor Island, Mount Lanakila (SOS Battle in weather)","Lush Jungle, Malie Garden, Tapu Village, Route 17, Haina Desert, Exeggutor Island, Mount Lanakila (SOS Battle in weather)","Lush Jungle, Malie Garden, Tapu Village, Route 17, Haina Desert, Exeggutor Island, Mount Lanakila (SOS Battle in weather)","Lush Jungle, Malie Garden, Tapu Village, Route 17, Haina Desert, Exeggutor Island, Mount Lanakila (SOS Battle in weather)",Unobtainable,Unobtainable
+Kecleon,#0352,False,Trade,Trade,Dividing Peak Tunnel,Dividing Peak Tunnel,Unobtainable,Unobtainable
+Shuppet,#0353,False,Trade,Trade,Thrifty Megamart (Abandoned Site),Thrifty Megamart (Abandoned Site),Unobtainable,Unobtainable
+Banette,#0354,False,Trade,Trade,"Evolve Shuppet, Poké Pelago*","Evolve Shuppet, Poké Pelago*",Unobtainable,Unobtainable
+Duskull,#0355,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Dusclops,#0356,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Tropius,#0357,False,Trade,Trade,"Exeggutor Island, Poké Pelago*","Exeggutor Island, Poké Pelago*",Unobtainable,Unobtainable
+Chimecho,#0358,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Absol,#0359,False,"Mount Lanakila, Tapu Village","Mount Lanakila, Tapu Village","Mount Lanakila, Tapu Village","Mount Lanakila, Tapu Village",Unobtainable,Unobtainable
+Wynaut,#0360,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Snorunt,#0361,False,"Mount Lanakila, Tapu Village","Mount Lanakila, Tapu Village","Mount Lanakila, Tapu Village","Mount Lanakila, Tapu Village",Unobtainable,Unobtainable
+Glalie,#0362,False,Mount Lanakila (SOS Battle),Mount Lanakila (SOS Battle),Mount Lanakila,Mount Lanakila,Unobtainable,Unobtainable
+Spheal,#0363,False,Route 7 (Island Scan) Mo,Route 7 (Island Scan) Mo,Route 7 (Island Scan) Mo,Route 7 (Island Scan) Mo,Unobtainable,Unobtainable
+Sealeo,#0364,False,Evolve Spheal,Evolve Spheal,Evolve Spheal,Evolve Spheal,Unobtainable,Unobtainable
+Walrein,#0365,False,Evolve Sealeo,Evolve Sealeo,Evolve Sealeo,Evolve Sealeo,Unobtainable,Unobtainable
+Clamperl,#0366,False,Trade,Trade,"Route 15, Melemele Sea (Fishing)","Route 15, Melemele Sea (Fishing)",Unobtainable,Unobtainable
+Huntail,#0367,False,Trade,Trade,"Route 15, Melemele Sea Night (SOS Battle, fishing)","Route 15, Melemele Sea Night (SOS Battle, fishing)",Unobtainable,Unobtainable
+Gorebyss,#0368,False,Trade,Trade,"Route 15, Melemele Sea Day (SOS Battle, fishing)","Route 15, Melemele Sea Day (SOS Battle, fishing)",Unobtainable,Unobtainable
+Relicanth,#0369,False,Poni Wilds (Fishing),Poni Wilds (Fishing),Poni Breaker Coast (Fishing),Poni Breaker Coast (Fishing),Unobtainable,Unobtainable
+Luvdisc,#0370,False,"Route 9, Melemele Sea (Fishing)","Route 9, Melemele Sea (Fishing)","Route 9, Melemele Sea (Fishing)","Route 9, Melemele Sea (Fishing)",Unobtainable,Unobtainable
+Bagon,#0371,False,"Route 3, Kala'e Bay","Route 3, Kala'e Bay","Route 3, Kala'e Bay","Route 3, Kala'e Bay",Unobtainable,Unobtainable
+Shelgon,#0372,False,Kala'e Bay (SOS Battle),Kala'e Bay (SOS Battle),Kala'e Bay (SOS Battle),Kala'e Bay (SOS Battle),Unobtainable,Unobtainable
+Salamence,#0373,False,Route 3 (SOS Battle),Route 3 (SOS Battle),Route 3 (SOS Battle),Route 3 (SOS Battle),Unobtainable,Unobtainable
+Beldum,#0374,False,Mount Hokulani,Mount Hokulani,Mount Hokulani,Mount Hokulani,Unobtainable,Unobtainable
+Metang,#0375,False,"Evolve Beldum, Poké Pelago*","Evolve Beldum, Poké Pelago*",Evolve Beldum,Evolve Beldum,Unobtainable,Unobtainable
+Metagross,#0376,False,Evolve Metang,Evolve Metang,Evolve Metang,Evolve Metang,Unobtainable,Unobtainable
+Regirock,#0377,False,Trade,Trade,Ultra Space Wilds (Cave World) (Only one),Ultra Space Wilds (Cave World) (Only one),Unobtainable,Unobtainable
+Regice,#0378,False,Trade,Trade,Ultra Space Wilds (Cave World) (Only one),Ultra Space Wilds (Cave World) (Only one),Unobtainable,Unobtainable
+Registeel,#0379,False,Trade,Trade,Ultra Space Wilds (Cave World) (Only one),Ultra Space Wilds (Cave World) (Only one),Unobtainable,Unobtainable
+Latias,#0380,False,Trade,Trade,Trade,Ultra Space Wilds (Water World) (Only one),Unobtainable,Unobtainable
+Latios,#0381,False,Trade,Trade,Ultra Space Wilds (Water World) (Only one),Trade,Unobtainable,Unobtainable
+Kyogre,#0382,False,Trade,Trade,Trade,Ultra Space Wilds (Water World) (Only one),Unobtainable,Unobtainable
+Groudon,#0383,False,Trade,Trade,Ultra Space Wilds (Cave World) (Only one),Trade,Unobtainable,Unobtainable
+Rayquaza,#0384,False,Trade,Trade,Ultra Space Wilds (Cliff World) (requires Groudon and Kyogre in party) (Only one),Ultra Space Wilds (Cliff World) (requires Groudon and Kyogre in party) (Only one),Unobtainable,Unobtainable
+Jirachi,#0385,False,"Pokémon Bank, Event","Pokémon Bank, Event","Pokémon Bank, Event","Pokémon Bank, Event",Unobtainable,Unobtainable
+Deoxys,#0386,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Turtwig,#0387,False,Trade,Trade,Breed Grotle or Torterra,Breed Grotle or Torterra,Unobtainable,Unobtainable
+Grotle,#0388,False,Trade,Trade,Ula'ula Meadow (Island Scan) We,Ula'ula Meadow (Island Scan) We,Unobtainable,Unobtainable
+Torterra,#0389,False,Trade,Trade,Evolve Grotle,Evolve Grotle,Unobtainable,Unobtainable
+Chimchar,#0390,False,Trade,Trade,Breed Monferno or Infernape,Breed Monferno or Infernape,Unobtainable,Unobtainable
+Monferno,#0391,False,Trade,Trade,Route 11 (Island Scan) Fr,Route 11 (Island Scan) Fr,Unobtainable,Unobtainable
+Infernape,#0392,False,Trade,Trade,Evolve Monferno,Evolve Monferno,Unobtainable,Unobtainable
+Piplup,#0393,False,Trade,Trade,Breed Prinplup or Empoleon,Breed Prinplup or Empoleon,Unobtainable,Unobtainable
+Prinplup,#0394,False,Trade,Trade,Route 16 (Island Scan) Tu,Route 16 (Island Scan) Tu,Unobtainable,Unobtainable
+Empoleon,#0395,False,Trade,Trade,Evolve Prinplup,Evolve Prinplup,Unobtainable,Unobtainable
+Starly,#0396,False,Breed Staravia or Staraptor,Breed Staravia or Staraptor,Trade,Trade,Unobtainable,Unobtainable
+Staravia,#0397,False,Route 10 (Island Scan) Th,Route 10 (Island Scan) Th,Trade,Trade,Unobtainable,Unobtainable
+Staraptor,#0398,False,Evolve Staravia,Evolve Staravia,Trade,Trade,Unobtainable,Unobtainable
+Bidoof,#0399,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Bibarel,#0400,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Kricketot,#0401,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Kricketune,#0402,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Shinx,#0403,False,Breed Luxio or Luxray,Breed Luxio or Luxray,Trade,Trade,Unobtainable,Unobtainable
+Luxio,#0404,False,Route 8 (Island Scan) Tu,Route 8 (Island Scan) Tu,Trade,Trade,Unobtainable,Unobtainable
+Luxray,#0405,False,Evolve Luxio,Evolve Luxio,Trade,Trade,Unobtainable,Unobtainable
+Budew,#0406,False,Breed Roselia or Roserade holding a Rose Incense,Breed Roselia or Roserade holding a Rose Incense,Trade,Trade,Unobtainable,Unobtainable
+Roserade,#0407,False,Evolve Roselia,Evolve Roselia,Trade,Trade,Unobtainable,Unobtainable
+Cranidos,#0408,False,Revive from Skull Fossil at the Fossil Restoration Center on Route 8,Trade Receive Skull Fossil held by a traded Pokémon and revive it,Revive from Skull Fossil at the Fossil Restoration Center on Route 8,Revive from Skull Fossil at the Fossil Restoration Center on Route 8,Unobtainable,Unobtainable
+Rampardos,#0409,False,Evolve Cranidos,Trade,Evolve Cranidos,Evolve Cranidos,Unobtainable,Unobtainable
+Shieldon,#0410,False,Trade Receive Armor Fossil held by a traded Pokémon and revive it,Revive from Armor Fossil at the Fossil Restoration Center on Route 8,Revive from Armor Fossil at the Fossil Restoration Center on Route 8,Revive from Armor Fossil at the Fossil Restoration Center on Route 8,Unobtainable,Unobtainable
+Bastiodon,#0411,False,Trade,Evolve Shieldon,Evolve Shieldon,Evolve Shieldon,Unobtainable,Unobtainable
+Burmy,#0412,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Wormadam,#0413,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Mothim,#0414,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Combee,#0415,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Vespiquen,#0416,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Pachirisu,#0417,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Buizel,#0418,False,Trade,Trade,Breed Floatzel,Breed Floatzel,Unobtainable,Unobtainable
+Floatzel,#0419,False,Trade,Trade,Ultra Space Wilds (Water World),Ultra Space Wilds (Water World),Unobtainable,Unobtainable
+Cherubi,#0420,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Cherrim,#0421,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Shellos,#0422,False,Breed Gastrodon (East Sea) Trade (West Sea),Breed Gastrodon (East Sea) Trade (West Sea),Breed Gastrodon (East Sea) Trade Granbull in Seafolk Village (West Sea),Breed Gastrodon (East Sea) Trade Granbull in Seafolk Village (West Sea),Unobtainable,Unobtainable
+Gastrodon,#0423,False,"Ancient Poni Path, Exeggutor Island, Poni Wilds (East Sea) Trade (West Sea)","Ancient Poni Path, Exeggutor Island, Poni Wilds (East Sea) Trade (West Sea)","Ancient Poni Path, Exeggutor Island, Poni Wilds (East Sea) Poni Breaker Coast (Surfing) (East Sea) Evolve Shellos (West Sea)","Ancient Poni Path, Exeggutor Island, Poni Wilds (East Sea) Poni Breaker Coast (Surfing) (East Sea) Evolve Shellos (West Sea)",Unobtainable,Unobtainable
+Ambipom,#0424,False,Trade,Trade,Poni Plains (SOS Battle),Poni Plains (SOS Battle),Unobtainable,Unobtainable
+Drifloon,#0425,False,Hau'oli Cemetery Day,Hau'oli Cemetery Day,Hau'oli Cemetery Day Trainers' School Night (One),Hau'oli Cemetery Day Trainers' School Night (One),Unobtainable,Unobtainable
+Drifblim,#0426,False,"Evolve Drifloon, Poké Pelago","Evolve Drifloon, Poké Pelago",Evolve Drifloon,Evolve Drifloon,Unobtainable,Unobtainable
+Buneary,#0427,False,Trade,Trade,"Route 1, Poni Grove","Route 1, Poni Grove",Unobtainable,Unobtainable
+Lopunny,#0428,False,Trade,Trade,Poni Grove (SOS Battle),Poni Grove (SOS Battle),Unobtainable,Unobtainable
+Mismagius,#0429,False,"Evolve Misdreavus, Poké Pelago*","Evolve Misdreavus, Poké Pelago*",Evolve Misdreavus,Evolve Misdreavus,Unobtainable,Unobtainable
+Honchkrow,#0430,False,Evolve Murkrow,Evolve Murkrow,"Evolve Murkrow, Poké Pelago*","Evolve Murkrow, Poké Pelago*",Unobtainable,Unobtainable
+Glameow,#0431,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Purugly,#0432,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Chingling,#0433,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Stunky,#0434,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Skuntank,#0435,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Bronzor,#0436,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Bronzong,#0437,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Bonsly,#0438,False,"Routes 1 and 5, Lush Jungle","Routes 1 and 5, Lush Jungle","Routes 1 and 5, Lush Jungle","Routes 1 and 5, Lush Jungle",Unobtainable,Unobtainable
+Mime Jr.,#0439,False,Trade,Trade,Hau'oli City,Hau'oli City,Unobtainable,Unobtainable
+Happiny,#0440,False,"Routes 1, 4, 5 and 6, Hau'oli City, Lush Jungle (SOS Battle) Trade Pancham in Malie City","Routes 1, 4, 5 and 6, Hau'oli City, Lush Jungle (SOS Battle) Trade Pancham in Malie City","Routes 1 and 5, Hau'oli City, Lush Jungle, Seaward Cave, Wela Volcano Park, Blush Mountain, Mount Hokulani (SOS Battle) Routes 4 and 6, Poni Grove Day (SOS Battle)","Routes 1 and 5, Hau'oli City, Lush Jungle, Seaward Cave, Wela Volcano Park, Blush Mountain, Mount Hokulani (SOS Battle) Routes 4 and 6, Poni Grove Day (SOS Battle)",Unobtainable,Unobtainable
+Chatot,#0441,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Spiritomb,#0442,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Gible,#0443,False,Breed Gabite or Garchomp,Breed Gabite or Garchomp,Breed Gabite or Garchomp,Breed Gabite or Garchomp,Unobtainable,Unobtainable
+Gabite,#0444,False,Haina Desert (SOS Battle),Haina Desert (SOS Battle),Haina Desert (SOS Battle),Haina Desert (SOS Battle),Unobtainable,Unobtainable
+Garchomp,#0445,False,Evolve Gabite,Evolve Gabite,Evolve Gabite,Evolve Gabite,Unobtainable,Unobtainable
+Munchlax,#0446,False,Route 1,Route 1,Route 1,Route 1,Unobtainable,Unobtainable
+Riolu,#0447,False,Poni Grove,Poni Grove,Poni Grove Day,Poni Grove Day,Unobtainable,Unobtainable
+Lucario,#0448,False,Poni Grove (SOS Battle),Poni Grove (SOS Battle),Poni Grove Day (SOS Battle),Poni Grove Day (SOS Battle),Unobtainable,Unobtainable
+Hippopotas,#0449,False,Trade,Trade,Breed Hippowdon,Breed Hippowdon,Unobtainable,Unobtainable
+Hippowdon,#0450,False,Trade,Trade,Ultra Space Wilds (Cave World),Ultra Space Wilds (Cave World),Unobtainable,Unobtainable
+Skorupi,#0451,False,Trade,Trade,Breed Drapion,Breed Drapion,Unobtainable,Unobtainable
+Drapion,#0452,False,Trade,Trade,Ultra Space Wilds (Rocky World),Ultra Space Wilds (Rocky World),Unobtainable,Unobtainable
+Croagunk,#0453,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Toxicroak,#0454,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Carnivine,#0455,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Finneon,#0456,False,"Routes 1, 7, 8, 14, and 15, Hau'oli City, Melemele Sea, Kala'e Bay, Brooklet Hill, Hano Beach, Secluded Shore (Surfing)","Routes 1, 7, 8, 14, and 15, Hau'oli City, Melemele Sea, Kala'e Bay, Brooklet Hill, Hano Beach, Secluded Shore (Surfing)","Routes 1, 7, 8, 14, and 15, Hau'oli City, Melemele Sea, Kala'e Bay, Brooklet Hill, Hano Beach (Surfing)","Routes 1, 7, 8, 14, and 15, Hau'oli City, Melemele Sea, Kala'e Bay, Brooklet Hill, Hano Beach (Surfing)",Unobtainable,Unobtainable
+Lumineon,#0457,False,Poni Wilds (Surfing),Poni Wilds (Surfing),Poni Breaker Coast (Surfing) Route 15 (SOS Battle),Poni Breaker Coast (Surfing) Route 15 (SOS Battle),Unobtainable,Unobtainable
+Mantyke,#0458,False,Trade,Trade,"Routes 1, 8, Hau'oli City, Kala'e Bay, Melemele Sea (Surfing)","Routes 1, 8, Hau'oli City, Kala'e Bay, Melemele Sea (Surfing)",Unobtainable,Unobtainable
+Snover,#0459,False,Trade,Trade,Breed Abomasnow,Breed Abomasnow,Unobtainable,Unobtainable
+Abomasnow,#0460,False,Trade,Trade,Ultra Space Wilds (Cave World),Ultra Space Wilds (Cave World),Unobtainable,Unobtainable
+Weavile,#0461,False,Evolve Sneasel,Evolve Sneasel,Evolve Sneasel,Evolve Sneasel,Unobtainable,Unobtainable
+Magnezone,#0462,False,Evolve Magneton,Evolve Magneton,Evolve Magneton,Evolve Magneton,Unobtainable,Unobtainable
+Lickilicky,#0463,False,Trade,Trade,Evolve Lickitung,Evolve Lickitung,Unobtainable,Unobtainable
+Rhyperior,#0464,False,Evolve Rhydon,Evolve Rhydon,Evolve Rhydon,Evolve Rhydon,Unobtainable,Unobtainable
+Tangrowth,#0465,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Electivire,#0466,False,Evolve Electabuzz,Evolve Electabuzz,Evolve Electabuzz,Evolve Electabuzz,Unobtainable,Unobtainable
+Magmortar,#0467,False,Evolve Magmar,Evolve Magmar,Evolve Magmar,Evolve Magmar,Unobtainable,Unobtainable
+Togekiss,#0468,False,Poni Gauntlet (Island Scan) Tu,Poni Gauntlet (Island Scan) Tu,Trade,Trade,Unobtainable,Unobtainable
+Yanmega,#0469,False,Trade,Trade,Ultra Space Wilds (Cliff World),Ultra Space Wilds (Cliff World),Unobtainable,Unobtainable
+Leafeon,#0470,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee,Unobtainable,Unobtainable
+Glaceon,#0471,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee,Unobtainable,Unobtainable
+Gliscor,#0472,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Mamoswine,#0473,False,Evolve Piloswine,Evolve Piloswine,Evolve Piloswine,Evolve Piloswine,Unobtainable,Unobtainable
+Porygon-Z,#0474,False,Evolve Porygon2,Evolve Porygon2,Evolve Porygon2,Evolve Porygon2,Unobtainable,Unobtainable
+Gallade,#0475,False,Trade,Trade,Evolve Kirlia♂,Evolve Kirlia♂,Unobtainable,Unobtainable
+Probopass,#0476,False,Evolve Nosepass,Evolve Nosepass,Evolve Nosepass,Evolve Nosepass,Unobtainable,Unobtainable
+Dusknoir,#0477,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Froslass,#0478,False,Evolve Snorunt♀,Evolve Snorunt♀,Evolve Snorunt♀,Evolve Snorunt♀,Unobtainable,Unobtainable
+Rotom,#0479,False,Trade,Trade,Poni Gauntlet (Island Scan) Tu,Poni Gauntlet (Island Scan) Tu,Unobtainable,Unobtainable
+Uxie,#0480,False,Trade,Trade,Ultra Space Wilds (Water World) (Only one),Ultra Space Wilds (Water World) (Only one),Unobtainable,Unobtainable
+Mesprit,#0481,False,Trade,Trade,Ultra Space Wilds (Water World) (Only one),Ultra Space Wilds (Water World) (Only one),Unobtainable,Unobtainable
+Azelf,#0482,False,Trade,Trade,Ultra Space Wilds (Water World) (Only one),Ultra Space Wilds (Water World) (Only one),Unobtainable,Unobtainable
+Dialga,#0483,False,Trade,Trade,Ultra Space Wilds (Rocky World) (Only one),Trade,Unobtainable,Unobtainable
+Palkia,#0484,False,Trade,Trade,Trade,Ultra Space Wilds (Cave World) (Only one),Unobtainable,Unobtainable
+Heatran,#0485,False,Trade,Trade,Ultra Space Wilds (Cave World) (Only one),Trade,Unobtainable,Unobtainable
+Regigigas,#0486,False,Trade,Trade,Trade,Ultra Space Wilds (Cave World) (Only one),Unobtainable,Unobtainable
+Giratina,#0487,False,Trade,Trade,Ultra Space Wilds (Cave World) (requires Dialga and Palkia in party) (Only one) (Altered Forme),Ultra Space Wilds (Cave World) (requires Dialga and Palkia in party) (Only one) (Altered Forme),Unobtainable,Unobtainable
+Cresselia,#0488,False,Trade,Trade,Ultra Space Wilds (Cliff World) (Only one),Ultra Space Wilds (Cliff World) (Only one),Unobtainable,Unobtainable
+Phione,#0489,False,Breed Manaphy,Breed Manaphy,Breed Manaphy,Breed Manaphy,Unobtainable,Unobtainable
+Manaphy,#0490,False,Event,Event,Event,Event,Unobtainable,Unobtainable
+Darkrai,#0491,False,Event,Event,Event,Event,Unobtainable,Unobtainable
+Shaymin,#0492,False,Event,Event,Event,Event,Unobtainable,Unobtainable
+Arceus,#0493,False,Trade Pokémon Bank,Trade Pokémon Bank,Event,Event,Unobtainable,Unobtainable
+Victini,#0494,False,Event,Event,Trade Pokémon Bank,Trade Pokémon Bank,Unobtainable,Unobtainable
+Snivy,#0495,False,Breed Serperior,Breed Serperior,Trade,Trade,Unobtainable,Unobtainable
+Servine,#0496,False,Evolve Snivy,Evolve Snivy,Trade,Trade,Unobtainable,Unobtainable
+Serperior,#0497,False,Exeggutor Island (Island Scan) Th,Exeggutor Island (Island Scan) Th,Trade,Trade,Unobtainable,Unobtainable
+Tepig,#0498,False,Breed Emboar,Breed Emboar,Trade,Trade,Unobtainable,Unobtainable
+Pignite,#0499,False,Evolve Tepig,Evolve Tepig,Trade,Trade,Unobtainable,Unobtainable
+Emboar,#0500,False,Ancient Poni Path (Island Scan) Sa,Ancient Poni Path (Island Scan) Sa,Trade,Trade,Unobtainable,Unobtainable
+Oshawott,#0501,False,Breed Samurott,Breed Samurott,Trade,Trade,Unobtainable,Unobtainable
+Dewott,#0502,False,Evolve Oshawott,Evolve Oshawott,Trade,Trade,Unobtainable,Unobtainable
+Samurott,#0503,False,Poni Wilds (Island Scan) Fr,Poni Wilds (Island Scan) Fr,Trade,Trade,Unobtainable,Unobtainable
+Patrat,#0504,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Watchog,#0505,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Lillipup,#0506,False,"Routes 4, 5, 6, Brooklet Hill, Paniola Ranch","Routes 4, 5, 6, Brooklet Hill, Paniola Ranch","Routes 4, 5, 6, Paniola Ranch","Routes 4, 5, 6, Paniola Ranch",Unobtainable,Unobtainable
+Herdier,#0507,False,Evolve Lillipup,Evolve Lillipup,Evolve Lillipup,Evolve Lillipup,Unobtainable,Unobtainable
+Stoutland,#0508,False,Evolve Herdier,Evolve Herdier,Evolve Herdier,Evolve Herdier,Unobtainable,Unobtainable
+Purrloin,#0509,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Liepard,#0510,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Pansage,#0511,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Simisage,#0512,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Pansear,#0513,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Simisear,#0514,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Panpour,#0515,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Simipour,#0516,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Munna,#0517,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Musharna,#0518,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Pidove,#0519,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Tranquill,#0520,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Unfezant,#0521,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Blitzle,#0522,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Zebstrika,#0523,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Roggenrola,#0524,False,Ten Carat Hill,Ten Carat Hill,Ten Carat Hill,Ten Carat Hill,Unobtainable,Unobtainable
+Boldore,#0525,False,Vast Poni Canyon,Vast Poni Canyon,Vast Poni Canyon,Vast Poni Canyon,Unobtainable,Unobtainable
+Gigalith,#0526,False,Evolve Boldore,Evolve Boldore,Evolve Boldore,Evolve Boldore,Unobtainable,Unobtainable
+Woobat,#0527,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Swoobat,#0528,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Drilbur,#0529,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Excadrill,#0530,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Audino,#0531,False,Trade,Trade,Ultra Space Wilds (Rocky World),Ultra Space Wilds (Rocky World),Unobtainable,Unobtainable
+Timburr,#0532,False,Breed Conkeldurr,Breed Conkeldurr,Trade,Trade,Unobtainable,Unobtainable
+Gurdurr,#0533,False,Evolve Timburr,Evolve Timburr,Trade,Trade,Unobtainable,Unobtainable
+Conkeldurr,#0534,False,Poni Plains (Island Scan) Mo,Poni Plains (Island Scan) Mo,Trade,Trade,Unobtainable,Unobtainable
+Tympole,#0535,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Palpitoad,#0536,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Seismitoad,#0537,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Throh,#0538,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Sawk,#0539,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Sewaddle,#0540,False,Breed Leavanny,Breed Leavanny,Breed Leavanny,Breed Leavanny,Unobtainable,Unobtainable
+Swadloon,#0541,False,Evolve Sewaddle,Evolve Sewaddle,Evolve Sewaddle,Evolve Sewaddle,Unobtainable,Unobtainable
+Leavanny,#0542,False,Poni Meadow (Island Scan) We,Poni Meadow (Island Scan) We,Poni Meadow (Island Scan) We,Poni Meadow (Island Scan) We,Unobtainable,Unobtainable
+Venipede,#0543,False,Route 4 (Island Scan) Th,Route 4 (Island Scan) Th,Trade,Trade,Unobtainable,Unobtainable
+Whirlipede,#0544,False,Evolve Venipede,Evolve Venipede,Trade,Trade,Unobtainable,Unobtainable
+Scolipede,#0545,False,Evolve Whirlipede,Evolve Whirlipede,Trade,Trade,Unobtainable,Unobtainable
+Cottonee,#0546,False,"Malie Garden, Melemele Meadow, Poni Meadow, Poni Plains, Ula'ula Meadow",Trade,"Malie Garden, Melemele Meadow, Poni Meadow, Poni Plains, Ula'ula Meadow",Trade,Unobtainable,Unobtainable
+Whimsicott,#0547,False,Evolve Cottonee,Trade,Evolve Cottonee,Trade,Unobtainable,Unobtainable
+Petilil,#0548,False,Trade,"Malie Garden, Melemele Meadow, Poni Meadow, Poni Plains, Ula'ula Meadow",Trade,"Malie Garden, Melemele Meadow, Poni Meadow, Poni Plains, Ula'ula Meadow",Unobtainable,Unobtainable
+Lilligant,#0549,False,Trade,Evolve Petilil,Trade,Evolve Petilil,Unobtainable,Unobtainable
+Basculin,#0550,False,Trade,Trade,"Brooklet Hill, Malie Garden, Vast Poni Canyon (Fishing) (Red- Striped Form) Trade (Blue- Striped Form)","Brooklet Hill, Malie Garden, Vast Poni Canyon (Fishing) (Blue- Striped Form) Trade (Red- Striped Form)",Unobtainable,Unobtainable
+Sandile,#0551,False,Haina Desert,Haina Desert,Breed Krokorok or Krookodile,Breed Krokorok or Krookodile,Unobtainable,Unobtainable
+Krokorok,#0552,False,Evolve Sandile,Evolve Sandile,Haina Desert,Haina Desert,Unobtainable,Unobtainable
+Krookodile,#0553,False,Evolve Krokorok,Evolve Krokorok,Evolve Krokorok,Evolve Krokorok,Unobtainable,Unobtainable
+Darumaka,#0554,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Darmanitan,#0555,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Maractus,#0556,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Dwebble,#0557,False,Trade,Trade,Breed Crustle,Breed Crustle,Unobtainable,Unobtainable
+Crustle,#0558,False,Trade,Trade,Ultra Space Wilds (Cave World),Ultra Space Wilds (Cave World),Unobtainable,Unobtainable
+Scraggy,#0559,False,Trade,Trade,Routes 16 and 17,Routes 16 and 17,Unobtainable,Unobtainable
+Scrafty,#0560,False,Trade,Trade,Evolve Scraggy,Evolve Scraggy,Unobtainable,Unobtainable
+Sigilyph,#0561,False,Trade,Trade,Ultra Space Wilds (Cliff World),Ultra Space Wilds (Cliff World),Unobtainable,Unobtainable
+Yamask,#0562,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Cofagrigus,#0563,False,Pokémon Bank,Pokémon Bank,"Pokémon Bank, Event","Pokémon Bank, Event",Unobtainable,Unobtainable
+Tirtouga,#0564,False,Revive from Cover Fossil at the Fossil Restoration Center on Route 8,Trade Receive Cover Fossil held by a traded Pokémon and revive it,Revive from Cover Fossil at the Fossil Restoration Center on Route 8,Revive from Cover Fossil at the Fossil Restoration Center on Route 8,Unobtainable,Unobtainable
+Carracosta,#0565,False,Evolve Tirtouga,Trade,Evolve Tirtouga,Evolve Tirtouga,Unobtainable,Unobtainable
+Archen,#0566,False,Trade Receive Plume Fossil held by a traded Pokémon and revive it,Revive from Plume Fossil at the Fossil Restoration Center on Route 8,Revive from Plume Fossil at the Fossil Restoration Center on Route 8,Revive from Plume Fossil at the Fossil Restoration Center on Route 8,Unobtainable,Unobtainable
+Archeops,#0567,False,Trade,Evolve Archen,Evolve Archen,Evolve Archen,Unobtainable,Unobtainable
+Trubbish,#0568,False,Malie City,Malie City,Malie City,Malie City,Unobtainable,Unobtainable
+Garbodor,#0569,False,Malie City (SOS Battle),Malie City (SOS Battle),Evolve Trubbish,Evolve Trubbish,Unobtainable,Unobtainable
+Zorua,#0570,False,Trade,Trade,Trainers' School,Trainers' School,Unobtainable,Unobtainable
+Zoroark,#0571,False,Trade,Trade,Poni Grove,Poni Grove,Unobtainable,Unobtainable
+Minccino,#0572,False,Trade,Trade,Malie City,Malie City,Unobtainable,Unobtainable
+Cinccino,#0573,False,Trade,Trade,Evolve Minccino,Evolve Minccino,Unobtainable,Unobtainable
+Gothita,#0574,False,Route 6 (Island Scan) Su,Route 6 (Island Scan) Su,Trade,Trade,Unobtainable,Unobtainable
+Gothorita,#0575,False,Evolve Gothita,Evolve Gothita,Trade,Trade,Unobtainable,Unobtainable
+Gothitelle,#0576,False,Evolve Gothorita,Evolve Gothorita,Trade,Trade,Unobtainable,Unobtainable
+Solosis,#0577,False,Breed Duosion or Reuniclus,Breed Duosion or Reuniclus,Trade,Trade,Unobtainable,Unobtainable
+Duosion,#0578,False,Route 16 (Island Scan) Tu,Route 16 (Island Scan) Tu,Trade,Trade,Unobtainable,Unobtainable
+Reuniclus,#0579,False,Evolve Duosion,Evolve Duosion,Trade,Trade,Unobtainable,Unobtainable
+Ducklett,#0580,False,Trade,Trade,Breed Swanna,Breed Swanna,Unobtainable,Unobtainable
+Swanna,#0581,False,Trade,Trade,Ultra Space Wilds (Cliff World),Ultra Space Wilds (Cliff World),Unobtainable,Unobtainable
+Vanillite,#0582,False,Tapu Village (SOS Battle while hailing),Tapu Village (SOS Battle while hailing),"Tapu Village, Mount Lanakila (SOS Battle while hailing)","Tapu Village, Mount Lanakila (SOS Battle while hailing)",Unobtainable,Unobtainable
+Vanillish,#0583,False,Mount Lanakila (SOS Battle while hailing),Mount Lanakila (SOS Battle while hailing),Mount Lanakila (SOS Battle while hailing),Mount Lanakila (SOS Battle while hailing),Unobtainable,Unobtainable
+Vanilluxe,#0584,False,Evolve Vanillish,Evolve Vanillish,Mount Lanakila (SOS Battle while hailing),Mount Lanakila (SOS Battle while hailing),Unobtainable,Unobtainable
+Deerling,#0585,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Sawsbuck,#0586,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Emolga,#0587,False,"Poni Plains, Poké Pelago*","Poni Plains, Poké Pelago*",Poni Plains,Poni Plains,Unobtainable,Unobtainable
+Karrablast,#0588,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Escavalier,#0589,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Foongus,#0590,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Amoonguss,#0591,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Frillish,#0592,False,Trade,Trade,Route 14 (Surfing) Route 14 (One)*,Route 14 (Surfing) Route 14 (One)*,Unobtainable,Unobtainable
+Jellicent,#0593,False,Trade,Trade,Evolve Frillish,Evolve Frillish,Unobtainable,Unobtainable
+Alomomola,#0594,False,Brooklet Hill (Fishing),Brooklet Hill (Fishing),Brooklet Hill (Fishing),Brooklet Hill (Fishing),Unobtainable,Unobtainable
+Joltik,#0595,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Galvantula,#0596,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Ferroseed,#0597,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Ferrothorn,#0598,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Klink,#0599,False,Hau'oli City (Island Scan) Th,Hau'oli City (Island Scan) Th,Trade,Trade,Unobtainable,Unobtainable
+Klang,#0600,False,Evolve Klink,Evolve Klink,Trade,Trade,Unobtainable,Unobtainable
+Klinklang,#0601,False,Evolve Klang,Evolve Klang,Trade,Trade,Unobtainable,Unobtainable
+Tynamo,#0602,False,Breed Eelektross,Breed Eelektross,Breed Eelektross,Breed Eelektross,Unobtainable,Unobtainable
+Eelektrik,#0603,False,Evolve Tynamo,Evolve Tynamo,Evolve Tynamo,Evolve Tynamo,Unobtainable,Unobtainable
+Eelektross,#0604,False,Poni Grove (Island Scan) Su,Poni Grove (Island Scan) Su,Poni Grove (Island Scan) Su,Poni Grove (Island Scan) Su,Unobtainable,Unobtainable
+Elgyem,#0605,False,Trade,Trade,Mount Hokulani,Mount Hokulani,Unobtainable,Unobtainable
+Beheeyem,#0606,False,Trade,Trade,Evolve Elgyem,Evolve Elgyem,Unobtainable,Unobtainable
+Litwick,#0607,False,Hau'oli Cemetery (Island Scan) Sa,Hau'oli Cemetery (Island Scan) Sa,Hau'oli Cemetery (Island Scan) Sa,Hau'oli Cemetery (Island Scan) Sa,Unobtainable,Unobtainable
+Lampent,#0608,False,Evolve Litwick,Evolve Litwick,Evolve Litwick,Evolve Litwick,Unobtainable,Unobtainable
+Chandelure,#0609,False,Evolve Lampent,Evolve Lampent,Evolve Lampent,Evolve Lampent,Unobtainable,Unobtainable
+Axew,#0610,False,Mount Hokulani (Island Scan) Sa,Mount Hokulani (Island Scan) Sa,Mount Hokulani (Island Scan) Sa,Mount Hokulani (Island Scan) Sa,Unobtainable,Unobtainable
+Fraxure,#0611,False,Evolve Axew,Evolve Axew,Evolve Axew,Evolve Axew,Unobtainable,Unobtainable
+Haxorus,#0612,False,Evolve Fraxure,Evolve Fraxure,Evolve Fraxure,Evolve Fraxure,Unobtainable,Unobtainable
+Cubchoo,#0613,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Beartic,#0614,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Cryogonal,#0615,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Shelmet,#0616,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Accelgor,#0617,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Stunfisk,#0618,False,Trade,Trade,Ultra Space Wilds (Water World),Ultra Space Wilds (Water World),Unobtainable,Unobtainable
+Mienfoo,#0619,False,Trade,Trade,Vast Poni Canyon,Vast Poni Canyon,Unobtainable,Unobtainable
+Mienshao,#0620,False,Trade,Trade,Evolve Mienfoo,Evolve Mienfoo,Unobtainable,Unobtainable
+Druddigon,#0621,False,Trade,Trade,Resolution Cave,Resolution Cave,Unobtainable,Unobtainable
+Golett,#0622,False,Trade,Trade,Haina Desert (SOS Battle),Trade,Unobtainable,Unobtainable
+Golurk,#0623,False,Trade,Trade,Evolve Golett,Trade,Unobtainable,Unobtainable
+Pawniard,#0624,False,Trade,Trade,Route 17 (SOS Battle),Route 17 (SOS Battle),Unobtainable,Unobtainable
+Bisharp,#0625,False,Trade,Trade,Route 17,Route 17,Unobtainable,Unobtainable
+Bouffalant,#0626,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Rufflet,#0627,False,"Route 3, Poké Pelago",Trade,Route 3,Trade,Unobtainable,Unobtainable
+Braviary,#0628,False,Poni Plains,Trade,Poni Plains,Trade,Unobtainable,Unobtainable
+Vullaby,#0629,False,Trade,"Route 3, Poké Pelago",Trade,Route 3,Unobtainable,Unobtainable
+Mandibuzz,#0630,False,Trade,Poni Plains,Trade,Poni Plains,Unobtainable,Unobtainable
+Heatmor,#0631,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Durant,#0632,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Deino,#0633,False,Ten Carat Hill (Island Scan) Tu,Ten Carat Hill (Island Scan) Tu,Trade,Trade,Unobtainable,Unobtainable
+Zweilous,#0634,False,Evolve Deino,Evolve Deino,Trade,Trade,Unobtainable,Unobtainable
+Hydreigon,#0635,False,Evolve Zweilous,Evolve Zweilous,Trade,Trade,Unobtainable,Unobtainable
+Larvesta,#0636,False,Trade,Trade,Lush Jungle (Cave),Lush Jungle (Cave),Unobtainable,Unobtainable
+Volcarona,#0637,False,Trade,Trade,Lush Jungle (Cave) (SOS Battle),Lush Jungle (Cave) (SOS Battle),Unobtainable,Unobtainable
+Cobalion,#0638,False,Trade,Trade,Ultra Space Wilds (Rocky World) (Only one),Ultra Space Wilds (Rocky World) (Only one),Unobtainable,Unobtainable
+Terrakion,#0639,False,Trade,Trade,Ultra Space Wilds (Rocky World) (Only one),Ultra Space Wilds (Rocky World) (Only one),Unobtainable,Unobtainable
+Virizion,#0640,False,Trade,Trade,Ultra Space Wilds (Rocky World) (Only one),Ultra Space Wilds (Rocky World) (Only one),Unobtainable,Unobtainable
+Tornadus,#0641,False,Trade,Trade,Ultra Space Wilds (Cliff World) (Only one) (Incarnate Forme),Trade,Unobtainable,Unobtainable
+Thundurus,#0642,False,Trade,Trade,Trade,Ultra Space Wilds (Cliff World) (Only one) (Incarnate Forme),Unobtainable,Unobtainable
+Reshiram,#0643,False,Trade,Trade,Ultra Space Wilds (Rocky World) (Only one),Trade,Unobtainable,Unobtainable
+Zekrom,#0644,False,Trade,Trade,Trade,Ultra Space Wilds (Rocky World) (Only one),Unobtainable,Unobtainable
+Landorus,#0645,False,Trade,Trade,Ultra Space Wilds (Cliff World) (requires Tornadus and Thundurus in party) (Only one) (Incarnate Forme),Ultra Space Wilds (Cliff World) (requires Tornadus and Thundurus in party) (Only one) (Incarnate Forme),Unobtainable,Unobtainable
+Kyurem,#0646,False,Trade,Trade,Ultra Space Wilds (Water World) (requires Reshiram and Zekrom in party) (Only one),Ultra Space Wilds (Water World) (requires Reshiram and Zekrom in party) (Only one),Unobtainable,Unobtainable
+Keldeo,#0647,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Meloetta,#0648,False,Event,Event,Event,Event,Unobtainable,Unobtainable
+Genesect,#0649,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Chespin,#0650,False,Trade,Trade,Breed Chesnaught,Breed Chesnaught,Unobtainable,Unobtainable
+Quilladin,#0651,False,Trade,Trade,Evolve Chespin,Evolve Chespin,Unobtainable,Unobtainable
+Chesnaught,#0652,False,Trade,Trade,Exeggutor Island (Island Scan) Th,Exeggutor Island (Island Scan) Th,Unobtainable,Unobtainable
+Fennekin,#0653,False,Trade,Trade,Breed Delphox,Breed Delphox,Unobtainable,Unobtainable
+Braixen,#0654,False,Trade,Trade,Evolve Fennekin,Evolve Fennekin,Unobtainable,Unobtainable
+Delphox,#0655,False,Trade,Trade,Ancient Poni Path (Island Scan) Sa,Ancient Poni Path (Island Scan) Sa,Unobtainable,Unobtainable
+Froakie,#0656,False,Trade,Trade,Breed Greninja,Breed Greninja,Unobtainable,Unobtainable
+Frogadier,#0657,False,Trade,Trade,Evolve Froakie,Evolve Froakie,Unobtainable,Unobtainable
+Greninja,#0658,False,Trade (Standard Greninja) Event: transfer from Pokémon Sun and Pokémon Moon Special Demo Version (Battle Bond Greninja),Trade (Standard Greninja) Event: transfer from Pokémon Sun and Pokémon Moon Special Demo Version (Battle Bond Greninja),Poni Wilds (Island Scan) Fr (Standard Greninja) Trade (Battle Bond Greninja),Poni Wilds (Island Scan) Fr (Standard Greninja) Trade (Battle Bond Greninja),Unobtainable,Unobtainable
+Bunnelby,#0659,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Diggersby,#0660,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Fletchling,#0661,False,"Wela Volcano Park, Poké Pelago*","Wela Volcano Park, Poké Pelago*","Route 8, Wela Volcano Park","Route 8, Wela Volcano Park",Unobtainable,Unobtainable
+Fletchinder,#0662,False,Route 8,Route 8,"Route 8, Wela Volcano Park (SOS Battle)","Route 8, Wela Volcano Park (SOS Battle)",Unobtainable,Unobtainable
+Talonflame,#0663,False,Trade Bewear at Poni Gauntlet,Trade Bewear at Poni Gauntlet,Evolve Fletchinder,Evolve Fletchinder,Unobtainable,Unobtainable
+Scatterbug,#0664,False,Trade,Trade,Hau'oli City (Island Scan) Th,Hau'oli City (Island Scan) Th,Unobtainable,Unobtainable
+Spewpa,#0665,False,Trade,Trade,Evolve Scatterbug,Evolve Scatterbug,Unobtainable,Unobtainable
+Vivillon,#0666,False,Trade,Trade,Evolve Spewpa,Evolve Spewpa,Unobtainable,Unobtainable
+Litleo,#0667,False,Trade,Trade,Poké Pelago*,Poké Pelago*,Unobtainable,Unobtainable
+Pyroar,#0668,False,Trade,Trade,Poni Plains,Poni Plains,Unobtainable,Unobtainable
+Flabébé,#0669,False,Trade,Trade,Melemele Meadow (Yellow Flower) Melemele Meadow (SOS Battle) (Yellow/ Orange/ White Flowers) Breed Floette (Red/ Blue Flowers),Melemele Meadow (Yellow Flower) Melemele Meadow (SOS Battle) (Yellow/ Orange/ White Flowers) Breed Floette (Red/ Blue Flowers),Unobtainable,Unobtainable
+Floette,#0670,False,Trade (Colored Flowers) Unreleased (Eternal Flower),Trade (Colored Flowers) Unreleased (Eternal Flower),Ula'ula Meadow (Red Flower) Ula'ula Meadow (SOS Battle) (Red/ White/ Orange Flowers) Poni Meadow (Blue Flower) Evolve Flabébé (Yellow Flower) Unreleased (Eternal Flower),Ula'ula Meadow (Red Flower) Ula'ula Meadow (SOS Battle) (Red/ White/ Orange Flowers) Poni Meadow (Blue Flower) Evolve Flabébé (Yellow Flower) Unreleased (Eternal Flower),Unobtainable,Unobtainable
+Florges,#0671,False,Trade,Trade,Evolve Floette,Evolve Floette,Unobtainable,Unobtainable
+Skiddo,#0672,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Gogoat,#0673,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Pancham,#0674,False,"Routes 10, 11, and 17","Routes 10, 11, and 17",Routes 10 and 11,Routes 10 and 11,Unobtainable,Unobtainable
+Pangoro,#0675,False,"Routes 10, 11, and 17 (SOS Battle)","Routes 10, 11, and 17 (SOS Battle)",Routes 10 and 11 (SOS Battle),Routes 10 and 11 (SOS Battle),Unobtainable,Unobtainable
+Furfrou,#0676,False,Trade,Trade,"Route 2, Ancient Poni Path, Hau'oli City, Poni Wilds","Route 2, Ancient Poni Path, Hau'oli City, Poni Wilds",Unobtainable,Unobtainable
+Espurr,#0677,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Meowstic,#0678,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Honedge,#0679,False,Akala Outskirts (Island Scan) We,Akala Outskirts (Island Scan) We,Akala Outskirts (Island Scan) We,Akala Outskirts (Island Scan) We,Unobtainable,Unobtainable
+Doublade,#0680,False,Evolve Honedge,Evolve Honedge,Evolve Honedge,Evolve Honedge,Unobtainable,Unobtainable
+Aegislash,#0681,False,Evolve Doublade,Evolve Doublade,Evolve Doublade,Evolve Doublade,Unobtainable,Unobtainable
+Spritzee,#0682,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Aromatisse,#0683,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Swirlix,#0684,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Slurpuff,#0685,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Inkay,#0686,False,Trade,Trade,"Route 1, Ancient Poni Path, Poni Gauntlet, Poni Wilds","Route 1, Ancient Poni Path, Poni Gauntlet, Poni Wilds",Unobtainable,Unobtainable
+Malamar,#0687,False,Trade,Trade,Evolve Inkay,Evolve Inkay,Unobtainable,Unobtainable
+Binacle,#0688,False,Trade,Trade,Breed Barbaracle,Breed Barbaracle,Unobtainable,Unobtainable
+Barbaracle,#0689,False,Trade,Trade,Ultra Space Wilds (Water World),Ultra Space Wilds (Water World),Unobtainable,Unobtainable
+Skrelp,#0690,False,Trade,Trade,Trade,Breed Dragalge,Unobtainable,Unobtainable
+Dragalge,#0691,False,Trade,Trade,Trade,Poni Breaker Coast (Ambush encounter),Unobtainable,Unobtainable
+Clauncher,#0692,False,Trade,Trade,Breed Clawitzer,Trade,Unobtainable,Unobtainable
+Clawitzer,#0693,False,Trade,Trade,Poni Breaker Coast (Ambush encounter),Trade,Unobtainable,Unobtainable
+Helioptile,#0694,False,Trade,Trade,Breed Heliolisk,Breed Heliolisk,Unobtainable,Unobtainable
+Heliolisk,#0695,False,Trade,Trade,Ultra Space Wilds (Rocky World),Ultra Space Wilds (Rocky World),Unobtainable,Unobtainable
+Tyrunt,#0696,False,Trade Receive Jaw Fossil held by a traded Pokémon and revive it,Trade Receive Jaw Fossil held by a traded Pokémon and revive it,Revive from Jaw Fossil at the Fossil Restoration Center on Route 8,Revive from Jaw Fossil at the Fossil Restoration Center on Route 8,Unobtainable,Unobtainable
+Tyrantrum,#0697,False,Trade,Trade,Evolve Tyrunt,Evolve Tyrunt,Unobtainable,Unobtainable
+Amaura,#0698,False,Trade Receive Sail Fossil held by a traded Pokémon and revive it,Trade Receive Sail Fossil held by a traded Pokémon and revive it,Revive from Sail Fossil at the Fossil Restoration Center on Route 8,Revive from Sail Fossil at the Fossil Restoration Center on Route 8,Unobtainable,Unobtainable
+Aurorus,#0699,False,Trade,Trade,Evolve Amaura,Evolve Amaura,Unobtainable,Unobtainable
+Sylveon,#0700,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee,Unobtainable,Unobtainable
+Hawlucha,#0701,False,Trade,Trade,"Route 3, Poké Pelago* Trade Spearow on Route 2","Route 3, Poké Pelago* Trade Spearow on Route 2",Unobtainable,Unobtainable
+Dedenne,#0702,False,Trade,Trade,Blush Mountain,Blush Mountain,Unobtainable,Unobtainable
+Carbink,#0703,False,"Ten Carat Hill, Vast Poni Canyon, Poké Pelago","Ten Carat Hill, Vast Poni Canyon, Poké Pelago","Ten Carat Hill, Vast Poni Canyon","Ten Carat Hill, Vast Poni Canyon",Unobtainable,Unobtainable
+Goomy,#0704,False,"Route 17, Lush Jungle (SOS Battle in rain)","Route 17, Lush Jungle (SOS Battle in rain)","Route 17, Lush Jungle (SOS Battle in rain)","Route 17, Lush Jungle (SOS Battle in rain)",Unobtainable,Unobtainable
+Sliggoo,#0705,False,Exeggutor Island (SOS Battle in rain),Exeggutor Island (SOS Battle in rain),Exeggutor Island (SOS Battle in rain),Exeggutor Island (SOS Battle in rain),Unobtainable,Unobtainable
+Goodra,#0706,False,Evolve Sliggoo,Evolve Sliggoo,Evolve Sliggoo,Evolve Sliggoo,Unobtainable,Unobtainable
+Klefki,#0707,False,"Thrifty Megamart (Abandoned Site), Poké Pelago*","Thrifty Megamart (Abandoned Site), Poké Pelago*",Thrifty Megamart (Abandoned Site),Thrifty Megamart (Abandoned Site),Unobtainable,Unobtainable
+Phantump,#0708,False,Memorial Hill,Memorial Hill,"Memorial Hill, Tapu Village","Memorial Hill, Tapu Village",Unobtainable,Unobtainable
+Trevenant,#0709,False,Poké Pelago*,Poké Pelago*,Trade Phantump in Tapu Village,Trade Phantump in Tapu Village,Unobtainable,Unobtainable
+Pumpkaboo,#0710,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Gourgeist,#0711,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Bergmite,#0712,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Avalugg,#0713,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Noibat,#0714,False,Trade,Trade,Verdant Cavern Trade Lillipup on Route 5,Verdant Cavern Trade Lillipup on Route 5,Unobtainable,Unobtainable
+Noivern,#0715,False,Trade,Trade,Resolution Cave,Resolution Cave,Unobtainable,Unobtainable
+Xerneas,#0716,False,Trade,"Trade, Event",Ultra Space Wilds (Rocky World) (Only one),"Trade, Event",Unobtainable,Unobtainable
+Yveltal,#0717,False,"Trade, Event",Trade,"Trade, Event",Ultra Space Wilds (Cliff World) (Only one),Unobtainable,Unobtainable
+Zygarde,#0718,False,Aether Base on Route 16 (Reassembly Unit) (Forme and Ability determined by number of Zygarde Cells/ Cores),Aether Base on Route 16 (Reassembly Unit) (Forme and Ability determined by number of Zygarde Cells/ Cores),"Resolution Cave (50% Forme, Aura Break) Aether Base on Route 16 (Gift) (10% Forme, Aura Break) Aether Base on Route 16 (Reassembly Unit) (Forme and Ability determined by number of Zygarde Cells/ Cores)","Resolution Cave (50% Forme, Aura Break) Aether Base on Route 16 (Gift) (10% Forme, Aura Break) Aether Base on Route 16 (Reassembly Unit) (Forme and Ability determined by number of Zygarde Cells/ Cores)",Unobtainable,Unobtainable
+Diancie,#0719,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Hoopa,#0720,False,Event,Event,Event,Event,Unobtainable,Unobtainable
+Volcanion,#0721,False,Pokémon Bank,Pokémon Bank,Pokémon Bank,Pokémon Bank,Unobtainable,Unobtainable
+Rowlet,#0722,False,First partner Pokémon from Hala in Iki Town,First partner Pokémon from Hala in Iki Town,First partner Pokémon from Professor Kukui in Route 1,First partner Pokémon from Professor Kukui in Route 1,Unobtainable,Unobtainable
+Dartrix,#0723,False,Evolve Rowlet,Evolve Rowlet,Evolve Rowlet,Evolve Rowlet,Unobtainable,Unobtainable
+Decidueye,#0724,False,Evolve Dartrix,Evolve Dartrix,Evolve Dartrix,Evolve Dartrix,Unobtainable,Unobtainable
+Litten,#0725,False,First partner Pokémon from Hala in Iki Town,First partner Pokémon from Hala in Iki Town,First partner Pokémon from Professor Kukui in Route 1,First partner Pokémon from Professor Kukui in Route 1,Unobtainable,Unobtainable
+Torracat,#0726,False,Evolve Litten,Evolve Litten,Evolve Litten,Evolve Litten,Unobtainable,Unobtainable
+Incineroar,#0727,False,Evolve Torracat,Evolve Torracat,Evolve Torracat,Evolve Torracat,Unobtainable,Unobtainable
+Popplio,#0728,False,First partner Pokémon from Hala in Iki Town,First partner Pokémon from Hala in Iki Town,First partner Pokémon from Professor Kukui in Route 1,First partner Pokémon from Professor Kukui in Route 1,Unobtainable,Unobtainable
+Brionne,#0729,False,Evolve Popplio,Evolve Popplio,Evolve Popplio,Evolve Popplio,Unobtainable,Unobtainable
+Primarina,#0730,False,Evolve Brionne,Evolve Brionne,Evolve Brionne,Evolve Brionne,Unobtainable,Unobtainable
+Pikipek,#0731,False,"Routes 1, 4, 5, and 6, Poké Pelago Routes 5 and 8 (SOS Battle)","Routes 1, 4, 5, and 6, Poké Pelago Routes 5 and 8 (SOS Battle)","Routes 1, 4, 5, and 6, Poké Pelago","Routes 1, 4, 5, and 6, Poké Pelago",Unobtainable,Unobtainable
+Trumbeak,#0732,False,"Routes 5, 8, and 11, Lush Jungle, Poni Grove, Poni Plains","Routes 5, 8, and 11, Lush Jungle, Poni Grove, Poni Plains","Routes 5, 8, and 11, Poni Grove, Poni Plains Lush Jungle (SOS Battle)","Routes 5, 8, and 11, Poni Grove, Poni Plains Lush Jungle (SOS Battle)",Unobtainable,Unobtainable
+Toucannon,#0733,False,Evolve Trumbeak,Evolve Trumbeak,"Route 11, Poni Grove, Poni Plains (SOS Battle)","Route 11, Poni Grove, Poni Plains (SOS Battle)",Unobtainable,Unobtainable
+Yungoos,#0734,False,"Routes 1, 2, 3, 4, 6, 8, Hau'oli City, Kala'e Bay Day Verdant Cavern","Routes 1, 2, 3, 4, 6, 8, Hau'oli City, Kala'e Bay Day","Routes 1, 2, 4, 6, 8, Kala'e Bay Day Verdant Cavern","Routes 1, 2, 4, 6, 8, Kala'e Bay Day",Unobtainable,Unobtainable
+Gumshoos,#0735,False,"Routes 10, 11, 15, 16, and 17, Akala Outskirts, Ancient Poni Path, Malie City, Poni Gauntlet, Poni Grove, Poni Plains, Poni Wilds, Tapu Village Day","Routes 10, 11, 15, 16, and 17, Akala Outskirts, Ancient Poni Path, Malie City, Poni Gauntlet, Poni Grove, Poni Plains, Poni Wilds, Tapu Village Day","Routes 10, 15, 16, and 17, Akala Outskirts, Tapu Village, Mount Lanakila, Poni Plains Day Route 8 Day (SOS Battle) Received from Samson Oak at Heahea Beach* (Totem-sized)","Routes 10, 15, 16, and 17, Akala Outskirts, Tapu Village, Mount Lanakila, Poni Plains Day Route 8 Day (SOS Battle)",Unobtainable,Unobtainable
+Grubbin,#0736,False,"Routes 1, 4, 5, and 6","Routes 1, 4, 5, and 6","Routes 1, 4, 5, and 6 Blush Mountain Day (SOS Battle)","Routes 1, 4, 5, and 6 Blush Mountain Day (SOS Battle)",Unobtainable,Unobtainable
+Charjabug,#0737,False,Blush Mountain,Blush Mountain,Blush Mountain,Blush Mountain,Unobtainable,Unobtainable
+Vikavolt,#0738,False,Evolve Charjabug,Evolve Charjabug,Blush Mountain Day (SOS Battle) Received from Samson Oak at Heahea Beach* (Totem-sized),Blush Mountain Day (SOS Battle),Unobtainable,Unobtainable
+Crabrawler,#0739,False,"Routes 2, 3, 4, 5, 8, 10, 16, and 17, Secluded Shore, Poni Wilds, Poni Plains (Berry piles)","Routes 2, 3, 4, 5, 8, 10, 16, and 17, Secluded Shore, Poni Wilds, Poni Plains (Berry piles)","Routes 2, 3, 4, 5, 8, 10, 16, and 17, Ula'ula Beach, Poni Wilds, Poni Plains (Berry piles)","Routes 2, 3, 4, 5, 8, 10, 16, and 17, Ula'ula Beach, Poni Wilds, Poni Plains (Berry piles)",Unobtainable,Unobtainable
+Crabominable,#0740,False,Evolve Crabrawler,Evolve Crabrawler,Evolve Crabrawler,Evolve Crabrawler,Unobtainable,Unobtainable
+Oricorio,#0741,False,Melemele Meadow (Pom- Pom Style) Route 6 (Pa'u Style) Ula'ula Meadow (Baile Style) Poni Meadow (Sensu Style),Melemele Meadow (Pom- Pom Style) Route 6 (Pa'u Style) Ula'ula Meadow (Baile Style) Poni Meadow (Sensu Style),Melemele Meadow (Pom- Pom Style) Route 6 (Pa'u Style) Ula'ula Meadow (Baile Style) Poni Meadow (Sensu Style),Melemele Meadow (Pom- Pom Style) Route 6 (Pa'u Style) Ula'ula Meadow (Baile Style) Poni Meadow (Sensu Style),Unobtainable,Unobtainable
+Cutiefly,#0742,False,"Routes 2 and 3, Melemele Meadow","Routes 2 and 3, Melemele Meadow","Routes 2 and 3, Melemele Meadow, Poké Pelago","Routes 2 and 3, Melemele Meadow, Poké Pelago",Unobtainable,Unobtainable
+Ribombee,#0743,False,"Ula'ula Meadow, Poni Meadow","Ula'ula Meadow, Poni Meadow","Ula'ula Meadow, Poni Meadow Received from Samson Oak at Heahea Beach* (Totem-sized)","Ula'ula Meadow, Poni Meadow",Unobtainable,Unobtainable
+Rockruff,#0744,False,Ten Carat Hill Standard Form Unobtainable (Own Tempo Form),Ten Carat Hill Standard Form Unobtainable (Own Tempo Form),"Route 1, Ten Carat Hill (Standard Form) Events or breed event Rockruff (Own Tempo Form)","Route 1, Ten Carat Hill (Standard Form) Events or breed event Rockruff (Own Tempo Form)",Unobtainable,Unobtainable
+Lycanroc,#0745,False,Vast Poni Canyon (Midday/ Midnight Forms) Unobtainable (Dusk Form),Vast Poni Canyon (Midday/ Midnight Forms) Unobtainable (Dusk Form),Vast Poni Canyon (Midday/ Midnight Forms) Evolve Own Tempo Rockruff (Dusk Form),Vast Poni Canyon (Midday/ Midnight Forms) Evolve Own Tempo Rockruff (Dusk Form),Unobtainable,Unobtainable
+Wishiwashi,#0746,False,"Routes 7, 8, 9, 13, 14, and 15, Melemele Sea, Kala'e Bay, Brooklet Hill, Akala Outskirts, Secluded Shore (Fishing)","Routes 7, 8, 9, 13, 14, and 15, Melemele Sea, Kala'e Bay, Brooklet Hill, Akala Outskirts, Secluded Shore (Fishing)","Routes 7, 8, 9, 13, 14, and 15, Melemele Sea, Kala'e Bay, Brooklet Hill, Akala Outskirts (Fishing)","Routes 7, 8, 9, 13, 14, and 15, Melemele Sea, Kala'e Bay, Brooklet Hill, Akala Outskirts (Fishing)",Unobtainable,Unobtainable
+Mareanie,#0747,False,"Route 9, Melemele Sea (SOS Battle)","Route 9, Melemele Sea (SOS Battle)","Route 9, Melemele Sea (SOS Battle)","Route 9, Melemele Sea (SOS Battle)",Unobtainable,Unobtainable
+Toxapex,#0748,False,Evolve Mareanie,Evolve Mareanie,Evolve Mareanie,Evolve Mareanie,Unobtainable,Unobtainable
+Mudbray,#0749,False,"Routes 4, 6, and 12, Paniola Ranch, Blush Mountain","Routes 4, 6, and 12, Paniola Ranch, Blush Mountain","Routes 4, 6, and 12, Paniola Ranch, Blush Mountain","Routes 4, 6, and 12, Paniola Ranch, Blush Mountain",Unobtainable,Unobtainable
+Mudsdale,#0750,False,Poni Plains,Poni Plains,"Poni Plains Route 12, Blush Mountain (SOS Battle)","Poni Plains Route 12, Blush Mountain (SOS Battle)",Unobtainable,Unobtainable
+Dewpider,#0751,False,Brooklet Hill Day (Surfing and walking),Brooklet Hill Day (Surfing and walking),Brooklet Hill Day (Surfing and walking),Brooklet Hill Day (Surfing and walking),Unobtainable,Unobtainable
+Araquanid,#0752,False,Malie Garden Day,Malie Garden Day,Malie Garden Day,Malie Garden Day Received from Samson Oak at Heahea Beach* (Totem-sized),Unobtainable,Unobtainable
+Fomantis,#0753,False,"Route 5, Lush Jungle","Route 5, Lush Jungle","Route 5, Lush Jungle","Route 5, Lush Jungle",Unobtainable,Unobtainable
+Lurantis,#0754,False,Evolve Fomantis,Evolve Fomantis,Received from Samson Oak at Heahea Beach* (Totem-sized),Evolve Fomantis,Unobtainable,Unobtainable
+Morelull,#0755,False,"Route 11, Brooklet Hill, Lush Jungle Night","Route 11, Brooklet Hill, Lush Jungle Night","Brooklet Hill, Lush Jungle Night","Brooklet Hill, Lush Jungle Night",Unobtainable,Unobtainable
+Shiinotic,#0756,False,Evolve Morelull,Evolve Morelull,Route 11 Night,Route 11 Night,Unobtainable,Unobtainable
+Salandit,#0757,False,"Route 8, Wela Volcano Park","Route 8, Wela Volcano Park","Route 8, Wela Volcano Park, Lush Jungle (Cave)","Route 8, Wela Volcano Park, Lush Jungle (Cave)",Unobtainable,Unobtainable
+Salazzle,#0758,False,Evolve Salandit♀,Evolve Salandit♀,"Wela Volcano Park, Lush Jungle (SOS Battle)","Wela Volcano Park, Lush Jungle (Cave) (SOS Battle) Received from Samson Oak at Heahea Beach* (Totem-sized)",Unobtainable,Unobtainable
+Stufful,#0759,False,"Route 8, Akala Outskirts","Route 8, Akala Outskirts","Route 8, Akala Outskirts","Route 8, Akala Outskirts",Unobtainable,Unobtainable
+Bewear,#0760,False,Poni Gauntlet,Poni Gauntlet,Poni Gauntlet Hau'oli City (One),Poni Gauntlet Hau'oli City (One),Unobtainable,Unobtainable
+Bounsweet,#0761,False,Lush Jungle Trade Lillipup at Route 5,Lush Jungle Trade Lillipup at Route 5,Breed Steenee or Tsareena,Breed Steenee or Tsareena,Unobtainable,Unobtainable
+Steenee,#0762,False,Trade Granbull in Seafolk Village,Trade Granbull in Seafolk Village,Lush Jungle,Lush Jungle,Unobtainable,Unobtainable
+Tsareena,#0763,False,Evolve Steenee,Evolve Steenee,Evolve Steenee,Evolve Steenee,Unobtainable,Unobtainable
+Comfey,#0764,False,Lush Jungle,Lush Jungle,"Lush Jungle, Poké Pelago*","Lush Jungle, Poké Pelago*",Unobtainable,Unobtainable
+Oranguru,#0765,False,"Trade, Event",Lush Jungle,"Trade, Event",Lush Jungle,Unobtainable,Unobtainable
+Passimian,#0766,False,Lush Jungle,"Trade, Event",Lush Jungle,"Trade, Event",Unobtainable,Unobtainable
+Wimpod,#0767,False,"Route 8, Poni Breaker Coast, Poni Wilds","Route 8, Poni Breaker Coast, Poni Wilds","Dividing Peak Tunnel, Route 8, Poni Breaker Coast","Dividing Peak Tunnel, Route 8, Poni Breaker Coast",Unobtainable,Unobtainable
+Golisopod,#0768,False,Evolve Wimpod,Evolve Wimpod,Evolve Wimpod,Evolve Wimpod,Unobtainable,Unobtainable
+Sandygast,#0769,False,Hano Beach,Hano Beach,Hano Beach,Hano Beach Route 15 (One),Unobtainable,Unobtainable
+Palossand,#0770,False,Evolve Sandygast,Evolve Sandygast,Evolve Sandygast,Evolve Sandygast,Unobtainable,Unobtainable
+Pyukumuku,#0771,False,"Route 7, Hano Beach (Surfing) Poké Pelago*","Route 7, Hano Beach (Surfing) Poké Pelago*","Route 7, Hano Beach (Surfing) Poké Pelago*","Route 7, Hano Beach (Surfing) Poké Pelago*",Unobtainable,Unobtainable
+Type: Null,#0772,False,Received from Gladion at Aether Paradise after becoming Champion,Received from Gladion at Aether Paradise after becoming Champion,Received from Wicke at Ancient Poni Path after becoming Champion Received from Wicke at Aether Paradise if party and boxes are full at Ancient Poni Path,Received from Wicke at Ancient Poni Path after becoming Champion Received from Wicke at Aether Paradise if party and boxes are full at Ancient Poni Path,Unobtainable,Unobtainable
+Silvally,#0773,False,Evolve Type: Null,Evolve Type: Null,Evolve Type: Null,Evolve Type: Null,Unobtainable,Unobtainable
+Minior,#0774,False,Mount Hokulani,Mount Hokulani,Mount Hokulani,Mount Hokulani,Unobtainable,Unobtainable
+Komala,#0775,False,Route 11,Route 11,Route 11,Route 11,Unobtainable,Unobtainable
+Turtonator,#0776,False,Blush Mountain,"Trade, Event",Blush Mountain,Trade,Unobtainable,Unobtainable
+Togedemaru,#0777,False,Blush Mountain,Blush Mountain,Blush Mountain,Blush Mountain Received from Samson Oak at Heahea Beach* (Totem-sized),Unobtainable,Unobtainable
+Mimikyu,#0778,False,Thrifty Megamart (Abandoned Site),Thrifty Megamart (Abandoned Site),Thrifty Megamart (Abandoned Site) Received from Samson Oak at Heahea Beach* (Totem-sized),Thrifty Megamart (Abandoned Site) Received from Samson Oak at Heahea Beach* (Totem-sized),Unobtainable,Unobtainable
+Bruxish,#0779,False,"Routes 13, 14, and 15, Secluded Shore (Fishing)","Routes 13, 14, and 15, Secluded Shore (Fishing)","Routes 13, 14, and 15 (Fishing)","Routes 13, 14, and 15 (Fishing)",Unobtainable,Unobtainable
+Drampa,#0780,False,"Trade, Event",Mount Lanakila,Trade,Mount Lanakila,Unobtainable,Unobtainable
+Dhelmise,#0781,False,Seafolk Village (Fishing),Seafolk Village (Fishing),Seafolk Village (Fishing),Seafolk Village (Fishing),Unobtainable,Unobtainable
+Jangmo-o,#0782,False,Vast Poni Canyon,Vast Poni Canyon,Vast Poni Canyon,Vast Poni Canyon,Unobtainable,Unobtainable
+Hakamo-o,#0783,False,Vast Poni Canyon (SOS Battle),Vast Poni Canyon (SOS Battle),Vast Poni Canyon (SOS Battle),Vast Poni Canyon (SOS Battle),Unobtainable,Unobtainable
+Kommo-o,#0784,False,Vast Poni Canyon (SOS Battle),Vast Poni Canyon (SOS Battle),Vast Poni Canyon (SOS Battle),Vast Poni Canyon (SOS Battle) Received from Samson Oak at Heahea Beach* (Totem-sized),Unobtainable,Unobtainable
+Tapu Koko,#0785,False,Ruins of Conflict (after becoming Champion) (Only one),Ruins of Conflict (after becoming Champion) (Only one),Ruins of Conflict (after becoming Champion) (Only one),Ruins of Conflict (after becoming Champion) (Only one),Unobtainable,Unobtainable
+Tapu Lele,#0786,False,Ruins of Life (after becoming Champion) (Only one),Ruins of Life (after becoming Champion) (Only one),Ruins of Life (after becoming Champion) (Only one),Ruins of Life (after becoming Champion) (Only one),Unobtainable,Unobtainable
+Tapu Bulu,#0787,False,Ruins of Abundance (after becoming Champion) (Only one),Ruins of Abundance (after becoming Champion) (Only one),Ruins of Abundance (after becoming Champion) (Only one),Ruins of Abundance (after becoming Champion) (Only one),Unobtainable,Unobtainable
+Tapu Fini,#0788,False,Ruins of Hope (after becoming Champion) (Only one),Ruins of Hope (after becoming Champion) (Only one),Ruins of Hope (after becoming Champion) (Only one),Ruins of Hope (after becoming Champion) (Only one),Unobtainable,Unobtainable
+Cosmog,#0789,False,Lake of the Sunne (Only one),Lake of the Moone (Only one),Lake of the Sunne (Only one),Lake of the Moone (Only one),Unobtainable,Unobtainable
+Cosmoem,#0790,False,Evolve Cosmog,Evolve Cosmog,Evolve Cosmog,Evolve Cosmog,Unobtainable,Unobtainable
+Solgaleo,#0791,False,Altar of the Sunne (Only one),Trade,Mahalo Trail (Only one),Trade,Unobtainable,Unobtainable
+Lunala,#0792,False,Trade,Altar of the Moone (Only one),Trade,Mahalo Trail (Only one),Unobtainable,Unobtainable
+Nihilego,#0793,False,Diglett's Tunnel or Wela Volcano Park (Only one for either location),Diglett's Tunnel or Wela Volcano Park (Only one for either location),Ultra Deep Sea,Ultra Deep Sea,Unobtainable,Unobtainable
+Buzzwole,#0794,False,Melemele Meadow (Only two),Trade,Ultra Jungle,Trade,Unobtainable,Unobtainable
+Pheromosa,#0795,False,Trade,Verdant Cavern (Only four),Trade,Ultra Desert,Unobtainable,Unobtainable
+Xurkitree,#0796,False,Lush Jungle or Memorial Hill (Only two for either location),Lush Jungle or Memorial Hill (Only two for either location),Ultra Plant,Ultra Plant,Unobtainable,Unobtainable
+Celesteela,#0797,False,Trade,Haina Desert or Malie Garden (Only two for either location),Trade,Ultra Crater,Unobtainable,Unobtainable
+Kartana,#0798,False,Route 17 or Malie Garden (Only four for either location),Trade,Ultra Forest,Trade,Unobtainable,Unobtainable
+Guzzlord,#0799,False,Resolution Cave (Only one),Resolution Cave (Only one),Ultra Ruin,Ultra Ruin,Unobtainable,Unobtainable
+Necrozma,#0800,False,Ten Carat Hill (Only one),Ten Carat Hill (Only one),Mount Lanakila (Only one),Mount Lanakila (Only one),Unobtainable,Unobtainable
+Magearna,#0801,False,Hau'oli City (Q R Scanner),Hau'oli City (Q R Scanner),Hau'oli City (Q R Scanner),Hau'oli City (Q R Scanner),Unobtainable,Unobtainable
+Marshadow,#0802,False,Event,Event,Trade,Trade,Unobtainable,Unobtainable
+Poipole,#0803,False,Unobtainable,Unobtainable,Received from Soliera U S/ Dulse U M in Megalo Tower or Ultra Megalopolis*,Received from Soliera U S/ Dulse U M in Megalo Tower or Ultra Megalopolis*,Unobtainable,Unobtainable
+Naganadel,#0804,False,Unobtainable,Unobtainable,Evolve Poipole,Evolve Poipole,Unobtainable,Unobtainable
+Stakataka,#0805,False,Unobtainable,Unobtainable,Trade,Poni Grove (Only two),Unobtainable,Unobtainable
+Blacephalon,#0806,False,Unobtainable,Unobtainable,Poni Grove (Only two),Trade,Unobtainable,Unobtainable
+Zeraora,#0807,False,Unavailable,Unavailable,Event,Event,Unobtainable,Unobtainable
+Meltan,#0808,False,Unavailable,Unavailable,Unavailable,Unavailable,Transfer from Pokémon G O to G O Park (International version) Event (Mainland Chinese version),Transfer from Pokémon G O to G O Park (International version) Event (Mainland Chinese version)
+Melmetal,#0809,False,Unavailable,Unavailable,Unavailable,Unavailable,Transfer from Pokémon G O to G O Park (International version) Trade locally from international version of Let's Go Pikachu or Eevee (Mainland Chinese version),Transfer from Pokémon G O to G O Park (International version) Trade locally from international version of Let's Go Pikachu or Eevee (Mainland Chinese version)

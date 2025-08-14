@@ -1,0 +1,650 @@
+Pokemon,No.,Caught?,Black,White,Black 2,White 2,Dream World
+Bulbasaur,#0001,False,Global Link Event,Global Link Event,"Poké Transfer, Event","Poké Transfer, Event",
+Ivysaur,#0002,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Venusaur,#0003,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Charmander,#0004,False,Global Link Event,Global Link Event,"Poké Transfer, Event","Poké Transfer, Event",
+Charmeleon,#0005,False,"Poké Transfer, Evolve Event Charmander","Poké Transfer, Evolve Event Charmander","Poké Transfer, Evolve Event Charmander","Poké Transfer, Evolve Event Charmander",
+Charizard,#0006,False,"Poké Transfer, Evolve Charmeleon (from Event Charmander)","Poké Transfer, Evolve Charmeleon (from Event Charmander)","Poké Transfer, Evolve Charmeleon (from Event Charmander)","Poké Transfer, Evolve Charmeleon (from Event Charmander)",
+Squirtle,#0007,False,Global Link Event,Global Link Event,"Poké Transfer, Event","Poké Transfer, Event",
+Wartortle,#0008,False,"Poké Transfer, Evolve Event Squirtle","Poké Transfer, Evolve Event Squirtle","Poké Transfer, Evolve Event Squirtle","Poké Transfer, Evolve Event Squirtle",
+Blastoise,#0009,False,"Poké Transfer, Evolve Wartortle (from Event Squirtle)","Poké Transfer, Evolve Wartortle (from Event Squirtle)","Poké Transfer, Evolve Wartortle (from Event Squirtle)","Poké Transfer, Evolve Wartortle (from Event Squirtle)",
+Caterpie,#0010,False,Trade,Breed Metapod or Butterfree,Trade,Breed Butterfree,
+Metapod,#0011,False,Trade,Route 12,Trade,Evolve Caterpie,
+Butterfree,#0012,False,Trade,Route 12 (Rustling grass),Trade,Pinwheel Forest (Hidden Grotto)*,Windswept Sky
+Weedle,#0013,False,Breed Kakuna or Beedrill,Trade,Breed Beedrill,Trade,
+Kakuna,#0014,False,Route 12,Trade,Evolve Weedle,Trade,
+Beedrill,#0015,False,Route 12 (rustling grass),Trade,Pinwheel Forest (Hidden Grotto)*,Trade,Dream Park
+Pidgey,#0016,False,Trade,White Forest,Trade,Trade,Windswept Sky
+Pidgeotto,#0017,False,Trade,Evolve Pidgey,Trade,Trade,
+Pidgeot,#0018,False,"Trade, Event",Evolve Pidgeotto,"Trade, Event","Trade, Event",
+Rattata,#0019,False,Breed Raticate,Breed Raticate,"Castelia Sewers, Castelia Park, Relic Passage","Castelia Sewers, Castelia Park, Relic Passage",Pleasant Forest
+Raticate,#0020,False,Dreamyard (dark grass),Dreamyard (dark grass),"Dreamyard, Strange House, Relic Passage","Dreamyard, Strange House, Relic Passage",
+Spearow,#0021,False,Breed Fearow,Breed Fearow,Breed Fearow,Breed Fearow,Windswept Sky
+Fearow,#0022,False,Route 15,Route 15,Route 15 (Swarm),Route 15 (Swarm),
+Ekans,#0023,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Dream Park
+Arbok,#0024,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Pikachu,#0025,False,"Poké Transfer, Event","Poké Transfer, Event","Poké Transfer, Event","Poké Transfer, Event",
+Raichu,#0026,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Sandshrew,#0027,False,Breed Sandslash,Breed Sandslash,"Desert Resort, Relic Castle","Desert Resort, Relic Castle",Icy Cave
+Sandslash,#0028,False,Relic Castle,Relic Castle,"Route 15, Relic Castle","Route 15, Relic Castle",
+Nidoran♀,#0029,False,Trade,White Forest,Route 2 (Hidden Grotto),Route 2 (Hidden Grotto),Pleasant Forest
+Nidorina,#0030,False,Trade,Evolve Nidoran♀,Evolve Nidoran♀,Evolve Nidoran♀,
+Nidoqueen,#0031,False,Trade,Evolve Nidorina,Evolve Nidorina,Evolve Nidorina,
+Nidoran♂,#0032,False,Trade,White Forest,Route 2 (Hidden Grotto),Route 2 (Hidden Grotto),Pleasant Forest
+Nidorino,#0033,False,Trade,Evolve Nidoran♂,Evolve Nidoran♂,Evolve Nidoran♂,
+Nidoking,#0034,False,Trade,Evolve Nidorino,Evolve Nidorino,Evolve Nidorino,
+Clefairy,#0035,False,Giant Chasm,Giant Chasm,Giant Chasm Giant Chasm (Hidden Grotto),Giant Chasm Giant Chasm (Hidden Grotto),
+Clefable,#0036,False,Giant Chasm (rustling grass),Giant Chasm (rustling grass),Giant Chasm (rustling grass),Giant Chasm (rustling grass),
+Vulpix,#0037,False,Abundant Shrine,Abundant Shrine,Abundant Shrine Abundant Shrine (Hidden Grotto)*,Abundant Shrine Abundant Shrine (Hidden Grotto)*,Pleasant Forest
+Ninetales,#0038,False,Abundant Shrine (rustling grass),Abundant Shrine (rustling grass),Abundant Shrine (rustling grass),Abundant Shrine (rustling grass),
+Jigglypuff,#0039,False,Route 14,Route 14,"Routes 1 and 2, Dreamyard","Routes 1 and 2, Dreamyard",
+Wigglytuff,#0040,False,Route 14 (rustling grass),Route 14 (rustling grass),"Routes 1 and 2, Dreamyard (rustling grass)","Routes 1 and 2, Dreamyard (rustling grass)",
+Zubat,#0041,False,Breed Golbat or Crobat,Breed Golbat or Crobat,Castelia Sewers,Castelia Sewers,Windswept Sky
+Golbat,#0042,False,"Route 13, Giant Chasm","Route 13, Giant Chasm","Dreamyard, Celestial Tower, Strange House","Dreamyard, Celestial Tower, Strange House",
+Oddish,#0043,False,Trade,White Forest*,Trade,Trade,Pleasant Forest
+Gloom,#0044,False,Trade,Evolve Oddish,Trade,Trade,
+Vileplume,#0045,False,Trade,Evolve Gloom,Trade,Trade,
+Paras,#0046,False,Trade,Route 11 (Swarm),Trade,Trade,Dream Park
+Parasect,#0047,False,Trade,Evolve Paras,Trade,Trade,
+Venonat,#0048,False,Breed Venomoth,Breed Venomoth,Route 3 (Hidden Grotto)*,Route 3 (Hidden Grotto)*,Dream Park
+Venomoth,#0049,False,Dreamyard (dark grass),Dreamyard (dark grass),Evolve Venonat,Evolve Venonat,
+Diglett,#0050,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Icy Cave
+Dugtrio,#0051,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Meowth,#0052,False,"Trade, Event","Trade, Event",Trade with Yancy in Nimbasa City (male player character only),Trade with Yancy in Nimbasa City (male player character only),Spooky Manor
+Persian,#0053,False,Trade,Trade,Evolve Meowth,Evolve Meowth,
+Psyduck,#0054,False,Breed Golduck,Breed Golduck,Floccesy Ranch,Floccesy Ranch,Pleasant Forest
+Golduck,#0055,False,"Routes 11 and 14, Village Bridge","Routes 11 and 14, Village Bridge","Routes 11, 14, 22, and 23, Village Bridge, Seaside Cave, Abundant Shrine, Nature Preserve Route 23, Abundant Shrine* (Hidden Grotto)","Routes 11, 14, 22, and 23, Village Bridge, Seaside Cave, Abundant Shrine, Nature Preserve Route 23, Abundant Shrine* (Hidden Grotto)",
+Mankey,#0056,False,Route 15 (Swarm),Route 15 (Swarm),Trade with Curtis in Nimbasa City (female player character only),Trade with Curtis in Nimbasa City (female player character only),Rugged Mountain
+Primeape,#0057,False,Evolve Mankey,Evolve Mankey,Evolve Mankey,Evolve Mankey,
+Growlithe,#0058,False,Trade,Trade,Virbank Complex,Virbank Complex,Pleasant Forest
+Arcanine,#0059,False,Trade,Trade,Evolve Growlithe,Evolve Growlithe,
+Poliwag,#0060,False,"Route 6, Wellspring Cave, Challenger's Cave, Victory Road, Giant Chasm (Super Rod)","Route 6, Wellspring Cave, Challenger's Cave, Victory Road, Giant Chasm (Super Rod)","Routes 6, 19, 20, and 23, Floccesy Ranch, Relic Passage, Lostlorn Forest, Giant Chasm, Victory Road, Clay Tunnel, Wellspring Cave (Super Rod)","Routes 6, 19, 20, and 23, Floccesy Ranch, Relic Passage, Lostlorn Forest, Giant Chasm, Victory Road, Clay Tunnel, Wellspring Cave (Super Rod)",Pleasant Forest
+Poliwhirl,#0061,False,"Route 6, Wellspring Cave, Challenger's Cave, Victory Road, Giant Chasm (Fishing)","Route 6, Wellspring Cave, Challenger's Cave, Victory Road, Giant Chasm (Fishing)","Routes 6, 19, 20, and 23, Floccesy Ranch, Relic Passage, Wellspring Cave, Clay Tunnel, Lostlorn Forest, Giant Chasm, Victory Road (Fishing) Pinwheel Forest (Hidden Grotto)*","Routes 6, 19, 20, and 23, Floccesy Ranch, Relic Passage, Wellspring Cave, Clay Tunnel, Lostlorn Forest, Giant Chasm, Victory Road (Fishing) Pinwheel Forest (Hidden Grotto)*",
+Poliwrath,#0062,False,"Wellspring Cave, Challenger's Cave, Victory Road, and Giant Chasm (Fishing in rippling water)","Wellspring Cave, Challenger's Cave, Victory Road, and Giant Chasm (Fishing in rippling water)","Route 23, Relic Passage, Clay Tunnel, Wellspring Cave, Giant Chasm, and Victory Road* (Fishing in rippling water)","Route 23, Relic Passage, Clay Tunnel, Wellspring Cave, Giant Chasm, and Victory Road* (Fishing in rippling water)",
+Abra,#0063,False,Trade,White Forest,Breed Alakazam,Breed Alakazam,Spooky Manor
+Kadabra,#0064,False,Trade,Evolve Abra,Evolve Abra,Evolve Abra,
+Alakazam,#0065,False,Trade,Evolve Kadabra,Trade Hippowdon in Accumula Town,Trade Hippowdon in Accumula Town,
+Machop,#0066,False,Trade,White Forest,Trade,Trade,Rugged Mountain
+Machoke,#0067,False,"Trade, Event",Evolve Machop,Trade,Trade,
+Machamp,#0068,False,Trade,Evolve Machoke,Trade,Trade,
+Bellsprout,#0069,False,Trade,White Forest,Trade,Trade,Pleasant Forest
+Weepinbell,#0070,False,Trade,Evolve Bellsprout,Trade,Trade,
+Victreebel,#0071,False,Trade,Evolve Weepinbell,Trade,Trade,
+Tentacool,#0072,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Sparkling Sea
+Tentacruel,#0073,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Geodude,#0074,False,Breed Graveler or Golem,Breed Graveler or Golem,Trade,Trade,Icy Cave
+Graveler,#0075,False,Challenger's Cave,Challenger's Cave,Trade,Trade,
+Golem,#0076,False,Evolve Graveler,Evolve Graveler,Trade,Trade,
+Ponyta,#0077,False,Breed Rapidash,Breed Rapidash,Trade,Trade,Pleasant Forest
+Rapidash,#0078,False,Route 12,Route 12,Trade,Trade,
+Slowpoke,#0079,False,"Abundant Shrine (surfing, rippling water)","Abundant Shrine (surfing, rippling water)",Abundant Shrine (Swarm) Transfer from Dream Radar,Abundant Shrine (Swarm) Transfer from Dream Radar,Sparkling Sea
+Slowbro,#0080,False,Abundant Shrine (Surfing in rippling water),Abundant Shrine (Surfing in rippling water),Evolve Slowpoke,Evolve Slowpoke,
+Magnemite,#0081,False,Trade,White Forest*,Virbank Complex,Virbank Complex,Rugged Mountain
+Magneton,#0082,False,Trade,Evolve Magnemite,P2 Laboratory,P2 Laboratory,
+Farfetch'd,#0083,False,Route 1 (Swarm),Route 1 (Swarm),Route 1 (Swarm),Route 1 (Swarm),Pleasant Forest
+Doduo,#0084,False,Route 12 (Swarm),Route 12 (Swarm),Route 12 (Swarm),Route 12 (Swarm),Pleasant Forest
+Dodrio,#0085,False,Evolve Doduo,Evolve Doduo,Evolve Doduo,Evolve Doduo,
+Seel,#0086,False,Giant Chasm (Surfing),Giant Chasm (Surfing),Seaside Cave and Giant Chasm (Surfing),Seaside Cave and Giant Chasm (Surfing),Sparkling Sea
+Dewgong,#0087,False,Giant Chasm (Surfing in rippling water),Giant Chasm (Surfing in rippling water),Giant Chasm and Seaside Cave (Surfing in rippling water),Giant Chasm and Seaside Cave (Surfing in rippling water),
+Grimer,#0088,False,Trade,Trade,"Castelia Sewers (walking, surfing/fishing Spring Summer)","Castelia Sewers (walking, surfing/fishing Spring Summer)",Dream Park
+Muk,#0089,False,Trade,Trade,Castelia Sewers (Fishing or Surfing in rippling water) Spring Summer Route 9 Route 9 (Hidden Grotto),Castelia Sewers (Fishing or Surfing in rippling water) Spring Summer Route 9 Route 9 (Hidden Grotto),
+Shellder,#0090,False,"Route 13, Undella Town, Undella Bay (fishing)","Route 13, Undella Town, Undella Bay (fishing)","Route 13, Undella Town, Seaside Cave, Humilau City (fishing)","Route 13, Undella Town, Seaside Cave, Humilau City (fishing)",Sparkling Sea
+Cloyster,#0091,False,"Route 13, Undella Town, Undella Bay (Fishing in rippling water)","Route 13, Undella Town, Undella Bay (Fishing in rippling water)","Route 13, Undella Town, Seaside Cave, Humilau City (Fishing in rippling water)","Route 13, Undella Town, Seaside Cave, Humilau City (Fishing in rippling water)",
+Gastly,#0092,False,Trade,White Forest,Trade,Trade,Spooky Manor
+Haunter,#0093,False,Trade,Evolve Gastly,Trade,Trade,
+Gengar,#0094,False,Trade,Evolve Haunter,Trade,Trade,
+Onix,#0095,False,Relic Castle,Relic Castle,"Relic Passage, Twist Mountain, Clay Tunnel, Underground Ruins, Victory Road","Relic Passage, Twist Mountain, Clay Tunnel, Underground Ruins, Victory Road",Icy Cave
+Drowzee,#0096,False,Trade,Trade,Breed Hypno,Breed Hypno,Spooky Manor
+Hypno,#0097,False,Trade,Trade,Dreamyard (Swarm),Dreamyard (Swarm),
+Krabby,#0098,False,"Routes 4 and 13, Driftveil City (fishing)","Routes 4 and 13, Driftveil City (fishing)","Virbank City, Virbank Complex (fishing)","Virbank City, Virbank Complex (fishing)",Sparkling Sea
+Kingler,#0099,False,"Routes 4, 13, Driftveil City (fishing in rippling water)","Routes 4, 13, Driftveil City (fishing in rippling water)",Virbank City and Virbank Complex (fishing in rippling water) Route 18 (Hidden Grotto)*,Virbank City and Virbank Complex (fishing in rippling water) Route 18 (Hidden Grotto)*,
+Voltorb,#0100,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Icy Cave
+Electrode,#0101,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Exeggcute,#0102,False,Route 18 (Swarm),Route 18 (Swarm),Trade,Trade,Pleasant Forest
+Exeggutor,#0103,False,Evolve Exeggcute,Evolve Exeggcute,Trade,Trade,
+Cubone,#0104,False,Breed Marowak,Breed Marowak,Trade,Trade,Icy Cave
+Marowak,#0105,False,Route 15,Route 15,Trade,Trade,
+Hitmonlee,#0106,False,Evolve Tyrogue,Evolve Tyrogue,Trade,Trade,
+Hitmonchan,#0107,False,Evolve Tyrogue,Evolve Tyrogue,Trade,Trade,
+Lickitung,#0108,False,Challenger's Cave,Challenger's Cave,Route 2,Route 2,Pleasant Forest
+Koffing,#0109,False,Trade,Trade,Virbank Complex,Virbank Complex,Rugged Mountain
+Weezing,#0110,False,Trade,Trade,P2 Laboratory,P2 Laboratory,
+Rhyhorn,#0111,False,Trade,White Forest*,Trade with Curtis or Yancy in Nimbasa City,Trade with Curtis or Yancy in Nimbasa City,Rugged Mountain
+Rhydon,#0112,False,Trade,Evolve Rhyhorn,Evolve Rhyhorn,Evolve Rhyhorn,
+Chansey,#0113,False,Trade,Evolve Happiny,Evolve Happiny,Evolve Happiny,Dream Park
+Tangela,#0114,False,"Route 13, Giant Chasm","Route 13, Giant Chasm","Route 13, Giant Chasm Route 13 (Hidden Grotto)*","Route 13, Giant Chasm Route 13 (Hidden Grotto)*",Pleasant Forest
+Kangaskhan,#0115,False,Route 15,Route 15,Trade,Trade,Pleasant Forest
+Horsea,#0116,False,"Routes 17 and 18, P2 Laboratory (Fishing)","Routes 17 and 18, P2 Laboratory (Fishing)","Routes 17 and 18, P2 Laboratory (Fishing)","Routes 17 and 18, P2 Laboratory (Fishing)",Sparkling Sea
+Seadra,#0117,False,"Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Routes 17 and 18, P2 Laboratory (Fishing in rippling water)",
+Goldeen,#0118,False,"Routes 3, 11, and 14, Striaton City, Pinwheel Forest interior, Lostlorn Forest, Abundant Shrine (fishing)","Routes 3, 11, and 14, Striaton City, Pinwheel Forest interior, Lostlorn Forest, Abundant Shrine (fishing)","Routes 3, 11, 14, and 22, Pinwheel Forest, Abundant Shrine, Aspertia City, Striaton City (fishing)","Routes 3, 11, 14, and 22, Pinwheel Forest, Abundant Shrine, Aspertia City, Striaton City (fishing)",Sparkling Sea
+Seaking,#0119,False,"Routes 3, 11, and 14, Striaton City, Pinwheel Forest interior, Abundant Shrine (fishing in rippling water)","Routes 3, 11, and 14, Striaton City, Pinwheel Forest interior, Abundant Shrine (fishing in rippling water)","Routes 3, 11, 14, and 22, Pinwheel Forest, Abundant Shrine, Aspertia City, Striaton City (fishing in rippling water)","Routes 3, 11, 14, and 22, Pinwheel Forest, Abundant Shrine, Aspertia City, Striaton City (fishing in rippling water)",Sparkling Sea
+Staryu,#0120,False,Route 13 (Surfing or Surfing in rippling water),Route 13 (Surfing or Surfing in rippling water),"Route 13, Undella Town, Humilau City (Surfing or Surfing in rippling water)  Transfer from Dream Radar","Route 13, Undella Town, Humilau City (Surfing or Surfing in rippling water)  Transfer from Dream Radar",Sparkling Sea
+Starmie,#0121,False,Route 13 (Surfing on rippling water),Route 13 (Surfing on rippling water),"Route 13, Undella Town, Humilau City (Surfing on rippling water)","Route 13, Undella Town, Humilau City (Surfing on rippling water)",
+Mr. Mime,#0122,False,Trade,Trade,Trade,Route 20 (Swarm),Spooky Manor
+Scyther,#0123,False,"Poké Transfer, Event","Poké Transfer, Event",Poké Transfer,Poké Transfer,Pleasant Forest
+Jynx,#0124,False,Giant Chasm,Giant Chasm,Evolve Dream Radar Smoochum,Evolve Dream Radar Smoochum,
+Electabuzz,#0125,False,"Trade, Event",Evolve Elekid,Trade,Evolve Elekid,
+Magmar,#0126,False,"Trade, Event",Evolve Magby,Evolve Magby,Trade,
+Pinsir,#0127,False,Route 12,Route 12,Lostlorn Forest (Hidden Grotto),Route 12 and Lostlorn Forest Lostlorn Forest (Hidden Grotto),Dream Park
+Tauros,#0128,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Pleasant Forest
+Magikarp,#0129,False,Buy from Magikarp salesman for $500 on Marvelous Bridge,Buy from Magikarp salesman for $500 on Marvelous Bridge,Nature Preserve (fishing) Buy from Magikarp salesman for $500 on Marvelous Bridge,Nature Preserve (fishing) Buy from Magikarp salesman for $500 on Marvelous Bridge,Sparkling Sea
+Gyarados,#0130,False,Evolve Magikarp,Evolve Magikarp,Nature Preserve (fishing in rippling water),Nature Preserve (fishing in rippling water),
+Lapras,#0131,False,Village Bridge (Surfing in rippling water),Village Bridge (Surfing in rippling water),Village Bridge (Surfing in rippling water),Village Bridge (Surfing in rippling water),Sparkling Sea
+Ditto,#0132,False,Giant Chasm (Crater Forest),Giant Chasm (Crater Forest),"Giant Chasm (Crater Forest, Hidden Grotto)","Giant Chasm (Crater Forest, Hidden Grotto)",
+Eevee,#0133,False,"Trade, Event","Trade, Event",Castelia Park Received from Amanita in Castelia City*,Castelia Park Received from Amanita in Castelia City*,"Pokémon Café Forest, Dream Park"
+Vaporeon,#0134,False,Trade Global Link event,Trade Global Link event,Evolve Eevee,Evolve Eevee,
+Jolteon,#0135,False,Trade Global Link event,Trade Global Link event,Evolve Eevee,Evolve Eevee,
+Flareon,#0136,False,Trade Global Link event,Trade Global Link event,Evolve Eevee,Evolve Eevee,
+Porygon,#0137,False,Trade,White Forest*,Transfer from Dream Radar,Transfer from Dream Radar,
+Omanyte,#0138,False,Revive from Helix Fossil at the Nacrene Museum,Revive from Helix Fossil at the Nacrene Museum,Revive from Helix Fossil at the Nacrene Museum,Revive from Helix Fossil at the Nacrene Museum,Sparkling Sea
+Omastar,#0139,False,Evolve Omanyte,Evolve Omanyte,Evolve Omanyte,Evolve Omanyte,
+Kabuto,#0140,False,Revive from Dome Fossil at the Nacrene Museum,Revive from Dome Fossil at the Nacrene Museum,Revive from Dome Fossil at the Nacrene Museum,Revive from Dome Fossil at the Nacrene Museum,Sparkling Sea
+Kabutops,#0141,False,Evolve Kabuto,Evolve Kabuto,Evolve Kabuto,Evolve Kabuto,
+Aerodactyl,#0142,False,Revive from Old Amber at the Nacrene Museum,Revive from Old Amber at the Nacrene Museum,Revive from Old Amber at the Nacrene Museum,Revive from Old Amber at the Nacrene Museum,Windswept Sky
+Snorlax,#0143,False,Evolve Munchlax,Evolve Munchlax,Trade with Yancy/ Curtis in Nimbasa City,Trade with Yancy/ Curtis in Nimbasa City,Dream Park
+Articuno,#0144,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Zapdos,#0145,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Moltres,#0146,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Dratini,#0147,False,Dragonspiral Tower (fishing),Dragonspiral Tower (fishing),Dragonspiral Tower (fishing),Dragonspiral Tower (fishing) Received from Benga in Floccesy Town after he is defeated at White Treehollow (Shiny),Sparkling Sea
+Dragonair,#0148,False,Dragonspiral Tower (Fishing in rippling water),Dragonspiral Tower (Fishing in rippling water),Dragonspiral Tower (Fishing in rippling water),Dragonspiral Tower (Fishing in rippling water),
+Dragonite,#0149,False,Dragonspiral Tower (Fishing in rippling water),Dragonspiral Tower (Fishing in rippling water),Dragonspiral Tower (Fishing in rippling water) Route 18 (Hidden Grotto)*,Dragonspiral Tower (Fishing in rippling water) Route 18 (Hidden Grotto)*,
+Mewtwo,#0150,False,"Poké Transfer, Event","Poké Transfer, Event","Poké Transfer, Event","Poké Transfer, Event",
+Mew,#0151,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Chikorita,#0152,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Bayleef,#0153,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Meganium,#0154,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Cyndaquil,#0155,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Quilava,#0156,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Typhlosion,#0157,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Totodile,#0158,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Croconaw,#0159,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Feraligatr,#0160,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Sentret,#0161,False,Route 7 (Swarm),Route 7 (Swarm),Breed Furret,Breed Furret,Pleasant Forest
+Furret,#0162,False,Evolve Sentret,Evolve Sentret,Route 7 (Swarm),Route 7 (Swarm),
+Hoothoot,#0163,False,Breed Noctowl,Breed Noctowl,Breed Noctowl; Transfer from Dream Radar,Breed Noctowl; Transfer from Dream Radar,Windswept Sky
+Noctowl,#0164,False,Abundant Shrine,Abundant Shrine,Nature Preserve,Nature Preserve,
+Ledyba,#0165,False,Breed Ledian,Breed Ledian,Trade,Breed Ledian,Windswept Sky
+Ledian,#0166,False,Dreamyard (dark grass),Dreamyard (dark grass),Trade,Route 22 (Swarm),
+Spinarak,#0167,False,Breed Ariados,Breed Ariados,Breed Ariados,Trade,Spooky Manor
+Ariados,#0168,False,Dreamyard (dark grass),Dreamyard (dark grass),Route 22 (Swarm),Trade,
+Crobat,#0169,False,"Route 13, Giant Chasm (rustling grass)","Route 13, Giant Chasm (rustling grass)",Dreamyard (rustling grass),Dreamyard (rustling grass),
+Chinchou,#0170,False,"Route 18, Driftveil City (Fishing)","Route 18, Driftveil City (Fishing)",Undella Bay (Fishing),Undella Bay (Fishing),
+Lanturn,#0171,False,Driftveil City (Fishing in rippling water),Driftveil City (Fishing in rippling water),Undella Bay (Fishing in rippling water),Undella Bay (Fishing in rippling water),
+Pichu,#0172,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Cleffa,#0173,False,Breed Clefairy or Clefable,Breed Clefairy or Clefable,Breed Clefairy or Clefable,Breed Clefairy or Clefable,Icy Cave
+Igglybuff,#0174,False,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff  Transfer from Dream Radar,Breed Jigglypuff or Wigglytuff  Transfer from Dream Radar,Pleasant Forest
+Togepi,#0175,False,Trade,White Forest,Trade with Curtis or Yancy in Nimbasa City  Transfer from Dream Radar,Trade with Curtis or Yancy in Nimbasa City  Transfer from Dream Radar,Dream Park
+Togetic,#0176,False,Trade,Evolve Togepi,Evolve Togepi,Evolve Togepi,
+Natu,#0177,False,Trade,Trade,Route 5 (Swarm),Route 5 (Swarm),Pleasant Forest
+Xatu,#0178,False,Trade,Trade,Evolve Natu,Evolve Natu,
+Mareep,#0179,False,Trade,White Forest,Floccesy Ranch,Floccesy Ranch,Pleasant Forest
+Flaaffy,#0180,False,Trade,Evolve Mareep,Evolve Mareep,Evolve Mareep,
+Ampharos,#0181,False,Trade,Evolve Flaaffy,Evolve Flaaffy,Evolve Flaaffy,
+Bellossom,#0182,False,Trade,Evolve Gloom,Trade,Trade,
+Marill,#0183,False,Trade,Evolve Azurill,"Routes 6, 11, and 22, Village Bridge, Abundant Shrine (Tall grass and Surfing) Victory Road*, Pinwheel Forest, Relic Passage (Surfing) Route 20, Floccesy Ranch (Surfing in rippling water) Floccesy Ranch (Hidden Grotto)","Routes 6, 11, and 22, Village Bridge, Abundant Shrine (Tall grass and Surfing) Victory Road*, Pinwheel Forest, Relic Passage (Surfing) Route 20, Floccesy Ranch (Surfing in rippling water) Floccesy Ranch (Hidden Grotto)",Pleasant Forest
+Azumarill,#0184,False,Trade,Evolve Marill,"Routes 6, 11, 20, and 22, Village Bridge, Abundant Shrine, Floccesy Ranch, Pinwheel Forest, Victory Road*, Relic Passage (Surfing in rippling water) Routes 6, 11, and 22, Village Bridge, Abundant Shrine (Rustling grass)","Routes 6, 11, 20, and 22, Village Bridge, Abundant Shrine, Floccesy Ranch, Pinwheel Forest, Victory Road*, Relic Passage (Surfing in rippling water) Routes 6, 11, and 22, Village Bridge, Abundant Shrine (Rustling grass)",
+Sudowoodo,#0185,False,Trade,Trade,Route 20 (Swarm),Trade,Pleasant Forest
+Politoed,#0186,False,Route 6 (Fishing in rippling water),Route 6 (Fishing in rippling water),"Routes 6, 19, and 20, Floccesy Ranch, Lostlorn Forest, Victory Road* (Fishing in rippling water)","Routes 6, 19, and 20, Floccesy Ranch, Lostlorn Forest, Victory Road* (Fishing in rippling water)",
+Hoppip,#0187,False,Trade,White Forest,Route 18 (Swarm),Route 18 (Swarm),"Pleasant Forest, Windswept Sky"
+Skiploom,#0188,False,Trade,Evolve Hoppip,Evolve Hoppip,Evolve Hoppip,
+Jumpluff,#0189,False,Trade,Evolve Skiploom,Evolve Skiploom,Evolve Skiploom,
+Aipom,#0190,False,Trade,Trade,Breed Ambipom,Breed Ambipom,Dream Park
+Sunkern,#0191,False,Route 12,Route 12,Route 20,Route 20,Pleasant Forest
+Sunflora,#0192,False,Route 12 (rustling grass),Route 12 (rustling grass),Evolve Sunkern,Evolve Sunkern,
+Yanma,#0193,False,Route 14 (Swarm),Route 14 (Swarm),"Route 3, Pinwheel Forest (outer)","Route 3, Pinwheel Forest (outer)",Windswept Sky
+Wooper,#0194,False,Trade,White Forest (Surfing),Breed Quagsire,Breed Quagsire,Sparkling Sea
+Quagsire,#0195,False,Trade,Evolve Wooper,Route 8 (Swarm) Spring Summer Autumn,Route 8 (Swarm) Spring Summer Autumn,
+Espeon,#0196,False,Evolve Dream World Eevee,Evolve Dream World Eevee,Evolve Eevee,Evolve Eevee,
+Umbreon,#0197,False,Evolve Dream World Eevee,Evolve Dream World Eevee,Evolve Eevee,Evolve Eevee,
+Murkrow,#0198,False,Abundant Shrine,Trade,Pinwheel Forest (Hidden Grotto)*,Pinwheel Forest (Hidden Grotto)*,Windswept Sky
+Slowking,#0199,False,Abundant Shrine (Surfing in rippling water),Abundant Shrine (Surfing in rippling water),Evolve Slowpoke,Evolve Slowpoke,
+Misdreavus,#0200,False,Trade,Abundant Shrine,Trade,Trade,Spooky Manor
+Unown,#0201,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Wobbuffet,#0202,False,Evolve Wynaut,Evolve Wynaut,Trade with Curtis or Yancy in Nimbasa City,Trade with Curtis or Yancy in Nimbasa City,Spooky Manor
+Girafarig,#0203,False,Trade,Trade,Nature Preserve,Nature Preserve,Pleasant Forest
+Pineco,#0204,False,Route 16 (Swarm),Route 16 (Swarm),Route 16 (Swarm),Route 16 (Swarm),Dream Park
+Forretress,#0205,False,Evolve Pineco,Evolve Pineco,Evolve Pineco,Evolve Pineco,
+Dunsparce,#0206,False,Route 12,Route 12,"Routes 1, 2, 6, 12, 18, and 20, Floccesy Ranch, Dreamyard, Village Bridge, Victory Road, Nature Preserve (rustling grass) Route 6* and Floccesy Ranch (Hidden Grotto)","Routes 1, 2, 6, 12, 18, and 20, Floccesy Ranch, Dreamyard, Village Bridge, Victory Road, Nature Preserve (rustling grass) Route 6* and Floccesy Ranch (Hidden Grotto)",Icy Cave
+Gligar,#0207,False,Routes 11 and 15,Routes 11 and 15,"Routes 11, 15, and 23 Route 23 (Hidden Grotto)","Routes 11, 15, and 23 Route 23 (Hidden Grotto)",Windswept Sky
+Steelix,#0208,False,Evolve Onix,Evolve Onix,"Clay Tunnel, Twist Mountain, Underground Ruins (Dust cloud)","Clay Tunnel, Twist Mountain, Underground Ruins (Dust cloud)",
+Snubbull,#0209,False,Trade,Trade,Breed Granbull,Breed Granbull,Spooky Manor
+Granbull,#0210,False,Trade,Trade,Route 2 (Hidden Grotto),Route 2 (Hidden Grotto),
+Qwilfish,#0211,False,"Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Route 4, Virbank City, Virbank Complex (Fishing) Route 4, P2 Laboratory (Fishing in rippling water)","Route 4, Virbank City, Virbank Complex (Fishing) Route 4, P2 Laboratory (Fishing in rippling water)",Sparkling Sea
+Scizor,#0212,False,Poké Transfer,Poké Transfer,"Poké Transfer, Event","Poké Transfer, Event",
+Shuckle,#0213,False,Route 14,Route 14,Seaside Cave Transfer from Dream Radar,Seaside Cave Transfer from Dream Radar,Icy Cave
+Heracross,#0214,False,Route 12,Route 12,Route 12 and Lostlorn Forest Lostlorn Forest (Hidden Grotto),Lostlorn Forest (Hidden Grotto),Dream Park
+Sneasel,#0215,False,Giant Chasm,Giant Chasm,Giant Chasm Giant Chasm (Hidden Grotto),Giant Chasm Giant Chasm (Hidden Grotto),Icy Cave
+Teddiursa,#0216,False,Trade,Trade,Trade with Yancy in Nimbasa City (male player character only),Trade with Yancy in Nimbasa City (male player character only),Rugged Mountain
+Ursaring,#0217,False,Trade,Trade,Evolve Teddiursa,Evolve Teddiursa,
+Slugma,#0218,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Rugged Mountain
+Magcargo,#0219,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Swinub,#0220,False,Breed Piloswine or Mamoswine,Breed Piloswine or Mamoswine,Breed Piloswine or Mamoswine,Breed Piloswine or Mamoswine,Icy Cave
+Piloswine,#0221,False,Giant Chasm,Giant Chasm,Giant Chasm,Giant Chasm,
+Corsola,#0222,False,"Route 13, Undella Town (Surfing in rippling water)","Route 13, Undella Town (Surfing in rippling water)",Humilau City (Surfing in rippling water) Route 18 (fishing) Route 18 (Hidden Grotto),Humilau City (Surfing in rippling water) Route 18 (fishing) Route 18 (Hidden Grotto),Sparkling Sea
+Remoraid,#0223,False,"Undella Town, Undella Bay (Fishing)","Undella Town, Undella Bay (Fishing)","Route 21, Undella Bay (Surfing or Fishing)","Route 21, Undella Bay (Surfing or Fishing)",Sparkling Sea
+Octillery,#0224,False,Undella Town and Undella Bay (Fishing in rippling water),Undella Town and Undella Bay (Fishing in rippling water),Route 21 and Undella Bay (Fishing in rippling water),Route 21 and Undella Bay (Fishing in rippling water),
+Delibird,#0225,False,Giant Chasm,Giant Chasm,Route 22 and Giant Chasm,Route 22 and Giant Chasm,Windswept Sky
+Mantine,#0226,False,"Undella Town, Undella Bay (Surfing in rippling water)","Undella Town, Undella Bay (Surfing in rippling water)","Undella Bay Spring Summer Autumn, Route 21 (Surfing in rippling water)","Undella Bay Spring Summer Autumn, Route 21 (Surfing in rippling water)",Sparkling Sea
+Skarmory,#0227,False,Trade,Trade,Reversal Mountain,Reversal Mountain,Windswept Sky
+Houndour,#0228,False,Route 9 (Swarm),Trade,Trade,Trade,Spooky Manor
+Houndoom,#0229,False,Evolve Houndour,Trade,Trade,Trade,
+Kingdra,#0230,False,"Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Routes 17 and 18, P2 Laboratory (Fishing in rippling water)",
+Phanpy,#0231,False,Trade,Trade,Trade with Curtis in Nimbasa City (female player character only),Trade with Curtis in Nimbasa City (female player character only),Rugged Mountain
+Donphan,#0232,False,Trade,Trade,Evolve Phanpy,Evolve Phanpy,
+Porygon2,#0233,False,Trade,Evolve Porygon,Trade,Trade,
+Stantler,#0234,False,Abundant Shrine,Abundant Shrine,Trade,Trade,Pleasant Forest
+Smeargle,#0235,False,Route 5 (Swarm),Route 5 (Swarm),"Trade, Event","Trade, Event",Pokémon Café Forest and Spooky Manor
+Tyrogue,#0236,False,Route 10 (Swarm),Route 10 (Swarm),Trade,Trade,Rugged Mountain
+Hitmontop,#0237,False,Evolve Tyrogue,Evolve Tyrogue,"Trade, Event","Trade, Event",
+Smoochum,#0238,False,Breed Jynx,Breed Jynx,Transfer from Dream Radar,Transfer from Dream Radar,Spooky Manor
+Elekid,#0239,False,Trade,White Forest,Trade,Virbank Complex,Pleasant Forest
+Magby,#0240,False,Trade,White Forest,Virbank Complex,Trade,Rugged Mountain
+Miltank,#0241,False,Dream World or Poké Transfer,Dream World or Poké Transfer,Dream World or Poké Transfer,Dream World or Poké Transfer,Pleasant Forest
+Blissey,#0242,False,"Trade, Event",Evolve Chansey,Evolve Chansey,Evolve Chansey,
+Raikou,#0243,False,Poké Transfer Relocator (Shiny event Raikou only),Poké Transfer Relocator (Shiny event Raikou only),Poké Transfer,Poké Transfer,
+Entei,#0244,False,Poké Transfer Relocator (Shiny event Entei only),Poké Transfer Relocator (Shiny event Entei only),Poké Transfer,Poké Transfer,
+Suicune,#0245,False,Poké Transfer Relocator (Shiny event Suicune only),Poké Transfer Relocator (Shiny event Suicune only),Poké Transfer,Poké Transfer,
+Larvitar,#0246,False,Breed Pupitar or Tyranitar,Breed Pupitar or Tyranitar,Breed Pupitar or Tyranitar,Breed Pupitar or Tyranitar,Rugged Mountain
+Pupitar,#0247,False,Route 15,Route 15,Route 15,Route 15,
+Tyranitar,#0248,False,Route 15 (rustling grass),Route 15 (rustling grass),Route 15 (rustling grass),Route 15 (rustling grass),
+Lugia,#0249,False,Poké Transfer,Poké Transfer,Transfer from Dream Radar (requires Pokémon Soul Silver),Transfer from Dream Radar (requires Pokémon Soul Silver),
+Ho-Oh,#0250,False,Poké Transfer,Poké Transfer,Transfer from Dream Radar (requires Pokémon Heart Gold),Transfer from Dream Radar (requires Pokémon Heart Gold),
+Celebi,#0251,False,Poké Transfer Relocator (Event Celebi only),Poké Transfer Relocator (Event Celebi only),Poké Transfer,Poké Transfer,
+Treecko,#0252,False,"Poké Transfer, Global Link Event","Poké Transfer, Global Link Event",Poké Transfer,Poké Transfer,
+Grovyle,#0253,False,"Poké Transfer, Evolve event Treecko","Poké Transfer, Evolve event Treecko",Poké Transfer,Poké Transfer,
+Sceptile,#0254,False,"Poké Transfer, Event","Poké Transfer, Event",Poké Transfer,Poké Transfer,
+Torchic,#0255,False,"Poké Transfer, Global Link Event","Poké Transfer, Global Link Event",Poké Transfer,Poké Transfer,
+Combusken,#0256,False,"Poké Transfer, Evolve Global Link Event Torchic","Poké Transfer, Evolve Global Link Event Torchic",Poké Transfer,Poké Transfer,
+Blaziken,#0257,False,"Poké Transfer, Event Evolve Global Link Event Torchic","Poké Transfer, Event Evolve Global Link Event Torchic",Poké Transfer,Poké Transfer,
+Mudkip,#0258,False,"Poké Transfer, Global Link Event","Poké Transfer, Global Link Event",Poké Transfer,Poké Transfer,
+Marshtomp,#0259,False,"Poké Transfer, Evolve event Mudkip","Poké Transfer, Evolve event Mudkip",Poké Transfer,Poké Transfer,
+Swampert,#0260,False,"Poké Transfer, Event","Poké Transfer, Event",Poké Transfer,Poké Transfer,
+Poochyena,#0261,False,Trade,Route 9 (Swarm),Trade,Trade,Pleasant Forest
+Mightyena,#0262,False,Trade,Evolve Poochyena,Trade,Trade,
+Zigzagoon,#0263,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Pleasant Forest
+Linoone,#0264,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Wurmple,#0265,False,Trade,White Forest,Trade,Trade,Dream Park
+Silcoon,#0266,False,Trade,Evolve Wurmple,Trade,Trade,
+Beautifly,#0267,False,Trade,Evolve Silcoon,Trade,Trade,
+Cascoon,#0268,False,Trade,Evolve Wurmple,Trade,Trade,
+Dustox,#0269,False,Trade,Evolve Cascoon,Trade,Trade,
+Lotad,#0270,False,Trade,White Forest (Surfing),Breed Lombre or Ludicolo,Breed Lombre or Ludicolo,Pleasant Forest
+Lombre,#0271,False,Trade,Evolve Lotad,Route 3 (Hidden Grotto)*,Route 3 (Hidden Grotto)*,
+Ludicolo,#0272,False,"Trade, Event",Evolve Lombre,Evolve Lombre,Evolve Lombre,
+Seedot,#0273,False,Trade,White Forest,Breed Nuzleaf or Shiftry,Breed Nuzleaf or Shiftry,Dream Park
+Nuzleaf,#0274,False,Trade,Evolve Seedot,Nature Preserve,Nature Preserve,
+Shiftry,#0275,False,Trade,Evolve Nuzleaf,Nature Preserve (rustling grass),Nature Preserve (rustling grass),
+Taillow,#0276,False,Breed Swellow,Breed Swellow,Breed Swellow,Breed Swellow,"Pleasant Forest, Windswept Sky"
+Swellow,#0277,False,"Route 13, Giant Chasm","Route 13, Giant Chasm",Route 13 (Swarm),Route 13 (Swarm),"Pleasant Forest, Windswept Sky"
+Wingull,#0278,False,"Route 13, Undella Town, Undella Bay (Surfing)","Route 13, Undella Town, Undella Bay (Surfing)",Breed Pelipper,Breed Pelipper,Windswept Sky
+Pelipper,#0279,False,"Route 13, Undella Town, Undella Bay (Surfing)","Route 13, Undella Town, Undella Bay (Surfing)","Routes 13 and 22, Giant Chasm Route 22 (Hidden Grotto)","Routes 13 and 22, Giant Chasm Route 22 (Hidden Grotto)",
+Ralts,#0280,False,Trade,White Forest,Trade with Curtis or Yancy in Nimbasa City  Transfer from Dream Radar,Trade with Curtis or Yancy in Nimbasa City  Transfer from Dream Radar,Spooky Manor
+Kirlia,#0281,False,Trade,Evolve Ralts,Evolve Ralts,Evolve Ralts,
+Gardevoir,#0282,False,"Trade, Event",Evolve Kirlia,Evolve Kirlia,Evolve Kirlia,
+Surskit,#0283,False,Trade,White Forest (Surfing),Breed Masquerain,Breed Masquerain,Pleasant Forest
+Masquerain,#0284,False,Trade,Evolve Surskit,Route 11 (Swarm),Route 11 (Swarm),
+Shroomish,#0285,False,Route 11 (Swarm),Trade,Breed Breloom,Breed Breloom,Dream Park
+Breloom,#0286,False,Evolve Shroomish,Trade,Pinwheel Forest (Hidden Grotto)*,Pinwheel Forest (Hidden Grotto)*,
+Slakoth,#0287,False,Trade,White Forest,Breed Vigoroth or Slaking,Breed Vigoroth or Slaking,Dream Park
+Vigoroth,#0288,False,Trade,Evolve Slakoth,Pinwheel Forest (inner),Pinwheel Forest (inner),
+Slaking,#0289,False,Trade,Evolve Vigoroth,Pinwheel Forest (inner; rustling grass),Pinwheel Forest (inner; rustling grass),
+Nincada,#0290,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Dream Park
+Ninjask,#0291,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Shedinja,#0292,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Whismur,#0293,False,Trade,White Forest,Trade,Trade,Icy Cave
+Loudred,#0294,False,Trade,Evolve Whismur,Trade,Trade,
+Exploud,#0295,False,Trade,Evolve Loudred,Trade,Trade,
+Makuhita,#0296,False,Trade,Trade,Breed Hariyama,Breed Hariyama,Rugged Mountain
+Hariyama,#0297,False,Trade,Trade,Pinwheel Forest (Hidden Grotto)*,Pinwheel Forest (Hidden Grotto)*,
+Azurill,#0298,False,Trade,White Forest,Route 20 (Surfing) Floccesy Ranch,Route 20 (Surfing) Floccesy Ranch,
+Nosepass,#0299,False,Trade,Trade,"Chargestone Cave, Clay Tunnel, Underground Ruins Route 6 (Hidden Grotto)*","Chargestone Cave, Clay Tunnel, Underground Ruins Route 6 (Hidden Grotto)*",Icy Cave
+Skitty,#0300,False,Dream World or Trade,Dream World or Trade,Trade,Castelia City,Pleasant Forest
+Delcatty,#0301,False,Evolve Dream World Skitty,Evolve Dream World Skitty,Trade,Castelia City (Rustling grass),
+Sableye,#0302,False,Challenger's Cave,Challenger's Cave,Trade with Curtis in Nimbasa City (female player character only),Trade with Curtis in Nimbasa City (female player character only),Spooky Manor
+Mawile,#0303,False,Challenger's Cave,Challenger's Cave,Trade with Yancy in Nimbasa City (male player character only),Trade with Yancy in Nimbasa City (male player character only),Spooky Manor
+Aron,#0304,False,Trade,White Forest,Mistralton Cave,Mistralton Cave,Icy Cave
+Lairon,#0305,False,Trade,Evolve Aron,"Clay Tunnel, Underground Ruins","Clay Tunnel, Underground Ruins",
+Aggron,#0306,False,Trade,Evolve Lairon,Evolve Lairon,Evolve Lairon,
+Meditite,#0307,False,Trade,Trade,Breed Medicham,Breed Medicham,Spooky Manor
+Medicham,#0308,False,Trade,Trade,Pinwheel Forest (Hidden Grotto)*,Pinwheel Forest (Hidden Grotto)*,
+Electrike,#0309,False,Trade,Trade,Breed Manectric,Breed Manectric,Pleasant Forest
+Manectric,#0310,False,Evolve Dream World Electrike,Evolve Dream World Electrike,Route 3 (Hidden Grotto)*,Route 3 (Hidden Grotto)*,
+Plusle,#0311,False,Route 6 (Swarm),Trade,Route 6 (Swarm),Trade,Dream Park
+Minun,#0312,False,Trade,Route 6 (Swarm),Trade,Route 6 (Swarm),Dream Park
+Volbeat,#0313,False,Route 3 (Swarm),Breed Illumise,Route 3 (Swarm),Breed Illumise,Spooky Manor
+Illumise,#0314,False,Breed Volbeat,Route 3 (Swarm),Breed Volbeat,Route 3 (Swarm),Spooky Manor
+Roselia,#0315,False,Trade,Evolve Budew,"Route 12, Lostlorn Forest, Victory Road","Route 12, Lostlorn Forest, Victory Road",Dream Park
+Gulpin,#0316,False,Trade or Dream World,Trade or Dream World,Breed Swalot,Breed Swalot,Dream Park
+Swalot,#0317,False,Trade,Trade,Route 9 (Swarm),Route 9 (Swarm),
+Carvanha,#0318,False,Village Bridge (Fishing),Village Bridge (Fishing),Village Bridge (Fishing),Village Bridge (Fishing),Sparkling Sea
+Sharpedo,#0319,False,Village Bridge (Fishing in rippling water),Village Bridge (Fishing in rippling water),Village Bridge (Fishing in rippling water),Village Bridge (Fishing in rippling water),
+Wailmer,#0320,False,"Undella Town, Undella Bay (Surfing in rippling water)","Undella Town, Undella Bay (Surfing in rippling water)",Undella Bay (Surfing in rippling water),Undella Bay (Surfing in rippling water),Sparkling Sea
+Wailord,#0321,False,Undella Bay (Surfing in rippling water),Undella Bay (Surfing in rippling water),Undella Bay (Surfing in rippling water),Undella Bay (Surfing in rippling water),
+Numel,#0322,False,Trade,Trade,Trade,Reversal Mountain,Rugged Mountain
+Camerupt,#0323,False,Trade,Trade,Trade,Reversal Mountain,
+Torkoal,#0324,False,Poké Transfer or Pokémon Dream World,Poké Transfer or Pokémon Dream World,Poké Transfer or Pokémon Dream World,Poké Transfer or Pokémon Dream World,Rugged Mountain
+Spoink,#0325,False,Trade,Trade,Reversal Mountain,Trade,Spooky Manor
+Grumpig,#0326,False,Trade,Trade,Reversal Mountain,Trade,
+Spinda,#0327,False,Trade,Trade,Trade with Curtis or Yancy in Nimbasa City,Trade with Curtis or Yancy in Nimbasa City,Rugged Mountain
+Trapinch,#0328,False,"Trade, Event",White Forest,"Desert Resort, Reversal Mountain","Desert Resort, Reversal Mountain",Rugged Mountain
+Vibrava,#0329,False,Trade,Evolve Trapinch,Reversal Mountain (Dark grass),Reversal Mountain (Dark grass),
+Flygon,#0330,False,Trade,Evolve Vibrava,Evolve Vibrava,Evolve Vibrava,
+Cacnea,#0331,False,Trade,Trade,Breed Cacturne,Breed Cacturne,Rugged Mountain
+Cacturne,#0332,False,Trade,Trade,Reversal Mountain (Swarm),Reversal Mountain (Swarm),
+Swablu,#0333,False,Breed Altaria,Breed Altaria,Route 14 and Abundant Shrine Abundant Shrine (Hidden Grotto)* Transfer from Dream Radar,Route 14 and Abundant Shrine Abundant Shrine (Hidden Grotto)* Transfer from Dream Radar,Windswept Sky
+Altaria,#0334,False,Route 14,Route 14,"Route 14, Victory Road, Abundant Shrine, Nature Preserve","Route 14, Victory Road, Abundant Shrine, Nature Preserve",
+Zangoose,#0335,False,"Route 11, Village Bridge","Route 11, Village Bridge","Routes 7 and 11, Village Bridge Routes 7 and 23 (Hidden Grotto)","Routes 7 and 11, Village Bridge Routes 7 and 23 (Hidden Grotto)",Dream Park
+Seviper,#0336,False,"Route 11, Village Bridge","Route 11, Village Bridge","Routes 7 and 11, Village Bridge Routes 7 and 23 (Hidden Grotto)","Routes 7 and 11, Village Bridge Routes 7 and 23 (Hidden Grotto)",Dream Park
+Lunatone,#0337,False,"Route 13, Giant Chasm","Route 13, Giant Chasm","Routes 13 and 22, Giant Chasm","Routes 13 and 22, Giant Chasm",Icy Cave
+Solrock,#0338,False,"Route 13, Giant Chasm","Route 13, Giant Chasm","Routes 13 and 22, Giant Chasm","Routes 13 and 22, Giant Chasm",Icy Cave
+Barboach,#0339,False,"Route 8, Icirrus City, Moor of Icirrus (Fishing)","Route 8, Icirrus City, Moor of Icirrus (Fishing)","Route 8, Icirrus City, Moor of Icirrus (Fishing)","Route 8, Icirrus City, Moor of Icirrus (Fishing)",Sparkling Sea
+Whiscash,#0340,False,"Route 8, Icirrus City, Moor of Icirrus (Fishing in rippling water)","Route 8, Icirrus City, Moor of Icirrus (Fishing in rippling water)","Route 8, Icirrus City, Moor of Icirrus (Fishing in rippling water)","Route 8, Icirrus City, Moor of Icirrus (Fishing in rippling water)",
+Corphish,#0341,False,Trade,White Forest (Surfing),Route 3 and Striaton City (Surfing),Route 3 and Striaton City (Surfing),Sparkling Sea
+Crawdaunt,#0342,False,Trade,Evolve Corphish,Route 3 and Striaton City (Surfing in rippling water),Route 3 and Striaton City (Surfing in rippling water),
+Baltoy,#0343,False,Breed Claydol,Breed Claydol,Relic Castle (Volcarona's room),Relic Castle (Volcarona's room),Icy Cave
+Claydol,#0344,False,Relic Castle (Volcarona's room),Relic Castle (Volcarona's room),Evolve Baltoy,Evolve Baltoy,
+Lileep,#0345,False,Revive from Root Fossil at the Nacrene Museum,Revive from Root Fossil at the Nacrene Museum,Revive from Root Fossil at the Nacrene Museum,Revive from Root Fossil at the Nacrene Museum,Sparkling Sea
+Cradily,#0346,False,Evolve Lileep,Evolve Lileep,Evolve Lileep,Evolve Lileep,
+Anorith,#0347,False,Revive from Claw Fossil at the Nacrene Museum,Revive from Claw Fossil at the Nacrene Museum,Revive from Claw Fossil at the Nacrene Museum,Revive from Claw Fossil at the Nacrene Museum,Sparkling Sea
+Armaldo,#0348,False,Evolve Anorith,Evolve Anorith,Evolve Anorith,Evolve Anorith,
+Feebas,#0349,False,Route 1 (Fishing or Fishing in rippling water),Route 1 (Fishing or Fishing in rippling water),Route 1 (Fishing or Fishing in rippling water),Route 1 (Fishing or Fishing in rippling water),Sparkling Sea
+Milotic,#0350,False,Route 1 (fishing in rippling water),Route 1 (fishing in rippling water),Route 1 (fishing in rippling water),Route 1 (fishing in rippling water),
+Castform,#0351,False,Dream World or Trade,Dream World or Trade,Route 6 (rustling grass),Route 6 (rustling grass),Pleasant Forest
+Kecleon,#0352,False,Trade,Trade,Nature Preserve,Nature Preserve,Dream Park
+Shuppet,#0353,False,Route 13 (Swarm),Route 13 (Swarm),Breed Banette,Breed Banette,Spooky Manor
+Banette,#0354,False,Evolve Shuppet,Evolve Shuppet,Strange House and Victory Road,Strange House and Victory Road,
+Duskull,#0355,False,Dream World or Poké Transfer,Dream World or Poké Transfer,Dream World or Poké Transfer,Dream World or Poké Transfer,Spooky Manor
+Dusclops,#0356,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Tropius,#0357,False,Route 14,Route 14,Route 18,Route 18,Windswept Sky
+Chimecho,#0358,False,Abundant Shrine,Abundant Shrine,Trade,Trade,Spooky Manor
+Absol,#0359,False,"Route 13, Giant Chasm","Route 13, Giant Chasm",Routes 13 and 14 Route 23 (Hidden Grotto),Routes 13 and 14 Route 23 (Hidden Grotto),Rugged Mountain
+Wynaut,#0360,False,Route 2 (Swarm),Route 2 (Swarm),Breed Wobbuffet holding a Lax Incense,Breed Wobbuffet holding a Lax Incense,
+Snorunt,#0361,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Icy Cave
+Glalie,#0362,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Spheal,#0363,False,Undella Bay (Surfing) Winter,Undella Bay (Surfing) Winter,Undella Bay (Surfing) Winter Route 13 (Hidden Grotto)*,Undella Bay (Surfing) Winter Route 13 (Hidden Grotto)*,Icy Cave
+Sealeo,#0364,False,Undella Bay (Surfing in rippling water) Winter,Undella Bay (Surfing in rippling water) Winter,Undella Bay (Surfing in rippling water) Winter,Undella Bay (Surfing in rippling water) Winter,
+Walrein,#0365,False,Undella Bay (Surfing in rippling water) Winter,Undella Bay (Surfing in rippling water) Winter,Undella Bay (Surfing in rippling water) Winter,Undella Bay (Surfing in rippling water) Winter,
+Clamperl,#0366,False,Route 4 (Fishing),Route 4 (Fishing),Route 4 (Fishing),Route 4 (Fishing),Sparkling Sea
+Huntail,#0367,False,Route 4 (Fishing in rippling water),Evolve Clamperl,Route 4 (Fishing in rippling water),Evolve Clamperl,
+Gorebyss,#0368,False,Evolve Clamperl,Route 4 (Fishing in rippling water),Evolve Clamperl,Route 4 (Fishing in rippling water),
+Relicanth,#0369,False,Route 4 (Fishing in rippling water),Route 4 (Fishing in rippling water),Route 4 (Fishing in rippling water),Route 4 (Fishing in rippling water),Sparkling Sea
+Luvdisc,#0370,False,"Routes 4 and 13, Driftveil City, Undella Town, Undella Bay (Fishing)","Routes 4 and 13, Driftveil City, Undella Town, Undella Bay (Fishing)","Routes 13 and 21, Seaside Cave, Undella Town, Humilau City (Fishing)","Routes 13 and 21, Seaside Cave, Undella Town, Humilau City (Fishing)",Sparkling Sea
+Bagon,#0371,False,"Trade, Event",White Forest,Pinwheel Forest (Hidden Grotto)*,Pinwheel Forest (Hidden Grotto)*,Rugged Mountain
+Shelgon,#0372,False,Trade,Evolve Bagon,Evolve Bagon,Evolve Bagon,
+Salamence,#0373,False,"Trade, Event",Evolve Shelgon,Evolve Shelgon,Evolve Shelgon,
+Beldum,#0374,False,Breed Metang or Metagross,Breed Metang or Metagross,Breed Metang or Metagross  Transfer from Dream Radar,Breed Metang or Metagross  Transfer from Dream Radar,Rugged Mountain
+Metang,#0375,False,Giant Chasm (Crater Forest),Giant Chasm (Crater Forest),Giant Chasm (Crater Forest) Giant Chasm (Hidden Grotto),Giant Chasm (Crater Forest) Giant Chasm (Hidden Grotto),
+Metagross,#0376,False,Giant Chasm (rustling grass),Giant Chasm (rustling grass),Giant Chasm (rustling grass),Giant Chasm (rustling grass),
+Regirock,#0377,False,Trade,Trade,Underground Ruins (Rock Peak Chamber) (Only one),Underground Ruins (Rock Peak Chamber) (Only one),
+Regice,#0378,False,Trade,Trade,Unova Link to obtain the Iceberg Key,Underground Ruins (Iceberg Chamber) (Only one),
+Registeel,#0379,False,Trade,Trade,Underground Ruins (Iron Chamber) (Only one),Unova Link to obtain the Iron Key,
+Latias,#0380,False,Trade,Trade,Trade,Dreamyard (Only one),
+Latios,#0381,False,Trade,Trade,Dreamyard (Only one),Trade,
+Kyogre,#0382,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Groudon,#0383,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Rayquaza,#0384,False,"Poké Transfer, Event","Poké Transfer, Event",Poké Transfer,Poké Transfer,
+Jirachi,#0385,False,"Poké Transfer, Event","Poké Transfer, Event","Poké Transfer, Event","Poké Transfer, Event",
+Deoxys,#0386,False,"Poké Transfer, Event","Poké Transfer, Event","Poké Transfer, Event","Poké Transfer, Event",
+Turtwig,#0387,False,Global Link event,Global Link event,Global Link event,Global Link event,
+Grotle,#0388,False,Evolve Global Link event Turtwig,Evolve Global Link event Turtwig,Evolve Global Link event Turtwig,Evolve Global Link event Turtwig,
+Torterra,#0389,False,Evolve from the Global Link event Turtwig,Evolve from the Global Link event Turtwig,Evolve from the Global Link event Turtwig,Evolve from the Global Link event Turtwig,
+Chimchar,#0390,False,Global Link event,Global Link event,Global Link event,Global Link event,
+Monferno,#0391,False,Evolve Global Link event Chimchar,Evolve Global Link event Chimchar,Evolve Global Link event Chimchar,Evolve Global Link event Chimchar,
+Infernape,#0392,False,Evolve from the Global Link event Chimchar,Evolve from the Global Link event Chimchar,Evolve from the Global Link event Chimchar,Evolve from the Global Link event Chimchar,
+Piplup,#0393,False,Global Link event,Global Link event,Global Link event,Global Link event,
+Prinplup,#0394,False,Evolve Global Link event Piplup,Evolve Global Link event Piplup,Evolve Global Link event Piplup,Evolve Global Link event Piplup,
+Empoleon,#0395,False,Evolve from the Global Link event Piplup,Evolve from the Global Link event Piplup,Evolve from the Global Link event Piplup,Evolve from the Global Link event Piplup,
+Starly,#0396,False,Trade,White Forest,Trade,Trade,
+Staravia,#0397,False,Trade,Evolve Starly,Trade,Trade,Windswept Sky
+Staraptor,#0398,False,Trade,Evolve Staravia,Trade,Trade,
+Bidoof,#0399,False,Breed Bibarel,Breed Bibarel,Breed Bibarel,Breed Bibarel,Pleasant Forest
+Bibarel,#0400,False,Village Bridge,Village Bridge,Route 3 (Hidden Grotto)*,Route 3 (Hidden Grotto)*,
+Kricketot,#0401,False,Breed Kricketune,Breed Kricketune,Trade,Trade,Dream Park
+Kricketune,#0402,False,Dreamyard (dark grass),Dreamyard (dark grass),Trade,Trade,
+Shinx,#0403,False,Trade,White Forest,Trade,Trade,Pleasant Forest
+Luxio,#0404,False,Trade,Evolve Shinx,Trade,Trade,
+Luxray,#0405,False,Trade,Evolve Luxio,Trade,Trade,
+Budew,#0406,False,Trade,White Forest,Breed Roselia or Roserade holding a Rose Incense,Breed Roselia or Roserade holding a Rose Incense,
+Roserade,#0407,False,Trade,Evolve Roselia,"Route 12, Lostlorn Forest, Victory Road (rustling grass)","Route 12, Lostlorn Forest, Victory Road (rustling grass)",
+Cranidos,#0408,False,Revive from Skull Fossil at the Nacrene Museum,Revive from Skull Fossil at the Nacrene Museum,Revive from Skull Fossil at the Nacrene Museum Trade with Curtis in Nimbasa City (female player character only),Revive from Skull Fossil at the Nacrene Museum Trade with Curtis in Nimbasa City (female player character only),Icy Cave
+Rampardos,#0409,False,Evolve Cranidos,Evolve Cranidos,Evolve Cranidos,Evolve Cranidos,
+Shieldon,#0410,False,Revive from Armor Fossil at the Nacrene Museum,Revive from Armor Fossil at the Nacrene Museum,Revive from Armor Fossil at the Nacrene Museum Trade with Yancy in Nimbasa City (male player character only),Revive from Armor Fossil at the Nacrene Museum Trade with Yancy in Nimbasa City (male player character only),Icy Cave
+Bastiodon,#0411,False,Evolve Shieldon,Evolve Shieldon,Evolve Shieldon,Evolve Shieldon,
+Burmy,#0412,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Pokémon Café Forest and Rugged Mountain
+Wormadam,#0413,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Mothim,#0414,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Combee,#0415,False,Route 12,Route 12,Route 12 and Lostlorn Forest Lostlorn Forest (Hidden Grotto),Route 12 and Lostlorn Forest Lostlorn Forest (Hidden Grotto),Dream Park
+Vespiquen,#0416,False,Route 12 (rustling grass),Route 12 (rustling grass),"Route 12, Lostlorn Forest (rustling grass)","Route 12, Lostlorn Forest (rustling grass)",
+Pachirisu,#0417,False,Dream World or Trade,Dream World or Trade,Route 3 (Hidden Grotto)*,Route 3 (Hidden Grotto)*,Pleasant Forest
+Buizel,#0418,False,Routes 11 and 14 (Surfing),Routes 11 and 14 (Surfing),"Routes 11, 14, and 23, Victory Road*, Nature Preserve, Lostlorn Forest (Surfing)","Routes 11, 14, and 23, Victory Road*, Nature Preserve, Lostlorn Forest (Surfing)",Sparkling Sea
+Floatzel,#0419,False,Routes 11 and 14 (Surfing in rippling water),Routes 11 and 14 (Surfing in rippling water),"Routes 11, 14, and 23, Victory Road, Nature Preserve, Lostlorn Forest (Surfing in rippling water)","Routes 11, 14, and 23, Victory Road, Nature Preserve, Lostlorn Forest (Surfing in rippling water)",
+Cherubi,#0420,False,Breed Cherrim,Breed Cherrim,Trade,Trade,Dream Park
+Cherrim,#0421,False,Route 12,Route 12,Trade,Trade,
+Shellos,#0422,False,Trade,Trade,Trade with Yancy in Nimbasa City (if the player is male) (West Sea) Trade with Curtis in Nimbasa City (if the player is female) (East Sea),Trade with Yancy in Nimbasa City (if the player is male) (West Sea) Trade with Curtis in Nimbasa City (if the player is female) (East Sea),Sparkling Sea (West/ East Sea)
+Gastrodon,#0423,False,Trade,Trade,Evolve Shellos,Evolve Shellos,
+Ambipom,#0424,False,Trade,Trade,Trade Excadrill in Accumula Town,Trade Excadrill in Accumula Town,
+Drifloon,#0425,False,Breed Drifblim,Breed Drifblim,Route 13 (Hidden Grotto)*  Transfer from Dream Radar,Route 13 (Hidden Grotto)*  Transfer from Dream Radar,Windswept Sky
+Drifblim,#0426,False,"Routes 13 and 14, Giant Chasm","Routes 13 and 14, Giant Chasm","Routes 13 and 14, Reversal Mountain","Routes 13 and 14, Reversal Mountain",
+Buneary,#0427,False,Dream World or Trade,Dream World or Trade,Castelia City,Trade,Pleasant Forest
+Lopunny,#0428,False,Evolve Dream World Buneary or Trade,Evolve Dream World Buneary or Trade,Castelia City (Rustling grass),Trade,
+Mismagius,#0429,False,Trade,Abundant Shrine (rustling grass),Trade,Trade,
+Honchkrow,#0430,False,Abundant Shrine (rustling grass),Trade,Evolve Murkrow,Evolve Murkrow,
+Glameow,#0431,False,Trade,Trade,Trade,Hidden Grotto (any)*,Pleasant Forest
+Purugly,#0432,False,Trade,Trade,Trade,Evolve Glameow,
+Chingling,#0433,False,Breed Chimecho holding a Pure Incense,Breed Chimecho holding a Pure Incense,Trade,Trade,
+Stunky,#0434,False,Trade,Trade,Hidden Grotto (any)*,Trade,Spooky Manor
+Skuntank,#0435,False,Trade,Trade,Evolve Stunky,Trade,
+Bronzor,#0436,False,Breed Bronzong,Breed Bronzong,Abundant Shrine Abundant Shrine (Hidden Grotto)*  Transfer from Dream Radar,Abundant Shrine Abundant Shrine (Hidden Grotto)*  Transfer from Dream Radar,Spooky Manor
+Bronzong,#0437,False,Abundant Shrine,Abundant Shrine,Abundant Shrine (dark grass),Abundant Shrine (dark grass),
+Bonsly,#0438,False,Trade,Trade,Breed Sudowoodo holding a Rock Incense,Trade,
+Mime Jr.,#0439,False,Trade,Trade,Trade,Breed Mr. Mime holding an Odd Incense,
+Happiny,#0440,False,Trade,White Forest,Hatch Egg received from a Pokémon Breeder in the gate at Nacrene City,Hatch Egg received from a Pokémon Breeder in the gate at Nacrene City,
+Chatot,#0441,False,Trade,Trade,Route 18 (Hidden Grotto),Route 18 (Hidden Grotto),Windswept Sky
+Spiritomb,#0442,False,Dream World or Trade,Dream World or Trade,Trade with Curtis or Yancy in Nimbasa City  Transfer from Dream Radar,Trade with Curtis or Yancy in Nimbasa City  Transfer from Dream Radar,Spooky Manor
+Gible,#0443,False,Trade,Trade,Received from Benga in Floccesy Town after he is defeated at Black Tower (Shiny),Trade,Icy Cave
+Gabite,#0444,False,Trade,Trade,Evolve Gible,Trade,
+Garchomp,#0445,False,Trade,Trade,Evolve Gabite,Trade,
+Munchlax,#0446,False,Trade Cinccino in Undella Town Summer,Trade Cinccino in Undella Town Summer,Breed Snorlax holding a Full Incense,Breed Snorlax holding a Full Incense,
+Riolu,#0447,False,Challenger's Cave,Challenger's Cave,Floccesy Ranch  Transfer from Dream Radar,Floccesy Ranch  Transfer from Dream Radar,Rugged Mountain
+Lucario,#0448,False,Evolve Riolu,Evolve Riolu,Evolve Riolu,Evolve Riolu,
+Hippopotas,#0449,False,Route 4 (Swarm),Route 4 (Swarm),Breed Hippowdon,Breed Hippowdon,Rugged Mountain
+Hippowdon,#0450,False,Evolve Hippopotas,Evolve Hippopotas,Desert Resort (Swarm),Desert Resort (Swarm),
+Skorupi,#0451,False,Trade,Trade,Reversal Mountain Route 13 (Hidden Grotto)*,Reversal Mountain Route 13 (Hidden Grotto)*,Rugged Mountain
+Drapion,#0452,False,Evolve Dream World Skorupi,Evolve Dream World Skorupi,Evolve Skorupi,Evolve Skorupi,
+Croagunk,#0453,False,Route 8 (Swarm) Spring Summer Autumn,Route 8 (Swarm) Spring Summer Autumn,"Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn","Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn",Rugged Mountain
+Toxicroak,#0454,False,Evolve Croagunk,Evolve Croagunk,Pinwheel Forest (outer),Pinwheel Forest (outer),
+Carnivine,#0455,False,Trade,Trade,Route 18,Route 18,Dream Park
+Finneon,#0456,False,"Routes 17 and 18, P2 Laboratory (Fishing)","Routes 17 and 18, P2 Laboratory (Fishing)","Routes 4, 17, and 18, P2 Laboratory, Virbank City, Virbank Complex (Fishing)","Routes 4, 17, and 18, P2 Laboratory, Virbank City, Virbank Complex (Fishing)",Sparkling Sea
+Lumineon,#0457,False,"Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Routes 17 and 18, P2 Laboratory (Fishing in rippling water)","Routes 4, 17, and 18, P2 Laboratory, Virbank City, Virbank Complex (Fishing in rippling water)","Routes 4, 17, and 18, P2 Laboratory, Virbank City, Virbank Complex (Fishing in rippling water)",
+Mantyke,#0458,False,"Undella Town, Undella Bay Spring Summer Autumn (Surfing)","Undella Town, Undella Bay Spring Summer Autumn (Surfing)","Route 21, Undella Bay Spring Summer Autumn (Surfing)","Route 21, Undella Bay Spring Summer Autumn (Surfing)",
+Snover,#0459,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,Icy Cave
+Abomasnow,#0460,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Weavile,#0461,False,Evolve Sneasel,Evolve Sneasel,Evolve Sneasel,Evolve Sneasel,
+Magnezone,#0462,False,Trade,Evolve Magneton,P2 Laboratory (rustling grass),P2 Laboratory (rustling grass),
+Lickilicky,#0463,False,Evolve Lickitung,Evolve Lickitung,Route 2 (rustling grass),Route 2 (rustling grass),
+Rhyperior,#0464,False,Trade,Evolve Rhydon,Evolve Rhydon,Evolve Rhydon,
+Tangrowth,#0465,False,"Route 13, Giant Chasm (rustling grass)","Route 13, Giant Chasm (rustling grass)","Route 13, Giant Chasm (rustling grass) Trade Mantine in Humilau City","Route 13, Giant Chasm (rustling grass) Trade Mantine in Humilau City",
+Electivire,#0466,False,Trade,Evolve Electabuzz,Trade,Evolve Electabuzz,
+Magmortar,#0467,False,Trade,Evolve Magmar,Evolve Magmar,Trade,
+Togekiss,#0468,False,Trade,Evolve Togetic,Evolve Togetic,Evolve Togetic,
+Yanmega,#0469,False,Evolve Yanma,Evolve Yanma,"Route 3, Pinwheel Forest (outer) (rustling grass)","Route 3, Pinwheel Forest (outer) (rustling grass)",
+Leafeon,#0470,False,Evolve Dream World Eevee,Evolve Dream World Eevee,Evolve Eevee,Evolve Eevee,
+Glaceon,#0471,False,Evolve Dream World Eevee,Evolve Dream World Eevee,Evolve Eevee,Evolve Eevee,
+Gliscor,#0472,False,Routes 11 and 15 (rustling grass),Routes 11 and 15 (rustling grass),"Routes 11, 15, and 23 (rustling grass)","Routes 11, 15, and 23 (rustling grass)",
+Mamoswine,#0473,False,Giant Chasm (rustling grass),Giant Chasm (rustling grass),Giant Chasm (rustling grass),Giant Chasm (rustling grass),
+Porygon-Z,#0474,False,Trade,Evolve Porygon2,Trade,Trade,
+Gallade,#0475,False,Trade,Evolve Kirlia♂,Evolve Kirlia♂,Evolve Kirlia♂,
+Probopass,#0476,False,Trade,Trade,Evolve Nosepass,Evolve Nosepass,
+Dusknoir,#0477,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Froslass,#0478,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Rotom,#0479,False,Trade Ditto on Route 15,Trade Ditto on Route 15,Trade Ditto on Route 15  Transfer from Dream Radar,Trade Ditto on Route 15  Transfer from Dream Radar,Spooky Manor
+Uxie,#0480,False,Trade,Trade,Nacrene City (Only one),Nacrene City (Only one),
+Mesprit,#0481,False,Trade,Trade,Celestial Tower (Only one),Celestial Tower (Only one),
+Azelf,#0482,False,Trade,Trade,Route 23 (Only one),Route 23 (Only one),
+Dialga,#0483,False,"Poké Transfer, Event","Poké Transfer, Event","Transfer from Dream Radar (requires Pokémon Diamond), Event","Transfer from Dream Radar (requires Pokémon Diamond), Event",
+Palkia,#0484,False,"Poké Transfer, Event","Poké Transfer, Event","Transfer from Dream Radar (requires Pokémon Pearl), Event","Transfer from Dream Radar (requires Pokémon Pearl), Event",
+Heatran,#0485,False,Trade,Trade,Reversal Mountain (requires Magma Stone) (Only one),Reversal Mountain (requires Magma Stone) (Only one),
+Regigigas,#0486,False,Trade,Trade,"Twist Mountain (requires Regirock, Regice, and Registeel in the player's party) (Only one)","Twist Mountain (requires Regirock, Regice, and Registeel in the player's party) (Only one)",
+Giratina,#0487,False,"Poké Transfer, Event","Poké Transfer, Event","Transfer from Dream Radar (requires Pokémon Platinum), Event","Transfer from Dream Radar (requires Pokémon Platinum), Event",
+Cresselia,#0488,False,"Trade, Event","Trade, Event",Marvelous Bridge (requires Lunar Wing) (Only one),Marvelous Bridge (requires Lunar Wing) (Only one),
+Phione,#0489,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Manaphy,#0490,False,Poké Transfer,Poké Transfer,Poké Transfer,Poké Transfer,
+Darkrai,#0491,False,Event,Event,Trade,Trade,
+Shaymin,#0492,False,Event,Event,Trade,Trade,
+Arceus,#0493,False,Event,Event,Poké Transfer,Poké Transfer,
+Victini,#0494,False,Liberty Garden (requires Liberty Pass) (Only one),Liberty Garden (requires Liberty Pass) (Only one),"Trade, Event","Trade, Event",
+Snivy,#0495,False,First partner Pokémon from Professor Juniper in Nuvema Town,First partner Pokémon from Professor Juniper in Nuvema Town,First partner Pokémon from Bianca in Aspertia City,First partner Pokémon from Bianca in Aspertia City,
+Servine,#0496,False,Evolve Snivy,Evolve Snivy,Evolve Snivy,Evolve Snivy,
+Serperior,#0497,False,Evolve Servine,Evolve Servine,Evolve Servine,Evolve Servine,
+Tepig,#0498,False,First partner Pokémon from Professor Juniper in Nuvema Town,First partner Pokémon from Professor Juniper in Nuvema Town,First partner Pokémon from Bianca in Aspertia City,First partner Pokémon from Bianca in Aspertia City,
+Pignite,#0499,False,Evolve Tepig,Evolve Tepig,Evolve Tepig,Evolve Tepig,
+Emboar,#0500,False,Evolve Pignite,Evolve Pignite,Evolve Pignite,Evolve Pignite,
+Oshawott,#0501,False,First partner Pokémon from Professor Juniper in Nuvema Town,First partner Pokémon from Professor Juniper in Nuvema Town,First partner Pokémon from Bianca in Aspertia City,First partner Pokémon from Bianca in Aspertia City,
+Dewott,#0502,False,Evolve Oshawott,Evolve Oshawott,Evolve Oshawott,Evolve Oshawott,
+Samurott,#0503,False,Evolve Dewott,Evolve Dewott,Evolve Dewott,Evolve Dewott,
+Patrat,#0504,False,"Routes 1, 2, and 3, Dreamyard","Routes 1, 2, and 3, Dreamyard","Routes 19 and 20, Floccesy Ranch, Virbank Complex","Routes 19 and 20, Floccesy Ranch, Virbank Complex",
+Watchog,#0505,False,"Routes 7 and 18, P2 Laboratory Routes 1 and 15 (dark grass) Dreamyard (Ruins; dark grass)","Routes 7 and 18, P2 Laboratory Routes 1 and 15 (dark grass) Dreamyard (Ruins; dark grass)","Routes 1, 2, 3, 7, and 18, Dreamyard, P2 Laboratory Routes 2 and 7 (Hidden Grotto)","Routes 1, 2, 3, 7, and 18, Dreamyard, P2 Laboratory Routes 2 and 7 (Hidden Grotto)",
+Lillipup,#0506,False,"Routes 1, 2, and 3","Routes 1, 2, and 3",Floccesy Ranch,Floccesy Ranch,
+Herdier,#0507,False,"Route 10, Cold Storage, P2 Laboratory Route 1 (dark grass)","Route 10, Cold Storage, P2 Laboratory Route 1 (dark grass)","Routes 1, 2, and 3, P2 Laboratory Floccesy Ranch (Hidden Grotto)","Routes 1, 2, and 3, P2 Laboratory Floccesy Ranch (Hidden Grotto)",
+Stoutland,#0508,False,"Route 10, Cold Storage, P2 Laboratory (Rustling grass)","Route 10, Cold Storage, P2 Laboratory (Rustling grass)","Routes 1, 2, and 3, P2 Laboratory (Rustling grass)","Routes 1, 2, and 3, P2 Laboratory (Rustling grass)",
+Purrloin,#0509,False,"Routes 2 and 3, Dreamyard","Routes 2 and 3, Dreamyard","Routes 3, 19, and 20Route 2 (N's Pokémon)","Routes 3, 19, and 20Route 2 (N's Pokémon)",
+Liepard,#0510,False,"Routes 5, 9, and 16 Dreamyard (Ruins; dark grass)","Routes 5, 9, and 16 Dreamyard (Ruins; dark grass)","Routes 2, 5, 9, and 16, Dreamyard Routes 5 and 9 (Hidden Grotto)","Routes 2, 5, 9, and 16, Dreamyard Routes 5 and 9 (Hidden Grotto)",
+Pansage,#0511,False,Pinwheel Forest (inner) and Lostlorn Forest (rustling grass) Received in the Dreamyard (if the player's first partner Pokémon was Tepig),Pinwheel Forest (inner) and Lostlorn Forest (rustling grass) Received in the Dreamyard (if the player's first partner Pokémon was Tepig),Pinwheel Forest (inner) and Lostlorn Forest (rustling grass),Pinwheel Forest (inner) and Lostlorn Forest (rustling grass),
+Simisage,#0512,False,Evolve Pansage,Evolve Pansage,Evolve Pansage,Evolve Pansage,
+Pansear,#0513,False,Pinwheel Forest (inner) and Lostlorn Forest (rustling grass) Received in the Dreamyard (if the player's first partner Pokémon was Oshawott),Pinwheel Forest (inner) and Lostlorn Forest (rustling grass) Received in the Dreamyard (if the player's first partner Pokémon was Oshawott),Pinwheel Forest (inner) and Lostlorn Forest (rustling grass),Pinwheel Forest (inner) and Lostlorn Forest (rustling grass),
+Simisear,#0514,False,Evolve Pansear,Evolve Pansear,Evolve Pansear,Evolve Pansear,
+Panpour,#0515,False,Pinwheel Forest (inner) and Lostlorn Forest (rustling grass) Received in the Dreamyard (if the player's first partner Pokémon was Snivy),Pinwheel Forest (inner) and Lostlorn Forest (rustling grass) Received in the Dreamyard (if the player's first partner Pokémon was Snivy),Pinwheel Forest (inner) and Lostlorn Forest (rustling grass),Pinwheel Forest (inner) and Lostlorn Forest (rustling grass),
+Simipour,#0516,False,Evolve Panpour,Evolve Panpour,Evolve Panpour,Evolve Panpour,
+Munna,#0517,False,Dreamyard,Dreamyard,Dreamyard  Transfer from Dream Radar,Dreamyard  Transfer from Dream Radar,
+Musharna,#0518,False,"Dreamyard (Ruins, rustling grass) Dreamyard (Basement)* Fr","Dreamyard (Ruins, rustling grass) Dreamyard (Basement)* Fr",Dreamyard (rustling grass),Dreamyard (rustling grass),
+Pidove,#0519,False,"Route 3, Pinwheel Forest (inner)","Route 3, Pinwheel Forest (inner)","Route 20, Floccesy Ranch, Virbank Complex, Castelia City Pinwheel Forest (outer) (N's Pokémon)","Route 20, Floccesy Ranch, Virbank Complex, Castelia City Pinwheel Forest (outer) (N's Pokémon)",Windswept Sky*
+Tranquill,#0520,False,"Route 12, Lostlorn Forest Pinwheel Forest (inner) (dark grass) Routes 6 and 7, Dragonspiral Tower Spring Summer Autumn","Route 12, Lostlorn Forest Pinwheel Forest (inner) (dark grass) Routes 6 and 7, Dragonspiral Tower Spring Summer Autumn","Routes 3 and 12, Victory Road Routes 6 and 7, Dragonspiral Tower Spring Summer Autumn","Routes 3 and 12, Victory Road Routes 6 and 7, Dragonspiral Tower Spring Summer Autumn",
+Unfezant,#0521,False,"Route 12, Lostlorn Forest (rustling grass) Routes 6 and 7, Dragonspiral Tower (rustling grass) Spring Summer Autumn","Route 12, Lostlorn Forest (rustling grass) Routes 6 and 7, Dragonspiral Tower (rustling grass) Spring Summer Autumn","Routes 3, 6, 7, and 12, Victory Road (rustling grass) Dragonspiral Tower (rustling grass) Spring Summer Autumn","Routes 3, 6, 7, and 12, Victory Road (rustling grass) Dragonspiral Tower (rustling grass) Spring Summer Autumn",
+Blitzle,#0522,False,Route 3,Route 3,Breed Zebstrika,Breed Zebstrika,
+Zebstrika,#0523,False,Route 7,Route 7,Routes 3 and 7 Route 3 (Hidden Grotto)*,Routes 3 and 7 Route 3 (Hidden Grotto)*,
+Roggenrola,#0524,False,Wellspring Cave,Wellspring Cave,Relic Passage,Relic Passage,
+Boldore,#0525,False,"Chargestone Cave, Mistralton Cave, Twist Mountain, Challenger's Cave, Victory Road, Giant Chasm","Chargestone Cave, Mistralton Cave, Twist Mountain, Challenger's Cave, Victory Road, Giant Chasm","Relic Passage, Wellspring Cave, Chargestone Cave, Mistralton Cave, Clay Tunnel, Twist Mountain, Reversal Mountain, Seaside Cave, Victory Road, Underground Ruins Chargestone Cave (N's Pokémon)","Relic Passage, Wellspring Cave, Chargestone Cave, Mistralton Cave, Clay Tunnel, Twist Mountain, Reversal Mountain, Seaside Cave, Victory Road, Underground Ruins Chargestone Cave (N's Pokémon)",Icy Cave*
+Gigalith,#0526,False,Evolve Boldore,Evolve Boldore,Trade Emolga on Route 7,Trade Emolga on Route 7,
+Woobat,#0527,False,"Wellspring Cave, Mistralton Cave, Twist Mountain, Challenger's Cave, Victory Road","Wellspring Cave, Mistralton Cave, Twist Mountain, Challenger's Cave, Victory Road","Wellspring Cave, Mistralton Cave, Twist Mountain, Reversal Mountain, Clay Tunnel, Relic Passage, Underground Ruins, Seaside Cave Route 6 (Hidden Grotto) Wellspring Cave (N's Pokémon)","Wellspring Cave, Mistralton Cave, Twist Mountain, Reversal Mountain, Clay Tunnel, Relic Passage, Underground Ruins, Seaside Cave Route 6 (Hidden Grotto) Wellspring Cave (N's Pokémon)",
+Swoobat,#0528,False,Evolve Woobat,Evolve Woobat,Evolve Woobat,Evolve Woobat,
+Drilbur,#0529,False,"Wellspring Cave, Chargestone Cave, Mistralton Cave, Twist Mountain (Dust cloud)","Wellspring Cave, Chargestone Cave, Mistralton Cave, Twist Mountain (Dust cloud)","Relic Passage, Chargestone Cave, Mistralton Cave (Dust cloud)","Relic Passage, Chargestone Cave, Mistralton Cave (Dust cloud)",Icy Cave*
+Excadrill,#0530,False,"Challenger's Cave, Victory Road, Giant Chasm (Dust Cloud)","Challenger's Cave, Victory Road, Giant Chasm (Dust Cloud)","Clay Tunnel, Twist Mountain, Victory Road, Reversal Mountain, Wellspring Cave, Seaside Cave, Giant Chasm, Underground Ruins (Dust Cloud)","Clay Tunnel, Twist Mountain, Victory Road, Reversal Mountain, Wellspring Cave, Seaside Cave, Giant Chasm, Underground Ruins (Dust Cloud)",
+Audino,#0531,False,"Routes 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, and 18, P2 Laboratory, Dreamyard, Pinwheel Forest, Lostlorn Forest, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine, Cold Storage (rustling grass)","Routes 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, and 18, P2 Laboratory, Dreamyard, Pinwheel Forest, Lostlorn Forest, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine, Cold Storage (rustling grass)","Routes 1, 2, 3, 5, 6, 7, 9, 11, 12, 13, 14, 15, 16, 18, 20, 22, and 23, Floccesy Ranch, Virbank Complex, Pinwheel Forest, Dreamyard, P2 Laboratory, Castelia City, Lostlorn Forest, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine, Victory Road, Reversal Mountain, Nature Preserve (rustling grass)","Routes 1, 2, 3, 5, 6, 7, 9, 11, 12, 13, 14, 15, 16, 18, 20, 22, and 23, Floccesy Ranch, Virbank Complex, Pinwheel Forest, Dreamyard, P2 Laboratory, Castelia City, Lostlorn Forest, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine, Victory Road, Reversal Mountain, Nature Preserve (rustling grass)",Dream Park*
+Timburr,#0532,False,"Pinwheel Forest (outside), Cold Storage","Pinwheel Forest (outside), Cold Storage",Relic Passage Pinwheel Forest (outside) (N's Pokémon),Relic Passage Pinwheel Forest (outside) (N's Pokémon),
+Gurdurr,#0533,False,Twist Mountain,Twist Mountain,"Relic Passage, Twist Mountain, Pinwheel Forest, Victory Road","Relic Passage, Twist Mountain, Pinwheel Forest, Victory Road",Dream Park*
+Conkeldurr,#0534,False,Evolve Gurdurr,Evolve Gurdurr,Evolve Gurdurr,Evolve Gurdurr,
+Tympole,#0535,False,Pinwheel Forest (outside),Pinwheel Forest (outside),Pinwheel Forest (outside) (N's Pokémon),Pinwheel Forest (outside) (N's Pokémon),Pleasant Forest*
+Palpitoad,#0536,False,"Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn","Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn","Pinwheel Forest (outer) Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn","Pinwheel Forest (outer) Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn",
+Seismitoad,#0537,False,"Route 8, Icirrus City, Moor of Icirrus (Surfing in rippling water)","Route 8, Icirrus City, Moor of Icirrus (Surfing in rippling water)","Route 8, Icirrus City, Moor of Icirrus (Surfing in rippling water) Pinwheel Forest (outer; rustling grass)","Route 8, Icirrus City, Moor of Icirrus (Surfing in rippling water) Pinwheel Forest (outer; rustling grass)",
+Throh,#0538,False,"Routes 10, 15, and 18, Pinwheel Forest (outside) (rustling grass)","Routes 10, 15, and 18, Pinwheel Forest (outside) (tall grass)","Routes 15, 18, and 23, Pinwheel Forest (outside) (rustling grass) Victory Road (tall grass)","Routes 15, 18, and 23, Pinwheel Forest (outside), Victory Road (tall grass)",Dream Park*
+Sawk,#0539,False,"Routes 10, 15, and 18, Pinwheel Forest (outside) (tall grass)","Routes 10, 15, and 18, Pinwheel Forest (outside) (rustling grass)","Routes 15, 18, and 23, Pinwheel Forest (outside) (tall grass) Victory Road (rustling grass)","Routes 15, 18, and 23, Pinwheel Forest (outside), Victory Road (rustling grass)",Dream Park*
+Sewaddle,#0540,False,Pinwheel Forest (inner),Pinwheel Forest (inner),Routes 12 and 20,Routes 12 and 20,
+Swadloon,#0541,False,"Route 6, Lostlorn Forest Pinwheel Forest (inner) (dark grass)","Route 6, Lostlorn Forest Pinwheel Forest (inner) (dark grass)","Route 6, Pinwheel Forest (inner), Lostlorn Forest","Route 6, Pinwheel Forest (inner), Lostlorn Forest",
+Leavanny,#0542,False,"Route 6, Lostlorn Forest (Rustling grass)","Route 6, Lostlorn Forest (Rustling grass)","Routes 6 and 12, Lostlorn Forest (Rustling grass) Lostlorn Forest (Hidden Grotto)","Routes 6 and 12, Lostlorn Forest (Rustling grass) Lostlorn Forest (Hidden Grotto)",
+Venipede,#0543,False,"Pinwheel Forest (inner), Lostlorn Forest","Pinwheel Forest (inner), Lostlorn Forest",Lostlorn Forest Route 20 (dark grass),Lostlorn Forest Route 20 (dark grass),
+Whirlipede,#0544,False,Pinwheel Forest (inner) (dark grass),Pinwheel Forest (inner) (dark grass),Pinwheel Forest (inner) Lostlorn Forest (dark grass),Pinwheel Forest (inner) Lostlorn Forest (dark grass),
+Scolipede,#0545,False,Evolve Whirlipede,Evolve Whirlipede,Pinwheel Forest (inner; rustling grass),Pinwheel Forest (inner; rustling grass),Pleasant Forest*
+Cottonee,#0546,False,"Pinwheel Forest (inner), Lostlorn Forest, Abundant Shrine",Trade Petilil in Nacrene City,"Pinwheel Forest (inner), Lostlorn Forest, Castelia City, Abundant Shrine, Victory Road",Trade Petilil on Route 4,Pleasant Forest*
+Whimsicott,#0547,False,"Pinwheel Forest (inner), Lostlorn Forest, Abundant Shrine (rustling grass)",Evolve Cottonee,"Pinwheel Forest (inner), Lostlorn Forest, Castelia City, Abundant Shrine, Victory Road (rustling grass)",Evolve Cottonee,
+Petilil,#0548,False,Trade Cottonee in Nacrene City,"Pinwheel Forest (inner), Lostlorn Forest, Abundant Shrine",Trade Cottonee on Route 4,"Pinwheel Forest (inner), Lostlorn Forest, Castelia City, Abundant Shrine, Victory Road",Pleasant Forest*
+Lilligant,#0549,False,Evolve Petilil,"Pinwheel Forest (inner), Lostlorn Forest, Abundant Shrine (rustling grass)",Evolve Petilil,"Pinwheel Forest (inner), Lostlorn Forest, Castelia City, Abundant Shrine, Victory Road (rustling grass)",
+Basculin,#0550,False,"Routes 1, 3, 6, 11, 14, Striaton City, Wellspring Cave, Pinwheel Forest, Dragonspiral Tower, Challenger's Cave, Victory Road, Village Bridge, Giant Chasm, Abundant Shrine, Lostlorn Forest (Surfing or fishing) (Red- Striped Form) (Rippling water) (Blue- Striped Form) Trade Minccino in Driftveil City (Red- Striped Form)","Routes 1, 3, 6, 11, 14, Striaton City, Wellspring Cave, Pinwheel Forest, Dragonspiral Tower, Challenger's Cave, Victory Road, Village Bridge, Giant Chasm, Abundant Shrine, Lostlorn Forest (Surfing or fishing) (Blue- Striped Form) (Rippling water) (Red- Striped Form) Trade Minccino in Driftveil City (Blue- Striped Form)","Routes 1, 3, 6, 11, 13, 14, 19, 20, 22, 23, Aspertia City, Floccesy Ranch, Relic Passage, Clay Tunnel, Dragonspiral Tower, Striaton City, Wellspring Cave, Pinwheel Forest, Undella Town, Humilau City, Victory Road, Village Bridge, Giant Chasm, Abundant Shrine, Nature Preserve, Lostlorn Forest (Surfing or fishing) (Red- Striped Form) (Rippling water) (Blue- Striped Form)","Routes 1, 3, 6, 11, 13, 14, 19, 20, 22, 23, Aspertia City, Floccesy Ranch, Relic Passage, Clay Tunnel, Dragonspiral Tower, Striaton City, Wellspring Cave, Pinwheel Forest, Undella Town, Humilau City, Victory Road, Village Bridge, Giant Chasm, Abundant Shrine, Nature Preserve, Lostlorn Forest (Surfing or fishing) (Blue- Striped Form) (Rippling water) (Red- Striped Form)",Sparkling Sea* (Red/ Blue- Striped Forms)
+Sandile,#0551,False,"Route 4, Desert Resort, Relic Castle","Route 4, Desert Resort, Relic Castle","Route 4, Desert Resort, Relic Castle Desert Resort (N's Pokémon)","Route 4, Desert Resort, Relic Castle Desert Resort (N's Pokémon)",
+Krokorok,#0552,False,Relic Castle,Relic Castle,Relic Castle,Relic Castle,
+Krookodile,#0553,False,Evolve Krokorok,Evolve Krokorok,Evolve Krokorok,Evolve Krokorok,Rugged Mountain*
+Darumaka,#0554,False,"Route 4, Desert Resort","Route 4, Desert Resort","Route 4, Desert Resort Desert Resort (N's Pokémon)","Route 4, Desert Resort Desert Resort (N's Pokémon)",
+Darmanitan,#0555,False,Desert Resort (Five)*,Desert Resort (Five)*,Desert Resort (N's Pokémon),Desert Resort (N's Pokémon),
+Maractus,#0556,False,Desert Resort,Desert Resort,Desert Resort,Desert Resort,Rugged Mountain*
+Dwebble,#0557,False,Route 18 and Desert Resort,Route 18 and Desert Resort,Desert Resort,Desert Resort,
+Crustle,#0558,False,Route 18 (dark grass),Route 18 (dark grass),Route 18 Seaside Cave (One)*,Route 18 Seaside Cave (One)*,Rugged Mountain*
+Scraggy,#0559,False,"Routes 4 and 18, Desert Resort, P2 Laboratory Route 1 (dark grass)","Routes 4 and 18, Desert Resort, P2 Laboratory Route 1 (dark grass)",Route 4 and Desert Resort Desert Resort (N's Pokémon),Route 4 and Desert Resort Desert Resort (N's Pokémon),Dream Park*
+Scrafty,#0560,False,Evolve Scraggy,Evolve Scraggy,"Routes 15 and 18, P2 Laboratory Route 1 (dark grass)","Routes 15 and 18, P2 Laboratory Route 1 (dark grass)",
+Sigilyph,#0561,False,Desert Resort,Desert Resort,Desert Resort Desert Resort (N's Pokémon)  Transfer from Dream Radar,Desert Resort Desert Resort (N's Pokémon)  Transfer from Dream Radar,Windswept Sky*
+Yamask,#0562,False,Relic Castle,Relic Castle,Relic Castle,Relic Castle,
+Cofagrigus,#0563,False,Relic Castle,Relic Castle,Evolve Yamask,Evolve Yamask,
+Tirtouga,#0564,False,Revive from Cover Fossil at the Nacrene Museum,Revive from Cover Fossil at the Nacrene Museum,Revive from Cover Fossil at the Nacrene Museum,Revive from Cover Fossil at the Nacrene Museum,Sparkling Sea*
+Carracosta,#0565,False,Evolve Tirtouga,Evolve Tirtouga,Evolve Tirtouga,Evolve Tirtouga,
+Archen,#0566,False,Revive from Plume Fossil at the Nacrene Museum,Revive from Plume Fossil at the Nacrene Museum,Revive from Plume Fossil at the Nacrene Museum,Revive from Plume Fossil at the Nacrene Museum,
+Archeops,#0567,False,Evolve Archen,Evolve Archen,Evolve Archen,Evolve Archen,
+Trubbish,#0568,False,Routes 5 and 16,Routes 5 and 16,"Routes 4, 5, and 16",Routes 5 and 16,
+Garbodor,#0569,False,Route 9,Route 9,Route 9 Route 9 (Hidden Grotto),Route 9 Route 9 (Hidden Grotto),
+Zorua,#0570,False,"Castelia City (requires fateful encounter Celebi) Breed Zoroark (requires Shiny fateful encounter Entei, Raikou, or Suicune)","Castelia City (requires fateful encounter Celebi) Breed Zoroark (requires Shiny fateful encounter Entei, Raikou, or Suicune)",Received from Rood in Driftveil City (N's Pokémon),Received from Rood in Driftveil City (N's Pokémon),
+Zoroark,#0571,False,"Lostlorn Forest (requires Shiny fateful encounter Entei, Raikou, or Suicune) Evolve Zorua (requires fateful encounter Celebi)","Lostlorn Forest (requires Shiny fateful encounter Entei, Raikou, or Suicune) Evolve Zorua (requires fateful encounter Celebi)",Evolve N's Zorua,Evolve N's Zorua,
+Minccino,#0572,False,"Routes 5, 9, and 16, Cold Storage","Routes 5, 9, and 16, Cold Storage","Routes 5, 9, and 16 Route 5 (Hidden Grotto)*","Routes 4, 5, 9, and 16 Route 5 (Hidden Grotto)*",
+Cinccino,#0573,False,"Routes 5, 9, and 16, Cold Storage (rustling grass)","Routes 5, 9, and 16, Cold Storage (rustling grass)","Routes 5, 9, and 16 (rustling grass)","Routes 5, 9, and 16 (rustling grass)",
+Gothita,#0574,False,Routes 5 and 16,Trade,"Routes 5 and 16, Strange House",Trade,
+Gothorita,#0575,False,Route 9,Trade,"Route 9, Strange House",Trade,
+Gothitelle,#0576,False,Route 9 (Rustling grass),Trade,Route 9 (Rustling grass),Trade,
+Solosis,#0577,False,Trade,Route 5 and Route 16,Trade,"Routes 5 and 16, Strange House",
+Duosion,#0578,False,Trade,Route 9,Trade,"Route 9, Strange House",Spooky Manor*
+Reuniclus,#0579,False,Trade,Route 9 (Rustling grass),Trade,Route 9 (Rustling grass),
+Ducklett,#0580,False,Driftveil Drawbridge (Shadow),Driftveil Drawbridge (Shadow),Driftveil Drawbridge (Shadow),Driftveil Drawbridge (Shadow),Windswept Sky*
+Swanna,#0581,False,Marvelous Bridge (Shadow),Marvelous Bridge (Shadow),Marvelous Bridge (Shadow),Marvelous Bridge (Shadow),
+Vanillite,#0582,False,"Cold Storage Route 6, Dragonspiral Tower Winter","Cold Storage Route 6, Dragonspiral Tower Winter",Breed Vanillish or Vanilluxe,Breed Vanillish or Vanilluxe,
+Vanillish,#0583,False,Dragonspiral Tower (dark grass) Winter,Dragonspiral Tower (dark grass) Winter,Giant Chasm Dragonspiral Tower Winter,Giant Chasm Dragonspiral Tower Winter,Icy Cave*
+Vanilluxe,#0584,False,Evolve Vanillish,Evolve Vanillish,Giant Chasm (rustling grass) Dragonspiral Tower (rustling grass) Winter,Giant Chasm (rustling grass) Dragonspiral Tower (rustling grass) Winter,
+Deerling,#0585,False,"Routes 6 and 7, Dragonspiral Tower","Routes 6 and 7, Dragonspiral Tower",Routes 6 and 7 Received from a Scientist on Route 6*,Routes 6 and 7 Received from a Scientist on Route 6*,
+Sawsbuck,#0586,False,Dragonspiral Tower (dark grass),Dragonspiral Tower (dark grass),Dragonspiral Tower,Dragonspiral Tower,
+Emolga,#0587,False,"Routes 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, and 16, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine, Lostlorn Forest (rustling grass) Trade Boldore on Route 7","Routes 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, and 16, Dragonspiral Tower, Village Bridge, Giant Chasm, Abundant Shrine, Lostlorn Forest (rustling grass) Trade Boldore on Route 7","Routes 5, 6, 7, 9, 11, 12, 13, 14, 15, 16, 22, and 23, Dragonspiral Tower, Village Bridge, Abundant Shrine, Lostlorn Forest (rustling grass)","Routes 5, 6, 7, 9, 11, 12, 13, 14, 15, 16, 22, and 23, Dragonspiral Tower, Village Bridge, Abundant Shrine, Lostlorn Forest (rustling grass)",Windswept Sky*
+Karrablast,#0588,False,Routes 6 and 11,Routes 6 and 11,"Routes 6 and 11 Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn","Routes 6 and 11 Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn",Pleasant Forest
+Escavalier,#0589,False,Evolve Karrablast,Evolve Karrablast,Evolve Karrablast,Evolve Karrablast,
+Foongus,#0590,False,"Routes 6, 7, and 10 (both in tall grass and as fake items)","Routes 6, 7, and 10 (both in tall grass and as fake items)","Routes 6 and 7 (both in tall grass and as fake items*) Routes 5, 6, and 13 (Hidden Grotto)","Routes 6 and 7 (both in tall grass and as fake items*) Routes 5, 6, and 13 (Hidden Grotto)",
+Amoonguss,#0591,False,Route 10 (both in dark grass and as fake items) Route 11,Route 10 (both in dark grass and as fake items) Route 11,"Routes 11, 22, and 23 (both in tall grass and as fake items*) Route 22, Abundant Shrine*, and Pinwheel Forest* (Hidden Grotto)","Routes 11, 22, and 23 (both in tall grass and as fake items*) Route 22, Abundant Shrine*, and Pinwheel Forest* (Hidden Grotto)",
+Frillish,#0592,False,"Routes 4, 17, and 18, Driftveil City, P2 Laboratory (Surfing)","Routes 4, 17, and 18, Driftveil City, P2 Laboratory (Surfing)","Routes 4, 13, 17, 18, and 21, Virbank City, Virbank Complex, Undella Town, Undella Bay, Seaside Cave, Humilau City, P2 Laboratory (Surfing)","Routes 4, 13, 17, 18, and 21, Virbank City, Virbank Complex, Undella Town, Undella Bay, Seaside Cave, Humilau City, P2 Laboratory (Surfing)",
+Jellicent,#0593,False,"Routes 4, 17, 18, Driftveil City, P2 Laboratory (Surfing in rippling water)","Routes 4, 17, 18, Driftveil City, P2 Laboratory (Surfing in rippling water)","Routes 4, 13, 17, 18 and 21, Virbank City, Virbank Complex, Undella Town, Seaside Cave, Humilau City, P2 Laboratory (Surfing in rippling water) Undella Bay Spring Summer Autumn (Surfing in rippling water) Undella Bay* Mo","Routes 4, 13, 17, 18 and 21, Virbank City, Virbank Complex, Undella Town, Seaside Cave, Humilau City, P2 Laboratory (Surfing in rippling water) Undella Bay Spring Summer Autumn Undella Bay* Th",
+Alomomola,#0594,False,"Routes 4, 17, 18, Driftveil City, P2 Laboratory (Surfing in rippling water)","Routes 4, 17, 18, Driftveil City, P2 Laboratory (Surfing in rippling water)","Routes 4, 17, 18 and 21, Virbank City, Virbank Complex, P2 Laboratory (Surfing in rippling water)","Routes 4, 17, 18 and 21, Virbank City, Virbank Complex, P2 Laboratory (Surfing in rippling water)",Sparkling Sea*
+Joltik,#0595,False,Chargestone Cave,Chargestone Cave,Chargestone Cave Chargestone Cave (N's Pokémon),Chargestone Cave Chargestone Cave (N's Pokémon),
+Galvantula,#0596,False,Evolve Joltik,Evolve Joltik,Evolve Joltik,Evolve Joltik,Spooky Manor*
+Ferroseed,#0597,False,Chargestone Cave,Chargestone Cave,Chargestone Cave Chargestone Cave (N's Pokémon),Chargestone Cave Chargestone Cave (N's Pokémon),
+Ferrothorn,#0598,False,Evolve Ferroseed,Evolve Ferroseed,Evolve Ferroseed,Evolve Ferroseed,
+Klink,#0599,False,"Chargestone Cave, P2 Laboratory","Chargestone Cave, P2 Laboratory",Chargestone Cave Chargestone Cave (N's Pokémon),Chargestone Cave Chargestone Cave (N's Pokémon),
+Klang,#0600,False,Evolve Klink,Evolve Klink,P2 Laboratory,P2 Laboratory,Icy Cave*
+Klinklang,#0601,False,Evolve Klang,Evolve Klang,P2 Laboratory (rustling grass),P2 Laboratory (rustling grass),
+Tynamo,#0602,False,Chargestone Cave,Chargestone Cave,"Chargestone Cave, Seaside Cave","Chargestone Cave, Seaside Cave",
+Eelektrik,#0603,False,Evolve Tynamo,Evolve Tynamo,Seaside Cave,Seaside Cave,
+Eelektross,#0604,False,Evolve Eelektrik,Evolve Eelektrik,Evolve Eelektrik,Evolve Eelektrik,
+Elgyem,#0605,False,Celestial Tower,Celestial Tower,Celestial Tower,Celestial Tower,Spooky Manor*
+Beheeyem,#0606,False,Route 14,Route 14,Evolve Elgyem,Evolve Elgyem,
+Litwick,#0607,False,Celestial Tower,Celestial Tower,"Celestial Tower, Strange House","Celestial Tower, Strange House",
+Lampent,#0608,False,Evolve Litwick,Evolve Litwick,Evolve Litwick,Evolve Litwick,
+Chandelure,#0609,False,Evolve Lampent,Evolve Lampent,Evolve Lampent,Evolve Lampent,
+Axew,#0610,False,Mistralton Cave,Mistralton Cave,Mistralton Cave,Mistralton Cave,Icy Cave*
+Fraxure,#0611,False,Victory Road,Victory Road,Nature Preserve,Nature Preserve,
+Haxorus,#0612,False,Evolve Fraxure,Evolve Fraxure,"Nature Preserve (One, Shiny)","Nature Preserve (One, Shiny)",
+Cubchoo,#0613,False,"Twist Mountain Route 7, Dragonspiral Tower Winter","Twist Mountain Route 7, Dragonspiral Tower Winter",Route 7 Winter Route 7 (Hidden Grotto)*,Route 7 Winter Route 7 (Hidden Grotto)*,
+Beartic,#0614,False,Dragonspiral Tower (dark grass) Winter,Dragonspiral Tower (dark grass) Winter,Twist Mountain Dragonspiral Tower Winter,Twist Mountain Dragonspiral Tower Winter,
+Cryogonal,#0615,False,Twist Mountain,Twist Mountain,Twist Mountain,Twist Mountain,
+Shelmet,#0616,False,"Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn","Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn","Routes 6 and 11 Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn","Routes 6 and 11 Route 8, Icirrus City, Moor of Icirrus Spring Summer Autumn",Pleasant Forest*
+Accelgor,#0617,False,Evolve Shelmet,Evolve Shelmet,Evolve Shelmet,Evolve Shelmet,
+Stunfisk,#0618,False,"Route 8, Icirrus City, Moor of Icirrus (puddles Spring Summer Autumn; fishing and surfing)","Route 8, Icirrus City, Moor of Icirrus (puddles Spring Summer Autumn; fishing and surfing)","Route 8, Icirrus City, Moor of Icirrus (puddles Spring Summer Autumn; fishing and surfing)","Route 8, Icirrus City, Moor of Icirrus (puddles Spring Summer Autumn; fishing and surfing)",Sparkling Sea*
+Mienfoo,#0619,False,"Dragonspiral Tower, Victory Road, Route 14*","Dragonspiral Tower, Victory Road, Route 14*","Routes 14, 22 and 23* Dragonspiral Tower Winter Route 22 (Hidden Grotto)","Routes 14, 22 and 23* Dragonspiral Tower Winter Route 22 (Hidden Grotto)",
+Mienshao,#0620,False,Route 14 (dark grass),Route 14 (dark grass),Route 23 (dark grass) Dragonspiral Tower,Route 23 (dark grass) Dragonspiral Tower,
+Druddigon,#0621,False,Dragonspiral Tower,Dragonspiral Tower,"Dragonspiral Tower, Victory Road","Dragonspiral Tower, Victory Road",Icy Cave*
+Golett,#0622,False,Dragonspiral Tower,Dragonspiral Tower,Breed Golurk,Breed Golurk,Spooky Manor*
+Golurk,#0623,False,Evolve Golett,Evolve Golett,"Dragonspiral Tower (inside), Victory Road (entrance)","Dragonspiral Tower (inside), Victory Road (entrance)",
+Pawniard,#0624,False,Routes 9 and 11,Routes 9 and 11,Route 9,Route 9,Spooky Manor*
+Bisharp,#0625,False,Route 11 (dark grass),Route 11 (dark grass),Evolve Pawniard,Evolve Pawniard,
+Bouffalant,#0626,False,Route 10,Route 10,Route 23 Route 9 (Hidden Grotto),Route 23 Route 9 (Hidden Grotto),
+Rufflet,#0627,False,Trade,"Routes 10 and 11, Victory Road, Village Bridge",Trade,Route 23,
+Braviary,#0628,False,Trade,"Route 11, Village Bridge (dark grass)",Trade,Route 4* Mo,
+Vullaby,#0629,False,"Routes 10 and 11, Victory Road, Village Bridge",Trade,Route 23,Trade,
+Mandibuzz,#0630,False,"Route 11, Village Bridge (dark grass)",Trade,Route 4* Th,Trade,
+Heatmor,#0631,False,Victory Road,Victory Road,Twist Mountain,Twist Mountain,Rugged Mountain*
+Durant,#0632,False,Victory Road,Victory Road,"Twist Mountain, Clay Tunnel, Underground Ruins","Twist Mountain, Clay Tunnel, Underground Ruins",Rugged Mountain*
+Deino,#0633,False,Victory Road,Victory Road,Breed Zweilous or Hydreigon,Breed Zweilous or Hydreigon,
+Zweilous,#0634,False,Evolve Deino,Evolve Deino,Victory Road,Victory Road,
+Hydreigon,#0635,False,Evolve Zweilous,Evolve Zweilous,Evolve Zweilous,Evolve Zweilous,
+Larvesta,#0636,False,Hatch Egg received from a Pokémon Ranger inside a building on Route 18,Hatch Egg received from a Pokémon Ranger inside a building on Route 18,Breed Volcarona,Breed Volcarona,
+Volcarona,#0637,False,Relic Castle (Only one),Relic Castle (Only one),Relic Castle (Only one),Relic Castle (Only one),
+Cobalion,#0638,False,Mistralton Cave (Guidance Chamber) (Only one),Mistralton Cave (Guidance Chamber) (Only one),Route 13 (Only one),Route 13 (Only one),
+Terrakion,#0639,False,Victory Road (Trial Chamber) (Only one),Victory Road (Trial Chamber) (Only one),Route 22 (Only one),Route 22 (Only one),
+Virizion,#0640,False,Pinwheel Forest (Rumination Field) (Only one),Pinwheel Forest (Rumination Field) (Only one),Route 11 (Only one),Route 11 (Only one),
+Tornadus,#0641,False,Roaming Unova (Only one) (Incarnate Forme),"Trade, Event",Transfer from Dream Radar (Therian Forme),Transfer from Dream Radar (Therian Forme),
+Thundurus,#0642,False,"Trade, Event",Roaming Unova (Only one) (Incarnate Forme),Transfer from Dream Radar (Therian Forme),Transfer from Dream Radar (Therian Forme),
+Reshiram,#0643,False,N's Castle or Dragonspiral Tower* (Only one),"Trade, Event",Trade,Dragonspiral Tower (Only one),
+Zekrom,#0644,False,"Trade, Event",N's Castle or Dragonspiral Tower* (Only one),Dragonspiral Tower (Only one),Trade,
+Landorus,#0645,False,Abundant Shrine (requires Tornadus and Thundurus in party) (Only one) (Incarnate Forme),Abundant Shrine (requires Tornadus and Thundurus in party) (Only one) (Incarnate Forme),Transfer from Dream Radar (Therian Forme),Transfer from Dream Radar (Therian Forme),
+Kyurem,#0646,False,Giant Chasm (Only one),Giant Chasm (Only one),Giant Chasm (Only one),Giant Chasm (Only one),
+Keldeo,#0647,False,Event,Event,Event,Event,
+Meloetta,#0648,False,Event,Event,Event,Event,
+Genesect,#0649,False,Event,Event,Event,Event,

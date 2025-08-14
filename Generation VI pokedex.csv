@@ -1,0 +1,722 @@
+Pokemon,No.,Caught?,X,Y,Omega Ruby,Alpha Sapphire
+Bulbasaur,#0001,False,Received from Professor Sycamore in Lumiose City after defeating him,Received from Professor Sycamore in Lumiose City after defeating him,"Trade, Event","Trade, Event"
+Ivysaur,#0002,False,Friend Safari (Grass),Friend Safari (Grass),Trade,Trade
+Venusaur,#0003,False,Evolve Ivysaur,Evolve Ivysaur,"Trade, Event","Trade, Event"
+Charmander,#0004,False,Received from Professor Sycamore in Lumiose City after defeating him,Received from Professor Sycamore in Lumiose City after defeating him,"Trade, Event","Trade, Event"
+Charmeleon,#0005,False,Friend Safari (Fire),Friend Safari (Fire),"Trade, Evolve Event Charmander","Trade, Evolve Event Charmander"
+Charizard,#0006,False,Evolve Charmeleon,Evolve Charmeleon,"Trade, Event","Trade, Event"
+Squirtle,#0007,False,Received from Professor Sycamore in Lumiose City after defeating him,Received from Professor Sycamore in Lumiose City after defeating him,"Trade, Event","Trade, Event"
+Wartortle,#0008,False,Friend Safari (Water),Friend Safari (Water),"Trade, Evolve Event Squirtle","Trade, Evolve Event Squirtle"
+Blastoise,#0009,False,Evolve Wartortle,Evolve Wartortle,"Trade, Event","Trade, Event"
+Caterpie,#0010,False,Santalune Forest,"Route 2, Santalune Forest",Trade,Trade
+Metapod,#0011,False,Evolve Caterpie,Santalune Forest,Trade,Trade
+Butterfree,#0012,False,Friend Safari (Bug),Friend Safari (Bug),Trade,Trade
+Weedle,#0013,False,"Route 2, Santalune Forest",Santalune Forest,Breed Kakuna or Beedrill,Breed Kakuna or Beedrill
+Kakuna,#0014,False,"Santalune Forest, Friend Safari (Poison)",Friend Safari (Poison),Safari Zone (hidden Pokémon*),Safari Zone (hidden Pokémon*)
+Beedrill,#0015,False,Evolve Kakuna,Evolve Kakuna,Evolve Kakuna,Evolve Kakuna
+Pidgey,#0016,False,"Routes 2 and 3, Friend Safari (Flying)","Routes 2 and 3, Friend Safari (Flying)",Breed Pidgeotto,Breed Pidgeotto
+Pidgeotto,#0017,False,Evolve Pidgey,Evolve Pidgey,Safari Zone (hidden Pokémon*),Safari Zone (hidden Pokémon*)
+Pidgeot,#0018,False,Evolve Pidgeotto,Evolve Pidgeotto,Evolve Pidgeotto,Evolve Pidgeotto
+Rattata,#0019,False,Trade,Trade,Route 117 (hidden Pokémon*),Route 117 (hidden Pokémon*)
+Raticate,#0020,False,Trade,Trade,Route 118 (hidden Pokémon*),Route 118 (hidden Pokémon*)
+Spearow,#0021,False,Friend Safari (Flying),Friend Safari (Flying),Trade,Trade
+Fearow,#0022,False,Victory Road (flying shadow),Victory Road (flying shadow),Trade,Trade
+Ekans,#0023,False,Route 14 (Horde Encounter),Route 14 (Horde Encounter),Trade,Trade
+Arbok,#0024,False,Route 19 (Horde Encounter),Route 19 (Horde Encounter),Trade,Trade
+Pikachu,#0025,False,"Santalune Forest, Route 3, Friend Safari (Electric)","Santalune Forest, Route 3, Friend Safari (Electric)","Safari Zone (Zone 1, long grass) Received at the Contest Hall in Verdanturf Town, Fallarbor Town, Slateport City, or Lilycove City after first Pokémon Contest (Cosplay Pikachu)","Safari Zone (Zone 1, long grass) Received at the Contest Hall in Verdanturf Town, Fallarbor Town, Slateport City, or Lilycove City after first Pokémon Contest (Cosplay Pikachu)"
+Raichu,#0026,False,Evolve Pikachu,Evolve Pikachu,Evolve Pikachu,Evolve Pikachu
+Sandshrew,#0027,False,Friend Safari (Ground),Friend Safari (Ground),Routes 111 and 113,Routes 111 and 113
+Sandslash,#0028,False,"Route 18, Terminus Cave","Route 18, Terminus Cave",Evolve Sandshrew,Evolve Sandshrew
+Nidoran♀,#0029,False,Route 11 (Horde Encounter),Route 11 (Horde Encounter),Trade,Trade
+Nidorina,#0030,False,Route 11,Route 11,Trade,Trade
+Nidoqueen,#0031,False,Evolve Nidorina,Evolve Nidorina,Trade,Trade
+Nidoran♂,#0032,False,Route 11 (Horde Encounter),Route 11 (Horde Encounter),Trade,Trade
+Nidorino,#0033,False,Route 11,Route 11,Trade,Trade
+Nidoking,#0034,False,Evolve Nidorino,Evolve Nidorino,Trade,Trade
+Clefairy,#0035,False,Friend Safari (Fairy),Friend Safari (Fairy),"Route 115, Meteor Falls (hidden Pokémon*)","Route 115, Meteor Falls (hidden Pokémon*)"
+Clefable,#0036,False,Evolve Clefairy,Evolve Clefairy,Evolve Clefairy,Evolve Clefairy
+Vulpix,#0037,False,Breed Ninetales,Breed Ninetales,"Mt. Pyre exterior, Mirage Forest (north of Route 124)","Mt. Pyre exterior, Mirage Forest (north of Route 124)"
+Ninetales,#0038,False,Friend Safari (Fire),Friend Safari (Fire),Evolve Vulpix,Evolve Vulpix
+Jigglypuff,#0039,False,"Route 20, Pokémon Village, Friend Safari (Fairy)","Route 20, Pokémon Village, Friend Safari (Fairy)",Route 115,Route 115
+Wigglytuff,#0040,False,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff,Evolve Jigglypuff
+Zubat,#0041,False,Connecting Cave,Connecting Cave,"Granite Cave (walking) Meteor Falls (Surfing and walking) Sealed Chamber (Surfing) Scorched Slab (Horde Encounter or Surfing) Cave of Origin, Seafloor Cavern, Shoal Cave, Victory Road (Horde Encounter)","Granite Cave (walking) Meteor Falls (Surfing and walking) Sealed Chamber (Surfing) Scorched Slab (Horde Encounter or Surfing) Cave of Origin, Seafloor Cavern, Shoal Cave, Victory Road (Horde Encounter)"
+Golbat,#0042,False,Evolve Zubat,Evolve Zubat,"Meteor Falls, Cave of Origin, Seafloor Cavern, Shoal Cave, Scorched Slab, Victory Road, Sky Pillar, Sealed Chamber","Meteor Falls, Cave of Origin, Seafloor Cavern, Shoal Cave, Scorched Slab, Victory Road, Sky Pillar, Sealed Chamber"
+Oddish,#0043,False,"Route 6, Friend Safari (Grass)","Route 6, Friend Safari (Grass)","Routes 110 and 117 Routes 119, 120, and Safari Zone (Horde Encounter)","Routes 110 and 117 Routes 119, 120, and Safari Zone (Horde Encounter)"
+Gloom,#0044,False,Friend Safari (Poison),Friend Safari (Poison),"Routes 119, 120, 121, and 123, Safari Zone","Routes 119, 120, 121, and 123, Safari Zone"
+Vileplume,#0045,False,Evolve Gloom,Evolve Gloom,Evolve Gloom,Evolve Gloom
+Paras,#0046,False,Friend Safari (Bug),Friend Safari (Bug),Petalburg Woods (hidden Pokémon*),Petalburg Woods (hidden Pokémon*)
+Parasect,#0047,False,Evolve Paras,Evolve Paras,Evolve Paras,Evolve Paras
+Venonat,#0048,False,Breed Venomoth,Breed Venomoth,Breed Venomoth,Breed Venomoth
+Venomoth,#0049,False,Friend Safari (Bug and Poison),Friend Safari (Bug and Poison),"Mirage Islands (west of Route 104, west of Dewford Town, north of Route 124, south of Route 134)","Mirage Islands (west of Route 104, west of Dewford Town, north of Route 124, south of Route 134)"
+Diglett,#0050,False,Breed Dugtrio,Breed Dugtrio,Fiery Path (hidden Pokémon*),Fiery Path (hidden Pokémon*)
+Dugtrio,#0051,False,"Route 13, Friend Safari (Ground)","Route 13, Friend Safari (Ground)",Evolve Diglett,Evolve Diglett
+Meowth,#0052,False,Trade,Trade,Breed Persian,Breed Persian
+Persian,#0053,False,Trade,Trade,Mirage Island (North of Route 124),Mirage Island (North of Route 124)
+Psyduck,#0054,False,Route 7 (Horde Encounter) Route 22 (walking and Surfing),Route 7 (Horde Encounter) Route 22 (walking and Surfing),Safari Zone (walking and Surfing),Safari Zone (walking and Surfing)
+Golduck,#0055,False,Evolve Psyduck,Evolve Psyduck,Evolve Psyduck,Evolve Psyduck
+Mankey,#0056,False,Friend Safari (Fighting),Friend Safari (Fighting),Jagged Pass (hidden Pokémon*),Jagged Pass (hidden Pokémon*)
+Primeape,#0057,False,Evolve Mankey,Evolve Mankey,Evolve Mankey,Evolve Mankey
+Growlithe,#0058,False,Friend Safari (Fire),Friend Safari (Fire),Mt. Pyre exterior (hidden Pokémon*),Mt. Pyre exterior (hidden Pokémon*)
+Arcanine,#0059,False,Evolve Growlithe,Evolve Growlithe,Evolve Growlithe,Evolve Growlithe
+Poliwag,#0060,False,"Routes 14, 15, 16, 19, and 21, Laverre City, Frost Cavern, Couriway Town, Pokémon Village, Victory Road (Old Rod) Pokémon Village (Horde Encounter)","Routes 14, 15, 16, 19, and 21, Laverre City, Frost Cavern, Couriway Town, Pokémon Village, Victory Road (Old Rod) Pokémon Village (Horde Encounter)",Trade,Trade
+Poliwhirl,#0061,False,"Routes 14, 15, 16, 19, and 21, Laverre City, Frost Cavern, Couriway Town, Pokémon Village, Victory Road (Good Rod or Super Rod) Pokémon Village, Frost Cavern, Victory Road (Surfing) Friend Safari (Water)","Routes 14, 15, 16, 19, and 21, Laverre City, Frost Cavern, Couriway Town, Pokémon Village, Victory Road (Good Rod or Super Rod) Pokémon Village, Frost Cavern, Victory Road (Surfing) Friend Safari (Water)",Trade,Trade
+Poliwrath,#0062,False,Victory Road (Super Rod),Victory Road (Super Rod),Trade,Trade
+Abra,#0063,False,"Route 5, Friend Safari (Psychic)","Route 5, Friend Safari (Psychic)",Granite Cave,Granite Cave
+Kadabra,#0064,False,Evolve Abra,Evolve Abra,Evolve Abra,Evolve Abra
+Alakazam,#0065,False,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra,Evolve Kadabra
+Machop,#0066,False,Glittering Cave,Glittering Cave,"Route 112, Fiery Path, Jagged Pass","Route 112, Fiery Path, Jagged Pass"
+Machoke,#0067,False,Friend Safari (Fighting),Friend Safari (Fighting),Evolve Machop,Evolve Machop
+Machamp,#0068,False,Evolve Machoke,Evolve Machoke,Evolve Machoke,Evolve Machoke
+Bellsprout,#0069,False,Route 14 (Horde Encounter),Route 14 (Horde Encounter),Trade,Trade
+Weepinbell,#0070,False,"Routes 14, 16, and 19 (Purple Flowers) Route 19 (Yellow Flowers; Horde Encounter)","Routes 14, 16, and 19 (Purple Flowers) Route 19 (Yellow Flowers; Horde Encounter)",Trade,Trade
+Victreebel,#0071,False,Evolve Weepinbell,Evolve Weepinbell,Trade,Trade
+Tentacool,#0072,False,"Routes 8 and 12, Ambrette Town, Cyllage City, Shalour City, Azure Bay (Surfing)","Routes 8 and 12, Ambrette Town, Cyllage City, Shalour City, Azure Bay (Surfing)","Route 120, Seafloor Cavern, Battle Resort (Old Rod or Good Rod) Routes 119 and 128, Victory Road, Ever Grande City (Old Rod or Surfing) Routes 103, 105, 106, 107, 108, 109, 110, 115, 118, 122, 124, 125, 126, 127, 129, 130, 131, 132, 133, and 134, Sea Mauville, Dewford Town, Slateport City, Lilycove City, Mossdeep City, Shoal Cave, Pacifidlog Town, Sealed Chamber, Team Magma Hideout (Old Rod, Good Rod, or Surfing)","Route 120, Seafloor Cavern, Battle Resort (Old Rod or Good Rod) Routes 119 and 128, Victory Road, Ever Grande City (Old Rod or Surfing) Routes 103, 105, 106, 107, 108, 109, 110, 115, 118, 122, 124, 125, 126, 127, 129, 130, 131, 132, 133, and 134, Sea Mauville, Dewford Town, Slateport City, Lilycove City, Mossdeep City, Shoal Cave, Pacifidlog Town, Sealed Chamber, Team Aqua Hideout (Old Rod, Good Rod, or Surfing)"
+Tentacruel,#0073,False,Evolve Tentacool,Evolve Tentacool,"Routes 124, 125, 126, 127, 128, 129, 130, 131, 132, and 133, Mossdeep City, Pacifidlog Town, Ever Grande City, Shoal Cave, Seafloor Cavern, Victory Road, Battle Resort (Surfing)","Routes 124, 125, 126, 127, 128, 129, 130, 131, 132, and 133, Mossdeep City, Pacifidlog Town, Ever Grande City, Shoal Cave, Seafloor Cavern, Victory Road, Battle Resort (Surfing)"
+Geodude,#0074,False,"Route 18, Terminus Cave, Victory Road (Horde Encounter)","Route 18, Terminus Cave, Victory Road (Horde Encounter)","Granite Cave Routes 111, 114, Rusturf Tunnel (Rock Smash)","Granite Cave Routes 111, 114, Rusturf Tunnel (Rock Smash)"
+Graveler,#0075,False,"Route 18, Victory Road, Terminus Cave Route 13, Victory Road (Rock Smash)","Route 18, Victory Road, Terminus Cave Route 13, Victory Road (Rock Smash)","Lilycove City, Seafloor Cavern, Shoal Cave, Mirage Cave (north of Fortree City, west of Route 115, north of Route 124, southeast of Route 129), Mirage Forest (west of Route 105), Mirage Island (south of Pacifidlog Town, south of Route 134), Mirage Mountain (north of Route 125, southeast of Route 129) (Rock Smash)","Lilycove City, Seafloor Cavern, Shoal Cave, Mirage Cave (north of Fortree City, west of Route 115, north of Route 124, southeast of Route 129), Mirage Forest (west of Route 105), Mirage Island (south of Pacifidlog Town, south of Route 134), Mirage Mountain (north of Route 125, southeast of Route 129) (Rock Smash)"
+Golem,#0076,False,Evolve Graveler,Evolve Graveler,Evolve Graveler,Evolve Graveler
+Ponyta,#0077,False,Friend Safari (Fire),Friend Safari (Fire),Route 112 and Jagged Pass (hidden Pokémon*),Route 112 and Jagged Pass (hidden Pokémon*)
+Rapidash,#0078,False,Evolve Ponyta,Evolve Ponyta,Evolve Ponyta,Evolve Ponyta
+Slowpoke,#0079,False,"Route 12 (Tall grass, yellow flowers) Azure Bay (Tall grass, Horde Encounter)","Route 12 (Tall grass, yellow flowers) Azure Bay (Tall grass, Horde Encounter)","Mirage Caves (north of Fallarbor Town, south of Route 131)","Mirage Caves (north of Fallarbor Town, south of Route 131)"
+Slowbro,#0080,False,Evolve Slowpoke,Evolve Slowpoke,Evolve Slowpoke,Evolve Slowpoke
+Magnemite,#0081,False,Breed Magneton or Magnezone,Breed Magneton or Magnezone,Route 110 (Horde Encounter) New Mauville,Route 110 (Horde Encounter) New Mauville
+Magneton,#0082,False,"Lost Hotel, Friend Safari (Steel)","Lost Hotel, Friend Safari (Steel)",Evolve Magnemite,Evolve Magnemite
+Farfetch'd,#0083,False,"Trade Bunnelby in Santalune City Route 22, Friend Safari (Flying)","Trade Bunnelby in Santalune City Route 22, Friend Safari (Flying)",Trade,Trade
+Doduo,#0084,False,"Route 5, Friend Safari (Flying)","Route 5, Friend Safari (Flying)",Safari Zone,Safari Zone
+Dodrio,#0085,False,Evolve Doduo,Evolve Doduo,Evolve Doduo,Evolve Doduo
+Seel,#0086,False,Breed Dewgong,Breed Dewgong,Route 125 (hidden Pokémon*),Route 125 (hidden Pokémon*)
+Dewgong,#0087,False,Friend Safari (Ice),Friend Safari (Ice),Shoal Cave (hidden Pokémon*),Shoal Cave (hidden Pokémon*)
+Grimer,#0088,False,Breed Muk,Breed Muk,Fiery Path,Fiery Path
+Muk,#0089,False,Friend Safari (Poison),Friend Safari (Poison),Evolve Grimer,Evolve Grimer
+Shellder,#0090,False,Breed Cloyster,Route 8 (Good Rod),Trade,Trade
+Cloyster,#0091,False,Friend Safari (Ice),Route 8 (Super Rod) Friend Safari (Ice),Trade,Trade
+Gastly,#0092,False,Breed Haunter or Gengar,Breed Haunter or Gengar,Trade,Trade
+Haunter,#0093,False,"Routes 14 and 19, Frost Cavern, Victory Road","Routes 14 and 19, Frost Cavern, Victory Road",Trade,Trade
+Gengar,#0094,False,Evolve Haunter,Evolve Haunter,"Trade, Event","Trade, Event"
+Onix,#0095,False,Cyllage City (Rock Smash) Glittering Cave Friend Safari (Rock),Glittering Cave Friend Safari (Rock),Granite Cave (hidden Pokémon*) Mirage Caves (north of Fortree City and southeast of Route 129),Granite Cave (hidden Pokémon*) Mirage Caves (north of Fortree City and southeast of Route 129)
+Drowzee,#0096,False,Friend Safari (Psychic),Friend Safari (Psychic),Breed Hypno,Breed Hypno
+Hypno,#0097,False,Evolve Drowzee,Evolve Drowzee,Route 121 (hidden Pokémon*),Route 121 (hidden Pokémon*)
+Krabby,#0098,False,Friend Safari (Water),Friend Safari (Water),"Routes 105, 106, 107, 108, and 109 (hidden Pokémon*)","Routes 105, 106, 107, 108, and 109 (hidden Pokémon*)"
+Kingler,#0099,False,Evolve Krabby,Evolve Krabby,Evolve Krabby,Evolve Krabby
+Voltorb,#0100,False,Breed Electrode,Breed Electrode,"Route 110, New Mauville","Route 110, New Mauville"
+Electrode,#0101,False,"Lost Hotel, Friend Safari (Electric)","Lost Hotel, Friend Safari (Electric)",Team Magma Hideout (Two),Team Aqua Hideout (Two)
+Exeggcute,#0102,False,"Route 12, Azure Bay","Route 12, Azure Bay",Trade,Trade
+Exeggutor,#0103,False,Evolve Exeggcute,Evolve Exeggcute,Trade,Trade
+Cubone,#0104,False,Glittering Cave,Glittering Cave,Trade,Trade
+Marowak,#0105,False,Friend Safari (Ground),Friend Safari (Ground),Trade,Trade
+Hitmonlee,#0106,False,Evolve Tyrogue,Evolve Tyrogue,Evolve Tyrogue,Evolve Tyrogue
+Hitmonchan,#0107,False,Evolve Tyrogue,Evolve Tyrogue,Evolve Tyrogue,Evolve Tyrogue
+Lickitung,#0108,False,"Victory Road (Cave, Horde Encounter)","Victory Road (Cave, Horde Encounter)",Trade,Trade
+Koffing,#0109,False,Trade,Trade,Fiery Path,Fiery Path
+Weezing,#0110,False,Trade,Trade,Evolve Koffing,Evolve Koffing
+Rhyhorn,#0111,False,Glittering Cave,Glittering Cave,"Safari Zone (Zone 3, tall grass)","Safari Zone (Zone 3, tall grass)"
+Rhydon,#0112,False,Friend Safari (Rock),Friend Safari (Rock),Evolve Rhyhorn,Evolve Rhyhorn
+Chansey,#0113,False,Friend Safari (Normal),Friend Safari (Normal),Evolve Happiny,Evolve Happiny
+Tangela,#0114,False,Friend Safari (Grass),Friend Safari (Grass),"Mirage Forest (north of Lilycove City, east of Mossdeep City, west of Route 114, north of Route 124), Mirage Island (west of Dewford Town), Mirage Mountain (north of Route 125)","Mirage Forest (north of Lilycove City, east of Mossdeep City, west of Route 114, north of Route 124), Mirage Island (west of Dewford Town), Mirage Mountain (north of Route 125)"
+Kangaskhan,#0115,False,Glittering Cave,Glittering Cave,"Trade, Event","Trade, Event"
+Horsea,#0116,False,"Ambrette Town, Cyllage City (Good Rod)","Ambrette Town, Cyllage City (Good Rod)","Routes 130, 131, 132, 133, and 134, Sealed Chamber (Super Rod)","Routes 130, 131, 132, 133, and 134, Sealed Chamber (Super Rod)"
+Seadra,#0117,False,"Ambrette Town, Cyllage City (Super Rod)","Ambrette Town, Cyllage City (Super Rod)","Routes 130, 131, 132, 133, and 134 (Super Rod)","Routes 130, 131, 132, 133, and 134 (Super Rod)"
+Goldeen,#0118,False,"Routes 3, 22, Parfum Palace (Good Rod)","Routes 3, 22, Parfum Palace (Good Rod)","Routes 102, 111, 114, 117, 120, 123, Petalburg City, Meteor Falls, Scorched Slab, Safari Zone, Victory Road (Old Rod and Good Rod)","Routes 102, 111, 114, 117, 120, 123, Petalburg City, Meteor Falls, Scorched Slab, Safari Zone, Victory Road (Old Rod and Good Rod)"
+Seaking,#0119,False,"Routes 3 and 22, Parfum Palace (Super Rod)","Routes 3 and 22, Parfum Palace (Super Rod)",Safari Zone (Super Rod),Safari Zone (Super Rod)
+Staryu,#0120,False,Route 8 (Good Rod),Trade,"Lilycove City, Team Magma Hideout (Super Rod)","Lilycove City, Team Aqua Hideout (Super Rod)"
+Starmie,#0121,False,Route 8 (Super Rod),Trade,Evolve Staryu,Evolve Staryu
+Mr. Mime,#0122,False,Reflection Cave,Reflection Cave,Trade,Trade
+Scyther,#0123,False,Route 21,Route 21,Trade,Trade
+Jynx,#0124,False,Frost Cavern,Frost Cavern,Trade,Trade
+Electabuzz,#0125,False,Friend Safari (Electric),Friend Safari (Electric),Evolve Elekid,Evolve Elekid
+Magmar,#0126,False,Friend Safari (Fire),Friend Safari (Fire),Evolve Magby,Evolve Magby
+Pinsir,#0127,False,"Route 12, Friend Safari (Bug)",Friend Safari (Bug),"Safari Zone (Zone 4, long grass)","Safari Zone (Zone 4, long grass)"
+Tauros,#0128,False,Route 12 Route 12 (Horde Encounter with Miltank),Route 12 Route 12 (Horde Encounter with Miltank),Trade,Trade
+Magikarp,#0129,False,"Routes 3, 22, Parfum Palace (fishing) Trade Gyarados in a hotel in Camphrier Town, Ambrette Town, Cyllage City, Geosenge Town, Coumarine City, or Couriway Town","Routes 3, 22, Parfum Palace (fishing) Trade Gyarados in a hotel in Camphrier Town, Ambrette Town, Cyllage City, Geosenge Town, Coumarine City, or Couriway Town","Routes 102, 103, 105, 106, 107, 108, 109, 110, 111, 114, 115, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Sea Mauville, Petalburg City, Meteor Falls, Dewford Town, Mossdeep City, Lilycove City, Slateport City, Team Magma Hideout OR, Team Aqua Hideout A S, Sealed Chamber, Victory Road, Ever Grande City, Pacifidlog Town, Scorched Slab, Safari Zone, Shoal Cave, Seafloor Cavern, Battle Resort (Old Rod or Good Rod) Route 104 (fishing) Sootopolis City (Surfing and fishing)","Routes 102, 103, 105, 106, 107, 108, 109, 110, 111, 114, 115, 117, 118, 119, 120, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Sea Mauville, Petalburg City, Meteor Falls, Dewford Town, Mossdeep City, Lilycove City, Slateport City, Team Magma Hideout OR, Team Aqua Hideout A S, Sealed Chamber, Victory Road, Ever Grande City, Pacifidlog Town, Scorched Slab, Safari Zone, Shoal Cave, Seafloor Cavern, Battle Resort (Old Rod or Good Rod) Route 104 (fishing) Sootopolis City (Surfing and fishing)"
+Gyarados,#0130,False,"Routes 3 and 22, Parfum Palace (Super Rod) Friend Safari (Water)","Routes 3 and 22, Parfum Palace (Super Rod) Friend Safari (Water)",Sootopolis City (Super Rod),Sootopolis City (Super Rod)
+Lapras,#0131,False,Received from a man on Route 12 Route 12 and Azure Bay (Surfing) Friend Safari (Ice),Received from a man on Route 12 Route 12 and Azure Bay (Surfing) Friend Safari (Ice),Trade,Trade
+Ditto,#0132,False,"Pokémon Village, Friend Safari (Normal)","Pokémon Village, Friend Safari (Normal)","Mirage Cave (north of Route 132), Mirage Island (south of Route 132)","Mirage Cave (north of Route 132), Mirage Island (south of Route 132)"
+Eevee,#0133,False,"Route 10, Friend Safari (Normal) Trade a Pokémon in a hotel in Camphrier Town, Ambrette Town, Cyllage City, Geosenge Town, Coumarine City, or Couriway Town","Route 10, Friend Safari (Normal) Trade a Pokémon in a hotel in Camphrier Town, Ambrette Town, Cyllage City, Geosenge Town, Coumarine City, or Couriway Town",Route 116 (hidden Pokémon*),Route 116 (hidden Pokémon*)
+Vaporeon,#0134,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Jolteon,#0135,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Flareon,#0136,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Porygon,#0137,False,Trade,Trade,Mirage Island (North of Route 125) and Mirage Mountain (Southeast of Route 129),Mirage Island (North of Route 125) and Mirage Mountain (Southeast of Route 129)
+Omanyte,#0138,False,Trade Receive Helix Fossil held by a traded Pokémon and revive it,Revive from Helix Fossil at the Ambrette Town Fossil Lab,Trade Receive Helix Fossil held by a traded Pokémon and revive it,Revive from Helix Fossil at the Devon Corporation in Rustboro City
+Omastar,#0139,False,Trade,Evolve Omanyte,Trade,Evolve Omanyte
+Kabuto,#0140,False,Trade Receive Dome Fossil held by a traded Pokémon and revive it,Revive from Dome Fossil at the Ambrette Town Fossil Lab,Revive from Dome Fossil at the Devon Corporation in Rustboro City,Trade Receive Dome Fossil held by a traded Pokémon and revive it
+Kabutops,#0141,False,Trade,Evolve Kabuto,Evolve Kabuto,Trade
+Aerodactyl,#0142,False,Revive from Old Amber at the Ambrette Town Fossil Lab,Revive from Old Amber at the Ambrette Town Fossil Lab,Revive from Old Amber at the Devon Corporation in Rustboro City,Revive from Old Amber at the Devon Corporation in Rustboro City
+Snorlax,#0143,False,Route 7 (Only one),Route 7 (Only one),Trade,Trade
+Articuno,#0144,False,Sea Spirit's Den* (Only one) (if the player chose Chespin),Sea Spirit's Den* (Only one) (if the player chose Chespin),Trade,Trade
+Zapdos,#0145,False,Sea Spirit's Den* (Only one) (if the player chose Fennekin),Sea Spirit's Den* (Only one) (if the player chose Fennekin),Trade,Trade
+Moltres,#0146,False,Sea Spirit's Den* (Only one) (if the player chose Froakie),Sea Spirit's Den* (Only one) (if the player chose Froakie),Trade,Trade
+Dratini,#0147,False,Route 21 (Good Rod),Route 21 (Good Rod),Trade,Trade
+Dragonair,#0148,False,Route 21 (Super Rod) Friend Safari (Dragon),Route 21 (Super Rod) Friend Safari (Dragon),Trade,Trade
+Dragonite,#0149,False,Evolve Dragonair,Evolve Dragonair,Trade,Trade
+Mewtwo,#0150,False,Unknown Dungeon (Only one)*,Unknown Dungeon (Only one)*,Trade,Trade
+Mew,#0151,False,Event,Event,Event,Event
+Chikorita,#0152,False,"Trade, Event","Trade, Event",Received from Professor Birch on Route 101 after first entering the Hall of Fame,Received from Professor Birch on Route 101 after first entering the Hall of Fame
+Bayleef,#0153,False,Trade,Trade,Evolve Chikorita,Evolve Chikorita
+Meganium,#0154,False,"Trade, Event","Trade, Event",Evolve Bayleef,Evolve Bayleef
+Cyndaquil,#0155,False,"Trade, Event","Trade, Event",Received from Professor Birch on Route 101 after first entering the Hall of Fame,Received from Professor Birch on Route 101 after first entering the Hall of Fame
+Quilava,#0156,False,Trade,Trade,Evolve Cyndaquil,Evolve Cyndaquil
+Typhlosion,#0157,False,"Trade, Event","Trade, Event",Evolve Quilava,Evolve Quilava
+Totodile,#0158,False,"Trade, Event","Trade, Event",Received from Professor Birch on Route 101 after first entering the Hall of Fame,Received from Professor Birch on Route 101 after first entering the Hall of Fame
+Croconaw,#0159,False,Trade,Trade,Evolve Totodile,Evolve Totodile
+Feraligatr,#0160,False,"Trade, Event","Trade, Event",Evolve Croconaw,Evolve Croconaw
+Sentret,#0161,False,Route 6,Route 6,Trade,Trade
+Furret,#0162,False,Evolve Sentret,Evolve Sentret,Trade,Trade
+Hoothoot,#0163,False,"Breed Noctowl, Friend Safari (Flying)","Breed Noctowl, Friend Safari (Flying)",Trade,Trade
+Noctowl,#0164,False,"Route 20, Pokémon Village","Route 20, Pokémon Village",Trade,Trade
+Ledyba,#0165,False,"Route 4, Berry fields, Friend Safari (Bug)","Route 4, Berry fields, Friend Safari (Bug)",Trade,Trade
+Ledian,#0166,False,Evolve Ledyba,Evolve Ledyba,Trade,Trade
+Spinarak,#0167,False,Breed Ariados,Breed Ariados,Breed Ariados,Breed Ariados
+Ariados,#0168,False,"Victory Road, Terminus Cave (swooping) Friend Safari (Poison)","Victory Road, Terminus Cave (swooping) Friend Safari (Poison)",Sky Pillar,Sky Pillar
+Crobat,#0169,False,Evolve Golbat,Evolve Golbat,Evolve Golbat,Evolve Golbat
+Chinchou,#0170,False,"Azure Bay, Shalour City (Good Rod)","Azure Bay, Shalour City (Good Rod)","Routes 107, 124, 126, 128, 129, and 130 (Underwater)","Routes 107, 124, 126, 128, 129, and 130 (Underwater)"
+Lanturn,#0171,False,"Shalour City, Azure Bay (Super Rod)","Shalour City, Azure Bay (Super Rod)","Routes 107, 124, 126, 128, 129, and 130 (Underwater)","Routes 107, 124, 126, 128, 129, and 130 (Underwater)"
+Pichu,#0172,False,Breed Pikachu or Raichu,Breed Pikachu or Raichu,Breed Pikachu or Raichu,Breed Pikachu or Raichu
+Cleffa,#0173,False,Breed Clefairy or Clefable,Breed Clefairy or Clefable,Breed Clefairy or Clefable,Breed Clefairy or Clefable
+Igglybuff,#0174,False,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff,Breed Jigglypuff or Wigglytuff
+Togepi,#0175,False,Friend Safari (Fairy),Friend Safari (Fairy),Hatch Egg received from an old woman in Lavaridge Town after obtaining the National Pokédex,Hatch Egg received from an old woman in Lavaridge Town after obtaining the National Pokédex
+Togetic,#0176,False,Evolve Togepi,Evolve Togepi,Evolve Togepi,Evolve Togepi
+Natu,#0177,False,Breed Xatu,Breed Xatu,Breed Xatu,Breed Xatu
+Xatu,#0178,False,Friend Safari (Psychic),Friend Safari (Psychic),"Safari Zone (Zone 2, tall grass), Mirage Islands (west of Route 104, west of Dewford Town, north of Route 124, south of Pacifidlog Town, south of Route 134), and Mirage Mountain (southeast of Route 129)","Safari Zone (Zone 2, tall grass), Mirage Islands (west of Route 104, west of Dewford Town, north of Route 124, south of Pacifidlog Town, south of Route 134), and Mirage Mountain (southeast of Route 129)"
+Mareep,#0179,False,Route 12 (Horde Encounter),Route 12 (Horde Encounter),"Trade, Event","Trade, Event"
+Flaaffy,#0180,False,Evolve Mareep,Evolve Mareep,Trade,Trade
+Ampharos,#0181,False,Evolve Flaaffy,Evolve Flaaffy,Trade,Trade
+Bellossom,#0182,False,Evolve Gloom,Evolve Gloom,Evolve Gloom,Evolve Gloom
+Marill,#0183,False,Route 3 (Surfing),Route 3 (Surfing),"Routes 102, 111, 114, and 123, Petalburg City (Surfing) Route 117 (Tall grass and Surfing) Route 120 (Horde Encounter)","Routes 102, 111, 114, and 123, Petalburg City (Surfing) Route 117 (Tall grass and Surfing) Route 120 (Horde Encounter)"
+Azumarill,#0184,False,"Route 22, Friend Safari (Water)","Route 22, Friend Safari (Water)","Routes 102, 111, 114, 117, 120, and 123, Petalburg City (Surfing)","Routes 102, 111, 114, 117, 120, and 123, Petalburg City (Surfing)"
+Sudowoodo,#0185,False,Route 20 (Mixed Horde with Trevenant),Route 20 (Mixed Horde with Trevenant),Trade,Trade
+Politoed,#0186,False,Route 19 (Super Rod),Route 19 (Super Rod),Trade,Trade
+Hoppip,#0187,False,Route 7 (Horde Encounter),Route 7 (Horde Encounter),Trade,Trade
+Skiploom,#0188,False,Evolve Hoppip,Evolve Hoppip,Trade,Trade
+Jumpluff,#0189,False,Evolve Skiploom,Evolve Skiploom,Trade,Trade
+Aipom,#0190,False,Friend Safari (Normal),Friend Safari (Normal),Routes 118 and 121 (hidden Pokémon*),Routes 118 and 121 (hidden Pokémon*)
+Sunkern,#0191,False,Friend Safari (Grass),Friend Safari (Grass),"Mirage Forests (south of Route 109, west of Route 114, north of Lilycove City, north of Route 124, east of Mossdeep City, south of Route 132)","Mirage Forests (south of Route 109, west of Route 114, north of Lilycove City, north of Route 124, east of Mossdeep City, south of Route 132)"
+Sunflora,#0192,False,Evolve Sunkern,Evolve Sunkern,Evolve Sunkern,Evolve Sunkern
+Yanma,#0193,False,Route 10 (Horde Encounter),Route 10 (Horde Encounter),Trade,Trade
+Wooper,#0194,False,Friend Safari (Ground),Friend Safari (Ground),Trade,Trade
+Quagsire,#0195,False,"Routes 14 and 19, Friend Safari (Water)","Routes 14 and 19, Friend Safari (Water)",Trade,Trade
+Espeon,#0196,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Umbreon,#0197,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Murkrow,#0198,False,Routes 15 and 16 (Horde Encounter),Routes 15 and 16 (Horde Encounter),Soaring in the sky,Soaring in the sky
+Slowking,#0199,False,Evolve Slowpoke,Evolve Slowpoke,Evolve Slowpoke,Evolve Slowpoke
+Misdreavus,#0200,False,Trade,Trade,Routes 114 and 115 (hidden Pokémon*),Routes 114 and 115 (hidden Pokémon*)
+Unown,#0201,False,Trade,Trade,Mirage Cave (South of Route 107),Mirage Cave (South of Route 107)
+Wobbuffet,#0202,False,"Reflection Cave, Friend Safari (Psychic)","Reflection Cave, Friend Safari (Psychic)","Safari Zone (Zone 2, long grass)","Safari Zone (Zone 2, long grass)"
+Girafarig,#0203,False,Friend Safari (Psychic),Friend Safari (Psychic),"Safari Zone (Zone 1, long grass), Mirage Mountain (south of Route 131)","Safari Zone (Zone 1, long grass), Mirage Mountain (south of Route 131)"
+Pineco,#0204,False,Breed Forretress,Breed Forretress,Breed Forretress,Breed Forretress
+Forretress,#0205,False,Friend Safari (Steel),Friend Safari (Steel),"Mirage Forest (west of Route 105) and Mirage Mountains (west of Route 104, north of Lilycove City, northeast of Route 125, and south of Route 131)","Mirage Forest (west of Route 105) and Mirage Mountains (west of Route 104, north of Lilycove City, northeast of Route 125, and south of Route 131)"
+Dunsparce,#0206,False,"Routes 3 and 22, Friend Safari (Normal)","Routes 3 and 22, Friend Safari (Normal)",Trade,Trade
+Gligar,#0207,False,Route 19 (Horde Encounter),Route 19 (Horde Encounter),Trade,Trade
+Steelix,#0208,False,Trade Luvdisc in Cyllage City,Trade Luvdisc in Cyllage City,Evolve Onix,Evolve Onix
+Snubbull,#0209,False,"Route 10, Friend Safari (Fairy)","Route 10, Friend Safari (Fairy)",Trade,Trade
+Granbull,#0210,False,Evolve Snubbull,Evolve Snubbull,Trade,Trade
+Qwilfish,#0211,False,Route 8 (Super Rod),Route 8 (Super Rod),Trade,Trade
+Scizor,#0212,False,Evolve Scyther,Evolve Scyther,Trade,Trade
+Shuckle,#0213,False,"Route 18, Terminus Cave, Victory Road (Rock Smash) Friend Safari (Rock)","Route 18, Terminus Cave, Victory Road (Rock Smash) Friend Safari (Rock)",Trade,Trade
+Heracross,#0214,False,Friend Safari (Bug),"Route 12, Friend Safari (Bug)","Safari Zone (Zone 3, Long Grass)","Safari Zone (Zone 3, Long Grass)"
+Sneasel,#0215,False,"Route 17, Friend Safari (Ice and Dark)","Route 17, Friend Safari (Ice and Dark)",Trade,Trade
+Teddiursa,#0216,False,"Friend Safari (Normal), Breed Ursaring","Friend Safari (Normal), Breed Ursaring",Trade,Trade
+Ursaring,#0217,False,Route 21,Route 21,Trade,Trade
+Slugma,#0218,False,Route 13 (Rock Smash) Friend Safari (Fire),Route 13 (Rock Smash) Friend Safari (Fire),Fiery Path,Fiery Path
+Magcargo,#0219,False,Friend Safari (Rock),Friend Safari (Rock),Evolve Slugma,Evolve Slugma
+Swinub,#0220,False,Breed Piloswine or Mamoswine,Breed Piloswine or Mamoswine,Trade,Trade
+Piloswine,#0221,False,"Frost Cavern, Friend Safari (Ice)","Frost Cavern, Friend Safari (Ice)",Trade,Trade
+Corsola,#0222,False,Route 12 (Super Rod) Friend Safari (Rock),Route 12 (Super Rod) Friend Safari (Rock),Route 128 (Super Rod and underwater) Ever Grande City (Super Rod) Trade Bellossom in Pacifidlog Town,Route 128 (Super Rod and underwater) Ever Grande City (Super Rod) Trade Bellossom in Pacifidlog Town
+Remoraid,#0223,False,"Route 12, Shalour City, Azure Bay (Good Rod)","Route 12, Shalour City, Azure Bay (Good Rod)",Battle Resort (Good Rod or Super Rod),Battle Resort (Good Rod or Super Rod)
+Octillery,#0224,False,"Route 12, Shalour City, Azure Bay (Super Rod) Friend Safari (Water)","Route 12, Shalour City, Azure Bay (Super Rod) Friend Safari (Water)",Battle Resort (Super Rod),Battle Resort (Super Rod)
+Delibird,#0225,False,"Route 17, Friend Safari (Ice)","Route 17, Friend Safari (Ice)",Shoal Cave (hidden Pokémon*),Shoal Cave (hidden Pokémon*)
+Mantine,#0226,False,Evolve Mantyke,Evolve Mantyke,Battle Resort,Battle Resort
+Skarmory,#0227,False,"Victory Road, Friend Safari (Steel)","Victory Road, Friend Safari (Steel)",Route 113,Route 113
+Houndour,#0228,False,Route 10,Trade,Trade,Trade
+Houndoom,#0229,False,Evolve Houndour,"Trade, Event",Trade,Trade
+Kingdra,#0230,False,Evolve Seadra,Evolve Seadra,Evolve Seadra,Evolve Seadra
+Phanpy,#0231,False,Friend Safari (Ground),Friend Safari (Ground),Breed Donphan,Breed Donphan
+Donphan,#0232,False,Evolve Phanpy,Evolve Phanpy,"Safari Zone (Zone 4, tall grass), Mirage Mountains (west of Route 104, north of Lilycove City, northeast of Route 125, south of Route 131)","Safari Zone (Zone 4, tall grass), Mirage Mountains (west of Route 104, north of Lilycove City, northeast of Route 125, south of Route 131)"
+Porygon2,#0233,False,Trade,Trade,Evolve Porygon,Evolve Porygon
+Stantler,#0234,False,Trade,Trade,Mirage Mountain (west of Route 104),Mirage Mountain (west of Route 104)
+Smeargle,#0235,False,"Route 7, Friend Safari (Normal)","Route 7, Friend Safari (Normal)","Trade, Event","Trade, Event"
+Tyrogue,#0236,False,Friend Safari (Fighting),Friend Safari (Fighting),"Route 112, Jagged Pass, Fiery Path (hidden Pokémon*)","Route 112, Jagged Pass, Fiery Path (hidden Pokémon*)"
+Hitmontop,#0237,False,Evolve Tyrogue,Evolve Tyrogue,Evolve Tyrogue,Evolve Tyrogue
+Smoochum,#0238,False,Frost Cavern (Horde Encounter),Frost Cavern (Horde Encounter),Trade,Trade
+Elekid,#0239,False,Breed Electabuzz or Electivire,Breed Electabuzz or Electivire,Mirage Mountain (South of Route 129),Mirage Mountain (South of Route 129)
+Magby,#0240,False,Breed Magmar or Magmortar,Breed Magmar or Magmortar,Mirage Mountain (East of Route 125),Mirage Mountain (East of Route 125)
+Miltank,#0241,False,Route 12,Route 12,"Trade, Event","Trade, Event"
+Blissey,#0242,False,Evolve Chansey,Evolve Chansey,Evolve Chansey,Evolve Chansey
+Raikou,#0243,False,Trade,Trade,Trackless Forest (requires Ho- Oh or Lugia in the party) (Only one),Trackless Forest (requires Ho- Oh or Lugia in the party) (Only one)
+Entei,#0244,False,Trade,Trade,Trackless Forest (requires Ho- Oh or Lugia in the party) (Only one),Trackless Forest (requires Ho- Oh or Lugia in the party) (Only one)
+Suicune,#0245,False,Trade,Trade,Trackless Forest (requires Ho- Oh or Lugia in the party) (Only one),Trackless Forest (requires Ho- Oh or Lugia in the party) (Only one)
+Larvitar,#0246,False,Breed Pupitar or Tyranitar,Terminus Cave (Horde Encounter),Trade,Trade
+Pupitar,#0247,False,Friend Safari (Rock),"Route 18, Terminus Cave, Friend Safari (Rock)",Trade,Trade
+Tyranitar,#0248,False,Evolve Pupitar,Evolve Pupitar,"Trade, Event","Trade, Event"
+Lugia,#0249,False,"Trade, Event","Trade, Event","Trade, Event",Sea Mauville (requires Tidal Bell) (Only one)
+Ho-Oh,#0250,False,Trade,Trade,Sea Mauville (requires Clear Bell) (Only one),"Trade, Event"
+Celebi,#0251,False,Event,Event,Event,Event
+Treecko,#0252,False,Trade,Trade,First partner Pokémon from Professor Birch on Route 101,First partner Pokémon from Professor Birch on Route 101
+Grovyle,#0253,False,Trade,Trade,Evolve Treecko,Evolve Treecko
+Sceptile,#0254,False,Trade,Trade,Evolve Grovyle,Evolve Grovyle
+Torchic,#0255,False,"Trade, Event","Trade, Event",First partner Pokémon from Professor Birch on Route 101,First partner Pokémon from Professor Birch on Route 101
+Combusken,#0256,False,"Trade, Evolve event Torchic","Trade, Evolve event Torchic",Evolve Torchic,Evolve Torchic
+Blaziken,#0257,False,Evolve event Torchic,Evolve event Torchic,Evolve Combusken,Evolve Combusken
+Mudkip,#0258,False,Trade,Trade,First partner Pokémon from Professor Birch on Route 101,First partner Pokémon from Professor Birch on Route 101
+Marshtomp,#0259,False,Trade,Trade,Evolve Mudkip,Evolve Mudkip
+Swampert,#0260,False,Trade,Trade,Evolve Marshtomp,Evolve Marshtomp
+Poochyena,#0261,False,Breed Mightyena,Breed Mightyena,"Routes 101, 102, and 103","Routes 101, 102, and 103"
+Mightyena,#0262,False,"Route 15, Friend Safari (Dark)",Friend Safari (Dark),Evolve Poochyena,Evolve Poochyena
+Zigzagoon,#0263,False,Route 2,Route 2,"Routes 101, 102, 103, 104, 110, 116, and 117, Petalburg Woods","Routes 101, 102, 103, 104, 110, 116, and 117, Petalburg Woods"
+Linoone,#0264,False,Evolve Zigzagoon,Evolve Zigzagoon,"Routes 118, 119, 120, 121, and 123","Routes 118, 119, 120, 121, and 123"
+Wurmple,#0265,False,"Breed Cascoon, Dustox, or Beautifly","Breed Cascoon, Dustox, or Beautifly","Routes 101, 102, and 104, Petalburg Woods","Routes 101, 102, and 104, Petalburg Woods"
+Silcoon,#0266,False,Evolve Wurmple,Evolve Wurmple,Petalburg Woods,Petalburg Woods
+Beautifly,#0267,False,Friend Safari (Bug),Friend Safari (Bug),Evolve Silcoon,Evolve Silcoon
+Cascoon,#0268,False,Friend Safari (Poison),Friend Safari (Poison),Petalburg Woods,Petalburg Woods
+Dustox,#0269,False,Evolve Cascoon,Evolve Cascoon,Evolve Cascoon,Evolve Cascoon
+Lotad,#0270,False,Breed Lombre or Ludicolo,Breed Lombre or Ludicolo,Trade,Route 102 Route 114 (Horde Encounter)
+Lombre,#0271,False,"Routes 15, 16, 21, Couriway Town, Pokémon Village, Victory Road (Surfing) Pokémon Village (Horde Encounter)","Routes 15, 16, 21, Couriway Town, Pokémon Village, Victory Road (Surfing) Pokémon Village (Horde Encounter)",Trade,Route 114
+Ludicolo,#0272,False,Evolve Lombre,Evolve Lombre,Trade,Evolve Lombre
+Seedot,#0273,False,Breed Nuzleaf or Shiftry,Breed Nuzleaf or Shiftry,Route 102 Route 114 (Horde Encounter),Trade
+Nuzleaf,#0274,False,Friend Safari (Dark),Friend Safari (Dark),Route 114,Trade
+Shiftry,#0275,False,Evolve Nuzleaf,Evolve Nuzleaf,Evolve Nuzleaf,Trade
+Taillow,#0276,False,Route 8 (Horde Encounter),Route 8 (Horde Encounter),"Routes 104, 115, and 116, Petalburg Woods, Soaring in the sky","Routes 104, 115, and 116, Petalburg Woods, Soaring in the sky"
+Swellow,#0277,False,Evolve Taillow,Evolve Taillow,Evolve Taillow,Evolve Taillow
+Wingull,#0278,False,"Routes 8 and 12, Azure Bay (Horde Encounter)","Routes 8 and 12, Azure Bay (Horde Encounter)","Routes 103, 104, 110, 115, and 118, Mt. Pyre exterior (Grass) Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 122, and 134, Dewford Town, Slateport City, Lilycove City, Sea Mauville (Surfing) Routes 103, 121, and 123 (Horde Encounter) Soaring in the sky","Routes 103, 104, 110, 115, and 118, Mt. Pyre exterior (Grass) Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 122, and 134, Dewford Town, Slateport City, Lilycove City, Sea Mauville (Surfing) Routes 103, 121, and 123 (Horde Encounter) Soaring in the sky"
+Pelipper,#0279,False,Evolve Wingull,Evolve Wingull,"Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Dewford Town, Ever Grande City, Mossdeep City, Pacifidlog Town, Slateport City, Sea Mauville, Lilycove City, Battle Resort (Surfing) Routes 118, 121, and 123 (Grass) Soaring in the sky","Routes 103, 104, 105, 106, 107, 108, 109, 110, 115, 118, 119, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, Dewford Town, Ever Grande City, Mossdeep City, Pacifidlog Town, Slateport City, Sea Mauville, Lilycove City, Battle Resort (Surfing) Routes 118, 121, and 123 (Grass) Soaring in the sky"
+Ralts,#0280,False,Route 4 Trade in Lumiose City after entering the Hall of Fame,Route 4 Trade in Lumiose City after entering the Hall of Fame,Route 102,Route 102
+Kirlia,#0281,False,Friend Safari (Fairy),Friend Safari (Fairy),Evolve Ralts,Evolve Ralts
+Gardevoir,#0282,False,Evolve Kirlia,Evolve Kirlia,Evolve Kirlia,Evolve Kirlia
+Surskit,#0283,False,Breed Masquerain,Breed Masquerain,"Routes 102, 114, and 117 Routes 111, 120, 123, and Petalburg City (Surfing)","Routes 102, 114, and 117 Routes 111, 120, 123, and Petalburg City (Surfing)"
+Masquerain,#0284,False,Route 3 (Surfing) Friend Safari (Bug),Route 3 (Surfing) Friend Safari (Bug),"Routes 102, 111, 114, 117, 120, 123, and Petalburg City (Surfing)","Routes 102, 111, 114, 117, 120, 123, and Petalburg City (Surfing)"
+Shroomish,#0285,False,Breed Breloom,Breed Breloom,Petalburg Woods,Petalburg Woods
+Breloom,#0286,False,Friend Safari (Fighting),Friend Safari (Fighting),Evolve Shroomish,Evolve Shroomish
+Slakoth,#0287,False,Trade,Trade,Petalburg Woods,Petalburg Woods
+Vigoroth,#0288,False,Trade,Trade,Evolve Slakoth,Evolve Slakoth
+Slaking,#0289,False,Trade,Trade,Evolve Vigoroth,Evolve Vigoroth
+Nincada,#0290,False,"Route 6, Friend Safari (Ground)","Route 6, Friend Safari (Ground)",Route 116,Route 116
+Ninjask,#0291,False,Evolve Nincada,Evolve Nincada,Evolve Nincada,Evolve Nincada
+Shedinja,#0292,False,Evolve Nincada with extra slot in party and spare Poké Ball,Evolve Nincada with extra slot in party and spare Poké Ball,Evolve Nincada with extra slot in party and spare Poké Ball,Evolve Nincada with extra slot in party and spare Poké Ball
+Whismur,#0293,False,Connecting Cave,Connecting Cave,"Route 116, Rusturf Tunnel","Route 116, Rusturf Tunnel"
+Loudred,#0294,False,Friend Safari (Normal),Friend Safari (Normal),Victory Road,Victory Road
+Exploud,#0295,False,Evolve Loudred,Evolve Loudred,Evolve Loudred,Evolve Loudred
+Makuhita,#0296,False,Breed Hariyama,Breed Hariyama,Granite Cave Trade Slakoth in Rustboro City,Granite Cave Trade Slakoth in Rustboro City
+Hariyama,#0297,False,"Route 11, Friend Safari (Fighting)","Route 11, Friend Safari (Fighting)",Victory Road,Victory Road
+Azurill,#0298,False,Routes 3 and 22,Routes 3 and 22,Breed Marill or Azumarill holding a Sea Incense,Breed Marill or Azumarill holding a Sea Incense
+Nosepass,#0299,False,Route 10 (Horde Encounter) Friend Safari (Rock),Route 10 (Horde Encounter) Friend Safari (Rock),Granite Cave (Rock Smash),Granite Cave (Rock Smash)
+Skitty,#0300,False,Route 4,Route 4,Route 116 Trade Spinda in Fortree City,Route 116 Trade Spinda in Fortree City
+Delcatty,#0301,False,Evolve Skitty,Evolve Skitty,Evolve Skitty,Evolve Skitty
+Sableye,#0302,False,"Reflection Cave, Friend Safari (Dark)","Reflection Cave, Friend Safari (Dark)","Trade, Event","Granite Cave, Cave of Origin, Victory Road, Sky Pillar"
+Mawile,#0303,False,"Glittering Cave, Friend Safari (Steel and Fairy)","Glittering Cave, Friend Safari (Steel and Fairy)","Granite Cave, Cave of Origin, Victory Road, Sky Pillar","Trade, Event"
+Aron,#0304,False,Terminus Cave (Horde Encounter),Trade,Granite Cave Victory Road (Horde Encounter),Granite Cave Victory Road (Horde Encounter)
+Lairon,#0305,False,"Route 18, Terminus Cave",Trade,Victory Road,Victory Road
+Aggron,#0306,False,Evolve Lairon,"Trade, Event",Evolve Lairon,Evolve Lairon
+Meditite,#0307,False,"Connecting Cave, Friend Safari (Fighting)","Connecting Cave, Friend Safari (Fighting)",Mt. Pyre,Mt. Pyre
+Medicham,#0308,False,Evolve Meditite,Evolve Meditite,Victory Road,Victory Road
+Electrike,#0309,False,Trade,Route 10,"Route 110, Route 118","Route 110, Route 118"
+Manectric,#0310,False,Friend Safari (Electric),Friend Safari (Electric),Evolve Electrike,Evolve Electrike
+Plusle,#0311,False,Route 5 (Tall grass or Horde Encounter),Route 5 (Horde Encounter),Route 110 (Horde Encounter),Route 110 (Tall grass or Horde Encounter)
+Minun,#0312,False,Route 5 (Horde Encounter),Route 5 (Tall grass or Horde Encounter),Route 110 (Tall grass or Horde Encounter),Route 110 (Horde Encounter)
+Volbeat,#0313,False,"Route 7, Berry fields, Friend Safari (Bug)","Route 7, Berry fields, Friend Safari (Bug)",Route 117,Route 117
+Illumise,#0314,False,"Route 7, Berry fields, Friend Safari (Bug)","Route 7, Berry fields, Friend Safari (Bug)",Route 117,Route 117
+Roselia,#0315,False,Route 7,Route 7,Route 117,Route 117
+Gulpin,#0316,False,Route 5,Route 5,Route 110,Route 110
+Swalot,#0317,False,Friend Safari (Poison),Friend Safari (Poison),Evolve Gulpin,Evolve Gulpin
+Carvanha,#0318,False,Route 22 (Good Rod),Route 22 (Good Rod),Routes 118 and 119 (Good Rod or Super Rod),Routes 118 and 119 (Good Rod or Super Rod)
+Sharpedo,#0319,False,Route 22 (Super Rod),Route 22 (Super Rod),Routes 118 and 119 (Super Rod) Received from a Team Aqua Grunt at the Battle Resort,Routes 118 and 119 (Super Rod) Received from a Team Aqua Grunt at the Battle Resort
+Wailmer,#0320,False,"Cyllage City, Ambrette Town, Route 8 (Surfing)","Cyllage City, Ambrette Town, Route 8 (Surfing)","Routes 103, 105, 106, 107, 108, 109, 110, 115, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Sea Mauville, Seafloor Cavern, Sealed Chamber, Shoal Cave, Slateport City, Team Magma Hideout, Victory Road (Good Rod or Super Rod)","Routes 103, 105, 106, 107, 108, 109, 110, 115, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134, Dewford Town, Ever Grande City, Lilycove City, Mossdeep City, Pacifidlog Town, Sea Mauville, Seafloor Cavern, Sealed Chamber, Shoal Cave, Slateport City, Team Aqua Hideout, Victory Road (Good Rod or Super Rod)"
+Wailord,#0321,False,Evolve Wailmer,Evolve Wailmer,Evolve Wailmer,Evolve Wailmer
+Numel,#0322,False,Breed Camerupt,Breed Camerupt,"Route 112, Fiery Path, Jagged Pass","Route 112, Fiery Path, Jagged Pass"
+Camerupt,#0323,False,Friend Safari (Ground),Friend Safari (Ground),Received from a Team Magma Grunt at the Battle Resort,Received from a Team Magma Grunt at the Battle Resort
+Torkoal,#0324,False,Route 18,Route 18,Fiery Path,Fiery Path
+Spoink,#0325,False,Route 8,Route 8,Jagged Pass,Jagged Pass
+Grumpig,#0326,False,Friend Safari (Psychic),Friend Safari (Psychic),Evolve Spoink,Evolve Spoink
+Spinda,#0327,False,Route 21 Route 21 (Horde Encounter),Route 21 Route 21 (Horde Encounter),Route 113,Route 113
+Trapinch,#0328,False,"Route 13, Friend Safari (Ground)","Route 13, Friend Safari (Ground)",Route 111,Route 111
+Vibrava,#0329,False,Evolve Trapinch,Evolve Trapinch,Evolve Trapinch,Evolve Trapinch
+Flygon,#0330,False,Evolve Vibrava,Evolve Vibrava,Evolve Vibrava,Evolve Vibrava
+Cacnea,#0331,False,Breed Cacturne,Breed Cacturne,Route 111,Route 111
+Cacturne,#0332,False,Friend Safari (Dark),Friend Safari (Dark),Evolve Cacnea,Evolve Cacnea
+Swablu,#0333,False,Route 21 (Horde Encounter),Route 21 (Horde Encounter),"Routes 114 and 115, Soaring in the sky Sky Pillar (Horde Encounter)","Routes 114 and 115, Soaring in the sky Sky Pillar (Horde Encounter)"
+Altaria,#0334,False,Route 21,Route 21,Evolve Swablu,Evolve Swablu
+Zangoose,#0335,False,Route 8,Route 8,Route 114,Trade
+Seviper,#0336,False,"Route 8, Friend Safari (Poison)","Route 8, Friend Safari (Poison)",Trade,Route 114
+Lunatone,#0337,False,Glittering Cave,Glittering Cave,Trade,Meteor Falls
+Solrock,#0338,False,Glittering Cave,Glittering Cave,Meteor Falls,Trade
+Barboach,#0339,False,"Route 14, Route 19 (Good Rod)","Route 14, Route 19 (Good Rod)","Routes 111, 114, 120, Meteor Falls, Victory Road, Scorched Slab (Good Rod or Super Rod)","Routes 111, 114, 120, Meteor Falls, Victory Road, Scorched Slab (Good Rod or Super Rod)"
+Whiscash,#0340,False,Routes 14 and 19 (Super Rod),Routes 14 and 19 (Super Rod),Meteor Falls (Super Rod),Meteor Falls (Super Rod)
+Corphish,#0341,False,Route 3 and Parfum Palace (Good Rod),Route 3 and Parfum Palace (Good Rod),"Routes 102, 117, and 123, Petalburg City (Good Rod or Super Rod)","Routes 102, 117, and 123, Petalburg City (Good Rod or Super Rod)"
+Crawdaunt,#0342,False,Route 3 and Parfum Palace (Super Rod) Friend Safari (Dark),Route 3 and Parfum Palace (Super Rod) Friend Safari (Dark),Routes 117 and 123 (Super Rod),Routes 117 and 123 (Super Rod)
+Baltoy,#0343,False,Trade,Trade,Route 111,Route 111
+Claydol,#0344,False,Trade,Trade,Sky Pillar,Sky Pillar
+Lileep,#0345,False,Revive from Root Fossil at the Ambrette Town Fossil Lab,Trade Receive Root Fossil held by a traded Pokémon and revive it,Revive from Root Fossil at the Devon Corporation in Rustboro City,Revive from Root Fossil at the Devon Corporation in Rustboro City
+Cradily,#0346,False,Evolve Lileep,Trade,Evolve Lileep,Evolve Lileep
+Anorith,#0347,False,Revive from Claw Fossil at the Ambrette Town Fossil Lab,Trade Receive Claw Fossil held by a traded Pokémon and revive it,Revive from Claw Fossil at the Devon Corporation in Rustboro City,Revive from Claw Fossil at the Devon Corporation in Rustboro City
+Armaldo,#0348,False,Evolve Anorith,Trade,Evolve Anorith,Evolve Anorith
+Feebas,#0349,False,Trade,Trade,Route 119 (Fishing),Route 119 (Fishing)
+Milotic,#0350,False,Trade,Trade,Evolve Feebas,Evolve Feebas
+Castform,#0351,False,Trade,Trade,Weather Institute (Only one),Weather Institute (Only one)
+Kecleon,#0352,False,"Route 6, Friend Safari (Normal)","Route 6, Friend Safari (Normal)","Routes 118, 119, 120, 121, 123, Lavaridge Town*, Mossdeep Space Center*","Routes 118, 119, 120, 121, 123, Lavaridge Town*, Mossdeep Space Center*"
+Shuppet,#0353,False,Friend Safari (Ghost),Friend Safari (Ghost),"Routes 121 and 123, Mt. Pyre","Routes 121 and 123, Mt. Pyre"
+Banette,#0354,False,Pokémon Village (trash cans) Th,Pokémon Village (trash cans) Th,Evolve Shuppet,Evolve Shuppet
+Duskull,#0355,False,Breed Dusclops,Breed Dusclops,Mt. Pyre,Mt. Pyre
+Dusclops,#0356,False,Friend Safari (Ghost),Friend Safari (Ghost),Evolve Duskull,Evolve Duskull
+Tropius,#0357,False,Friend Safari (Flying),Friend Safari (Flying),Routes 119 and 120,Routes 119 and 120
+Chimecho,#0358,False,Evolve Chingling,Evolve Chingling,Top of Mt. Pyre,Top of Mt. Pyre
+Absol,#0359,False,"Route 8, Friend Safari (Dark)","Route 8, Friend Safari (Dark)",Route 120,Route 120
+Wynaut,#0360,False,Breed Wobbuffet holding a Lax Incense,Breed Wobbuffet holding a Lax Incense,Hatch Egg received from an old couple in Lavaridge Town,Hatch Egg received from an old couple in Lavaridge Town
+Snorunt,#0361,False,Friend Safari (Ice),Friend Safari (Ice),Shoal Cave (low tide),Shoal Cave (low tide)
+Glalie,#0362,False,Evolve Snorunt,Evolve Snorunt,Evolve Snorunt Event: transfer from Pokémon Omega Ruby and Pokémon Alpha Sapphire Special Demo Version (international),Evolve Snorunt Event: transfer from Pokémon Omega Ruby and Pokémon Alpha Sapphire Special Demo Version (international)
+Spheal,#0363,False,Friend Safari (Ice),Friend Safari (Ice),Shoal Cave,Shoal Cave
+Sealeo,#0364,False,Evolve Spheal,Evolve Spheal,Shoal Cave,Shoal Cave
+Walrein,#0365,False,Evolve Sealeo,Evolve Sealeo,Evolve Sealeo,Evolve Sealeo
+Clamperl,#0366,False,Route 12 (Good Rod),Route 12 (Good Rod),"Routes 107, 124, 126, 128, 129, 130 (Underwater)","Routes 107, 124, 126, 128, 129, 130 (Underwater)"
+Huntail,#0367,False,Route 12 (Super Rod),Evolve Clamperl,Evolve Clamperl,Evolve Clamperl
+Gorebyss,#0368,False,Evolve Clamperl,Route 12 (Super Rod),Evolve Clamperl,Evolve Clamperl
+Relicanth,#0369,False,"Ambrette Town, Cyllage City (Super Rod)","Ambrette Town, Cyllage City (Super Rod)","Routes 107, 124, 126, 128, 129, and 130 (Underwater)","Routes 107, 124, 126, 128, 129, and 130 (Underwater)"
+Luvdisc,#0370,False,"Routes 8 and 12, Ambrette Town, Cyllage City, Shalour City, Azure Bay (Old Rod)","Routes 8 and 12, Ambrette Town, Cyllage City, Shalour City, Azure Bay (Old Rod)","Route 128, Ever Grande City, Victory Road (Good Rod or Super Rod)","Route 128, Ever Grande City, Victory Road (Good Rod or Super Rod)"
+Bagon,#0371,False,Route 8,Route 8,Meteor Falls,Meteor Falls
+Shelgon,#0372,False,Friend Safari (Dragon),Friend Safari (Dragon),Evolve Bagon,Evolve Bagon
+Salamence,#0373,False,Evolve Shelgon,Evolve Shelgon,Evolve Shelgon,Evolve Shelgon
+Beldum,#0374,False,Breed Metang or Metagross,Breed Metang or Metagross,Received from Steven at his house in Mossdeep City (after completing the Delta Episode),Received from Steven at his house in Mossdeep City (after completing the Delta Episode)
+Metang,#0375,False,Friend Safari (Steel),Friend Safari (Steel),Evolve Beldum,Evolve Beldum
+Metagross,#0376,False,Evolve Metang,Evolve Metang,Evolve Metang,Evolve Metang
+Regirock,#0377,False,Trade,Trade,Desert Ruins (Only one),Desert Ruins (Only one)
+Regice,#0378,False,Trade,Trade,Island Cave (Only one),Island Cave (Only one)
+Registeel,#0379,False,Trade,Trade,Ancient Tomb (Only one),Ancient Tomb (Only one)
+Latias,#0380,False,Trade,Trade,Southern Island (requires Eon Ticket) (Only one),Southern Island (Only one)
+Latios,#0381,False,"Trade, Event","Trade, Event",Southern Island (Only one),Southern Island (requires Eon Ticket) (Only one)
+Kyogre,#0382,False,"Trade, Event","Trade, Event","Trade, Event",Cave of Origin (Only one)
+Groudon,#0383,False,"Trade, Event","Trade, Event",Cave of Origin (Only one),"Trade, Event"
+Rayquaza,#0384,False,"Trade, Event","Trade, Event",Sky Pillar (Only one),Sky Pillar (Only one)
+Jirachi,#0385,False,"Poké Transporter, Event","Poké Transporter, Event","Poké Transporter, Event","Poké Transporter, Event"
+Deoxys,#0386,False,Trade,Trade,Sky Pillar (Only one),Sky Pillar (Only one)
+Turtwig,#0387,False,Trade,Trade,Received from Professor Birch on Route 101 after entering the Hall of Fame twice,Received from Professor Birch on Route 101 after entering the Hall of Fame twice
+Grotle,#0388,False,Trade,Trade,Evolve Turtwig,Evolve Turtwig
+Torterra,#0389,False,Trade,Trade,Evolve Grotle,Evolve Grotle
+Chimchar,#0390,False,Trade,Trade,Received from Professor Birch on Route 101 after entering the Hall of Fame twice,Received from Professor Birch on Route 101 after entering the Hall of Fame twice
+Monferno,#0391,False,Trade,Trade,Evolve Chimchar,Evolve Chimchar
+Infernape,#0392,False,Trade,Trade,Evolve Monferno,Evolve Monferno
+Piplup,#0393,False,Trade,Trade,Received from Professor Birch on Route 101 after entering the Hall of Fame twice,Received from Professor Birch on Route 101 after entering the Hall of Fame twice
+Prinplup,#0394,False,Trade,Trade,Evolve Piplup,Evolve Piplup
+Empoleon,#0395,False,Trade,Trade,Evolve Prinplup,Evolve Prinplup
+Starly,#0396,False,Route 11 (Horde Encounter),Route 11 (Horde Encounter),Trade,Trade
+Staravia,#0397,False,Route 11,Route 11,Trade,Trade
+Staraptor,#0398,False,Evolve Staravia,Evolve Staravia,Trade,Trade
+Bidoof,#0399,False,Routes 3 and 22,Routes 3 and 22,Trade,Trade
+Bibarel,#0400,False,"Route 22 (Yellow Flowers), Friend Safari (Water)","Route 22 (Yellow Flowers), Friend Safari (Water)",Trade,Trade
+Kricketot,#0401,False,Trade,Trade,Breed Kricketune,Breed Kricketune
+Kricketune,#0402,False,Trade,Trade,"Mirage Forest, Mirage Mountains","Mirage Forest, Mirage Mountains"
+Shinx,#0403,False,Breed Luxio or Luxray,Breed Luxio or Luxray,Breed Luxio or Luxray,Breed Luxio or Luxray
+Luxio,#0404,False,Friend Safari (Electric),Friend Safari (Electric),Route 118 (hidden Pokémon*),Route 118 (hidden Pokémon*)
+Luxray,#0405,False,Evolve Luxio,Evolve Luxio,Evolve Luxio,Evolve Luxio
+Budew,#0406,False,Route 4,Route 4,Breed Roselia or Roserade holding a Rose Incense,Breed Roselia or Roserade holding a Rose Incense
+Roserade,#0407,False,Evolve Roselia,Evolve Roselia,Evolve Roselia,Evolve Roselia
+Cranidos,#0408,False,Revive from Skull Fossil at the Ambrette Town Fossil Lab,Revive from Skull Fossil at the Ambrette Town Fossil Lab,Trade Receive Skull Fossil held by a traded Pokémon and revive it,Revive from Skull Fossil at the Devon Corporation in Rustboro City
+Rampardos,#0409,False,Evolve Cranidos,Evolve Cranidos,Trade,Evolve Cranidos
+Shieldon,#0410,False,Revive from Armor Fossil at the Ambrette Town Fossil Lab,Revive from Armor Fossil at the Ambrette Town Fossil Lab,Revive from Armor Fossil at the Devon Corporation in Rustboro City,Trade Receive Armor Fossil held by a traded Pokémon and revive it
+Bastiodon,#0411,False,Evolve Shieldon,Evolve Shieldon,Evolve Shieldon,Trade
+Burmy,#0412,False,"Route 3, Berry fields (Green Berry trees) (Plant Cloak)","Route 3, Berry fields (Green Berry trees) (Plant Cloak)",Trade,Trade
+Wormadam,#0413,False,Evolve Burmy♀,Evolve Burmy♀,Trade,Trade
+Mothim,#0414,False,Evolve Burmy♂,Evolve Burmy♂,Trade,Trade
+Combee,#0415,False,"Route 4, Berry fields, Friend Safari (Bug)","Route 4, Berry fields, Friend Safari (Bug)",Trade,Trade
+Vespiquen,#0416,False,Evolve Combee♀,Evolve Combee♀,Trade,Trade
+Pachirisu,#0417,False,"Route 12, Friend Safari (Electric)","Route 12, Friend Safari (Electric)",Trade,Trade
+Buizel,#0418,False,Breed Floatzel,Breed Floatzel,Trade,Trade
+Floatzel,#0419,False,"Routes 15, 16, and 21, Frost Cavern, Couriway Town, Victory Road (Surfing) Friend Safari (Water)","Routes 15, 16, and 21, Frost Cavern, Couriway Town, Victory Road (Surfing) Friend Safari (Water)",Trade,Trade
+Cherubi,#0420,False,Trade,Trade,Breed Cherrim,Breed Cherrim
+Cherrim,#0421,False,Trade,Trade,Mirage Forest (north of Lilycove City),Mirage Forest (north of Lilycove City)
+Shellos,#0422,False,Breed Gastrodon (West Sea) Trade (East Sea),Breed Gastrodon (West Sea) Trade (East Sea),Routes 103 and 110 (hidden Pokémon*) (West Sea),Routes 103 and 110 (hidden Pokémon*) (East Sea)
+Gastrodon,#0423,False,Friend Safari (Ground) (West Sea),Friend Safari (Ground) (West Sea),Evolve Shellos (West Sea),Evolve Shellos (East Sea)
+Ambipom,#0424,False,Evolve Aipom,Evolve Aipom,Evolve Aipom,Evolve Aipom
+Drifloon,#0425,False,Route 8,Route 8,Soaring in the sky,Soaring in the sky
+Drifblim,#0426,False,Friend Safari (Ghost),Friend Safari (Ghost),Evolve Drifloon,Evolve Drifloon
+Buneary,#0427,False,Trade,Trade,Safari Zone (hidden Pokémon*),Safari Zone (hidden Pokémon*)
+Lopunny,#0428,False,Trade,Trade,Evolve Buneary,Evolve Buneary
+Mismagius,#0429,False,Trade,Trade,Evolve Misdreavus,Evolve Misdreavus
+Honchkrow,#0430,False,Evolve Murkrow,Evolve Murkrow,Evolve Murkrow,Evolve Murkrow
+Glameow,#0431,False,Trade,Trade,Mirage Forest (east of Mossdeep City),Mirage Forest (east of Mossdeep City)
+Purugly,#0432,False,Trade,Trade,"Mirage Forests (west of Route 114, north of Lilycove City, north of Route 124), Mirage Island (north of Route 125)","Mirage Forests (west of Route 114, north of Lilycove City, north of Route 124), Mirage Island (north of Route 125)"
+Chingling,#0433,False,"Route 11, Reflection Cave","Route 11, Reflection Cave",Breed Chimecho holding a Pure Incense,Breed Chimecho holding a Pure Incense
+Stunky,#0434,False,Route 11,Route 11,Trade,Trade
+Skuntank,#0435,False,Evolve Stunky,Evolve Stunky,Trade,Trade
+Bronzor,#0436,False,Breed Bronzong,Breed Bronzong,Mt. Pyre exterior (hidden Pokémon*),Mt. Pyre exterior (hidden Pokémon*)
+Bronzong,#0437,False,Friend Safari (Steel),Friend Safari (Steel),Evolve Bronzor,Evolve Bronzor
+Bonsly,#0438,False,Breed Sudowoodo holding a Rock Incense,Breed Sudowoodo holding a Rock Incense,Trade,Trade
+Mime Jr.,#0439,False,Reflection Cave (Horde Encounter),Reflection Cave (Horde Encounter),Trade,Trade
+Happiny,#0440,False,Breed Chansey or Blissey holding a Luck Incense,Breed Chansey or Blissey holding a Luck Incense,"Mirage Forest (west of Route 105), Mirage Mountain (north of Route 125)","Mirage Forest (west of Route 105), Mirage Mountain (north of Route 125)"
+Chatot,#0441,False,"Route 12, Azure Bay","Route 12, Azure Bay","Routes 103, 104, and 110 (hidden Pokémon*)","Routes 103, 104, and 110 (hidden Pokémon*)"
+Spiritomb,#0442,False,Friend Safari (Ghost),Friend Safari (Ghost),Sea Mauville (One),Sea Mauville (One)
+Gible,#0443,False,Route 13,Route 13,Route 111 (hidden Pokémon*),Route 111 (hidden Pokémon*)
+Gabite,#0444,False,Friend Safari (Dragon),Friend Safari (Dragon),Evolve Gible,Evolve Gible
+Garchomp,#0445,False,Evolve Gabite,Evolve Gabite,Evolve Gabite,Evolve Gabite
+Munchlax,#0446,False,Breed Snorlax holding a Full Incense,Breed Snorlax holding a Full Incense,Trade,Trade
+Riolu,#0447,False,"Route 22, Friend Safari (Fighting)","Route 22, Friend Safari (Fighting)",Trade,Trade
+Lucario,#0448,False,Received from Korrina in the Tower of Mastery Evolve Riolu,Received from Korrina in the Tower of Mastery Evolve Riolu,Trade,Trade
+Hippopotas,#0449,False,Route 9,Route 9,Trade,Trade
+Hippowdon,#0450,False,Evolve Hippopotas,Evolve Hippopotas,Trade,Trade
+Skorupi,#0451,False,"Routes 14, 15, and 16","Routes 14, 15, and 16",Route 114 (hidden Pokémon*),Route 114 (hidden Pokémon*)
+Drapion,#0452,False,"Route 19, Friend Safari (Poison)","Route 19, Friend Safari (Poison)",Evolve Skorupi,Evolve Skorupi
+Croagunk,#0453,False,Route 7,Route 7,Trade,Trade
+Toxicroak,#0454,False,"Evolve Croagunk, Friend Safari (Poison)","Evolve Croagunk, Friend Safari (Poison)",Trade,Trade
+Carnivine,#0455,False,Routes 14 and 19,Routes 14 and 19,Trade,Trade
+Finneon,#0456,False,Trade,Trade,"Routes 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134 (hidden Pokémon*)","Routes 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134 (hidden Pokémon*)"
+Lumineon,#0457,False,Trade,Trade,Evolve Finneon,Evolve Finneon
+Mantyke,#0458,False,"Route 12, Shalour City, Azure Bay (Surfing)","Route 12, Shalour City, Azure Bay (Surfing)",Battle Resort,Battle Resort
+Snover,#0459,False,"Route 17, Friend Safari (Ice)","Route 17, Friend Safari (Ice)",Trade,Trade
+Abomasnow,#0460,False,Route 17,Route 17,Trade,Trade
+Weavile,#0461,False,Evolve Sneasel,Evolve Sneasel,Trade,Trade
+Magnezone,#0462,False,Evolve Magneton,Evolve Magneton,Evolve Magneton,Evolve Magneton
+Lickilicky,#0463,False,Evolve Lickitung,Evolve Lickitung,Trade,Trade
+Rhyperior,#0464,False,Evolve Rhydon,Evolve Rhydon,Evolve Rhydon,Evolve Rhydon
+Tangrowth,#0465,False,Evolve Tangela,Evolve Tangela,Evolve Tangela,Evolve Tangela
+Electivire,#0466,False,Evolve Electabuzz,Evolve Electabuzz,Evolve Electabuzz,Evolve Electabuzz
+Magmortar,#0467,False,Evolve Magmar,Evolve Magmar,Evolve Magmar,Evolve Magmar
+Togekiss,#0468,False,Evolve Togetic,Evolve Togetic,Evolve Togetic,Evolve Togetic
+Yanmega,#0469,False,Evolve Yanma,Evolve Yanma,Trade,Trade
+Leafeon,#0470,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Glaceon,#0471,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Gliscor,#0472,False,Evolve Gligar,Evolve Gligar,Trade,Trade
+Mamoswine,#0473,False,Evolve Piloswine,Evolve Piloswine,Trade,Trade
+Porygon-Z,#0474,False,Trade,Trade,Evolve Porygon2,Evolve Porygon2
+Gallade,#0475,False,Evolve Kirlia♂,Evolve Kirlia♂,Evolve Kirlia♂,Evolve Kirlia♂
+Probopass,#0476,False,Evolve Nosepass,Evolve Nosepass,Evolve Nosepass,Evolve Nosepass
+Dusknoir,#0477,False,Evolve Dusclops,Evolve Dusclops,Evolve Dusclops,Evolve Dusclops
+Froslass,#0478,False,Evolve Snorunt♀,Evolve Snorunt♀,Evolve Snorunt♀,Evolve Snorunt♀
+Rotom,#0479,False,Lost Hotel (Shaking trash cans) Tu (All Forms),Lost Hotel (Shaking trash cans) Tu (All Forms),Trade,Trade
+Uxie,#0480,False,Trade,Trade,"Nameless Cavern (Only one, between 8:00 pm - 8:59 pm)","Nameless Cavern (Only one, between 8:00 pm - 8:59 pm)"
+Mesprit,#0481,False,Trade,Trade,"Nameless Cavern (Only one, between 4:00 am - 7:59 pm)","Nameless Cavern (Only one, between 4:00 am - 7:59 pm)"
+Azelf,#0482,False,Trade,Trade,"Nameless Cavern (Only one, between 9:00 pm - 3:59 am)","Nameless Cavern (Only one, between 9:00 pm - 3:59 am)"
+Dialga,#0483,False,"Trade, Event","Trade, Event","Trade, Event",Soaring in the sky (requires the Lake guardians in the player's party) (Only one)
+Palkia,#0484,False,"Trade, Event","Trade, Event",Soaring in the sky (requires the Lake guardians in the player's party) (Only one),"Trade, Event"
+Heatran,#0485,False,Trade,Trade,Scorched Slab (Only one),Scorched Slab (Only one)
+Regigigas,#0486,False,Trade,Trade,"Island Cave (requires Regirock, Regice, and Registeel in the player's party) (Only one) Morning Day","Island Cave (requires Regirock, Regice, and Registeel in the player's party) (Only one) Morning Day"
+Giratina,#0487,False,"Trade, Event","Trade, Event",Soaring in the sky (requires Dialga and Palkia in party) (Only one) (Altered Forme),Soaring in the sky (requires Dialga and Palkia in party) (Only one) (Altered Forme)
+Cresselia,#0488,False,Trade,Trade,Crescent Isle (Only one),Crescent Isle (Only one)
+Phione,#0489,False,Breed Manaphy,Breed Manaphy,Breed Manaphy,Breed Manaphy
+Manaphy,#0490,False,Event,Event,Event,Event
+Darkrai,#0491,False,Event,Event,Event,Event
+Shaymin,#0492,False,Event,Event,Event,Event
+Arceus,#0493,False,Event,Event,Event,Event
+Victini,#0494,False,Event,Event,Event,Event
+Snivy,#0495,False,Trade,Trade,Received from Professor Birch on Route 101 after completing the Delta Episode,Received from Professor Birch on Route 101 after completing the Delta Episode
+Servine,#0496,False,Trade,Trade,Evolve Snivy,Evolve Snivy
+Serperior,#0497,False,Trade,Trade,Evolve Servine,Evolve Servine
+Tepig,#0498,False,Trade,Trade,Received from Professor Birch on Route 101 after completing the Delta Episode,Received from Professor Birch on Route 101 after completing the Delta Episode
+Pignite,#0499,False,Trade,Trade,Evolve Tepig,Evolve Tepig
+Emboar,#0500,False,Trade,Trade,Evolve Pignite,Evolve Pignite
+Oshawott,#0501,False,Trade,Trade,Received from Professor Birch on Route 101 after completing the Delta Episode,Received from Professor Birch on Route 101 after completing the Delta Episode
+Dewott,#0502,False,Trade,Trade,Evolve Oshawott,Evolve Oshawott
+Samurott,#0503,False,Trade,Trade,Evolve Dewott,Evolve Dewott
+Patrat,#0504,False,Breed Watchog,Breed Watchog,Trade,Trade
+Watchog,#0505,False,Route 15,Route 15,Trade,Trade
+Lillipup,#0506,False,Friend Safari (Normal),Friend Safari (Normal),"Routes 101, 102, and 103 (hidden Pokémon*)","Routes 101, 102, and 103 (hidden Pokémon*)"
+Herdier,#0507,False,Evolve Lillipup,Evolve Lillipup,Evolve Lillipup,Evolve Lillipup
+Stoutland,#0508,False,Evolve Herdier,Evolve Herdier,Evolve Herdier,Evolve Herdier
+Purrloin,#0509,False,Breed Liepard,Breed Liepard,Trade,Trade
+Liepard,#0510,False,Friend Safari (Dark),"Route 15, Friend Safari (Dark)",Trade,Trade
+Pansage,#0511,False,"Santalune Forest, Friend Safari (Grass)","Santalune Forest, Friend Safari (Grass)",Trade,Trade
+Simisage,#0512,False,Evolve Pansage,Evolve Pansage,Trade,Trade
+Pansear,#0513,False,"Santalune Forest, Friend Safari (Fire)","Santalune Forest, Friend Safari (Fire)",Trade,Trade
+Simisear,#0514,False,Evolve Pansear,Evolve Pansear,Trade,Trade
+Panpour,#0515,False,"Santalune Forest, Friend Safari (Water)","Santalune Forest, Friend Safari (Water)",Trade,Trade
+Simipour,#0516,False,Evolve Panpour,Evolve Panpour,Trade,Trade
+Munna,#0517,False,Friend Safari (Psychic),Friend Safari (Psychic),Mirage Island (South of Route 132) and Mirage Mountain (Southeast of Route 129),Mirage Island (South of Route 132) and Mirage Mountain (Southeast of Route 129)
+Musharna,#0518,False,Evolve Munna,Evolve Munna,Evolve Munna,Evolve Munna
+Pidove,#0519,False,Breed Tranquill or Unfezant,Breed Tranquill or Unfezant,"Routes 104, 115, and 116 (hidden Pokémon*)","Routes 104, 115, and 116 (hidden Pokémon*)"
+Tranquill,#0520,False,Friend Safari (Flying),Friend Safari (Flying),Evolve Pidove,Evolve Pidove
+Unfezant,#0521,False,Evolve Tranquill,Evolve Tranquill,Evolve Tranquill,Evolve Tranquill
+Blitzle,#0522,False,Breed Zebstrika,Breed Zebstrika,Breed Zebstrika,Breed Zebstrika
+Zebstrika,#0523,False,Friend Safari (Electric),Friend Safari (Electric),"Mirage Islands (west of Route 104, west of Dewford Town, north of Route 124, south of Route 134), Mirage Mountain (south of Route 129)","Mirage Islands (west of Route 104, west of Dewford Town, north of Route 124, south of Route 134), Mirage Mountain (south of Route 129)"
+Roggenrola,#0524,False,Reflection Cave,Reflection Cave,Fiery Path (hidden Pokémon*),Fiery Path (hidden Pokémon*)
+Boldore,#0525,False,Friend Safari (Rock),Friend Safari (Rock),"Mirage Caves (west of Route 115, north of Fortree City, north of Route 124, southeast of Route 129; all by Rock Smash)","Mirage Caves (west of Route 115, north of Fortree City, north of Route 124, southeast of Route 129; all by Rock Smash)"
+Gigalith,#0526,False,Evolve Boldore,Evolve Boldore,Evolve Boldore,Evolve Boldore
+Woobat,#0527,False,"Reflection Cave, Glittering Cave, Friend Safari (Flying)","Reflection Cave, Glittering Cave, Friend Safari (Flying)",Trade,Trade
+Swoobat,#0528,False,Evolve Woobat,Evolve Woobat,Trade,Trade
+Drilbur,#0529,False,Breed Excadrill,Breed Excadrill,Breed Excadrill,Breed Excadrill
+Excadrill,#0530,False,Friend Safari (Steel),Friend Safari (Steel),"Mirage Caves (north of Fortree City, north of Route 132)","Mirage Caves (north of Fortree City, north of Route 132)"
+Audino,#0531,False,Route 6 (rustling bush) Friend Safari (Normal),Route 6 (rustling bush) Friend Safari (Normal),"Mirage Forests (south of Route 109, south of Route 132), Mirage Island (south of Pacifidlog Town), Mirage Mountain (north of Route 125)","Mirage Forests (south of Route 109, south of Route 132), Mirage Island (south of Pacifidlog Town), Mirage Mountain (north of Route 125)"
+Timburr,#0532,False,Breed Gurdurr or Conkeldurr,Breed Gurdurr or Conkeldurr,Granite Cave (hidden Pokémon*),Granite Cave (hidden Pokémon*)
+Gurdurr,#0533,False,Route 18 and Victory Road (Cave),Route 18 and Victory Road (Cave),Evolve Timburr,Evolve Timburr
+Conkeldurr,#0534,False,Evolve Gurdurr,Evolve Gurdurr,Evolve Gurdurr,Evolve Gurdurr
+Tympole,#0535,False,Breed Palpitoad,Breed Palpitoad,"Routes 102, 114, and 117 (hidden Pokémon*)","Routes 102, 114, and 117 (hidden Pokémon*)"
+Palpitoad,#0536,False,Friend Safari (Ground),Friend Safari (Ground),Evolve Tympole,Evolve Tympole
+Seismitoad,#0537,False,Evolve Palpitoad,Evolve Palpitoad,Evolve Palpitoad,Evolve Palpitoad
+Throh,#0538,False,Friend Safari (Fighting),"Route 11, Friend Safari (Fighting)",Route 112 (hidden Pokémon*),Trade
+Sawk,#0539,False,"Route 11, Friend Safari (Fighting)",Friend Safari (Fighting),Trade,Route 112 (hidden Pokémon*)
+Sewaddle,#0540,False,Breed Swadloon or Leavanny,Breed Swadloon or Leavanny,Routes 101 and 104 (hidden Pokémon*),Routes 101 and 104 (hidden Pokémon*)
+Swadloon,#0541,False,Friend Safari (Grass),Friend Safari (Grass),Evolve Sewaddle,Evolve Sewaddle
+Leavanny,#0542,False,Evolve Swadloon,Evolve Swadloon,Evolve Swadloon,Evolve Swadloon
+Venipede,#0543,False,Route 6 (Rustling bush),Route 6 (Rustling bush),Trade,Trade
+Whirlipede,#0544,False,Friend Safari (Poison),Friend Safari (Poison),Trade,Trade
+Scolipede,#0545,False,Evolve Whirlipede,Evolve Whirlipede,Trade,Trade
+Cottonee,#0546,False,Trade,Trade,Petalburg Woods (hidden Pokémon*),Petalburg Woods (hidden Pokémon*)
+Whimsicott,#0547,False,Trade,Trade,Evolve Cottonee,Evolve Cottonee
+Petilil,#0548,False,Friend Safari (Grass),Friend Safari (Grass),"Mirage Forests (west of Route 114, south of Route 132)","Mirage Forests (west of Route 114, south of Route 132)"
+Lilligant,#0549,False,Evolve Petilil,Evolve Petilil,Evolve Petilil,Evolve Petilil
+Basculin,#0550,False,"Routes 15 and 16, Laverre City, Couriway Town, Frost Cavern, Pokémon Village, Victory Road (Good Rod) (Blue- Striped Form) Routes 15 and 16, Laverre City, Couriway Town, Frost Cavern, Pokémon Village, Victory Road (Super Rod) (Red- Striped Form) Route 21 (Good Rod or Super Rod) (Red- Striped Form)","Routes 15 and 16, Laverre City, Couriway Town, Frost Cavern, Pokémon Village, Victory Road (Good Rod) (Red- Striped Form) Routes 15 and 16, Laverre City, Couriway Town, Frost Cavern, Pokémon Village, Victory Road (Super Rod) (Blue- Striped Form) Route 21 (Good Rod or Super Rod) (Red- Striped Form)",Trade,Trade
+Sandile,#0551,False,"Route 9, Friend Safari (Dark)","Route 9, Friend Safari (Dark)",Route 111 (hidden Pokémon*),Route 111 (hidden Pokémon*)
+Krokorok,#0552,False,Evolve Sandile,Evolve Sandile,Evolve Sandile,Evolve Sandile
+Krookodile,#0553,False,Evolve Krokorok,Evolve Krokorok,Evolve Krokorok,Evolve Krokorok
+Darumaka,#0554,False,Trade,Trade,Breed Darmanitan,Breed Darmanitan
+Darmanitan,#0555,False,Trade,Trade,"Mirage Islands (west of Route 104 and north of Route 113), Mirage Mountain (east of Route 125)","Mirage Islands (west of Route 104 and north of Route 113), Mirage Mountain (east of Route 125)"
+Maractus,#0556,False,Friend Safari (Grass),Friend Safari (Grass),Mirage Island (South of Route 134),Mirage Island (South of Route 134)
+Dwebble,#0557,False,"Routes 8 and 12, Cyllage City, Ambrette Town, Glittering Cave, Azure Bay (Rock Smash) Friend Safari (Rock)","Routes 8 and 12, Cyllage City, Ambrette Town, Glittering Cave, Azure Bay (Rock Smash) Friend Safari (Rock)",Route 111 (hidden Pokémon*),Route 111 (hidden Pokémon*)
+Crustle,#0558,False,Evolve Dwebble,Evolve Dwebble,"Mirage Mountains (north of Route 125, southeast of Route 129; both by Rock Smash)","Mirage Mountains (north of Route 125, southeast of Route 129; both by Rock Smash)"
+Scraggy,#0559,False,Route 5 (Horde Encounter),Route 5 (Horde Encounter),Route 113 (hidden Pokémon*),Route 113 (hidden Pokémon*)
+Scrafty,#0560,False,Evolve Scraggy,Evolve Scraggy,Evolve Scraggy,Evolve Scraggy
+Sigilyph,#0561,False,"Route 10, Friend Safari (Psychic)","Route 10, Friend Safari (Psychic)",Trade,Trade
+Yamask,#0562,False,Trade,Trade,Breed Cofagrigus,Breed Cofagrigus
+Cofagrigus,#0563,False,Trade,Trade,"Mirage Caves (north of Route 124, south of Route 131)","Mirage Caves (north of Route 124, south of Route 131)"
+Tirtouga,#0564,False,Revive from Cover Fossil at the Ambrette Town Fossil Lab,Revive from Cover Fossil at the Ambrette Town Fossil Lab,Trade Receive Cover Fossil held by a traded Pokémon and revive it,Revive from Cover Fossil at the Devon Corporation in Rustboro City
+Carracosta,#0565,False,Evolve Tirtouga,Evolve Tirtouga,Trade,Evolve Tirtouga
+Archen,#0566,False,Revive from Plume Fossil at the Ambrette Town Fossil Lab,Revive from Plume Fossil at the Ambrette Town Fossil Lab,Revive from Plume Fossil at the Devon Corporation in Rustboro City,Trade Receive Plume Fossil held by a traded Pokémon and revive it
+Archeops,#0567,False,Evolve Archen,Evolve Archen,Evolve Archen,Trade
+Trubbish,#0568,False,Lost Hotel (trash cans),Lost Hotel (trash cans),Route 110 (hidden Pokémon*),Route 110 (hidden Pokémon*)
+Garbodor,#0569,False,"Lost Hotel, Pokémon Village (trash cans), Friend Safari (Poison)","Lost Hotel, Pokémon Village (trash cans), Friend Safari (Poison)",Evolve Trubbish,Evolve Trubbish
+Zorua,#0570,False,Breed Zoroark,Breed Zoroark,Route 101 (hidden Pokémon*),Route 101 (hidden Pokémon*)
+Zoroark,#0571,False,"Route 20, Pokémon Village","Route 20, Pokémon Village",Evolve Zorua,Evolve Zorua
+Minccino,#0572,False,Friend Safari (Normal),Friend Safari (Normal),Mirage Forest (east of Mossdeep City),Mirage Forest (east of Mossdeep City)
+Cinccino,#0573,False,Evolve Minccino,Evolve Minccino,Evolve Minccino,Evolve Minccino
+Gothita,#0574,False,Breed Gothorita or Gothitelle,Breed Gothorita or Gothitelle,Route 102 (hidden Pokémon*),Route 102 (hidden Pokémon*)
+Gothorita,#0575,False,"Route 20, Pokémon Village, Friend Safari (Psychic)","Route 20, Pokémon Village, Friend Safari (Psychic)",Evolve Gothita,Evolve Gothita
+Gothitelle,#0576,False,Evolve Gothorita,Evolve Gothorita,Evolve Gothorita,Evolve Gothorita
+Solosis,#0577,False,Reflection Cave,Reflection Cave,Trade,Trade
+Duosion,#0578,False,Friend Safari (Psychic),Friend Safari (Psychic),Trade,Trade
+Reuniclus,#0579,False,Evolve Duosion,Evolve Duosion,Trade,Trade
+Ducklett,#0580,False,Route 7,Route 7,Trade,Trade
+Swanna,#0581,False,Friend Safari (Flying),Friend Safari (Flying),Trade,Trade
+Vanillite,#0582,False,Frost Cavern (Horde Encounter),Frost Cavern (Horde Encounter),Trade,Trade
+Vanillish,#0583,False,Evolve Vanillite,Evolve Vanillite,Trade,Trade
+Vanilluxe,#0584,False,Evolve Vanillish,Evolve Vanillish,Trade,Trade
+Deerling,#0585,False,Breed Sawsbuck (Spring Form) Pokémon Bank (Summer/ Autumn/ Winter Forms),Breed Sawsbuck (Spring Form) Pokémon Bank (Summer/ Autumn/ Winter Forms),Route 117 (hidden Pokémon*) (Spring Form) Pokémon Bank (Summer/ Autumn/ Winter Forms),Route 117 (hidden Pokémon*) (Spring Form) Pokémon Bank (Summer/ Autumn/ Winter Forms)
+Sawsbuck,#0586,False,Friend Safari (Grass) (Spring Form) Pokémon Bank (Summer/ Autumn/ Winter Forms),Friend Safari (Grass) (Spring Form) Pokémon Bank (Summer/ Autumn/ Winter Forms),Evolve Deerling (Spring Form) Pokémon Bank (Summer/ Autumn/ Winter Forms),Evolve Deerling (Spring Form) Pokémon Bank (Summer/ Autumn/ Winter Forms)
+Emolga,#0587,False,"Route 10, Friend Safari (Electric)","Route 10, Friend Safari (Electric)",Trade,Trade
+Karrablast,#0588,False,Routes 14 and 19,Routes 14 and 19,Trade,Trade
+Escavalier,#0589,False,Evolve Karrablast,Evolve Karrablast,Trade,Trade
+Foongus,#0590,False,"Routes 15, 16, and 20, Pokémon Village (Horde Encounter)","Routes 15, 16, and 20, Pokémon Village (Horde Encounter)",Trade,Trade
+Amoonguss,#0591,False,"Route 20, Pokémon Village","Route 20, Pokémon Village",Trade,Trade
+Frillish,#0592,False,Trade,Trade,"Routes 105, 106, 107, 108, 109, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134 (hidden Pokémon*)","Routes 105, 106, 107, 108, 109, 122, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, and 134 (hidden Pokémon*)"
+Jellicent,#0593,False,Trade,Trade,Evolve Frillish,Evolve Frillish
+Alomomola,#0594,False,"Shalour City, Azure Bay (Super Rod)","Shalour City, Azure Bay (Super Rod)","Routes 122, 124, 126, 127, 128, 129, 130, 131, 132, 133 and 134 (hidden Pokémon*)","Routes 122, 124, 126, 127, 128, 129, 130, 131, 132, 133 and 134 (hidden Pokémon*)"
+Joltik,#0595,False,Breed Galvantula,Breed Galvantula,Route 116 (hidden Pokémon*),Route 116 (hidden Pokémon*)
+Galvantula,#0596,False,Friend Safari (Electric),Friend Safari (Electric),Evolve Joltik,Evolve Joltik
+Ferroseed,#0597,False,"Reflection Cave, Glittering Cave, Friend Safari (Steel)","Reflection Cave, Glittering Cave, Friend Safari (Steel)",Trade,Trade
+Ferrothorn,#0598,False,Evolve Ferroseed,Evolve Ferroseed,Trade,Trade
+Klink,#0599,False,Breed Klang or Klinklang,Breed Klang or Klinklang,"Mirage Caves (West of Route 115, north of Fortree City, and north of Route 124)","Mirage Caves (West of Route 115, north of Fortree City, and north of Route 124)"
+Klang,#0600,False,Friend Safari (Steel),Friend Safari (Steel),Evolve Klink,Evolve Klink
+Klinklang,#0601,False,Evolve Klang,Evolve Klang,Evolve Klang,Evolve Klang
+Tynamo,#0602,False,Trade,Trade,"Mirage Caves (north of Fallarbor Town, west of Route 115, north of Fortree City, southeast of Route 129, south of Route 131, north of Route 132)","Mirage Caves (north of Fallarbor Town, west of Route 115, north of Fortree City, southeast of Route 129, south of Route 131, north of Route 132)"
+Eelektrik,#0603,False,Trade,Trade,Evolve Tynamo,Evolve Tynamo
+Eelektross,#0604,False,Trade,Trade,Evolve Eelektrik,Evolve Eelektrik
+Elgyem,#0605,False,Trade,Trade,"Route 121, Mt. Pyre (hidden Pokémon*)","Route 121, Mt. Pyre (hidden Pokémon*)"
+Beheeyem,#0606,False,Trade,Trade,Evolve Elgyem,Evolve Elgyem
+Litwick,#0607,False,Lost Hotel,Lost Hotel,Trade,Trade
+Lampent,#0608,False,Friend Safari (Ghost),Friend Safari (Ghost),Trade,Trade
+Chandelure,#0609,False,Evolve Lampent,Evolve Lampent,Trade,Trade
+Axew,#0610,False,Connecting Cave,Connecting Cave,Granite Cave (hidden Pokémon*),Granite Cave (hidden Pokémon*)
+Fraxure,#0611,False,Friend Safari (Dragon),Friend Safari (Dragon),Evolve Axew,Evolve Axew
+Haxorus,#0612,False,Evolve Fraxure,Evolve Fraxure,Evolve Fraxure,Evolve Fraxure
+Cubchoo,#0613,False,Frost Cavern (Horde Encounter),Frost Cavern (Horde Encounter),Shoal Cave (hidden Pokémon*),Shoal Cave (hidden Pokémon*)
+Beartic,#0614,False,"Frost Cavern, Friend Safari (Ice)","Frost Cavern, Friend Safari (Ice)",Evolve Cubchoo,Evolve Cubchoo
+Cryogonal,#0615,False,Frost Cavern,Frost Cavern,Trade,Trade
+Shelmet,#0616,False,Routes 14 and 19,Routes 14 and 19,Trade,Trade
+Accelgor,#0617,False,Evolve Shelmet,Evolve Shelmet,Trade,Trade
+Stunfisk,#0618,False,"Routes 14 and 19, Friend Safari (Electric)","Routes 14 and 19, Friend Safari (Electric)",Trade,Trade
+Mienfoo,#0619,False,"Route 8, Friend Safari (Fighting)","Route 8, Friend Safari (Fighting)",Trade,Trade
+Mienshao,#0620,False,Evolve Mienfoo,Evolve Mienfoo,Trade,Trade
+Druddigon,#0621,False,"Victory Road (Cave), Friend Safari (Dragon)","Victory Road (Cave), Friend Safari (Dragon)",Meteor Falls (hidden Pokémon*),Meteor Falls (hidden Pokémon*)
+Golett,#0622,False,Route 10,Route 10,Trade,Trade
+Golurk,#0623,False,Friend Safari (Ghost),Friend Safari (Ghost),Trade,Trade
+Pawniard,#0624,False,"Route 15, Lost Hotel, Friend Safari (Dark)","Route 15, Lost Hotel, Friend Safari (Dark)",Trade,Trade
+Bisharp,#0625,False,Trade Jigglypuff in Snowbelle City,Trade Jigglypuff in Snowbelle City,Trade,Trade
+Bouffalant,#0626,False,Trade,Trade,Route 113 (hidden Pokémon*),Route 113 (hidden Pokémon*)
+Rufflet,#0627,False,Friend Safari (Flying),Friend Safari (Flying),Mirage Mountain (north of Lilycove City),Mirage Mountain (north of Lilycove City)
+Braviary,#0628,False,Evolve Rufflet,Evolve Rufflet,Soaring in the sky,Soaring in the sky
+Vullaby,#0629,False,Friend Safari (Dark),Friend Safari (Dark),Mirage Mountain (northeast of Route 125),Mirage Mountain (northeast of Route 125)
+Mandibuzz,#0630,False,Evolve Vullaby,Evolve Vullaby,Evolve Vullaby,Evolve Vullaby
+Heatmor,#0631,False,Route 18,Route 18,Trade,Trade
+Durant,#0632,False,"Route 18, Terminus Cave","Route 18, Terminus Cave",Trade,Trade
+Deino,#0633,False,Breed Zweilous or Hydreigon,Breed Zweilous or Hydreigon,Meteor Falls (hidden Pokémon*),Meteor Falls (hidden Pokémon*)
+Zweilous,#0634,False,Victory Road,Victory Road,Evolve Deino,Evolve Deino
+Hydreigon,#0635,False,Victory Road,Victory Road,Evolve Zweilous,Evolve Zweilous
+Larvesta,#0636,False,Friend Safari (Fire),Friend Safari (Fire),"Mirage Forest (north of Route 111), Mirage Island (north of Route 113)","Mirage Forest (north of Route 111), Mirage Island (north of Route 113)"
+Volcarona,#0637,False,Evolve Larvesta,Evolve Larvesta,Evolve Larvesta,Evolve Larvesta
+Cobalion,#0638,False,Trade,Trade,Pathless Plain Su We Fr (requires three Pokémon with max E Vs in the player's party) (Only one),Pathless Plain Su We Fr (requires three Pokémon with max E Vs in the player's party) (Only one)
+Terrakion,#0639,False,Trade,Trade,Pathless Plain Tu Sa (requires three Pokémon with max E Vs in the player's party) (Only one),Pathless Plain Tu Sa (requires three Pokémon with max E Vs in the player's party) (Only one)
+Virizion,#0640,False,Trade,Trade,Pathless Plain Mo Th (requires three Pokémon with max E Vs in the player's party) (Only one),Pathless Plain Mo Th (requires three Pokémon with max E Vs in the player's party) (Only one)
+Tornadus,#0641,False,Trade,Trade,Soaring in the sky (requires having Castform in party) (Only one) (Incarnate Forme),Trade
+Thundurus,#0642,False,Trade,Trade,Trade,Soaring in the sky (requires having Castform in party) (Only one) (Incarnate Forme)
+Reshiram,#0643,False,Trade,Trade,Fabled Cave (requires a Level 100 Pokémon in the player's party) (Only one),Trade
+Zekrom,#0644,False,Trade,Trade,Trade,Fabled Cave (requires a Level 100 Pokémon in the player's party) (Only one)
+Landorus,#0645,False,Trade,Trade,Soaring in the sky (requires Tornadus and Thundurus in party) (Only one) (Incarnate Forme),Soaring in the sky (requires Tornadus and Thundurus in party) (Only one) (Incarnate Forme)
+Kyurem,#0646,False,"Trade, Event","Trade, Event",Gnarled Den (requires Reshiram and Zekrom in party) (Only one),Gnarled Den (requires Reshiram and Zekrom in party) (Only one)
+Keldeo,#0647,False,Event,Event,Event,Event
+Meloetta,#0648,False,Event,Event,Event,Event
+Genesect,#0649,False,Event,Event,Event,Event
+Chespin,#0650,False,First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Fennekin,First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Fennekin,Trade,Trade
+Quilladin,#0651,False,Friend Safari (Grass),Friend Safari (Grass),Trade,Trade
+Chesnaught,#0652,False,Evolve Quilladin,Evolve Quilladin,Trade,Trade
+Fennekin,#0653,False,First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Froakie,First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Froakie,"Trade, Event","Trade, Event"
+Braixen,#0654,False,Friend Safari (Fire),Friend Safari (Fire),Trade,Trade
+Delphox,#0655,False,Evolve Braixen,Evolve Braixen,Trade,Trade
+Froakie,#0656,False,First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Chespin,First partner Pokémon from Tierno in Aquacorde Town Traded from Shauna in Vaniville Town after becoming Champion if the player chose Chespin,Trade,Trade
+Frogadier,#0657,False,Friend Safari (Water),Friend Safari (Water),Trade,Trade
+Greninja,#0658,False,Evolve Frogadier,Evolve Frogadier,Trade Event,Trade Event
+Bunnelby,#0659,False,"Routes 2, 3, 5, and 22","Routes 2, 3, 5, and 22",Trade,Trade
+Diggersby,#0660,False,"Route 22, Friend Safari (Ground)","Route 22, Friend Safari (Ground)",Trade,Trade
+Fletchling,#0661,False,"Routes 2 and 3, Santalune Forest","Routes 2 and 3, Santalune Forest",Trade,Trade
+Fletchinder,#0662,False,Friend Safari (Fire and Flying),Friend Safari (Fire and Flying),Trade,Trade
+Talonflame,#0663,False,Evolve Fletchinder,Evolve Fletchinder,Trade,Trade
+Scatterbug,#0664,False,"Route 2, Santalune Forest","Route 2, Santalune Forest",Trade,Trade
+Spewpa,#0665,False,Berry fields (Berry trees),Berry fields (Berry trees),Trade,Trade
+Vivillon,#0666,False,Friend Safari (Bug),Friend Safari (Bug),"Trade, Event","Trade, Event"
+Litleo,#0667,False,Route 22,Route 22,Trade,Trade
+Pyroar,#0668,False,Friend Safari (Fire),Friend Safari (Fire),Trade,Trade
+Flabébé,#0669,False,Routes 4 and 7 (yellow flowers) (Yellow/ Orange/ White Flowers) Route 4 (red flowers) (Red/ Orange/ White Flowers) Route 7 (tall grass) (Orange/ White Flowers) Route 7 (purple flowers) (Blue/ Orange/ White Flowers),Routes 4 and 7 (yellow flowers) (Yellow/ Orange/ White Flowers) Route 4 (red flowers) (Red/ Orange/ White Flowers) Route 7 (tall grass) (Orange/ White Flowers) Route 7 (purple flowers) (Blue/ Orange/ White Flowers),Trade,Trade
+Floette,#0670,False,Friend Safari (Fairy) (Blue/ Red/ Yellow Flowers) Evolve Flabébé (Orange/ White Flowers) Unreleased (Eternal Flower),Friend Safari (Fairy) (Blue/ Red/ Yellow Flowers) Evolve Flabébé (Orange/ White Flowers) Unreleased (Eternal Flower),Trade (Colored Flowers) Unreleased (Eternal Flower),Trade (Colored Flowers) Unreleased (Eternal Flower)
+Florges,#0671,False,Evolve Floette,Evolve Floette,Trade,Trade
+Skiddo,#0672,False,Route 5,Route 5,Trade,Trade
+Gogoat,#0673,False,Friend Safari (Grass),Friend Safari (Grass),Trade,Trade
+Pancham,#0674,False,"Route 5, Friend Safari (Fighting)","Route 5, Friend Safari (Fighting)","Trade, Event","Trade, Event"
+Pangoro,#0675,False,Evolve Pancham,Evolve Pancham,Trade,Trade
+Furfrou,#0676,False,Route 5,Route 5,Trade,Trade
+Espurr,#0677,False,"Route 6, Friend Safari (Psychic)","Route 6, Friend Safari (Psychic)",Trade,Trade
+Meowstic,#0678,False,Evolve Espurr,Evolve Espurr,Trade,Trade
+Honedge,#0679,False,Route 6,Route 6,Trade,Trade
+Doublade,#0680,False,Evolve Honedge,Evolve Honedge,Trade,Trade
+Aegislash,#0681,False,Evolve Doublade,Evolve Doublade,Trade,Trade
+Spritzee,#0682,False,Friend Safari (Fairy),"Route 7, Friend Safari (Fairy)",Trade,Trade
+Aromatisse,#0683,False,Evolve Spritzee,Evolve Spritzee,Trade,Trade
+Swirlix,#0684,False,"Route 7, Friend Safari (Fairy)",Friend Safari (Fairy),Trade,Trade
+Slurpuff,#0685,False,Evolve Swirlix,Evolve Swirlix,Trade,Trade
+Inkay,#0686,False,"Route 8, Azure Bay, Friend Safari (Dark)","Route 8, Azure Bay, Friend Safari (Dark)",Trade,Trade
+Malamar,#0687,False,Evolve Inkay,Evolve Inkay,Trade,Trade
+Binacle,#0688,False,"Routes 8 and 12, Ambrette Town, Azure Bay (Rock Smash)","Routes 8 and 12, Ambrette Town, Cyllage City, Azure Bay (Rock Smash)","Mirage Islands (south of Pacifidlog Town, south of Route 134; both by Rock Smash)","Mirage Islands (south of Pacifidlog Town, south of Route 134; both by Rock Smash)"
+Barbaracle,#0689,False,Friend Safari (Rock),Friend Safari (Rock),Evolve Binacle,Evolve Binacle
+Skrelp,#0690,False,Trade,"Route 8, Cyllage City, Ambrette Town (Good Rod)","Routes 105, 106, 107, 108, and 109 (hidden Pokémon*)",Trade
+Dragalge,#0691,False,Trade,"Route 8, Ambrette Town, Cyllage City (Super Rod)",Evolve Skrelp,Trade
+Clauncher,#0692,False,"Route 8, Ambrette Town, Cyllage City (Good Rod)",Trade,Trade,"Routes 105, 106, 107, 108, and 109 (hidden Pokémon*)"
+Clawitzer,#0693,False,"Route 8, Cyllage City, Ambrette Town (Super Rod)",Trade,Trade,Evolve Clauncher
+Helioptile,#0694,False,"Route 9, Friend Safari (Electric)","Route 9, Friend Safari (Electric)",Trade,Trade
+Heliolisk,#0695,False,Evolve Helioptile,Evolve Helioptile,Trade,Trade
+Tyrunt,#0696,False,Revive from Jaw Fossil at the Ambrette Town Fossil Lab,Revive from Jaw Fossil at the Ambrette Town Fossil Lab,Trade Receive Jaw Fossil held by a traded Pokémon and revive it Event,Trade Receive Jaw Fossil held by a traded Pokémon and revive it Event
+Tyrantrum,#0697,False,Evolve Tyrunt,Evolve Tyrunt,Trade,Trade
+Amaura,#0698,False,Revive from Sail Fossil at the Ambrette Town Fossil Lab,Revive from Sail Fossil at the Ambrette Town Fossil Lab,Trade Receive Sail Fossil held by a traded Pokémon and revive it Event,Trade Receive Sail Fossil held by a traded Pokémon and revive it Event
+Aurorus,#0699,False,Evolve Amaura,Evolve Amaura,Trade,Trade
+Sylveon,#0700,False,Evolve Eevee,Evolve Eevee,Evolve Eevee,Evolve Eevee
+Hawlucha,#0701,False,"Route 10, Friend Safari (Flying)","Route 10, Friend Safari (Flying)",Trade,Trade
+Dedenne,#0702,False,"Route 11, Friend Safari (Electric and Fairy)","Route 11, Friend Safari (Electric and Fairy)",Trade,Trade
+Carbink,#0703,False,Reflection Cave,Reflection Cave,Trade,Trade
+Goomy,#0704,False,Route 14,Route 14,Trade,Trade
+Sliggoo,#0705,False,"Route 19, Friend Safari (Dragon)","Route 19, Friend Safari (Dragon)",Trade,Trade
+Goodra,#0706,False,Evolve Sliggoo,Evolve Sliggoo,Trade,Trade
+Klefki,#0707,False,"Routes 15 and 16, Lost Hotel, Friend Safari (Steel)","Routes 15 and 16, Lost Hotel, Friend Safari (Steel)",Route 113 (hidden Pokémon*),Route 113 (hidden Pokémon*)
+Phantump,#0708,False,"Route 16, Friend Safari (Ghost)","Route 16, Friend Safari (Ghost)",Petalburg Woods (hidden Pokémon*),Petalburg Woods (hidden Pokémon*)
+Trevenant,#0709,False,Route 20,Route 20,Evolve Phantump,Evolve Phantump
+Pumpkaboo,#0710,False,Route 16 (All Sizes) Friend Safari (Ghost) (Average Size),Route 16 (All Sizes) Friend Safari (Ghost) (Average Size),"Trade, Event","Trade, Event"
+Gourgeist,#0711,False,Evolve Pumpkaboo,Evolve Pumpkaboo,Trade,Trade
+Bergmite,#0712,False,"Frost Cavern, Friend Safari (Ice)","Frost Cavern, Friend Safari (Ice)",Trade,Trade
+Avalugg,#0713,False,Evolve Bergmite,Evolve Bergmite,Trade,Trade
+Noibat,#0714,False,"Terminus Cave, Victory Road, Friend Safari (Dragon)","Terminus Cave, Victory Road, Friend Safari (Dragon)",Trade,Trade
+Noivern,#0715,False,Evolve Noibat,Evolve Noibat,Trade,Trade
+Xerneas,#0716,False,Team Flare Secret H Q (Only one),"Trade, Event","Trade, Event","Trade, Event"
+Yveltal,#0717,False,"Trade, Event",Team Flare Secret H Q (Only one),"Trade, Event","Trade, Event"
+Zygarde,#0718,False,Terminus Cave (Only one) (50% Forme),Terminus Cave (Only one) (50% Forme),"Trade, Event","Trade, Event"
+Diancie,#0719,False,Event,Event,Event,Event
+Hoopa,#0720,False,Event,Event,Event,Event
+Volcanion,#0721,False,Event,Event,Event,Event
