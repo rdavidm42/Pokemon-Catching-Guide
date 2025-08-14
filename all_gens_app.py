@@ -11,17 +11,17 @@ def find_game(column,dataframe):
     for col in column:
         indices = [i for i in range(len(dataframe)) 
                    if str(dataframe[col].iloc[i]).replace('\n','') not in ['Trade','Unobtainable','Pokémon Bank','Pokémon HOME']
-                   and not dataframe[col].str.contains('Trade, |Trade Version|Time Capsule|Pokémon HOME Version').iloc[i]]
+                   and not dataframe[col].str.contains('Trade, |Trade Version|Time Capsule|Pokémon HOME Version|Poké Transfer|Global Link').iloc[i]]
         series = series + indices
     series = list(set(series))
-    return dataframe[['No.','Caught?',*column]].iloc[series]
+    return dataframe[['No.','Caught?',*column]].iloc[series].sort_values(by='No.')
     
 def find_game_nan(column,dataframe):
     series = []
     for col in column:
         indices = [i for i in range(len(dataframe)) 
                    if str(dataframe[col].iloc[i]).replace('\n','') not in ['Trade','Unobtainable','Pokémon Bank','Pokémon HOME']
-                   and not dataframe[col].str.contains('Trade, |Trade Version|Time Capsule|Pokémon HOME Version').iloc[i]]
+                   and not dataframe[col].str.contains('Trade, |Trade Version|Time Capsule|Pokémon HOME Version|Poké Transfer|Global Link').iloc[i]]
         series.append(dataframe[col].iloc[indices])
     combined = pd.concat(series,axis=1)
     combined[['No.','Caught?']] = dataframe[['No.','Caught?']].loc[combined.index]
